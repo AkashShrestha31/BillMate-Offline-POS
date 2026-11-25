@@ -1,4 +1,3 @@
-// http://192.168.1.11:8000/api/hotel/parties/search/?party_role=all&search_term=employee
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
 import 'package:hotel/src/core/routes/app_router.gr.dart';

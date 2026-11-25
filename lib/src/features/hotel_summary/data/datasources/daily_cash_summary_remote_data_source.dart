@@ -20,7 +20,7 @@ class DailyCashSummaryRemoteSourceImpl implements DailyCashSummaryRemoteDataSour
   DailyCashSummaryRemoteSourceImpl(@Named('authenticated') Dio dio) : _dio = dio;
 
   final Dio _dio;
-  static const String _baseEndpoint = 'api/hotel/api/daily-cash-summary/';
+  static const String _baseEndpoint = '';
 
   @override
   Future<DailyCashSummaryResponseModel> createDailySummary({required DailyCashSummaryRequestParams params}) async {

@@ -1,7 +1,4 @@
-import 'package:dio/dio.dart';
-import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:hotel/src/core/di/injection.dart';
-import 'package:hotel/src/core/services/api/api_endpoints.dart';
 import 'package:hotel/src/core/services/billing/freemium_feature.dart';
 import 'package:hotel/src/core/services/billing/freemium_gate_service.dart';
 import 'package:hotel/src/core/services/currency/app_currency_service.dart';
@@ -167,7 +164,6 @@ class LocalSetupService {
       await OrgTestDataVisibilityStorage.setShow(true, orgSlug: slug);
     }
 
-    await _trySyncWithBackend(request);
   }
 
   /// Creates and seeds a database for [request.organizationSlug] without
@@ -212,26 +208,5 @@ class LocalSetupService {
       }
       TestDataSeedLog.step('finished isolated provision for $slug');
     });
-  }
-
-  Future<void> _trySyncWithBackend(SetupCompleteRequest request) async {
-    try {
-      final base = dotenv.env['BASE_URL'];
-      if (base == null || base.isEmpty) return;
-
-      final dio = Dio(BaseOptions(
-        baseUrl: base.endsWith('/') ? base : '$base/',
-        connectTimeout: const Duration(seconds: 30),
-        receiveTimeout: const Duration(seconds: 120),
-      ));
-      await dio.post(
-        ApiEndPoints.setupComplete,
-        data: request.toJson(),
-      );
-    } on DioException {
-      // Offline-first: local DB is already provisioned.
-    } catch (_) {
-      // Ignore optional remote sync failures.
-    }
   }
 }
