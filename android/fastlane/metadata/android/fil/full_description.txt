@@ -1,0 +1,45 @@
+Ang Billmate ay offline na POS, cash register ng tindahan, at billing ng restoran para sa retail, cafe, bar, at maliliit na negosyo.
+
+PAGBIBIL
+
+Gumawa ng sales at purchase invoice na may line item, diskwento, at customer — kumpletong invoice maker sa bulsa. Itala ang gastos ayon sa kategorya, subaybayan ang utang ng bawat customer at supplier, at bayaran nang buo, partial, o maramihan. I-export ang anumang invoice o resibo bilang PDF. Hindi kailangan ng internet.
+
+POS PARA SA TINDAHAN AT RETAIL
+
+Mabilis na checkout para sa tindahan at maliliit na negosyo. Tumanggap ng cash, QR, at card, at mag-print ng resibo sa anumang ESC/POS thermal printer. Nagiging cash register ang telepono mo.
+
+POS NG RESTORAN AT BAR NA MAY MESA
+
+Kumpletong restaurant POS na may visual na layout ng mesa. Kumuha ng order sa mesa o takeaway, ipadala sa kusina (KOT), at sundan ang bawat putahe mula order hanggang ihain. May hiwalay na katalogo ng inumin para sa bar.
+
+IMBENTARYO AT STOCK
+
+Subaybayan ang stock ng tindahan, bodega, o restoran. Itugma ang pisikal na bilang sa tala, ayusin agad ang diperensya, mag-upload ng stock nang maramihan sa CSV o Excel, at i-export ang ulat ng stock bilang PDF.
+
+STAFF, SAHOD, AT ATTENDANCE
+
+Panatilihin ang profile ng staff, itala ang araw-araw na attendance, at awtomatikong gumawa ng payroll mula sa araw ng trabaho at sahod, kasama ang bawas sa advance. I-export ang payslip bilang PDF at pamahalaan ang leave.
+
+ULAT, ACCOUNTING, AT ANALYTICS
+
+Kita at lugi, statement ng customer at supplier, buod ng bayad, at chart ng benta laban sa gastos ayon sa araw, linggo, buwan, o sariling saklaw. Ang araw-araw na buod ng cash ang nagpapakita ng pagtatapos ng araw.
+
+OFFLINE MUNA — LAGING BUKAS
+
+Ang benta, gastos, imbentaryo, staff, at cash ay tumatakbo sa device mo at nananatili pagkatapos mag-restart. Walang koneksyon, walang hintong trabaho.
+
+ACCESS AYON SA ROLE AT SEGURIDAD
+
+Itakda ang pahintulot ayon sa role, mula cashier hanggang manager, na may detalyadong kontrol sa invoice, return, at edit. Nasa device ang data ng negosyo.
+
+MARAMING PERA, MARAMING DEVICE
+
+Billing sa maraming pera. Gumagana sa telepono at tablet.
+
+HANDA SA UNANG ARAW
+
+39 kategorya ng negosyo ang naka-load na — pagkain, inumin, tuluyan, supplies, at iba pa. Walang setup. Buksan ang app at magsimulang magbenta.
+
+Mula sa tindahan sa kanto hanggang lodge sa bundok, mula sa cafe sa lungsod hanggang abalang bar — ang Billmate ang POS at billing na patuloy na tumatakbo, kahit offline.
+
+Patakaran sa privacy: https://billmate-woad.vercel.app/

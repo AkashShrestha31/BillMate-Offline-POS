@@ -1,0 +1,252 @@
+def flutter_binary
+  @flutter_binary ||= begin
+    load_app_store_env unless ENV["FLUTTER_BIN"] || ENV["FLUTTER_ROOT"]
+
+    candidates = [
+      ENV["FLUTTER_BIN"],
+      ENV["FLUTTER_ROOT"]&.then { |root| File.join(root, "bin", "flutter") },
+      "/Users/akashshrestha/Downloads/flutter3.41.9/bin/flutter",
+      "/Users/akashshrestha/Downloads/flutter3.32.8/bin/flutter",
+      `which flutter 2>/dev/null`.strip
+    ].compact.reject(&:empty?)
+
+    found = candidates.find { |path| File.executable?(path) }
+    UI.user_error!("Flutter not found. Set FLUTTER_BIN in fastlane/.env.appstore") unless found
+    found
+  end
+end
+
+def flutter_project_root
+  File.expand_path("../..", __dir__)
+end
+
+def flutter_sh(*args)
+  Dir.chdir(flutter_project_root) do
+    sh("#{flutter_binary} #{args.join(' ')}")
+  end
+end
+
+def pubspec_path
+  File.expand_path("../../pubspec.yaml", __dir__)
+end
+
+def pubspec_version_parts
+  version_line = File.read(pubspec_path)[/^version:\s*(.+)$/, 1]
+  UI.user_error!("Could not read version from pubspec.yaml") if version_line.nil?
+
+  name, number = version_line.split("+", 2)
+  [name.strip, number.to_i]
+end
+
+def update_pubspec_build_number(build_number)
+  version_name, = pubspec_version_parts
+  content = File.read(pubspec_path)
+  updated = content.sub(/^version:\s*.+$/, "version: #{version_name}+#{build_number}")
+  File.write(pubspec_path, updated)
+  UI.success("Updated pubspec.yaml → #{version_name}+#{build_number}")
+end
+
+def load_app_store_env
+  appstore_env = File.join(__dir__, ".env.appstore")
+  Dotenv.load appstore_env if File.exist?(appstore_env)
+end
+
+def app_store_api_key
+  load_app_store_env
+
+  key_id = ENV["APP_STORE_CONNECT_API_KEY_ID"]
+  issuer_id = ENV["APP_STORE_CONNECT_ISSUER_ID"]
+  key_path = ENV["APP_STORE_CONNECT_API_KEY_PATH"] || File.join(__dir__, "keys", "AuthKey.p8")
+
+  UI.user_error!("APP_STORE_CONNECT_API_KEY_ID is missing") if key_id.to_s.strip.empty?
+  UI.user_error!("APP_STORE_CONNECT_ISSUER_ID is missing") if issuer_id.to_s.strip.empty?
+  UI.user_error!("App Store Connect API key not found at #{key_path}") unless File.exist?(key_path)
+
+  app_store_connect_api_key(
+    key_id: key_id,
+    issuer_id: issuer_id,
+    key_filepath: key_path,
+    duration: 1200,
+    in_house: false
+  )
+end
+
+def production_ipa_path
+  Dir[File.join(flutter_project_root, "build/ios/ipa/*.ipa")].max_by { |path| File.mtime(path) }
+end
+
+def next_ios_build_number(version_name, pubspec_build_number)
+  latest = 0
+  begin
+    latest = app_store_build_number(
+      app_identifier: "ai.billmate",
+      version: version_name,
+      api_key: app_store_api_key
+    ).to_i
+  rescue StandardError => e
+    UI.important("App Store build lookup skipped: #{e.message}")
+  end
+
+  next_code = [latest, pubspec_build_number].max + 1
+  UI.message("iOS build number: App Store max=#{latest}, pubspec=#{pubspec_build_number} → using #{next_code}")
+  next_code
+end
+
+default_platform(:ios)
+
+platform :ios do
+  desc "Build production IPA and upload to TestFlight"
+  lane :deploy do
+    load_app_store_env
+
+    version_name, pubspec_build_number = pubspec_version_parts
+    build_number = next_ios_build_number(version_name, pubspec_build_number)
+
+    UI.header("Publishing ai.billmate #{version_name} (#{build_number}) → TestFlight")
+
+    flutter_sh(
+      "build ipa",
+      "--release",
+      "--flavor production",
+      "--target lib/main_production.dart",
+      "--build-number=#{build_number}",
+      "--build-name=#{version_name}",
+      "--export-options-plist=ios/ExportOptions.plist"
+    )
+
+    ipa_path = production_ipa_path
+    UI.user_error!("IPA not found under build/ios/ipa") if ipa_path.nil?
+
+    upload_to_testflight(
+      api_key: app_store_api_key,
+      ipa: ipa_path,
+      skip_waiting_for_build_processing: true
+    )
+
+    update_pubspec_build_number(build_number)
+    UI.success("Published #{version_name} (#{build_number}) to TestFlight")
+  end
+
+  desc "Build a IOS App version"
+  lane :qa do
+            Dotenv.load ".env.qa" 
+            puts "Checking path: #{ENV['SERVICE_CREDENTIALS_FILE']}"
+            puts "Exists? #{File.exist?(ENV['SERVICE_CREDENTIALS_FILE'])}"
+            latest_release = firebase_app_distribution_get_latest_release(
+                app: ENV['APP_ID'],
+              service_credentials_file: ENV['SERVICE_CREDENTIALS_FILE'])
+            puts latest_release
+            latest_version_name = latest_release[:displayVersion]
+            latest_build_number = (latest_release[:buildVersion].to_i + 1)
+            increment_build_number(
+                  build_number: latest_build_number
+                )
+
+            flutter_prepare
+            sh "/Users/akashshrestha/Downloads/flutter3.32.8/bin/flutter build ipa lib/main_development.dart --release --export-method ad-hoc --build-number=#{latest_build_number}"
+
+            firebase_app_distribution(
+              app: ENV['APP_ID'],
+              # groups: "mobileteam",
+              groups: "ios",
+              ipa_path: ENV['IPA_PATH'],
+#               release_notes: ENV['RELEASE_NOTES'],
+              service_credentials_file: ENV['SERVICE_CREDENTIALS_FILE'],
+
+            )
+  end
+
+  lane :uat do
+           Dotenv.load ".env.uat"
+            puts "Checking path: #{ENV['SERVICE_CREDENTIALS_FILE']}"
+            puts "Exists? #{File.exist?(ENV['SERVICE_CREDENTIALS_FILE'])}"
+            latest_release = firebase_app_distribution_get_latest_release(
+                app: ENV['APP_ID'],
+              service_credentials_file: ENV['SERVICE_CREDENTIALS_FILE'])
+
+            puts latest_release
+
+            latest_version_name = latest_release[:displayVersion]
+            latest_build_number = (latest_release[:buildVersion].to_i + 1)
+
+            flutter_prepare
+
+            sh "/Users/akashshrestha/Downloads/flutter3.32.8/bin/flutter build ipa --release --export-method=ad-hoc --flavor uat -t lib/main_uat.dart --build-number=#{latest_build_number}"
+            firebase_app_distribution(
+              app: ENV['APP_ID'],
+              # groups: "mobileteam",
+              groups: "qa",
+              ipa_path: ENV['IPA_PATH'],
+              release_notes: ENV['RELEASE_NOTES'],
+              service_credentials_file: ENV['SERVICE_CREDENTIALS_FILE'],
+
+            )
+  end
+end
+
+# --- flutter_prepare Lane ---
+desc "Clean, get dependencies, fix issues, and format Flutter project"
+lane :flutter_prepare do
+  UI.important("🚀 Preparing Flutter project for liftoff! 🚀\n".green)
+
+  # Cleaning
+  start_time = Time.now
+  UI.message("🧹 Cleaning Flutter project...".yellow)
+  begin
+    sh("/Users/akashshrestha/Downloads/flutter3.32.8/bin/flutter clean")
+  rescue => ex
+    UI.user_error!("Error during Flutter clean: #{ex.message}")
+  end
+  UI.success("  ✅ Cleaning Flutter project done in #{(Time.now - start_time).round(2)} seconds".green)
+
+  # Dependencies
+  start_time = Time.now
+  UI.message("📦 Getting Flutter dependencies...".yellow)
+  begin
+    sh("/Users/akashshrestha/Downloads/flutter3.32.8/bin/flutter pub get")
+  rescue => ex
+    UI.user_error!("Error during Flutter pub get: #{ex.message}")
+  end
+  UI.success("  ✅ Getting Flutter dependencies done in #{(Time.now - start_time).round(2)} seconds".green)
+
+
+  # fixing the unused import
+  start_time = Time.now
+  UI.message("🔧 Fixing Dart issues...".yellow)
+  begin
+    sh("dart fix --apply --code=unused_import")
+  rescue => ex
+    UI.user_error!("Error during Dart fix: #{ex.message}")
+  end
+  UI.success("  ✅ Fixing Dart issues done  in #{(Time.now - start_time).round(2)} seconds".green)
+
+  # Formatting
+  start_time = Time.now
+  UI.message("✨ Formatting Dart code...".yellow)
+  begin
+    sh("dart format lib")
+  rescue => ex
+    UI.user_error!("Error during Dart format: #{ex.message}")
+  end
+  UI.success("  ✅ Formatting Dart code done in #{(Time.now - start_time).round(2)} seconds".green)
+
+  # Final Success
+  UI.success("""
+-----------------------------------------
+✅ Flutter Project Preparation Complete!
+-----------------------------------------
+
+Summary:
+- Project cleaned
+- Dependencies fetched
+- Code formatted
+""".green)
+
+rescue => ex  # Catch any unexpected errors
+  UI.user_error!("💥 An error occurred during Flutter project preparation: #{ex.message}", ex) 
+end
+
+
+
+
+

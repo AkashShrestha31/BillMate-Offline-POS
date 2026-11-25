@@ -1,0 +1,2708 @@
+{
+  "@@locale": "ne",
+  "noInternetConnection": "इन्टरनेट जडान छैन।",
+  "formatException": "ढाँचा अपवाद",
+  "rememberMe": "मलाई सम्झनुस्",
+  "signIn": "साइन इन गर्नुस्",
+  "passwordHint": "पासवर्ड प्रविष्ट गर्नुस्",
+  "forgetPassword": "लगइन जानकारी बिर्सनुभयो?",
+  "okay": "ठीक छ",
+  "success": "सफल",
+  "hotel": "होटल",
+  "errorEncountered": "त्रुटि भेटियो",
+  "serverError": "सर्भर त्रुटि",
+  "requestFailed": "अनुरोध असफल",
+  "connectionTimedOut": "जडान समय समाप्त",
+  "password": "पासवर्ड",
+  "keepSignIn": "साइन इन रहनुस्",
+  "enterPassword": "पासवर्ड प्रविष्ट गर्नुस्",
+  "enterValidPassword": "मान्य पासवर्ड प्रविष्ट गर्नुस्",
+  "skip": "छोड्नुस्",
+  "pleaseWait": "कृपया प्रतीक्षा गर्नुस् ....",
+  "enterValidUserName": "मान्य प्रयोगकर्ता नाम प्रविष्ट गर्नुस्।",
+  "userName": "प्रयोगकर्ता नाम",
+  "or": "वा",
+  "retry": "पुनः प्रयास",
+  "error": "त्रुटि",
+  "supportMessage": "कृपया प्रशासकलाई सम्पर्क गर्नुस्।",
+  "responseMessage404": "४०४ त्रुटि",
+  "appDisplayName": "BizTrack",
+  "appVersionLabel": "संस्करण {version}",
+  "@appVersionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "रद्द गर्नुहोस्",
+  "yes": "हो",
+  "no": "होइन",
+  "close": "बन्द गर्नुस्",
+  "save": "सुरक्षित गर्नुस्",
+  "delete": "मेटाउनुहोस्",
+  "confirm": "पुष्टि गर्नुस्",
+  "done": "भयो",
+  "next": "अर्को",
+  "getStarted": "सुरु गर्नुस्",
+  "back": "पछाडि",
+  "submit": "पेश गर्नुस्",
+  "continueAction": "जारी राख्नुस्",
+  "tryAgain": "पुनः प्रयास गर्नुस्",
+  "warning": "चेतावनी",
+  "loading": "लोड हुँदै…",
+  "comingSoon": "चाँडै आउँदैछ",
+  "required": "आवश्यक",
+  "search": "खोज",
+  "add": "थप्नुस्",
+  "edit": "सम्पादन गर्नुस्",
+  "remove": "हटाउनुस्",
+  "view": "हेर्नुस्",
+  "export": "निर्यात",
+  "exportAsPdf": "PDF को रूपमा निर्यात गर्नुहोस्",
+  "sharePdf": "PDF साझा गर्नुहोस्",
+  "partyExportPdfTooltip": "PDF निर्यात",
+  "import": "आयात गर्नुस्",
+  "refresh": "रिफ्रेश गर्नुस्",
+  "select": "छान्नुस्",
+  "upload": "अपलोड गर्नुस्",
+  "download": "डाउनलोड गर्नुस्",
+  "share": "साझा गर्नुस्",
+  "filter": "फिल्टर",
+  "sort": "क्रमबद्ध गर्नुस्",
+  "apply": "लागू गर्नुस्",
+  "reset": "रिसेट गर्नुस्",
+  "clear": "खाली गर्नुहोस्",
+  "all": "सबै",
+  "none": "कुनै पनि होइन",
+  "total": "कुल",
+  "subtotal": "उप-जम्मा",
+  "grandTotal": "कुल जम्मा",
+  "amount": "रकम",
+  "quantity": "मात्रा",
+  "rate": "दर",
+  "discount": "छुट",
+  "paid": "भुक्तानी गरिएको",
+  "unpaid": "नतिरेको",
+  "credit": "उधारो",
+  "cash": "नगद",
+  "date": "मिति",
+  "time": "समय",
+  "name": "नाम",
+  "email": "इमेल",
+  "phone": "फोन",
+  "address": "ठेगाना",
+  "notes": "नोटहरू",
+  "description": "विवरण",
+  "status": "स्थिति",
+  "type": "प्रकार",
+  "category": "श्रेणी",
+  "party": "पक्ष",
+  "item": "वस्तु",
+  "payment": "भुक्तानी",
+  "settlement": "फर्छ्योट",
+  "opening": "प्रारम्भिक",
+  "closing": "अन्तिम",
+  "stock": "Stock reconciliation",
+  "expense": "खर्च",
+  "revenue": "राजस्व",
+  "profit": "नाफा",
+  "loss": "नोक्सान",
+  "sales": "बिक्री",
+  "purchase": "खरिद",
+  "monthJan": "जन",
+  "monthFeb": "फेब",
+  "monthMar": "मार्च",
+  "monthApr": "अप्र",
+  "monthMay": "मे",
+  "monthJun": "जुन",
+  "monthJul": "जुल",
+  "monthAug": "अग",
+  "monthSep": "सेप",
+  "monthOct": "अक्ट",
+  "monthNov": "नोभ",
+  "monthDec": "डिस",
+  "more": "थप",
+  "profile": "प्रोफाइल",
+  "operations": "सञ्चालन",
+  "employeeManagement": "कर्मचारी व्यवस्थापन",
+  "report": "प्रतिवेदन",
+  "helpAndSupport": "सहायता र समर्थन",
+  "privacyAndPolicies": "गोपनीयता र नीतिहरू",
+  "faq": "बारम्बार सोधिने प्रश्नहरू",
+  "contactSupport": "समर्थनमा सम्पर्क गर्नुस्",
+  "rateUs": "हामीलाई मूल्याङ्कन गर्नुहोस्",
+  "rateUsSubtitle": "BizTrack मन पर्यो? Google Play मा समीक्षा छोड्नुहोस्",
+  "rateUsUnavailable": "स्टोर खोल्न सकिएन। पछि पुनः प्रयास गर्नुहोस्।",
+  "reportProblem": "समस्या रिपोर्ट",
+  "logout": "लग आउट",
+  "signOut": "साइन आउट",
+  "settings": "सेटिङहरू",
+  "testData": "परीक्षण डेटा",
+  "regionAndCurrency": "क्षेत्र र मुद्रा",
+  "reportingCurrency": "प्रतिवेदन मुद्रा",
+  "selectCurrency": "मुद्रा छान्नुस्",
+  "currencySample": "{code} · {symbol} · नमूना {sample}",
+  "@currencySample": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      },
+      "sample": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdated": "मुद्रा {code} ({symbol}) मा सेट गरियो",
+  "@currencyUpdated": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdateFailed": "मुद्रा अद्यावधिक गर्न सकिएन: {error}",
+  "@currencyUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "setupAppTitle": "{appName} सेटअप गर्नुस्",
+  "@setupAppTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "setupSubtitle": "आफ्नो संगठन र लेखा कन्फिगर गर्नुस् — अफलाइन प्रयोगका लागि यस उपकरणमा भण्डारण गरिएको।",
+  "regionAndCurrencySubtitle": "स्थानीय सेटिङ र रिपोर्टिङ मुद्रा।",
+  "country": "देश",
+  "currency": "मुद्रा",
+  "selectCountry": "देश छान्नुस्",
+  "language": "भाषा",
+  "selectLanguage": "भाषा छान्नुस्",
+  "languageUpdated": "भाषा {name} मा सेट गरियो",
+  "@languageUpdated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "languageUpdateFailed": "भाषा अद्यावधिक गर्न सकिएन: {error}",
+  "@languageUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToApp": "{appName} मा स्वागत छ",
+  "@welcomeToApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "forceUpdateMessage": "जारी राख्न कृपया {appName} को नवीनतम संस्करण स्थापना गर्नुस्।",
+  "@forceUpdateMessage": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "generatedByApp": "{appName} द्वारा उत्पन्न",
+  "@generatedByApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "whatIsApp": "{appName} के हो?",
+  "@whatIsApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "appDescriptionFaq": "{appName} ले तपाईंलाई बिक्री र खरिद बिल, पक्षहरू (ग्राहक र आपूर्तिकर्ता), स्टक, भुक्तानी, कर्मचारी र दैनिक सारांश आफ्नो फोन वा ट्याब्लेटबाट व्यवस्थापन गर्न मद्दत गर्छ।",
+  "@appDescriptionFaq": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "faqIntro": "{appName} बारे सामान्य प्रश्नहरूको उत्तर।",
+  "@faqIntro": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseFromGallery": "ग्यालेरीबाट छान्नुस्",
+  "takePhoto": "फोटो लिनुस्",
+  "photoLibrary": "फोटो लाइब्रेरी",
+  "addPhoto": "फोटो थप्नुस्",
+  "couldNotPickImage": "छवि छान्न सकिएन: {error}",
+  "@couldNotPickImage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteOrganizationTitle": "संगठन हटाउने?",
+  "deleteOrganizationMessage": "यस डिभाइसबाट {name} हटाउनुस्। यस संगठनका सबै स्थानीय डेटा मेटिनेछ।",
+  "deleteOrganizationWarning": "यो पूर्ववत गर्न सकिँदैन।",
+  "organizationDeleted": "संगठन हटाइयो",
+  "createAction": "सिर्जना गर्नुस्",
+  "connectOrganizationTitle": "आफ्नो संगठन जोड्नुस्",
+  "connectOrganizationSubtitle": "साइन इन गर्न संगठन छान्नुस्।",
+  "selectOrganization": "संगठनहरू",
+  "selectOrganizationHint": "जारी राख्न संगठनमा ट्याप गर्नुस्",
+  "noSavedOrganizationsYet": "अझै कुनै संगठन छैन। एउटा बनाउनुस् वा तलको परीक्षण डेटा प्रयोग गर्नुस्।",
+  "orgConnectOnceInfo": "यसले एपलाई तपाईंको व्यवसाय खातासँग जोड्छ। तपाईंले यसलाई प्रति डिभाइस एक पटक मात्र सेट गर्न पर्छ।",
+  "organizationCodeLabel": "कोड: {code}",
+  "loginWithTestData": "परीक्षण डेटासँग लगइन गर्नुस्",
+  "loginWithTestDataSubtitle": "डेमो होटल डेटा लोड गर्नुस् र स्वचालित रूपमा साइन इन गर्नुस्",
+  "testDataLoginFailed": "परीक्षण डेटा लोड गर्न सकिएन: {error}",
+  "preparingTestData": "डेमो डेटा तयार हुँदैछ…",
+  "setupOrganizationName": "संगठनको नाम",
+  "setupCompanyName": "कम्पनीको नाम",
+  "setupBusinessType": "व्यापारको प्रकार",
+  "businessTypeHotel": "होटल",
+  "businessTypeRestaurant": "रेस्टुरेन्ट",
+  "businessTypeHotelRestaurant": "होटल र रेस्टुरेन्ट",
+  "businessTypeRetail": "खुद्रा / पसल",
+  "businessTypeCafe": "क्याफे / बेकरी",
+  "businessTypeBar": "बार / पब",
+  "businessTypeOther": "अन्य",
+  "organizationBusinessTypeLabel": "प्रकार: {type}",
+  "@organizationBusinessTypeLabel": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "organizationSettings": "संस्था",
+  "editOrganizationInfo": "संस्थाको जानकारी",
+  "editOrganizationInfoSubtitle": "यो व्यापार एपमा कसरी देखिन्छ भनी अपडेट गर्नुहोस्। संस्थाको कोड परिवर्तन गर्न सकिँदैन।",
+  "organizationCode": "संस्थाको कोड",
+  "organizationCodeReadOnly": "यो कोड सेटअप पछि स्थिर छ।",
+  "organizationInfoUpdated": "संस्थाको जानकारी सुरक्षित भयो",
+  "organizationInfoLoadFailed": "संस्थाको जानकारी लोड गर्न सकिएन",
+  "organizationInfoSaveFailed": "संस्थाको जानकारी सुरक्षित गर्न सकिएन: {error}",
+  "@organizationInfoSaveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "saveChanges": "परिवर्तनहरू सुरक्षित गर्नुहोस्",
+  "setupFullName": "पूरा नाम",
+  "setupConfirmPassword": "पासवर्ड पुष्टि गर्नुस्",
+  "setupBankName": "बैंकको नाम",
+  "setupRegionStepTitle": "क्षेत्र र मुद्रा",
+  "setupOrganizationStepTitle": "संगठन",
+  "setupOrganizationStepSubtitle": "तपाईंको व्यवसाय एपमा कसरी देखिन्छ",
+  "setupAdminStepTitle": "प्रशासक खाता",
+  "setupAdminStepSubtitle": "यस स्थापनाको प्राथमिक प्रयोगकर्ता",
+  "setupAccountingStepTitle": "लेखाँकन",
+  "setupAccountingStepSubtitle": "बैंक, खाता चार्ट र वित्तीय वर्ष",
+  "setupCompleteSetup": "सेटअप पूर्ण गर्नुस्",
+  "fieldRequired": "{field} आवश्यक छ",
+  "invalidEmailAddress": "मान्य इमेल ठेगाना प्रविष्ट गर्नुस्",
+  "passwordMinLength": "पासवर्ड कम्तीमा {min} अक्षरको हुनुपर्छ",
+  "passwordsDoNotMatch": "पासवर्डहरू मेल खाँदैनन्",
+  "setupFixValidationErrors": "जारी राख्न तलका त्रुटिहरू सुधार्नुस्",
+  "setupCompleteSuccess": "सेटअप सफलतापूर्वक पूर्ण भयो",
+  "setupCompleteWithPdfSuccess": "सेटअप पूर्ण। PDF सुरक्षित स्थानमा सहेजनुस्।",
+  "setupPdfFailed": "सेटअप पूर्ण भयो, तर PDF सहेज्न सकिएन: {error}",
+  "setupFailed": "सेटअप पूर्ण गर्न सकिएन। कृपया पुनः प्रयास गर्नुस्।",
+  "setupFailedWithDetails": "सेटअप असफल: {error}",
+  "languageChangeLaterHint": "तपाईं यसलाई पछि सेटिङ्हरूबाट परिवर्तन गर्न सक्नुहुन्छ",
+  "unpaidAmount": "भुक्तानी नगरिएको रकम",
+  "unpaidBalance": "भुक्तानी नगरिएको बाँकी",
+  "unpaidColonAmount": "भुक्तानी नगरिएको: {amount}",
+  "previousUnpaid": "अघिल्लो भुक्तानी नगरिएको",
+  "partyUnpaid": "पार्टी भुक्तानी नगरिएको",
+  "loadingUnpaid": "भुक्तानी नगरिएको लोड हुँदैछ…",
+  "totalUnpaid": "कुल भुक्तानी नगरिएको",
+  "unpaidAmountNotYetCollected": "अपरिशोधित रकम अझै सङ्कलन भएको छैन।",
+  "partyUnpaidTabHint": "कर्मचारीहरू खोल्नुहोस्, एक व्यक्ति छान्नुहोस्, त्यसपछि उनीहरूको प्रोफाइलमा पार्टी अपरिशोधित थिच्नुहोस्। सर्भरलाई यो खोजीको लागि कर्मचारी आईडी चाहिन्छ।",
+  "partySettlementUsesUnpaidTotal": "पार्टी भुक्तानीले अपरिशोधित कुल रकम प्रयोग गर्छ।",
+  "selectPartyWithUnpaidFirst": "पहिले भुक्तानीको रकम प्रविष्ट गर्नुहोस् (वा अपरिशोधित भएको पार्टी छान्नुहोस्)।",
+  "@unpaidColonAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "partyRolesTitle": "पार्टी भूमिकाहरू",
+  "partyRolesMoreSubtitle": "ग्राहक, आपूर्तिकर्ता, दुवै र थप",
+  "exploreCustomizeTitle": "सुविधाहरू अनुकूलन गर्नुहोस्",
+  "exploreCustomizeSubtitle": "तपाईंको होम स्क्रिनमा सर्टकट देखाउनुहोस् वा लुकाउनुहोस्। तपाईंको संस्थाले पहुँच पाउने सुविधाहरू मात्र सूचीबद्ध छन्।",
+  "exploreVisibleOnDashboard": "ड्यासबोर्डमा देखिने",
+  "exploreHiddenOnDashboard": "ड्यासबोर्डमा लुकेको",
+  "partiesTitle": "पार्टीहरू",
+  "partySearchByName": "नामबाट खोज्नुहोस्…",
+  "partySortBy": "क्रमबद्ध गर्नुहोस्:",
+  "partySortLatest": "पछिल्लो",
+  "partySortAmountHighLow": "रकम: बढीदेखि घटी",
+  "partySortAmountLowHigh": "रकम: घटीदेखि बढी",
+  "partySortNameAZ": "नाम: अ देखि ज्ञ",
+  "partySortNameZA": "नाम: ज्ञ देखि अ",
+  "partyAddNew": "नयाँ पार्टी थप्नुहोस्",
+  "partyEdit": "पार्टी सम्पादन",
+  "partyUpdate": "पार्टी अपडेट गर्नुहोस्",
+  "partyNameLabel": "पार्टीको नाम*",
+  "partyNameHint": "पार्टीको नाम लेख्नुहोस्",
+  "partyNewNameLabel": "नयाँ पार्टीको नाम*",
+  "partyNewNameHint": "नयाँ पार्टीको नाम लेख्नुहोस्",
+  "partyRoleLabel": "पार्टी भूमिका *",
+  "partyTapToSelect": "छान्न ट्याप गर्नुहोस्",
+  "partySelectRoleValidation": "कृपया भूमिका छान्नुहोस्",
+  "partyEnterNameValidation": "कृपया पार्टीको नाम लेख्नुहोस्",
+  "partyBasicInfo": "आधारभूत जानकारी",
+  "partyAdditionalInfo": "थप जानकारी",
+  "partyEmail": "पार्टी इमेल",
+  "partyEmailHint": "इमेल ठेगाना लेख्नुहोस्",
+  "partyPhone": "फोन नम्बर",
+  "partyPhoneHint": "फोन नम्बर लेख्नुहोस्",
+  "partyAddress": "पार्टी ठेगाना",
+  "partyAddressHint": "ठेगाना लेख्नुहोस्",
+  "partyRoleCustomer": "ग्राहक",
+  "partyRoleSupplier": "आपूर्तिकर्ता",
+  "partyRoleRoom": "कोठा",
+  "partyRoleCabin": "केबिन",
+  "partyRoleEmployee": "कर्मचारी",
+  "partyRoleBoth": "दुवै",
+  "partyDefaultAccount": "पूर्वनिर्धारित खाता",
+  "partyLoyaltyProgram": "वफादारी कार्यक्रम",
+  "partyLoyaltyPoints": "वफादारी अंक",
+  "partySelectDefaultAccount": "पूर्वनिर्धारित खाता छान्नुहोस्",
+  "partySelectLoyaltyProgram": "वफादारी कार्यक्रम छान्नुहोस्",
+  "partyCreateNewProgram": "नयाँ कार्यक्रम बनाउनुहोस्",
+  "partySelectPartyRole": "पार्टी भूमिका छान्नुहोस्",
+  "partyAccountDebtors": "देनदार",
+  "partyAccountCreditors": "लेनदार",
+  "partyBothRoleHint": "दुवै भनेको यो पार्टी ग्राहक र आपूर्तिकर्ता मात्र अन्तर्गत देखिन्छ — कोठा, केबिन वा कर्मचारी होइन।",
+  "partyValidNumber": "कृपया मान्य नम्बर लेख्नुहोस्",
+  "partyValidAmount": "कृपया मान्य रकम लेख्नुहोस्",
+  "searchRoles": "भूमिकाहरू खोज्नुहोस्",
+  "roleCount": "{count, plural, =1{1 भूमिका} other{{count} भूमिकाहरू}}",
+  "@roleCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noRolesYet": "अहिलेसम्म कुनै भूमिका छैन",
+  "noRolesYetHint": "सम्पर्कहरूको लागि ग्राहक, आपूर्तिकर्ता, दुवै वा कस्टम भूमिकाहरू थप्नुहोस्।",
+  "addRole": "भूमिका थप्नुहोस्",
+  "deleteRoleTitle": "भूमिका मेट्नुहोस्",
+  "deleteRoleConfirm": "\"{name}\" मेट्ने? यो फिर्ता गर्न सकिँदैन।",
+  "@deleteRoleConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteRoleHasPartiesMessage": "\"{name}\" {partyCount, plural, =1{1 पार्टी} other{{partyCount} पार्टीहरू}}ले प्रयोग गरिरहेको छ। ती पार्टीहरूलाई अर्को भूमिकामा स्थानान्तरण गर्नुहोस् वा बलपूर्वक मेटाउनुहोस्।",
+  "@deleteRoleHasPartiesMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "transferParties": "पार्टीहरू स्थानान्तरण गर्नुहोस्",
+  "hardDeleteLoseParties": "बलपूर्वक मेट्नुहोस् (पार्टीहरू गुमाउनुहोस्)",
+  "hardDeleteRoleTitle": "बलपूर्वक मेट्ने?",
+  "hardDeleteRoleMessage": "यसले \"{name}\" र यसमा तोकिएका सबै {partyCount, plural, =1{1 पार्टी} other{{partyCount} पार्टीहरू}} स्थायी रूपमा मेट्नेछ। पार्टी डेटा पुनः प्राप्त गर्न सकिँदैन।\n\nइनभ्वाइस वा भुक्तानीसँग जोडिएका पार्टीहरू मेटाउन नसकिन सक्छ — यसको सट्टा स्थानान्तरण प्रयोग गर्नुहोस्।",
+  "@hardDeleteRoleMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteRoleAndParties": "भूमिका र पार्टीहरू मेट्नुहोस्",
+  "addAnotherRoleBeforeDelete": "यो मेट्नु अघि अर्को भूमिका थप्नुहोस्।",
+  "transferPartiesMoveMessage": "{partyCount, plural, =1{1 पार्टी} other{{partyCount} पार्टीहरू}} \"{fromRole}\" बाट सार्नुहोस्:",
+  "@transferPartiesMoveMessage": {
+    "placeholders": {
+      "partyCount": {
+        "type": "int"
+      },
+      "fromRole": {
+        "type": "String"
+      }
+    }
+  },
+  "transferAndDeleteRole": "स्थानान्तरण गरी भूमिका मेट्नुहोस्",
+  "builtInRole": "बिल्ट-इन",
+  "rolePartyCount": "{count, plural, =1{1 पार्टी} other{{count} पार्टीहरू}}",
+  "@rolePartyCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noPartiesYet": "अहिलेसम्म कुनै पार्टी छैन",
+  "newRole": "नयाँ भूमिका",
+  "editRole": "भूमिका सम्पादन गर्नुहोस्",
+  "defaultRolesCannotEdit": "डिफल्ट भूमिकाहरूको नाम परिवर्तन वा मेटाउन सकिँदैन।",
+  "roleNameLabel": "भूमिकाको नाम *",
+  "roleNameHint": "जस्तै ग्राहक",
+  "roleDescriptionLabel": "विवरण",
+  "roleDescriptionHint": "तपाईंको टिमको लागि छोटो नोट",
+  "roleSortOrderLabel": "क्रमबद्धता",
+  "roleSortOrderHint": "कम मूल्यहरू सूचीमा पहिले देखिन्छन्",
+  "roleCreated": "भूमिका बनाइयो",
+  "roleUpdated": "भूमिका अपडेट भयो",
+  "roleDeleted": "भूमिका मेटाइयो",
+  "roleDeletedPartiesTransferred": "भूमिका मेटाइयो। {count, plural, =1{1 पार्टी} other{{count} पार्टीहरू}} {targetRole} मा सारियो।",
+  "@roleDeletedPartiesTransferred": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "targetRole": {
+        "type": "String"
+      }
+    }
+  },
+  "roleAndPartiesDeleted": "भूमिका र {count, plural, =1{1 पार्टी} other{{count} पार्टीहरू}} मेटाइयो।",
+  "@roleAndPartiesDeleted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@deleteOrganizationMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@organizationCodeLabel": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "@testDataLoginFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@fieldRequired": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "@passwordMinLength": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "@setupPdfFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@setupFailedWithDetails": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "workspace": "कार्यस्थान",
+  "change": "परिवर्तन गर्नुहोस्",
+  "addMoreOrganization": "थप थप्नुहोस् +",
+  "connectAnotherOrganization": "अर्को संस्था जोड्नुहोस्",
+  "noSavedOrganizationsUseAddMore": "अझै कुनै सुरक्षित संस्था छैन। एउटा जोड्न थप थप्नुहोस् + प्रयोग गर्नुहोस्।",
+  "registerNewOrganizationTitleSignedIn": "नयाँ संस्था दर्ता गर्ने?",
+  "registerNewOrganizationTitle": "नयाँ संस्था दर्ता गर्ने?",
+  "registerNewOrganizationMessageSignedIn": "तपाईं साइन आउट हुनुहुनेछ र सेटअप विजार्ड सुरुदेखि सुरु हुनेछ ताकि तपाईं यस यन्त्रमा नयाँ व्यापार दर्ता गर्न सक्नुहुन्छ।\n\nतपाईंले पहिले नै सुरक्षित गरेका संस्थाहरू सेटअप पछि सूचीमा रहनेछन्।",
+  "registerNewOrganizationMessageLogin": "यस यन्त्रमा नयाँ व्यापार दर्ता गर्न सेटअप विजार्ड सुरु हुनेछ। यसलाई बनाउन सेटअप पूरा गर्नुहोस्; तपाईंका सुरक्षित संस्थाहरू सूचीमा रहन्छन्।",
+  "startSetup": "सेटअप सुरु गर्नुहोस्",
+  "enterOrganizationCode": "कृपया तपाईंको संस्थाको कोड प्रविष्ट गर्नुहोस्",
+  "organizationNotFoundCheckCode": "संस्था फेला परेन। कोड जाँच गरी पुनः प्रयास गर्नुहोस्।",
+  "organizationNotFound": "संस्था फेला परेन",
+  "couldNotVerifyOrganization": "संस्था प्रमाणित गर्न सकिएन",
+  "noLocalDataCompleteSetup": "{name} को लागि कुनै स्थानीय डेटा छैन। पहिले यस संस्थाको सेटअप पूरा गर्नुहोस्।",
+  "@noLocalDataCompleteSetup": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeBack": "फर्केर स्वागत छ",
+  "signInToContinue": "जारी राख्न साइन इन गर्नुहोस्",
+  "enterEmail": "इमेल प्रविष्ट गर्नुहोस्",
+  "pleaseEnterEmail": "कृपया तपाईंको इमेल प्रविष्ट गर्नुहोस्",
+  "pleaseEnterValidEmail": "कृपया मान्य इमेल प्रविष्ट गर्नुहोस्",
+  "enterEmailLocalPartOnly": "@ अघिको भाग मात्र प्रविष्ट गर्नुहोस्",
+  "pleaseEnterPassword": "कृपया तपाईंको पासवर्ड प्रविष्ट गर्नुहोस्",
+  "logIn": "लग इन",
+  "searchCountry": "देश खोज्नुहोस्",
+  "searchCodeOrSymbol": "कोड वा प्रतीक खोज्नुहोस्",
+  "saveLoginDetailsTitle": "लगइन विवरण सुरक्षित गर्ने?",
+  "saveLoginDetailsMessage": "तपाईं यस संस्थाको सेटअप पूरा गर्न लाग्नुभएको छ।\n\nतपाईंको संस्था कोड, संस्थाको नाम, लगइन इमेल र पासवर्ड भएको PDF सुरक्षित रूपमा डाउनलोड गर्न चाहनुहुन्छ? सुरक्षित ठाउँमा राख्नुहोस् — यो फाइल भएको जो कोहीले पनि साइन इन गर्न सक्छ।",
+  "downloadPdfAndContinue": "PDF डाउनलोड गरी जारी राख्नुहोस्",
+  "continueWithoutPdf": "PDF बिना जारी राख्नुहोस्",
+  "legalDisplayNameHint": "कानूनी / प्रदर्शन नाम",
+  "chartOfAccounts": "खाताको चार्ट",
+  "fiscalYearStart": "आर्थिक वर्षको सुरुवात",
+  "fiscalYearEnd": "आर्थिक वर्षको अन्त्य",
+  "removeTestDataTitle": "परीक्षण डेटा हटाउने?",
+  "removeTestDataMessageDemoOrg": "सबै डेमो बिक्री, खरिद, सम्पर्कहरू, पार्टीहरू, इन्भेन्टरी वस्तुहरू, कर्मचारीहरू, मदिरा क्याल्कुलेटर उत्पादनहरू र थप डेमो संस्थाहरू हटाइनेछन्।\n\nतपाईं डेमो संस्थामा हुनुहुन्छ — यसपछि तपाईं स्वचालित रूपमा आफ्नो पहिलो संस्थामा फर्किनुहुनेछ।",
+  "removeTestDataMessageNormal": "सबै डेमो बिक्री, खरिद, सम्पर्कहरू, पार्टीहरू, इन्भेन्टरी वस्तुहरू, कर्मचारीहरू र ३ थप डेमो संस्थाहरू हटाइनेछन्। तपाईंको एडमिन खाता र वास्तविक सेटअप डेटा सुरक्षित रहन्छ।",
+  "removeTestDataWarning": "परीक्षण डेटा पुनः लोड नगरी यो फिर्ता गर्न सकिँदैन।",
+  "removeTestData": "परीक्षण डेटा हटाउनुहोस्",
+  "keepTestData": "परीक्षण डेटा राख्नुहोस्",
+  "demoDataRemoved": "डेमो डेटा हटाइयो",
+  "testDataRemovedSwitchedTo": "परीक्षण डेटा हटाइयो। {name} मा स्विच गरियो।",
+  "@testDataRemovedSwitchedTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "testDataRemoved": "परीक्षण डेटा हटाइयो",
+  "couldNotRemoveTestData": "परीक्षण डेटा हटाउन सकिएन: {error}",
+  "@couldNotRemoveTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loadTestDataTitle": "परीक्षण डेटा लोड गर्ने?",
+  "loadTestDataMessage": "यसले ५० सम्म डेमो सम्पर्कहरू, ५० बिक्री मात्र र ५० खरिद मात्र इन्भेन्टरी वस्तुहरू, साथै नमुना बिक्री, खरिद, भुक्तानी, स्टक, बन्द सारांशहरू, कर्मचारीहरू, तलब, पछिल्लो १५ दिनको उपस्थिति र क्याल्कुलेटरको लागि नमुना मदिरा उत्पादनहरू थप्नेछ।",
+  "loadTestData": "परीक्षण डेटा लोड गर्नुहोस्",
+  "testDataLoaded": "परीक्षण डेटा लोड भयो",
+  "couldNotLoadTestData": "परीक्षण डेटा लोड गर्न सकिएन: {error}",
+  "@couldNotLoadTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "demoTestData": "डेमो परीक्षण डेटा",
+  "importTestDataSubtitle": "सबै सुविधाहरूको लागि परीक्षण डेटा आयात गर्नुहोस्",
+  "hideTestDataTitle": "यस संस्थाको लागि परीक्षण डेटा लुकाउने?",
+  "hideTestDataMessage": "तपाईं जारी राख्नुभयो भने, परीक्षण डेटा खण्ड यस संस्थामा सर्वत्र लुकाइनेछ (सेटअप सहित)। तपाईं एप पुनः स्थापना गरेर वा यस संस्थाको एप डेटा खाली गरेर मात्र पुनः सक्षम गर्न सक्नुहुन्छ।",
+  "hideTestDataWarning": "पहिले नै लोड भएको डेमो डेटा डेटाबेसमा तपाईंले सेटिङ्सबाट नहटाउन्जेल रहनेछ।",
+  "okHideTestData": "ठीक छ, परीक्षण डेटा लुकाउनुहोस्",
+  "testDataHiddenForOrg": "यस संस्थाको लागि परीक्षण डेटा लुकाइयो",
+  "hideTestDataTooltip": "यस संस्थाको लागि परीक्षण डेटा लुकाउनुहोस्",
+  "privacyPolicyTitle": "गोपनीयता नीति",
+  "termsAndConditions": "नियम र सर्तहरू",
+  "logoutConfirmTitle": "लग आउट",
+  "logoutConfirmMessage": "के तपाईं साँच्चै आफ्नो खाताबाट लग आउट गर्न चाहनुहुन्छ?",
+  "faqTapToExpand": "विस्तार गर्न प्रश्नमा थिच्नुहोस्।",
+  "faqSectionGettingStarted": "सुरु गर्दै",
+  "faqSectionLogin": "लगइन",
+  "faqSectionNavigation": "नेभिगेसन",
+  "faqSectionInvoices": "इनभ्वाइसहरू",
+  "faqSectionPayments": "भुक्तानीहरू",
+  "faqSectionItemsStock": "वस्तुहरू र स्टक",
+  "faqSectionProfileEmployees": "प्रोफाइल र कर्मचारीहरू",
+  "faqSectionDashboardReports": "ड्यासबोर्ड र रिपोर्टहरू",
+  "faqSectionSyncTroubleshooting": "सिङ्क र समस्या समाधान",
+  "faqNeedInternetQuestion": "के मलाई इन्टरनेट चाहिन्छ?",
+  "faqNeedInternetAnswer": "पहिलो स्थानीय सेटअप पछि तपाईं इन्टरनेट बिना इनभ्वाइस, वस्तु र भुक्तानी रेकर्ड गर्न सक्नुहुन्छ। डेटा तपाईंको यन्त्रमा रहन्छ। सर्भरसँग सिङ्क ऐच्छिक छ।",
+  "faqFirstInstallQuestion": "पहिलो स्थापनामा के हुन्छ?",
+  "faqFirstInstallAnswer": "तपाईंले छोटो गाइड देख्न सक्नुहुन्छ, त्यसपछि स्थानीय सेटअप (संस्था, कम्पनी, लगइन इमेल र पासवर्ड, मुद्रा, आर्थिक वर्ष)। त्यसपछि तपाईंले बनाएको इमेल र पासवर्डले साइन इन गर्नुहोस्।",
+  "faqSignInCredentialsQuestion": "साइन इनको लागि के प्रयोग गर्ने?",
+  "faqSignInCredentialsAnswer": "सेटअपको तपाईंको इमेल ठेगाना र पासवर्ड। एपले तपाईंलाई थप बाट लग आउट नगर्दासम्म साइन इन राख्छ।",
+  "faqLoggedOutQuestion": "म किन लग आउट भएँ?",
+  "faqLoggedOutAnswer": "तपाईंले लग आउट छान्नुभयो, एप डेटा खाली गर्नुभयो वा सत्र समाप्त भयो। उही प्रमाणपत्रले पुनः साइन इन गर्नुहोस्।",
+  "faqBottomTabsQuestion": "तल्लो ट्याबहरूले के गर्छन्?",
+  "faqBottomTabsAnswer": "गृह — ड्यासबोर्ड र अवलोकन।\nबिक्री — मिति अनुसार बिक्री इनभ्वाइसहरू।\nखर्च — खरिद / खर्च इनभ्वाइसहरू।\nकेन्द्रीय बटन — पार्टीहरू (ग्राहक, आपूर्तिकर्ता)।\nथप — प्रोफाइल, रिपोर्ट, सिङ्क, मद्दत, लग आउट।",
+  "faqCreateInvoiceQuestion": "बिक्री वा खरिद इनभ्वाइस कसरी बनाउने?",
+  "faqCreateInvoiceAnswer": "बिक्री वा खर्च खोल्नुहोस्, क्यालेन्डरमा मिति छान्नुहोस्, + बटन थिच्नुहोस्, वस्तु र रकम थप्नुहोस्, आवश्यक भएमा पार्टी छान्नुहोस्, त्यसपछि सुरक्षित वा पेश गर्नुहोस्।",
+  "faqInvoiceDetailsQuestion": "इनभ्वाइसको पूर्ण विवरण कसरी हेर्ने?",
+  "faqInvoiceDetailsAnswer": "सूचीमा कुनै पनि इनभ्वाइस थिच्नुहोस्। लेनदेन विवरणले लाइन वस्तुहरू, कुल, छुट र भुक्तानीहरू देखाउँछ। त्यहाँबाट छाप्न, साझा गर्न, नक्कल गर्न वा भुक्तान गर्न सकिन्छ।",
+  "faqZeroRateQuestion": "विवरणमा दर वा रकम शून्य देखिन्छ",
+  "faqZeroRateAnswer": "यसको अर्थ सामान्यतया पुरानो सुरक्षामा लाइन वा भुक्तानी डेटा गायब थियो। एप अपडेट गर्नुहोस् र आवश्यक भएमा पुनः बनाउनुहोस् वा व्यवस्था गर्नुहोस्।",
+  "faqPartialPaymentQuestion": "आंशिक भुक्तानी कसरी रेकर्ड गर्ने?",
+  "faqPartialPaymentAnswer": "इनभ्वाइस खोल्नुहोस् → लेनदेन विवरण → भुक्तानी गर्नुहोस्। रकम, विधि र मिति प्रविष्ट गर्नुहोस्, त्यसपछि भुक्तानी प्रक्रिया गर्नुहोस्।",
+  "faqMultiplePaymentQuestion": "बहु भुक्तानी कसरी काम गर्छ?",
+  "faqMultiplePaymentAnswer": "बहु भुक्तानी सक्षम गर्नुहोस्, सम्पादन थिच्नुहोस् र कुललाई नगद, कार्ड, QR आदिमा विभाजन गर्नुहोस्। प्रत्येक विधि छुट्टाछुट्टै रेकर्ड गरिन्छ।",
+  "faqSplitPaymentSavedQuestion": "विभाजनबाट एउटा मात्र भुक्तानी सुरक्षित भयो",
+  "faqSplitPaymentSavedAnswer": "नवीनतम एप संस्करणमा अपडेट गर्नुहोस्। पुराना संस्करणहरूले कहिलेकाहीँ पहिलो विभाजन लाइन मात्र सुरक्षित गर्थे। अपरिशोधित बाँकी अझै गलत छ भने पुनः व्यवस्था गर्नुहोस्।",
+  "faqAddItemQuestion": "वस्तु कसरी थप्ने?",
+  "faqAddItemAnswer": "बिक्री प्रवाह वा द्रुत थपबाट वस्तु थप्नुहोस् प्रयोग गर्नुहोस्। नाम, दर, एकाइ, उद्देश्य र वैकल्पिक फोटो (JPEG/PNG/GIF/WebP, अधिकतम ५ MB) प्रविष्ट गर्नुहोस्, त्यसपछि वस्तु बनाउनुहोस्।",
+  "faqCustomUnitQuestion": "कस्टम एकाइ कसरी थप्ने?",
+  "faqCustomUnitAnswer": "वस्तु फारममा, एकाइ थिच्नुहोस् → सूचीको तलमा नयाँ एकाइ बनाउनुहोस्, नाम (जस्तै लिटर, बाकस) प्रविष्ट गर्नुहोस् र बनाउनुहोस्।",
+  "faqStockQuantitiesQuestion": "How do I enter stock quantities?",
+  "faqStockQuantitiesAnswer": "Live qty is In stock on each item. Set stock on an item to enter opening stock or a stock adjustment. Opening stock / stock reconciliation (upload or enter a count) also sets In stock when live tracking is on. Liquor prices is a pour-price list, not stock.",
+  "faqProfileNameQuestion": "मैले नाम परिवर्तन गरेँ तर प्रोफाइलले पुरानो नाम देखाउँछ",
+  "faqProfileNameAnswer": "तपाईंको कर्मचारी रेकर्ड सम्पादन गर्नुहोस् (लगइनसँग उही इमेल) र सुरक्षित गर्नुहोस्। थप ट्याब र ड्यासबोर्ड अपडेट हुनुपर्छ।",
+  "faqRevenueDetailsQuestion": "राजस्व विवरण के हो?",
+  "faqRevenueDetailsAnswer": "दैनिक प्रवृत्ति चार्ट, खुद नाफा, अपरिशोधित प्राप्तिहरू र दिनप्रतिदिन बिक्री बनाम खरिद विश्लेषणसहित मासिक दृश्य। क्यालेन्डर वा महिना चिपले महिना परिवर्तन गर्नुहोस्।",
+  "faqOtherReportsQuestion": "अन्य रिपोर्टहरू कहाँ छन्?",
+  "faqOtherReportsAnswer": "थप खोल्नुहोस् र रिपोर्टहरू (विश्लेषण, नाफा र नोक्सान, विवरण आदि) अन्तर्गत हेर्नुहोस् यदि तपाईंको भूमिकाको पहुँच छ भने।",
+  "faqWhenSyncQuestion": "कहिले सिङ्क गर्ने?",
+  "faqWhenSyncAnswer": "तपाईंको एडमिनले भन्दा मात्र र स्थिर जडान भएको बेला। सिङ्कले यन्त्र र सर्भरबीच डेटा पठाउँछ वा प्राप्त गर्छ।",
+  "faqFabPositionQuestion": "+ बटन बिक्री / खर्चमा धेरै माथि देखिन्छ",
+  "faqFabPositionAnswer": "यो तल्लो नेभिगेसन बारको माथि छ। सूची स्क्रोल गर्नुहोस् वा यन्त्रमा बटनले सामग्री ओभरल्याप गरे एप अपडेट गर्नुहोस्।",
+  "faqHowLogoutQuestion": "लग आउट कसरी गर्ने?",
+  "faqHowLogoutAnswer": "थप → सेटिङ सूचीको तलमा लग आउट।",
+  "statisticsGoodMorning": "शुभ प्रभात",
+  "statisticsGoodAfternoon": "शुभ अपराह्न",
+  "statisticsGoodEvening": "शुभ साँझ",
+  "statisticsDefaultUser": "प्रयोगकर्ता",
+  "statisticsCheckConnection": "कृपया जडान जाँच गर्नुहोस् र फेरि प्रयास गर्नुहोस्।",
+  "statisticsCouldNotLoadProfile": "प्रोफाइल लोड गर्न सकिएन",
+  "statisticsCouldNotLoadData": "डाटा लोड गर्न सकिएन",
+  "statisticsPeriodDay": "दिन",
+  "statisticsPeriodMonth": "महिना",
+  "statisticsPeriodYear": "वर्ष",
+  "statisticsSelectedPeriod": "छानिएको अवधि",
+  "statisticsSelectMonth": "महिना छान्नुहोस्",
+  "statisticsSelectMonthSubtitle": "डाटा फिल्टर गर्न महिना छान्नुहोस्",
+  "statisticsQuickOperations": "छिटो सञ्चालन",
+  "statisticsAnnualRevenue": "वार्षिक आम्दानी",
+  "statisticsCashflowLast7Days": "नगद प्रवाह (गत ७ दिन)",
+  "statisticsCashflowLast12Months": "नगद प्रवाह (गत १२ महिना)",
+  "statisticsDaily": "दैनिक",
+  "statisticsMonthly": "मासिक",
+  "statisticsOverall": "समग्र",
+  "statisticsLast7Days": "पछिल्लो ७ दिन",
+  "statisticsLast12Months": "पछिल्लो १२ महिना",
+  "statisticsAllYears": "सबै वर्ष",
+  "statisticsNoDataAvailable": "कुनै डाटा उपलब्ध छैन",
+  "statisticsMoneyIn": "आम्दानी",
+  "statisticsMoneyOut": "खर्च",
+  "statisticsIncome": "आम्दानी",
+  "statisticsExpenses": "खर्च",
+  "statisticsSalesSummary": "बिक्री सारांश",
+  "statisticsPurchaseSummary": "खरिद सारांश",
+  "statisticsTotalSales": "कुल बिक्री",
+  "statisticsTotalIncome": "कुल आम्दानी",
+  "statisticsTotalUnpaid": "कुल बाँकी",
+  "statisticsTotalPurchase": "कुल खरिद",
+  "statisticsPaidPurchase": "तिरेको खरिद",
+  "statisticsUnpaidPurchase": "बाँकी खरिद",
+  "statisticsEmployeeDashboard": "कर्मचारी ड्यासबोर्ड",
+  "statisticsDefaultEmployee": "कर्मचारी",
+  "statisticsDefaultDepartment": "विभाग",
+  "statisticsDefaultPosition": "पद",
+  "statisticsCurrentMonth": "हालको महिना",
+  "statisticsStatus": "स्थिति",
+  "statisticsActive": "सक्रिय",
+  "statisticsWelcome": "स्वागत छ",
+  "statisticsEmployeeWelcomeMessage": "तपाईं कर्मचारीको रूपमा लगइन हुनुहुन्छ। उपलब्ध सुविधाहरूको लागि नेभिगेसन मेनु प्रयोग गर्नुहोस्।",
+  "statisticsRevenueDetails": "आम्दानी विवरण",
+  "statisticsEmployeeDetails": "कर्मचारी विवरण",
+  "statisticsChangeMonth": "महिना परिवर्तन",
+  "statisticsFilterChartsSubtitle": "चार्ट र विवरण फिल्टर गर्नुहोस्",
+  "statisticsDailyTrend": "दैनिक प्रवृत्ति",
+  "statisticsDailyActivity": "दैनिक गतिविधि",
+  "statisticsNoDataForMonth": "यो महिनाको लागि डाटा छैन",
+  "statisticsNetProfit": "खुद नाफा",
+  "statisticsMonthReceivables": "महिनाको बाँकी",
+  "statisticsMonthRevenue": "महिनाको आम्दानी",
+  "statisticsMonthExpenses": "महिनाको खर्च",
+  "statisticsNoDailyEntries": "यो महिनाको लागि दैनिक प्रविष्टि छैन",
+  "statisticsDailySalesBreakdown": "दैनिक बिक्री विवरण",
+  "statisticsDailyBreakdown": "दैनिक विवरण",
+  "statisticsAdvance": "अग्रिम",
+  "statisticsExploreFeatures": "सुविधाहरू अन्वेषण",
+  "statisticsShowOrHideFeatures": "सुविधाहरू देखाउनुहोस् वा लुकाउनुहोस्",
+  "statisticsAllFeaturesHidden": "सबै सुविधाहरू लुकाइएका छन्",
+  "statisticsNoFeaturesForOrg": "तपाईंको संस्थाको लागि कुनै सुविधा उपलब्ध छैन",
+  "statisticsTapTuneToShow": "सर्टकट फेरि देखाउन माथिको ट्युन आइकन ट्याप गर्नुहोस्।",
+  "statisticsMenuCheck": "मिलान",
+  "statisticsMenuEmployee": "कर्मचारी",
+  "statisticsMenuOrder": "अर्डर",
+  "statisticsMenuInventory": "Items",
+  "statisticsMenuCustomers": "ग्राहक",
+  "statisticsMenuCalculator": "Liquor prices",
+  "statisticsMenuQuickExpenses": "छिटो खर्च",
+  "statisticsMenuQuickSales": "छिटो िक्री",
+  "statisticsMenuAddEmployee": "कर्मचारी थप्नुहोस्",
+  "statisticsMenuAddParty": "पार्टी थप्नुहोस्",
+  "statisticsMenuAddEmployeeSingle": "कर्मचारी थप्नुहोस्",
+  "statisticsMenuAddPartySingle": "पार्टी थप्नुहोस्",
+  "statisticsGreeting": "{greeting}, {name}",
+  "@statisticsGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsEmployeeGreeting": "{greeting}, {name}!",
+  "@statisticsEmployeeGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDepartmentPosition": "{department} • {position}",
+  "@statisticsDepartmentPosition": {
+    "placeholders": {
+      "department": {
+        "type": "String"
+      },
+      "position": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricCollected": "{amount} संकलन",
+  "@statisticsMetricCollected": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricPaid": "{amount} तिरिएको",
+  "@statisticsMetricPaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyInAmount": "आम्दानी: {amount}",
+  "@statisticsMoneyInAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyOutAmount": "खर्च: {amount}",
+  "@statisticsMoneyOutAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDayTooltip": "दिन {day} {amount}",
+  "@statisticsDayTooltip": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsProfitMargin": "{percent}% मार्जिन",
+  "@statisticsProfitMargin": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "selectBusinessType": "व्यापारको प्रकार छान्नुहोस्",
+  "businessTypeHotelSubtitle": "कोठा, पाहुना र फ्रन्ट डेस्क",
+  "businessTypeRestaurantSubtitle": "डाइन-इन, भान्सा र टेबल अर्डर",
+  "businessTypeHotelRestaurantSubtitle": "होटल कोठा र रेस्टुरेन्ट एकैसाथ",
+  "businessTypeRetailSubtitle": "सामान, स्टक र चेकआउट",
+  "businessTypeCafeSubtitle": "कफी, पेस्ट्री र हल्का खाजा",
+  "businessTypeBarSubtitle": "पेय पदार्थ, ट्याब र बार बिक्री",
+  "businessTypeOtherSubtitle": "कुनै पनि व्यापारको लागि अनुकूल सेटअप",
+  "@invoiceCommonSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonInvoiceLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCustomerLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSupplierLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchingFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchItemsHint": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonEmptyForDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDeleteInvoiceConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCancelReturnMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPartyLoadingError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceFoundSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceFoundPurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDatePurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateInvoiceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteMessage": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceReturnCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotPrint": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotSave": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotShare": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonItemReturnedQty": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      },
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonMultiplePaymentSummary": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptFilename": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReturnAgainst": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSavedPath": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonUnpaidWithAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonTodayAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyExportReceipts": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyNoItemsMatching": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceQuickShowingItems": {
+    "placeholders": {
+      "shown": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickLoadedItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickScrollLoadMore": {
+    "placeholders": {
+      "perPage": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickCartWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemActionsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditSelectedItem": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditRateLabel": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditItemLabel": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemsError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditPartiesError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditSaveError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonActions": "कार्यहरू",
+  "invoiceCommonSearchItems": "वस्तु खोज्नुहोस्",
+  "invoiceCommonSearchItemsSubtitle": "विशेष वस्तुहरू खोज्नुहोस्",
+  "invoiceCommonAddNewInvoice": "नयाँ बिल थप्नुहोस्",
+  "invoiceCommonAddSalesInvoiceSubtitle": "नयाँ बिक्री बिल बनाउनुहोस्",
+  "invoiceCommonAddPurchaseInvoiceSubtitle": "नयाँ खरिद बिल बनाउनुहोस्",
+  "invoiceCommonSelectMonthYear": "महिना/वर्ष छान्नुहोस्",
+  "invoiceCommonSelectMonthYearSubtitle": "विशेष महिनामा जानुहोस्",
+  "invoiceCommonSelectMonthAndYear": "महिना र वर्ष छान्नुहोस्",
+  "invoiceCommonFilterByDate": "मिति अनुसार फिल्टर",
+  "invoiceCommonFilterByDateRange": "मिति दायरा अनुसार फिल्टर",
+  "invoiceCommonCloseSearch": "खोज बन्द गर्नुहोस्",
+  "invoiceCommonSelectAll": "सबै छान्नुहोस्",
+  "invoiceCommonToday": "आज",
+  "invoiceCommonTotalQuantity": "कुल परिमाण",
+  "invoiceCommonTotalAmount": "कुल रकम",
+  "invoiceCommonTotal": "कुल",
+  "invoiceCommonSearchForItems": "वस्तुहरू खोज्नुहोस्",
+  "invoiceCommonNoItemsFound": "कुनै वस्तु भेटिएन",
+  "invoiceCommonUnknownItem": "अज्ञात वस्तु",
+  "invoiceCommonNotAvailable": "उपलब्ध छैन",
+  "invoiceSalesCouldNotLoad": "बिक्री लोड गर्न सकिएन",
+  "invoiceSalesNoFound": "कुनै बिक्री भेटिएन",
+  "invoiceSalesSelectDate": "बिक्री हेर्न मिति छान्नुहोस्",
+  "invoiceSalesNoInvoicesFound": "कुनै बिल भेटिएन",
+  "invoiceSalesSelectDateLegacy": "बिल हेर्न मिति छान्नुहोस्",
+  "invoicePurchaseCouldNotLoad": "खर्च लोड गर्न सकिएन",
+  "invoicePurchaseNoFound": "कुनै खरिद भेटिएन",
+  "invoicePurchaseSelectDate": "खरिद हेर्न मिति छान्नुहोस्",
+  "invoiceWeekdaySun": "आइत",
+  "invoiceWeekdayMon": "सोम",
+  "invoiceWeekdayTue": "मङ्गल",
+  "invoiceWeekdayWed": "बुध",
+  "invoiceWeekdayThu": "बिही",
+  "invoiceWeekdayFri": "शुक्र",
+  "invoiceWeekdaySat": "शनि",
+  "invoiceCommonSelectedCount": "{count} छानिएको",
+  "invoiceCommonQtyLabel": "परि: {qty}",
+  "invoiceCommonInvoiceLabel": "बिल: {number}",
+  "invoiceCommonCustomerLabel": "ग्राहक: {name}",
+  "invoiceCommonSupplierLabel": "आपूर्तिकर्ता: {name}",
+  "invoiceCommonSearchingFor": "\"{query}\" खोज्दै...",
+  "invoiceCommonSearchItemsHint": "{scope} मा वस्तु खोज्नुहोस्...",
+  "invoiceCommonSalesSearchPrompt": "सबै बिक्री फेला पार्न वस्तुको नाम टाइप गर्नुहोस्\n{scope} मा",
+  "invoiceCommonPurchaseSearchPrompt": "सबै खरिद फेला पार्न वस्तुको नाम टाइप गर्नुहोस्\n{scope} मा",
+  "invoiceCommonSalesNoMatch": "\"{query}\" को बिक्री छैन\n{scope} मा",
+  "invoiceCommonPurchaseNoMatch": "\"{query}\" को खरिद छैन\n{scope} मा",
+  "invoiceCommonEmptyForDate": "{date} को लागि",
+  "invoiceFoundSalesCount": "{count, plural, =1{१ बिक्री भेटियो} other{{count} बिक्री भेटियो}}",
+  "invoiceFoundPurchaseCount": "{count, plural, =1{१ खरिद भेटियो} other{{count} खरिद भेटियो}}",
+  "invoiceDateSalesCount": "{count, plural, =1{१ बिक्री} other{{count} बिक्री}}",
+  "invoiceDatePurchaseCount": "{count, plural, =1{१ खरिद} other{{count} खरिद}}",
+  "invoiceDateInvoiceCount": "{count, plural, =1{१ बिल} other{{count} बिल}}",
+  "invoiceDeleteTitle": "{count, plural, =1{१ बिल मेटाउनुहोस्} other{{count} बिल मेटाउनुहोस्}}",
+  "invoiceDeleteMessage": "{count, plural, =1{छानिएको १ बिल मेटाउने हो? यो पूर्ववत हुन सक्दैन।} other{छानिएका {count} बिल मेटाउने हो? यो पूर्ववत हुन सक्दैन।}}",
+  "contacts": "सम्पर्कहरू",
+  "categories": "श्रेणीहरू",
+  "manageStaff": "कर्मचारी व्यवस्थापन",
+  "payroll": "पेरोल",
+  "attendance": "हाजिरी",
+  "profitAndLoss": "नाफा र नोक्सान",
+  "statementReport": "विवरण",
+  "analytics": "विश्लेषण",
+  "loggedOut": "लग आउट भयो",
+  "organizationCodeDisplay": "कोड: {code}",
+  "@organizationCodeDisplay": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "moreDataSynchronization": "डेटा सिङ्क्रोनाइजेसन",
+  "moreSendDataToClient": "क्लाइन्टमा डेटा पठाउनुहोस्",
+  "moreSendDataToClientSubtitle": "सर्भर डेटा क्लाइन्टमा अपलोड गर्नुहोस्",
+  "moreSendDataToClientWarning": "यो कार्यले हालको क्लाइन्ट डाटाबेस सर्भरको डेटाले प्रतिस्थापन गर्नेछ। हालैका क्लाइन्ट परिवर्तनहरू हराउन सक्छन्।",
+  "moreSendDataToClientConfirm": "के तपाईं क्लाइन्टमा डेटा पठाउन निश्चित हुनुहुन्छ?",
+  "moreFetchDataFromClient": "क्लाइन्टबाट डेटा ल्याउनुहोस्",
+  "moreFetchDataFromClientSubtitle": "क्लाइन्ट डेटा सर्भरमा डाउनलोड गर्नुहोस्",
+  "moreFetchDataFromClientWarning": "यो कार्यले हालको सर्भर डाटाबेस क्लाइन्टको डेटाले प्रतिस्थापन गर्नेछ। हालैका सर्भर परिवर्तनहरू हराउन सक्छन्।",
+  "moreFetchDataFromClientConfirm": "के तपाईं क्लाइन्टबाट डेटा ल्याउन निश्चित हुनुहुन्छ?",
+  "notifications": "सूचनाहरू",
+  "openingReminder": "खोल्ने सम्झना",
+  "closingReminder": "बन्द गर्ने सम्झना",
+  "openingTime": "खोल्ने समय",
+  "closingTime": "बन्द गर्ने समय",
+  "notificationSettingsSaved": "सूचना सेटिङ सुरक्षित गरियो",
+  "notificationPermissionHint": "एप बन्द भए पनि सम्झना काम गर्न सूचना (Android मा अलार्म सहित) अनुमति दिनुहोस्",
+  "dailyAtTime": "दैनिक {time} मा",
+  "@dailyAtTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonYesterday": "हिजो",
+  "invoiceCommonTodayAt": "आज, {time}",
+  "invoiceCommonDaysAgo": "{count} दिन अघि",
+  "invoiceReturnCount": "{count, plural, =1{१ फिर्ता} other{{count} फिर्ता}}",
+  "checkoutSelectParty": "पक्ष छान्नुहोस्",
+  "checkoutCartSummary": "कार्ट सारांश",
+  "checkoutNoItemsInCart": "कार्टमा कुनै वस्तु छैन",
+  "checkoutSearchHere": "यहाँ खोज्नुहोस्",
+  "checkoutCreateInvoice": "बिल बनाउनुहोस्",
+  "checkoutEditInvoice": "बिल सम्पादन",
+  "checkoutSaveInvoice": "बिल बचत गर्नुहोस्",
+  "checkoutInvoiceSummary": "बिल सारांश",
+  "checkoutEstimate": "अनुमान",
+  "checkoutBasicInformation": "आधारभूत जानकारी",
+  "checkoutAddItems": "वस्तु थप्नुहोस्",
+  "checkoutItemsSection": "वस्तुहरू",
+  "checkoutPartyRequired": "पक्ष *",
+  "checkoutPartyInformation": "पक्ष जानकारी",
+  "checkoutBillSummary": "बिल सारांश",
+  "checkoutBillSummaryHint": "विस्तृत गणना जान्न ट्याप गर्नुहोस्।",
+  "checkoutItemTotal": "वस्तु जम्मा",
+  "checkoutLoyaltyDiscount": "लोयल्टी छुट ({percent}%)",
+  "@checkoutLoyaltyDiscount": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutDiscountLine": "- छुट ({percent}%)",
+  "@checkoutDiscountLine": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutTapToEdit": "सम्पादन गर्न ट्याप गर्नुहोस्",
+  "checkoutTotalAmount": "कुल रकम",
+  "checkoutPaymentMode": "Record payment",
+  "checkoutPaymentModeHint": "Turn on to take payment now. Leave off to submit the bill unpaid and collect later.",
+  "checkoutNetSalesAmount": "खुद बिक्री रकम",
+  "checkoutConfirmCheckout": "चेकआउट पुष्टि गर्नुहोस्",
+  "checkoutEditDiscount": "छुट सम्पादन",
+  "checkoutPercentage": "प्रतिशत",
+  "checkoutDiscard": "रद्द गर्नुहोस्",
+  "checkoutPartialPayment": "आंशिक भुक्तानी",
+  "checkoutPartialPaymentBanner": "आंशिक भुक्तानी सक्रिय गर्दा ग्राहकले कुल बिल रकम भन्दा कम तिर्न सक्नेछन्।",
+  "checkoutPleaseEnterAmounts": "कृपया सम्बन्धित रकम प्रविष्ट गर्नुहोस्:",
+  "checkoutPartialPaymentEqualHint": "कुनै प्रयोगकर्ता तोकिएको छैन, कुल रकम बिल रकम बराबर हुनुपर्छ।",
+  "checkoutOverGrandTotalBy": "कुल जम्मा भन्दा बढी: {amount}",
+  "@checkoutOverGrandTotalBy": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutRemainingUnpaid": "बाँकी (कुल जम्मा बाट अवैतनिक): {amount}",
+  "@checkoutRemainingUnpaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutConfirmPayment": "भुक्तानी पुष्टि गर्नुहोस्",
+  "checkoutUnpaidCredit": "अवैतनिक / उधारो",
+  "checkoutAddAtLeastOneLine": "अनुमान हेर्न कम्तीमा एउटा वस्तु थप्नुहोस्",
+  "checkoutMultiplePayment": "बहु भुक्तानी",
+  "checkoutPaymentStatus": "भुक्तानी स्थिति",
+  "checkoutPaymentMethods": "भुक्तानी विधिहरू",
+  "checkoutPaymentMethod": "भुक्तानी विधि",
+  "checkoutTenderAmount": "टेन्डर रकम",
+  "checkoutLoadingPaymentMethods": "भुक्तानी विधिहरू लोड हुँदैछ…",
+  "stocksTitle": "Stock reconciliation",
+  "stockUploadTooltip": "Opening stock",
+  "stockNoDataYet": "No opening stock yet",
+  "stockNoDataSubtitle": "Enter a physical count. With live tracking on, that count becomes In stock.",
+  "stockUploadAction": "Opening stock",
+  "stockSearchByDateHint": "मिति वा महिनाबाट खोज्नुहोस्…",
+  "stockNoMatches": "कुनै मिल्दो फेला परेन",
+  "stockTryDifferentSearch": "अर्को खोज शब्द प्रयोग गर्नुहोस्",
+  "stockTryAnotherSearch": "अर्को खोज प्रयास गर्नुहोस्",
+  "stockQtyLabel": "मात्रा {qty}",
+  "@stockQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "stockCardSummary": "{records} रेकर्ड · {items} वस्तु · {locations} स्थान",
+  "@stockCardSummary": {
+    "placeholders": {
+      "records": {
+        "type": "String"
+      },
+      "items": {
+        "type": "String"
+      },
+      "locations": {
+        "type": "String"
+      }
+    }
+  },
+  "stockFilterTitle": "Filter stock reconciliation",
+  "stockBatchNumber": "ब्याच नम्बर",
+  "stockLocation": "स्थान",
+  "stockOptionalHint": "वैकल्पिक",
+  "stockApplyFilters": "फिल्टर लागू गर्नुहोस्",
+  "stockClearFields": "फिल्ड खाली गर्नुहोस्",
+  "stockDeleteAllTooltip": "यो मितिको सबै स्टक मेटाउनुहोस्",
+  "stockNoItemsFound": "कुनै स्टक वस्तु फेला परेन",
+  "stockNoItemsSubtitle": "अर्को फिल्टर वा रिपोर्टिङ मिति प्रयास गर्नुहोस्।",
+  "stockAdjustFilters": "फिल्टर मिलाउनुहोस्",
+  "stockSearchItemHint": "वस्तु, ब्याच, स्थान खोज्नुहोस्…",
+  "stockEditQuantities": "मात्रा सम्पादन",
+  "stockNoChangesDetected": "कुनै परिवर्तन भेटिएन",
+  "stockErrorPreparingChanges": "परिवर्तन तयार गर्दा त्रुटि: {error}",
+  "@stockErrorPreparingChanges": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "stockUpdateSuccessful": "अपडेट सफल!",
+  "stockSummary": "सारांश",
+  "stockTotalRequested": "कुल अनुरोध",
+  "stockSuccessfullyUpdated": "सफलतापूर्वक अपडेट",
+  "stockFailed": "असफल",
+  "stockUpdateFailed": "अपडेट असफल",
+  "stockClearAllQuantitiesTitle": "सबै मात्रा खाली गर्ने?",
+  "stockClearAllQuantitiesMessage": "यसले सबै मात्रा ० मा रिसेट गर्नेछ। के तपाईं निश्चित हुनुहुन्छ?",
+  "stockClearAll": "सबै खाली गर्नुहोस्",
+  "stockUpdatingQuantities": "स्टक मात्रा अपडेट हुँदैछ…",
+  "stockEditQuantitiesTitle": "स्टक मात्रा सम्पादन",
+  "stockReportingDate": "रिपोर्टिङ मिति: {date}",
+  "@stockReportingDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "stockTotalItemsHint": "कुल वस्तु: {count} • आवश्यक अनुसार मात्रा अपडेट गर्नुहोस्",
+  "@stockTotalItemsHint": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "stockItemName": "वस्तुको नाम",
+  "stockBatchPrefix": "ब्याच: {batch}",
+  "@stockBatchPrefix": {
+    "placeholders": {
+      "batch": {
+        "type": "String"
+      }
+    }
+  },
+  "stockDeleteConfirmTitle": "मेटाउने पुष्टि",
+  "stockDeleteConfirmIntro": "तपाईं निम्न मितिका सबै स्टक वस्तु स्थायी रूपमा मेटाउन लाग्दै हुनुहुन्छ:",
+  "stockDeleteConfirmWarning": "यो कार्य फिर्ता गर्न सकिँदैन। यो मितिका सबै स्टक रेकर्ड स्थायी रूपमा मेटिनेछन्।",
+  "stockNoInternetRetry": "इन्टरनेट जडान छैन। कृपया जडान जाँच गरी पुनः प्रयास गर्नुहोस्।",
+  "itemsTitle": "वस्तुहरू",
+  "itemAddSheetTitle": "वस्तु थप्नुहोस्",
+  "itemSingleAdd": "एकल थप",
+  "itemBulkAdd": "थोक थप",
+  "itemBulkAddTitle": "थोक वस्तु थप",
+  "itemEditTitle": "वस्तु सम्पादन",
+  "itemAddTitle": "वस्तु थप्नुहोस्",
+  "itemCreateButton": "वस्तु बनाउनुहोस्",
+  "itemUpdateButton": "वस्तु अपडेट",
+  "itemDeleteTitle": "वस्तु मेटाउनुहोस्",
+  "itemDeleteConfirm": "के तपाईं \"{name}\" मेटाउन निश्चित हुनुहुन्छ?",
+  "@itemDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "itemDeletedSuccess": "वस्तु सफलतापूर्वक मेटाइयो",
+  "itemCreatedSuccess": "वस्तु सफलतापूर्वक बनाइयो",
+  "itemUpdatedSuccess": "वस्तु सफलतापूर्वक अपडेट भयो",
+  "itemLoading": "वस्तुहरू लोड हुँदैछ…",
+  "itemErrorTitle": "केही गडबड भयो",
+  "itemTryAgain": "पुनः प्रयास",
+  "itemSearchHint": "वस्तु खोज्नुहोस्",
+  "itemNoItemsFound": "कुनै वस्तु फेला परेन",
+  "itemTryAdjustSearch": "खोज शब्द परिवर्तन गर्नुहोस्",
+  "itemNoItemsAvailable": "कुनै वस्तु उपलब्ध छैन",
+  "itemAddToGetStarted": "सुरु गर्न वस्तु थप्नुहोस्",
+  "itemNoMoreItems": "थप वस्तु छैन",
+  "itemPurposeBoth": "दुवै",
+  "itemPurposePurchases": "खरिद",
+  "itemTypeProduct": "उत्पादन",
+  "itemTypeService": "सेवा",
+  "itemTypeInventory": "सूची",
+  "itemPhotoTitle": "वस्तुको फोटो",
+  "itemPhotoHint": "फोटो छान्न वा अपलोड गर्न यहाँ ट्याप गर्नुहोस्",
+  "itemPhotoFormats": "JPEG, PNG, GIF, वा WebP · अधिकतम ५MB",
+  "itemAddPhoto": "फोटो थप्नुहोस्",
+  "itemPhotoLibrary": "फोटो लाइब्रेरी",
+  "itemPhotoLibraryHint": "आफ्ना फोटोबाट छान्नुहोस्",
+  "itemTakePhoto": "फोटो खिच्नुहोस्",
+  "itemUploadGallery": "ग्यालरीबाट अपलोड",
+  "itemUploadGalleryHint": "यो उपकरणका फाइल ब्राउज गर्नुहोस्",
+  "itemTypeLabel": "प्रकार",
+  "itemTypeField": "वस्तु प्रकार",
+  "itemNameLabel": "वस्तुको नाम",
+  "itemNameHint": "वस्तुको नाम प्रविष्ट गर्नुहोस्",
+  "itemBarcodeLabel": "बारकोड / QR कोड",
+  "itemBarcodeField": "बारकोड / QR कोड",
+  "itemBarcodeHint": "एप बारबाट स्क्यान वा पेस्ट",
+  "itemRateLabel": "दर",
+  "itemUnitLabel": "इकाई",
+  "itemPurposeLabel": "उद्देश्य",
+  "itemSelectUnit": "इकाई छान्नुहोस्",
+  "itemSelectPurpose": "उद्देश्य छान्नुहोस्",
+  "itemSelectCategory": "श्रेणी छान्नुहोस्",
+  "itemSelectType": "प्रकार छान्नुहोस्",
+  "itemSelectItemType": "वस्तु प्रकार छान्नुहोस्",
+  "itemSearchUnits": "इकाई खोज्नुहोस्…",
+  "itemSearchPurpose": "उद्देश्य खोज्नुहोस्…",
+  "itemSearchCategories": "श्रेणी खोज्नुहोस्…",
+  "itemCreateCustomUnit": "कस्टम इकाई बनाउनुहोस्",
+  "itemUnitName": "इकाईको नाम",
+  "itemUnitNameHint": "जस्तै: लिटर, बक्स, पिस",
+  "itemValidationName": "कृपया वस्तुको नाम प्रविष्ट गर्नुहोस्",
+  "itemValidationRate": "कृपया दर प्रविष्ट गर्नुहोस्",
+  "itemValidationNumber": "कृपया मान्य संख्या प्रविष्ट गर्नुहोस्",
+  "itemSelectUnitRequired": "कृपया इकाई छान्नुहोस्",
+  "itemSelectPurposeRequired": "कृपया उद्देश्य छान्नुहोस्",
+  "itemImageMissing": "छवि फाइल छैन",
+  "itemImageFormatError": "JPEG, PNG, GIF, वा WebP प्रयोग गर्नुहोस्",
+  "itemImageSizeError": "छवि ५MB वा सानो हुनुपर्छ",
+  "itemScanBarcode": "बारकोड स्क्यान",
+  "posScanAlignHint": "बारकोड वा QR लाई फ्रेमभित्र मिलाउनुहोस्",
+  "posScanKeepScanning": "थप वस्तु थप्न स्क्यान गरिरहनुहोस्",
+  "posScanItemAdded": "{name} × {qty} थपियो",
+  "@posScanItemAdded": {
+    "placeholders": {
+      "name": { "type": "String" },
+      "qty": { "type": "String" }
+    }
+  },
+  "posScanItemNotFound": "यो कोडको वस्तु फेला परेन",
+  "posScanCameraDenied": "बारकोड स्क्यान गर्न क्यामेरा अनुमति चाहिन्छ",
+  "posScanTorch": "फ्ल्यासलाइट",
+  "posScanDone": "सम्पन्न",
+  "btPrinterTitle": "ब्लुटुथ प्रिन्टर",
+  "btPrinterSettingsTitle": "रसिद प्रिन्टर",
+  "btPrinterPrintTitle": "रसिद प्रिन्ट",
+  "btPrinterBluetooth": "ब्लुटुथ थर्मल प्रिन्टर",
+  "btPrinterPrintOn": "{name} मा प्रिन्ट",
+  "@btPrinterPrintOn": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "btPrinterChooseAnother": "अर्को ब्लुटुथ प्रिन्टर छान्नुहोस्",
+  "btPrinterSystem": "सिस्टम प्रिन्टर / PDF सेभ",
+  "btPrinterAirPrint": "AirPrint / PDF सेभ",
+  "btPrinterPaper58": "५८ मिमी",
+  "btPrinterPaper80": "८० मिमी",
+  "btPrinterPairHint": "पहिले ब्लुटुथ सेटिङमा प्रिन्टर पेयर गर्नुहोस्, अनि यहाँ छान्नुहोस्। प्रिन्टर अन र नजिकै राख्नुहोस्।",
+  "btPrinterUse": "प्रिन्टर प्रयोग गर्नुहोस्",
+  "btPrinterTest": "टेस्ट प्रिन्ट",
+  "btPrinterForget": "प्रिन्टर हटाउनुहोस्",
+  "btPrinterSelectOne": "प्रिन्टर छान्नुहोस्",
+  "btPrinterNonePaired": "पेयर भएका ब्लुटुथ उपकरण छैनन्। सिस्टम सेटिङमा रसिद प्रिन्टर पेयर गरेर फेरि प्रयास गर्नुहोस्।",
+  "btPrinterBluetoothOff": "ब्लुटुथ अन गरेर फेरि प्रयास गर्नुहोस्।",
+  "btPrinterPermissionDenied": "रसिद प्रिन्ट गर्न ब्लुटुथ अनुमति चाहिन्छ।",
+  "btPrinterConnectFailed": "प्रिन्टरमा जडान हुन सकेन। अन छ र नजिकै छ कि जाँच्नुहोस्।",
+  "btPrinterPrintFailed": "ब्लुटुथ प्रिन्टरमा प्रिन्ट हुन सकेन।",
+  "btPrinterPrintSent": "रसिद प्रिन्टरमा पठाइयो",
+  "btPrinterTestSent": "टेस्ट पेज प्रिन्टरमा पठाइयो",
+  "btPrinterSystemFailed": "सिस्टम प्रिन्टर विकल्प खुल्न सकेन",
+  "btPrinterOpenSettings": "सेटिङ खोल्नुहोस्",
+  "btPrinterNotConfigured": "सेट छैन — प्रिन्टर छान्न ट्याप गर्नुहोस्",
+  "btPrinterIosHint": "प्रिन्टर अन गर्नुहोस्, ब्लुटुथ अनुमति दिनुहोस्, अनि यहाँ छान्नुहोस्।",
+  "itemNameFromCatalog": "क्याटलगबाट नाम भरियो: {name}",
+  "@itemNameFromCatalog": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "itemBarcodePasteHint": "उत्पादन नाम फेला परेन — कोड नामको रूपमा पेस्ट भयो। आवश्यक भए सम्पादन गर्नुहोस्।",
+  "itemBulkRefillTooltip": "अघिल्लो इनपुट भर्नुहोस्",
+  "itemBulkAddRow": "पङ्क्ति थप्नुहोस्",
+  "itemBulkRowLabel": "वस्तु {index}",
+  "@itemBulkRowLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "itemBulkNameRequired": "नाम आवश्यक",
+  "itemBulkInvalidNumber": "अमान्य संख्या",
+  "itemBulkCreating": "बनाउँदैछ…",
+  "itemBulkCreateItems": "वस्तुहरू बनाउनुहोस्",
+  "itemBulkCreatedCount": "{count} वस्तु बनाइयो",
+  "@itemBulkCreatedCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "itemBulkCreateFailed": "वस्तु बनाउन असफल: {error}",
+  "@itemBulkCreateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "itemBulkNoDraft": "कुनै सुरक्षित ड्राफ्ट छैन",
+  "itemBulkInvalidDraft": "सुरक्षित ड्राफ्ट ढाँचा अमान्य छ",
+  "itemBulkDraftRestored": "अघिल्लो ड्राफ्ट पुनर्स्थापित",
+  "itemBulkDraftRestoreFailed": "सुरक्षित ड्राफ्ट पुनर्स्थापित गर्न सकिएन",
+  "itemBulkAtLeastOne": "कम्तीमा एउटा वस्तु थप्नुहोस्",
+  "itemBulkCategoriesLoading": "श्रेणीहरू लोड हुँदैछ, पुनः प्रयास गर्नुहोस्",
+  "itemBulkLoadingCategories": "श्रेणीहरू लोड हुँदैछ…",
+  "inventoryTitle": "सूची विश्लेषण",
+  "inventorySubtitle": "वास्तविक-समय स्टक चलाउने ट्र्याकिङ",
+  "inventorySearchHint": "वस्तु खोज्नुहोस्…",
+  "inventorySold": "बिक्री",
+  "inventoryPurchased": "खरिद",
+  "catNoCategories": "कुनै श्रेणी छैन। + थिचेर बनाउनुहोस्।",
+  "catLoadCategories": "श्रेणीहरू लोड गर्नुहोस्",
+  "catCreated": "श्रेणी बनाइयो",
+  "catRenamed": "श्रेणी पुनःनामकरण",
+  "catDeleted": "श्रेणी मेटाइयो",
+  "catNewTitle": "नयाँ श्रेणी",
+  "catRenameTitle": "श्रेणी पुनःनामकरण",
+  "catNewName": "नयाँ नाम",
+  "catRename": "पुनःनामकरण",
+  "catDeleteTitle": "श्रेणी मेटाउनुहोस्",
+  "catDeleteConfirm": "\"{name}\" मेटाउने?",
+  "@catDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "catDeleteLinkedHint": "वस्तुहरू जोडिएका छन्। जबरजस्ती मेटाउन सकिन्छ।",
+  "catForceDelete": "जबरजस्ती मेटाउनुहोस्",
+  "catItemsCount": "{count} वस्तु",
+  "@catItemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "contactFavoritesOnly": "मात्र मनपर्ने",
+  "contactShowAll": "सबै सम्पर्क देखाउनुहोस्",
+  "contactSearchHint": "नाम, फोन, इमेल खोज्नुहोस्…",
+  "contactNoConnection": "जडान छैन",
+  "contactCheckNetwork": "नेटवर्क जाँच गरी पुनः प्रयास गर्नुहोस्।",
+  "contactSomethingWrong": "केही गडबड भयो",
+  "contactNoContacts": "कुनै सम्पर्क छैन",
+  "contactNoFavorites": "कुनै मनपर्ने मिलेन। तारा फिल्टर बन्द गर्नुहोस् वा सम्पर्कमा मनपर्ने थप्नुहोस्।",
+  "contactTrySearchOrAdd": "अर्को खोज प्रयास गर्नुहोस् वा + थिचेर सम्पर्क थप्नुहोस्।",
+  "contactEndOfList": "सूचीको अन्त्य",
+  "contactNewTooltip": "नयाँ सम्पर्क",
+  "contactLoading": "सम्पर्क लोड हुँदैछ…",
+  "contactUnknown": "अज्ञात",
+  "contactCallTooltip": "कल",
+  "contactEditTitle": "सम्पर्क सम्पादन",
+  "contactNewTitle": "नयाँ सम्पर्क",
+  "contactSelectTitle": "सम्पर्क छान्नुहोस्",
+  "contactDeleteTitle": "सम्पर्क मेटाउने?",
+  "contactDeleteUndo": "यो कार्य फिर्ता गर्न सकिँदैन।",
+  "contactNameRequired": "नाम आवश्यक",
+  "contactNameLabel": "नाम *",
+  "contactNameHint": "सम्पर्कको नाम",
+  "contactPhoneHint": "+977-9841234567",
+  "contactEmailHint": "email@example.com",
+  "contactCategoryHint": "जस्तै: व्यापार, सामान्य, vip",
+  "contactCompanyHint": "कम्पनीको नाम",
+  "contactFavorite": "मनपर्ने",
+  "contactCannotCall": "यो उपकरणमा कल गर्न सकिँदैन",
+  "contactPermissionDenied": "सम्पर्क अनुमति अस्वीकार। सेटिङमा सक्षम गर्न सकिन्छ।",
+  "contactPermissionRequired": "फोनबाट आयात गर्न सम्पर्क अनुमति चाहिन्छ",
+  "contactImported": "फोनबाट सम्पर्क आयात भयो",
+  "contactCreated": "सम्पर्क बनाइयो",
+  "contactUpdated": "सम्पर्क अपडेट भयो",
+  "contactDeleted": "सम्पर्क मेटाइयो",
+  "contactImportSearchHint": "नाम, फोन, इमेल, कम्पनी खोज्नुहोस्",
+  "contactImportNoResults": "कुनै सम्पर्क फेला परेन",
+  "checkoutMultiplePaymentHint": "ग्राहकले धेरै भुक्तानी विधिबाट तिर्दा यो अन गर्नुहोस्।",
+  "checkoutFillRemainingBalance": "बाँकी रकम भर्नुहोस्",
+  "checkoutEnterAtLeastOnePayment": "कम्तीमा एउटा भुक्तानी रकम प्रविष्ट गर्नुहोस्",
+  "checkoutPaymentsExceedTotal": "कुल भुक्तानी कुल जम्मा भन्दा बढी हुन सक्दैन",
+  "checkoutSentAs": "पठाइयो: {api}",
+  "@checkoutSentAs": {
+    "placeholders": {
+      "api": {
+        "type": "String"
+      }
+    }
+  },
+  "paymentCard": "कार्ड",
+  "paymentQr": "QR",
+  "paymentBank": "बैंक",
+  "paymentTransfer": "ट्रान्सफर",
+  "paymentBankTransfer": "बैंक ट्रान्सफर",
+  "paymentSettlement": "मिलान",
+  "paymentCheque": "चेक",
+  "paymentDigital": "डिजिटल",
+  "paymentDigitalQr": "डिजिटल (QR)",
+  "closeSummaryTitle": "बन्द सारांश",
+  "closeTabDashboard": "ड्यासबोर्ड",
+  "closeTabCredits": "उधारो",
+  "closeWelcome": "बन्द सारांशमा स्वागत छ",
+  "closeSelectDateHint": "डाटा लोड गर्न मिति छान्नुहोस् र रिफ्रेस ट्याप गर्नुहोस्",
+  "closeLoadingDashboard": "ड्यासबोर्ड डेटा लोड हुँदैछ…",
+  "closeDataDeleted": "डेटा मेटाइयो",
+  "closeErrorPrefix": "त्रुटि: {message}",
+  "@closeErrorPrefix": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExtraAmount": "थप रकम",
+  "closeExtraAmountDesc": "यो बन्द दिनका लागि रेकर्ड गरिएको थप नगद वा समायोजन।",
+  "closeLostAmount": "हराएको रकम",
+  "closeLostAmountDesc": "यो अवधिका लागि चिन्ह लगाइएको नगद कमी वा भिन्नता।",
+  "closeTapForDetails": "विवरणका लागि ट्याप गर्नुहोस्",
+  "closeAmountLabel": "बन्द",
+  "closeAmountFormula": "बन्द रकम सूत्र",
+  "closeFormulaExpression": "नगद बिक्री - नगद खर्च = बन्द रकम",
+  "closeCashSales": "नगद बिक्री",
+  "closeCashExpenses": "नगद खर्च",
+  "closeClosingAmount": "बन्द रकम",
+  "closeWhatThisMeans": "यसको अर्थ:",
+  "closeClosingMeaning": "दिनको अन्त्यमा तपाईंको रजिस्टर/दराजमा हुनुपर्ने नगद रकम हो। यसले प्राप्त सबै नगदबाट तिरिएको नगद घटाएर देखाउँछ।",
+  "closeQuickStats": "छिटो तथ्याङ्क",
+  "closeTapCardHint": "छोटो विवरणका लागि कार्ड ट्याप गर्नुहोस्",
+  "closeOpeningBalance": "सुरुवाती मौज्दात",
+  "closeTotalSales": "कुल बिक्री",
+  "closeQrAmount": "QR रकम",
+  "closeCashAmount": "नगद रकम",
+  "closeSalesDiscount": "बिक्री छुट",
+  "closeCreditQr": "उधारो QR",
+  "closeCreditCash": "उधारो नगद",
+  "closeCreditDiscount": "उधारो छुट",
+  "closePayCashGetQr": "नगद तिरेर QR पाउनु",
+  "closePayQrGetCash": "QR तिरेर नगद पाउनु",
+  "closePaymentMix": "भुक्तानी मिश्रण",
+  "closePaymentMixHint": "नगद वा डिजिटल ट्याप गर्नुहोस् · पट्टीले बिक्रीको हिस्सा देखाउँछ",
+  "closeCashVsDigitalTooltip": "बिक्रीमा नगद बनाम डिजिटल हिस्सा",
+  "closeSalesShareDesc": "{label} ले यो दिनको कुल बिक्रीको {percent}% बनायो।",
+  "@closeSalesShareDesc": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSalesLabel": "{label} बिक्री",
+  "@closeSalesLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "closeNoTransactions": "कुनै कारोबार उपलब्ध छैन",
+  "closeRecentTransactions": "भर्खरका कारोबार",
+  "closeViewAll": "सबै हेर्नुहोस्",
+  "closeNoPurchases": "कुनै खरिद उपलब्ध छैन",
+  "closeRecentPurchases": "भर्खरका खरिद",
+  "closeNoSalesDate": "यो मितिमा कुनै बिक्री छैन",
+  "closeNoSalesHint": "बिक्री रेकर्ड भएपछि यहाँ देखिनेछ।",
+  "closeRoomSales": "कोठा बिक्री",
+  "closeEmployeeSales": "कर्मचारी बिक्री",
+  "closeOtherSales": "अन्य बिक्री",
+  "closeSectionCount": "{title} ({count})",
+  "@closeSectionCount": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "closeDiscountShort": "छुट: {amount}",
+  "@closeDiscountShort": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "closePercentOff": "{percent}% छुट",
+  "@closePercentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closePending": "बाँकी",
+  "closeNoCreditPayments": "कुनै उधारो भुक्तानी छैन",
+  "closeNoCreditHint": "उधारो भुक्तानी यहाँ देखिनेछ",
+  "closeViewStatistics": "तथ्याङ्क हेर्नुहोस्",
+  "closeExportData": "डाटा निर्यात",
+  "closeExportComingSoon": "निर्यात सुविधा यहाँ कार्यान्वयन हुनेछ",
+  "closeHintOpeningBalance": "छानिएको दिनको सुरुवातमा नगद स्थिति।",
+  "closeHintTotalSales": "यो मितिका लागि रेकर्ड भएका सबै बिक्रीको योग।",
+  "closeHintQrAmount": "QR वा डिजिटल विधिबाट प्राप्त भुक्तानी।",
+  "closeHintCashAmount": "दिनको बिक्रीको नगद हिस्सा।",
+  "closeHintCashExpenses": "दिनभर तिरिएको नगद खर्च।",
+  "closeHintSalesDiscount": "बिक्रीमा लागू छुट।",
+  "closeHintCreditQr": "उधारोसँग सम्बन्धित QR संकलन।",
+  "closeHintCreditCash": "उधारोसँग सम्बन्धित नगद कारोबार।",
+  "closeHintCreditDiscount": "उधारो कारोबारमा लागू छुट।",
+  "closeHintPayCashGetQr": "नगद तिरेर QR उधारो प्राप्त भएको विनिमय।",
+  "closeHintPayQrGetCash": "QR तिरेर नगद प्राप्त भएको विनिमय।",
+  "closeOpeningAmount": "सुरुवाती रकम",
+  "closeCurrentAmount": "हालको रकम",
+  "closeSaveReport": "रिपोर्ट बचत गर्नुहोस्",
+  "closeUpdateSummary": "सारांश अपडेट गर्नुहोस्",
+  "closeExists": "छ",
+  "closeExistingDataInfo": "तपाईं अवस्थित डेटा हेर्न वा सम्पादन गर्न सक्नुहुन्छ",
+  "closeEnterOpeningAmount": "कृपया सुरुवाती रकम प्रविष्ट गर्नुहोस्",
+  "closeEnterValidAmount": "कृपया मान्य रकम प्रविष्ट गर्नुहोस्",
+  "languageSelectionSubtitle": "{appName} कसरी प्रयोग गर्न चाहनुहुन्छ छान्नुहोस्। तपाईं यसलाई पछि सेटिङ्हरूबाट परिवर्तन गर्न सक्नुहुन्छ।",
+  "searchLanguages": "भाषाहरू खोज्नुहोस्",
+  "languageSuggestedBadge": "सिफारिस",
+  "continueInLanguage": "{languageName} मा जारी राख्नुहोस्",
+  "noLanguageMatches": "कुनै मिल्दो छैन",
+  "noLanguageMatchesForQuery": "\"{query}\" सँग कुनै भाषा मिलेन",
+  "@languageSelectionSubtitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@continueInLanguage": {
+    "placeholders": {
+      "languageName": {
+        "type": "String"
+      }
+    }
+  },
+  "@noLanguageMatchesForQuery": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockSettingsSaved": "एप लक सेटिङहरू सुरक्षित भयो",
+  "appLockSubtitle": "एप पुनः खोल्दा PIN वा बायोमेट्रिक्स आवश्यक",
+  "appLockTitle": "एप लक",
+  "appPin": "एप PIN",
+  "appPinIncorrect": "गलत PIN। फेरि प्रयास गर्नुहोस्।",
+  "appPinIncorrectWithAttempts": "गलत PIN। तपाईंसँग {remaining} प्रयास बाँकी छ।",
+  "@appPinIncorrectWithAttempts": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      }
+    }
+  },
+  "appPinLockoutMessage": "धेरै पटक गलत PIN। PIN रिसेट गर्न इमेल र पासवर्डले साइन इन गर्नुहोस्।",
+  "appPinMismatch": "PIN मिलेन। फेरि प्रयास गर्नुहोस्।",
+  "appPinRemoved": "एप PIN हटाइयो",
+  "appPinSetSuccess": "यस संगठनको लागि PIN सुरक्षित भयो",
+  "appPinSubtitle": "{length}-अङ्कको PIN बाट छिटो अनलक",
+  "@appPinSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "appearance": "देखावट",
+  "backupAutoBackupHint": "समय भएमा एप सुरु हुँदा स्वचालित ब्याकअप",
+  "backupAutoBackupTitle": "स्वचालित ब्याकअप",
+  "backupAutoDirectionBoth": "अपलोड र डाउनलोड",
+  "backupAutoDirectionDownload": "क्लाउडबाट डाउनलोड",
+  "backupAutoDirectionUpload": "क्लाउडमा अपलोड",
+  "backupAutoFrequencyDaily": "दैनिक",
+  "backupAutoFrequencyMonthly": "मासिक",
+  "backupAutoFrequencyOff": "बन्द",
+  "backupAutoFrequencyTitle": "ब्याकअप आवृत्ति",
+  "backupAutoFrequencyWeekly": "साप्ताहिक",
+  "backupAutoLastDownloaded": "अन्तिम स्वचालित पुनर्स्थापना: {detail}",
+  "@backupAutoLastDownloaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastFailed": "अन्तिम स्वचालित सिङ्क असफल: {detail}",
+  "@backupAutoLastFailed": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastSkipped": "अन्तिम स्वचालित सिङ्क छोडियो: {detail}",
+  "@backupAutoLastSkipped": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastUploaded": "अन्तिम स्वचालित ब्याकअप: {detail}",
+  "@backupAutoLastUploaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoSettingsTitle": "Google Drive सेटिङहरू",
+  "backupAutoSyncDirectionTitle": "स्वचालित सिङ्क",
+  "backupSyncActiveOrganization": "हालको संगठन",
+  "backupSyncActiveOrganizationHint": "ब्याकअपले तपाईंले अहिले प्रयोग गरिरहेको संगठनको डेटा अपलोड गर्छ।",
+  "backupSyncCompletedHint": "तपाईंको डेटा Google Drive मा सुरक्षित रूपमा ब्याकअप भयो।",
+  "backupSyncConnected": "जडान भयो",
+  "backupSyncCurrentStep": "चरण: {step}",
+  "@backupSyncCurrentStep": {
+    "placeholders": {
+      "step": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncGoogleAccount": "Google खाता",
+  "backupSyncInProgress": "सिङ्क प्रगतिमा",
+  "backupSyncLastError": "अन्तिम त्रुटि: {error}",
+  "@backupSyncLastError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncLastSyncDate": "मिति र समय",
+  "backupSyncLastSyncTitle": "अन्तिम सिङ्क",
+  "backupSyncNeverSynced": "अहिलेसम्म कुनै ब्याकअप अपलोड भएको छैन।",
+  "backupSyncOrganization": "संगठन",
+  "backupSyncPageTitle": "ब्याकअप र सिङ्क",
+  "backupSyncPhaseExport": "निर्यात",
+  "backupSyncPhaseUpload": "अपलोड",
+  "backupSyncProgressPercent": "{percent}%",
+  "@backupSyncProgressPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "backupSyncRecords": "ब्याकअप गरिएका रेकर्डहरू",
+  "backupSyncSignInHint": "संगठन डेटा ब्याकअप गर्न Google बाट साइन इन गर्नुहोस्।",
+  "backupSyncSignOutConfirm": "यस उपकरणमा Google Drive बाट साइन आउट गर्ने?",
+  "backupSyncSignedInAs": "यस रूपमा साइन इन",
+  "backupSyncStatus": "स्थिति",
+  "backupSyncStatusSuccess": "पूरा भयो",
+  "backupSyncStepExport": "स्थानीय डेटा निर्यात हुँदै",
+  "backupSyncStepUploadFile": "{file} अपलोड हुँदै",
+  "@backupSyncStepUploadFile": {
+    "placeholders": {
+      "file": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncStepUploadTable": "{table} अपलोड हुँदै",
+  "@backupSyncStepUploadTable": {
+    "placeholders": {
+      "table": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncTables": "ब्याकअप गरिएका तालिकाहरू",
+  "backupSyncUnknownOrganization": "हालको संगठन",
+  "backupWifiOnlyContinue": "मोबाइल डेटा प्रयोग गर्नुहोस्",
+  "backupWifiOnlyHint": "स्वचालित ब्याकअप Wi‑Fi को पर्खन्छ",
+  "backupWifiOnlyTitle": "Wi‑Fi मा मात्र ब्याकअप",
+  "biometricNotAvailable": "यस उपकरणमा बायोमेट्रिक्स उपलब्ध छैन",
+  "biometricRequiresPin": "बायोमेट्रिक्स सक्षम गर्नुअघि एप PIN सेट गर्नुहोस्",
+  "biometricUnlockReason": "BizTrack अनलक गर्नुहोस्",
+  "changeAppPin": "PIN परिवर्तन गर्नुहोस्",
+  "confirmAppPin": "PIN पुष्टि गर्नुहोस्",
+  "confirmAppPinHint": "पुष्टि गर्न PIN फेरि प्रविष्ट गर्नुहोस्",
+  "confirmPasscodeHint": "पुष्टि गर्न पासकोड फेरि प्रविष्ट गर्नुहोस्",
+  "contactUs": "सम्पर्क गर्नुहोस्",
+  "contactUsSubtitle": "सहयोग, प्रतिक्रिया वा एप सम्बन्धी प्रश्नका लागि सम्पर्क गर्नुहोस्।",
+  "createAppPinHint": "यस संगठनको लागि {length}-अङ्कको PIN छान्नुहोस्",
+  "@createAppPinHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "createPasscodeHint": "यस संगठनको लागि {length}-अङ्कको पासकोड छान्नुहोस्",
+  "@createPasscodeHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "darkMode": "डार्क मोड",
+  "darkModeSubtitle": "एपभरि गाढा पृष्ठभूमि प्रयोग गर्नुहोस्",
+  "darkModeSystemSubtitle": "तपाईंको उपकरणको थिम अनुसरण गर्छ",
+  "dataAndBackup": "डेटा र ब्याकअप",
+  "developerLabel": "विकासकर्ता",
+  "disableAppPinMessage": "यस संगठनको लागि Face ID / बायोमेट्रिक अनलक पनि बन्द हुन्छ।",
+  "disableAppPinTitle": "एप PIN हटाउने?",
+  "displayPrecision": "प्रदर्शन शुद्धता",
+  "displayPrecisionRange": "० देखि ५ सम्मको संख्या प्रविष्ट गर्नुहोस्",
+  "emailCopiedToClipboard": "इमेल क्लिपबोर्डमा प्रतिलिपि भयो",
+  "employeeManagementSubtitle": "कर्मचारी, तलब र उपस्थिति",
+  "enableBiometricAfterPinMessage": "छिटो साइन-इनका लागि PIN सँग उपकरण बायोमेट्रिक्स प्रयोग गर्नुहोस्।",
+  "enableBiometricTitle": "बायोमेट्रिक्स सक्षम गर्ने?",
+  "enableFaceIdTitle": "Face ID सक्षम गर्ने?",
+  "enableFingerprintTitle": "फिङ्गरप्रिन्ट सक्षम गर्ने?",
+  "enableInvoiceReturns": "इनभ्वाइस रिटर्न सक्षम गर्नुहोस्",
+  "enableInvoiceReturnsSubtitle": "भुक्तानी भएका इनभ्वाइसबाट रिटर्न बनाउन अनुमति दिनुहोस्।",
+  "enterAppPin": "आफ्नो PIN प्रविष्ट गर्नुहोस्",
+  "enterPasscode": "पासकोड प्रविष्ट गर्नुहोस्",
+  "googleDriveBackupFailed": "ब्याकअप असफल: {error}",
+  "@googleDriveBackupFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupNow": "अहिले ब्याकअप गर्नुहोस्",
+  "googleDriveBackupPluginError": "ब्याकअपका लागि एप पूर्ण पुनः सुरु चाहिन्छ। एप बन्द गरी फेरि खोल्नुहोस् र पुनः प्रयास गर्नुहोस्।",
+  "googleDriveBackupSectionTitle": "ब्याकअप र सिङ्क",
+  "googleDriveBackupStarting": "ब्याकअप तयार हुँदै…",
+  "googleDriveBackupSubtitleSignedIn": "{email} को रूपमा साइन इन",
+  "@googleDriveBackupSubtitleSignedIn": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupSubtitleSignedOut": "Google Drive मा संगठन डेटा सुरक्षित ब्याकअप गर्न साइन इन गर्नुहोस्।",
+  "googleDriveBackupSuccess": "ब्याकअप अपलोड भयो ({tableCount} तालिका, {recordCount} रेकर्ड)",
+  "@googleDriveBackupSuccess": {
+    "placeholders": {
+      "tableCount": {
+        "type": "int"
+      },
+      "recordCount": {
+        "type": "int"
+      }
+    }
+  },
+  "googleDriveBackupTitle": "Google Drive ब्याकअप",
+  "googleDriveLastBackup": "अन्तिम ब्याकअप: {date}",
+  "@googleDriveLastBackup": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveSignIn": "Google बाट साइन इन",
+  "googleDriveSignInCancelled": "Google साइन-इन रद्द भयो",
+  "googleDriveSignInSuccess": "Google Drive मा साइन इन भयो",
+  "googleDriveSignOut": "साइन आउट",
+  "googleDriveSignOutSuccess": "Google Drive बाट साइन आउट भयो",
+  "itemSelectCategoryRequired": "कृपया एउटा श्रेणी छान्नुहोस्",
+  "moreBackupSyncTileLastSync": "अन्तिम सिङ्क: {date}",
+  "@moreBackupSyncTileLastSync": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "moreBackupSyncTileNeverSynced": "Google Drive मा ब्याकअप",
+  "moreBackupSyncTileSignedInNoSync": "साइन इन · अहिलेसम्म ब्याकअप छैन",
+  "notNow": "अहिले होइन",
+  "operationManagement": "सञ्चालन व्यवस्थापन",
+  "operationManagementSubtitle": "Items, stock reconciliation, contacts, categories, and closing",
+  "orContinueWithPassword": "वा पासवर्डले साइन इन गर्नुहोस्",
+  "organizationAccountingSubtitle": "इनभ्वाइस र रकम प्रदर्शन सेटिङहरू।",
+  "organizationRegionalSubtitle": "देश, रिपोर्टिङ मुद्रा र आर्थिक वर्ष मितिहरू।",
+  "organizationTabAccounting": "लेखा",
+  "organizationTabGeneral": "सामान्य",
+  "organizationTabRegional": "क्षेत्रीय र आर्थिक",
+  "partyPickerAddNewRole": "नयाँ {role} थप्नुहोस्",
+  "@partyPickerAddNewRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSearchHint": "{role} खोज्नुहोस्...",
+  "@partyPickerSearchHint": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSelectedLabel": "छानिएको",
+  "partyPickerSettled": "मिलाइयो",
+  "partyPickerSubtitle": "यो बिक्री कसका लागि?",
+  "preferences": "प्राथमिकताहरू",
+  "quickUnlockAsUser": "{email} को रूपमा छिटो साइन-इन",
+  "@quickUnlockAsUser": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSubtitle": "नाफा-नोक्सान, विवरण र विश्लेषण",
+  "restoreAction": "पुनर्स्थापना",
+  "restoreFromGoogleDrive": "Google Drive बाट पुनर्स्थापना",
+  "restoreFromGoogleDriveConfirm": "\"{name}\" पुनर्स्थापना गर्ने? यसले त्यो संगठनको स्थानीय डेटा प्रतिस्थापन गर्छ।",
+  "@restoreFromGoogleDriveConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveEmpty": "तपाईंको Google Drive मा कुनै ब्याकअप फेला परेन।",
+  "restoreFromGoogleDriveFailed": "पुनर्स्थापना असफल: {error}",
+  "@restoreFromGoogleDriveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveHint": "साइन इन गरी ब्याकअप छान्नुहोस् र यस उपकरणमा संगठन पुनर्स्थापना गर्नुहोस्।",
+  "restoreFromGoogleDriveStarting": "पुनर्स्थापना सुरु हुँदै…",
+  "restoreFromGoogleDriveSuccess": "{name} पुनर्स्थापना भयो। अब साइन इन गर्न सक्नुहुन्छ।",
+  "@restoreFromGoogleDriveSuccess": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreStepCreateDatabase": "डाटाबेस बनाउँदै",
+  "restoreStepDownload": "ब्याकअप डाउनलोड हुँदै",
+  "restoreStepFinalize": "पुनर्स्थापना समाप्त हुँदै",
+  "restoreStepImport": "डेटा आयात हुँदै",
+  "security": "सुरक्षा",
+  "setUpAppPin": "PIN सेट गर्नुहोस्",
+  "setUpFaceIdOrPin": "Face ID वा PIN सेट गर्नुहोस्",
+  "setUpFingerprintOrPin": "फिङ्गरप्रिन्ट वा PIN सेट गर्नुहोस्",
+  "setUpNow": "अहिले सेट गर्नुहोस्",
+  "setUpQuickUnlock": "PIN छिटो साइन-इन सेट गर्नुहोस्",
+  "setUpQuickUnlockAfterLoginMessage": "अर्को पटक छिटो साइन-इनका लागि Face ID, फिङ्गरप्रिन्ट वा PIN सेट गर्नुहोस्। पछि सेटिङहरूबाट पनि परिवर्तन गर्न सक्नुहुन्छ।",
+  "setUpQuickUnlockAfterLoginTitle": "छिटो साइन-इन सक्षम गर्ने?",
+  "setUpQuickUnlockSubtitle": "यस संगठनका लागि बायोमेट्रिक्स वा PIN प्रयोग गर्नुहोस्",
+  "signInWithBiometric": "बायोमेट्रिक्सले साइन इन",
+  "signInWithFaceId": "Face ID ले साइन इन",
+  "signInWithFingerprint": "फिङ्गरप्रिन्टले साइन इन",
+  "signInWithPin": "PIN ले साइन इन",
+  "statisticsCashflow": "नगद प्रवाह",
+  "statisticsQuickOperationInvoice": "इनभ्वाइस",
+  "statisticsQuickOperationReports": "प्रतिवेदन",
+  "statisticsQuickOperationsSeeAll": "सबै हेर्नुहोस्",
+  "tapDigitsToUnlock": "अनलक गर्न {length} अङ्क ट्याप गर्नुहोस्।",
+  "@tapDigitsToUnlock": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "unlockApp": "एप अनलक गर्नुहोस्",
+  "useBiometricInstead": "बायोमेट्रिक्स प्रयोग गर्नुहोस्",
+  "useBiometricUnlock": "Face ID / बायोमेट्रिक्स प्रयोग गर्नुहोस्",
+  "useBiometricUnlockSubtitle": "PIN सेट गरेपछि फिङ्गरप्रिन्ट वा Face ID ले अनलक गर्नुहोस्",
+  "useFaceIdUnlock": "Face ID प्रयोग गर्नुहोस्",
+  "useFingerprintUnlock": "फिङ्गरप्रिन्ट प्रयोग गर्नुहोस्",
+  "usePinInstead": "सट्टामा PIN प्रयोग गर्नुहोस्",
+  "verifyPinToRemoveSubtitle": "एप लक हटाउन {length}-अङ्कको PIN पुष्टि गर्नुहोस्",
+  "@verifyPinToRemoveSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "verifyPinToRemoveTitle": "आफ्नो PIN प्रविष्ट गर्नुहोस्",
+  "walkthroughBackupDescription": "एक-ट्याप Google Drive ब्याकअपसँग बैंक-स्तरको सुरक्षा — तपाईंका रेकर्ड सुरक्षित र सजिलै पुनर्स्थापना।",
+  "walkthroughBackupTitle": "तपाईंको डेटा, सधैं सुरक्षित",
+  "walkthroughBillingDescription": "बिक्री र खरिद इनभ्वाइस, किचन टिकट सहित टेबल अर्डर, र लाइभ इनभेन्टरी — सबै एउटै एपमा।",
+  "walkthroughBillingTitle": "केही सेकेन्डमा बिल र बिक्री",
+  "walkthroughDashboardDescription": "आजको बिक्री, आम्दानी र बाँकी ब्यालेन्स — एप खोल्दै एक सफा ड्यासबोर्डमा।",
+  "walkthroughDashboardTitle": "तपाईंको पूरा व्यवसाय, एक नजरमा",
+  "walkthroughOfflineDescription": "पूर्ण अफलाइनमा इनभ्वाइस बनाउनुहोस्, खर्च लग गर्नुहोस् र स्टक व्यवस्थापन गर्नुहोस्। अनलाइन हुँदा सबै स्वचालित सिङ्क।",
+  "walkthroughOfflineTitle": "इन्टरनेट बिना पनि काम गर्छ",
+  "walkthroughReadyDescription": "केही मिनेटमा संगठन सेटअप गर्नुहोस् र आजै स्मार्ट तरिकाले व्यवसाय चलाउनुहोस्। सुरु गरौं।",
+  "walkthroughReadyTitle": "तपाईं तयार हुँदा तयार",
+  "walkthroughStaffDescription": "उपस्थिति र तलब चलाउनुहोस्, त्यसपछि P&L र पे-स्लिप PDF निर्यात गर्नुहोस् — अतिरिक्त उपकरण चाहिँदैन।",
+  "walkthroughStaffTitle": "कर्मचारी, तलब र प्रतिवेदन",
+  "ok": "ठीक छ",
+  "reportPeriodYear": "वर्ष",
+  "reportPeriodMonth": "महिना",
+  "reportPeriodRange": "दायरा",
+  "reportPeriodDay": "दिन",
+  "reportPeriodFrom": "देखि",
+  "reportPeriodTo": "सम्म",
+  "reportPeriod": "अवधि",
+  "reportAllPurchases": "सबै खरिद",
+  "reportBeforeTax": "कर अघि",
+  "reportRevenueRetained": "राजस्व बाँकी",
+  "reportHideDetails": "विवरण लुकाउनुहोस्",
+  "reportShowDetails": "विवरण देखाउनुहोस्",
+  "reportSalesRevenue": "बिक्री राजस्व",
+  "reportDiscountsGiven": "दिइएका छुट",
+  "reportNetRevenue": "शुद्ध राजस्व",
+  "reportOperatingExpenses": "सञ्चालन खर्च",
+  "reportTotalExpenses": "कुल खर्च",
+  "reportGrossProfit": "कुल नाफा",
+  "reportGrossProfitChart": "कुल नाफा",
+  "reportOperatingPlDisclaimer": "कर, मूल्यह्रास र तलब दायित्व अझै समावेश छैन — सञ्चालन स्तर P&L अनुमान।",
+  "reportContraLabel": "कन्ट्रा",
+  "reportNoDataForPeriod": "छानिएको अवधिका लागि कुनै डाटा छैन",
+  "reportRevenueVsExpenses": "राजस्व बनाम खर्च",
+  "reportExpenseBreakdown": "खर्च विवरण",
+  "reportExpenseFallback": "खर्च",
+  "reportGrossMarginPercent": "कुल मार्जिन %",
+  "reportRoomVsFnB": "कोठा बनाम F&B",
+  "reportSegmentRoom": "कोठा",
+  "reportSegmentFnB": "F&B",
+  "reportKeyMetrics": "मुख्य मेट्रिक",
+  "reportIncomeStatement": "आय विवरण",
+  "reportChartsSection": "चार्ट",
+  "reportSegmentSummary": "खण्ड सारांश",
+  "reportFailedToLoad": "प्रतिवेदन लोड असफल",
+  "reportOverview": "अवलोकन",
+  "reportOverviewCash": "नगद",
+  "reportOverviewBank": "बैंक",
+  "reportMonthlyOpeningBalance": "मासिक सुरुवाती शेष",
+  "reportOpeningBalanceHint": "प्रत्येक महिनाको सुरुमा नगद स्थिति",
+  "reportCashInOut": "नगद प्राप्ति / भुक्तानी",
+  "reportCashIn": "नगद प्राप्ति",
+  "reportCashOut": "नगद भुक्तानी",
+  "reportBankReceiptsPayments": "बैंक प्राप्ति / भुक्तानी",
+  "reportReceipts": "प्राप्ति",
+  "reportPayments": "भुक्तानी",
+  "reportDailyCashVsQr": "दैनिक नगद बनाम QR",
+  "reportSummariesSection": "सारांश",
+  "reportCashSummary": "नगद सारांश",
+  "reportBankSummary": "बैंक सारांश",
+  "reportDailySummary": "दैनिक सारांश",
+  "reportTabPurchase": "खरिद",
+  "reportTabSales": "बिक्री",
+  "reportTabDashboard": "ड्यासबोर्ड",
+  "reportSingleDayTrend": "एक दिन — दैनिक प्रवृत्ति",
+  "reportFullYearTrend": "पूरा वर्ष — मासिक प्रवृत्ति चार्ट",
+  "reportYearLabel": "वर्ष {year}",
+  "@reportYearLabel": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportJanDec": "जन – डिस {year}",
+  "@reportJanDec": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportTotalPurchases": "कुल खरिद",
+  "reportTotalSales": "कुल बिक्री",
+  "reportTotalInvoices": "कुल बिल",
+  "reportUnpaidBalance": "नतिरेको शेष",
+  "reportAvgPerInvoice": "प्रति बिल औसत",
+  "reportPerTransaction": "प्रति लेनदेन",
+  "reportMonthlySpend": "मासिक खर्च ({symbol})",
+  "@reportMonthlySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportMonthlySalesChart": "मासिक बिक्री ({symbol})",
+  "@reportMonthlySalesChart": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportInvoiceCountByMonth": "महिना अनुसार बिल संख्या",
+  "reportTopItemsBySpend": "खर्च अनुसार शीर्ष वस्तु ({symbol})",
+  "@reportTopItemsBySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSpendByCategory": "श्रेणी अनुसार खर्च",
+  "reportOtherCategory": "अन्य",
+  "reportSuppliers": "आपूर्तिकर्ता",
+  "reportTableSupplier": "आपूर्तिकर्ता",
+  "reportTableAmount": "रकम",
+  "reportTableBills": "बिल",
+  "reportSalesTotal": "कुल बिक्री",
+  "reportPurchaseTotal": "कुल खरिद",
+  "reportPositiveMargin": "धनात्मक मार्जिन",
+  "reportNegativeMargin": "ऋणात्मक मार्जिन",
+  "reportGrossMargin": "कुल मार्जिन",
+  "reportOfTotalSales": "कुल बिक्री को",
+  "reportFailedToLoadAnalytics": "विश्लेषण लोड असफल",
+  "reportMarginKpi": "मार्जिन",
+  "reportExpensesKpi": "खर्च",
+  "partyPickerNoResultsFor": "\"{query}\" का लागि कुनै नतिजा छैन",
+  "@partyPickerNoResultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerNoPartiesForRole": "कुनै {role} पक्ष फेला परेन",
+  "@partyPickerNoPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerLoadParties": "पक्ष लोड गर्नुहोस्",
+  "invoiceCashCustomer": "नगद ग्राहक",
+  "invoiceQuickAddItemsTitle": "छिटो वस्तु थप",
+  "invoiceQuickLoadingMenu": "मेनु लोड हुँदै…",
+  "invoiceQuickInvoiceCreated": "बिल बनाइयो",
+  "invoiceQuickAddAtLeastOneItem": "कम्तीमा एउटा वस्तु थप्नुहोस्",
+  "invoiceQuickNoResults": "कुनै नतिजा फेला परेन!",
+  "invoiceQuickNoItemsInCategory": "यो श्रेणीमा कुनै वस्तु छैन",
+  "invoiceQuickAddItem": "वस्तु थप्नुहोस्",
+  "invoiceQuickLoadMore": "थप लोड",
+  "invoiceQuickScrollLoadMore": "थप लोड गर्न स्क्रोल गर्नुहोस् ({count} प्रति पृष्ठ)",
+  "invoiceQuickSupplierEmployee": "आपूर्तिकर्ता / कर्मचारी",
+  "invoiceQuickEditItem": "वस्तु सम्पादन",
+  "invoiceQuickFavorites": "मनपर्ने",
+  "invoiceQuickRepeated": "दोहोरिएको",
+  "invoiceQuickRepeatedHint": "धेरै पटक बेचिने वस्तुहरू",
+  "invoiceQuickAddFavorite": "मनपर्नेमा थप्नुहोस्",
+  "invoiceQuickRemoveFavorite": "मनपर्नेबाट हटाउनुहोस्",
+  "invoiceQuickFavoriteAdded": "मनपर्नेमा थपियो",
+  "invoiceQuickFavoriteRemoved": "मनपर्नेबाट हटाइयो",
+  "invoiceQuickNoFavorites": "अहिलेसम्म मनपर्ने वस्तु छैन",
+  "invoiceQuickNoFavoritesSubtitle": "धेरै बेच्ने वस्तुमा तारा थिच्नुहोस्, यहाँ देखिन्छ।",
+  "invoiceQuickNoRepeated": "अहिलेसम्म दोहोरिएको बिक्री छैन",
+  "invoiceQuickNoRepeatedSubtitle": "एक पटकभन्दा बढी बेचेका वस्तुहरू यहाँ स्वतः देखिन्छन्।",
+  "closeSelectDateRange": "मिति दायरा छान्नुहोस्",
+  "closeStartDate": "सुरु मिति",
+  "closeEndDate": "अन्त्य मिति",
+  "closeSelectBothDates": "कृपया सुरु र अन्त्य दुवै मिति छान्नुहोस्",
+  "closeDeleteSummary": "सारांश मेटाउनुहोस्",
+  "closeDeleteSummaryConfirm": "के तपाईं यो सारांश मेटाउन निश्चित हुनुहुन्छ?",
+  "closeSelectDate": "मिति छान्नुहोस्",
+  "closeNoDataToExport": "निर्यात गर्न कुनै डाटा छैन",
+  "closeNoDataToShare": "साझा गर्न कुनै डाटा छैन",
+  "closeNoDataToPrint": "प्रिन्ट गर्न कुनै डाटा छैन",
+  "closePdfGenerateError": "PDF बनाउँदा त्रुटि: {error}",
+  "@closePdfGenerateError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfShareError": "PDF साझा गर्दा त्रुटि: {error}",
+  "@closePdfShareError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfPrintError": "PDF प्रिन्ट गर्दा त्रुटि: {error}",
+  "@closePdfPrintError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExportPdf": "PDF को रूपमा निर्यात",
+  "closeSharePdf": "PDF साझा",
+  "closePrint": "प्रिन्ट",
+  "closeExportOptions": "निर्यात विकल्प",
+  "closeExportPdfSubtitle": "PDF कागजातको रूपमा बचत वा हेर्नुहोस्",
+  "closeSharePdfSubtitle": "एप वा इमेल मार्फत साझा गर्नुहोस्",
+  "closePrintSubtitle": "प्रतिवेदन प्रिन्ट गर्नुहोस्",
+  "invoiceQuickShowingItems": "{total} मध्ये {shown} देखाइँदै",
+  "invoiceQuickLoadedItems": "लोड: {count}",
+  "invoiceQuickRoomCabinEmployee": "कोठा / केबिन / कर्मचारी",
+  "reportPercentOfRevenue": "राजस्व को {percent}%",
+  "@reportPercentOfRevenue": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "reportParties": "पक्ष",
+  "reportMonthYearDailyTrend": "{month} {year} — दैनिक प्रवृत्ति चार्ट",
+  "@reportMonthYearDailyTrend": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceQuickCart": "कार्ट",
+  "invoiceQuickCartWithCount": "कार्ट ({count})",
+  "invoiceQuickClearSearch": "खोज खाली गर्नुहोस्",
+  "closeAllRecords": "सबै रेकर्ड",
+  "closeDailyCashSummaryReport": "दैनिक नगद सारांश प्रतिवेदन",
+  "closeDailyCashSummaryTitle": "दैनिक नगद सारांश",
+  "closeDetails": "विवरण",
+  "closeGeneratedAt": "उत्पादन: {date}",
+  "@closeGeneratedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "closePageN": "पृष्ठ {n}",
+  "@closePageN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "closePeriodRange": "अवधि: {start} देखि {end}",
+  "@closePeriodRange": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummaryOverview": "सारांश अवलोकन",
+  "closeTotalRecords": "कुल रेकर्ड",
+  "closeAddSummary": "सारांश थप्नुहोस्",
+  "closeSalesAmount": "बिक्री रकम",
+  "closeClosingBalance": "अन्तिम मौज्दात",
+  "closeLostMoney": "हराएको पैसा",
+  "closeDiscount": "छुट",
+  "closeExpenses": "खर्च",
+  "closeUnpaid": "नतिरिएको",
+  "closeTotalOpeningBalance": "कुल सुरु मौज्दात",
+  "closeTotalSalesAmount": "कुल बिक्री रकम",
+  "closeTotalCashAmount": "कुल नगद रकम",
+  "closeTotalQrAmount": "कुल QR रकम",
+  "closeTotalDiscount": "कुल छुट",
+  "closeTotalExpenses": "कुल खर्च",
+  "closeTotalClosingBalance": "कुल अन्तिम मौज्दात",
+  "closeTotalLostMoney": "कुल हराएको पैसा",
+  "closeTotalExtraAmount": "कुल थप रकम",
+  "closeShowingCurrentMonth": "हालको महिनाको डाटा देखाइँदै",
+  "closeNoSummariesFound": "कुनै सारांश फेला परेन",
+  "closeNoSummariesAvailable": "कुनै सारांश छैन",
+  "closeTryAdjustingDateRange": "मिति दायरा समायोजन गर्नुहोस्",
+  "closeCreateFirstSummary": "सुरु गर्न पहिलो सारांश बनाउनुहोस्",
+  "closeClearFilter": "फिल्टर हटाउनुहोस्",
+  "closeFiltered": "फिल्टर गरिएको",
+  "closeFilteredWithRange": "फिल्टर: {range}",
+  "@closeFilteredWithRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummarySingular": "सारांश",
+  "closeSummariesPlural": "सारांशहरू",
+  "closeSummaryUpdatedSuccess": "सारांश सफलतापूर्वक अपडेट",
+  "closeSummaryDeletedSuccess": "सारांश सफलतापूर्वक मेटियो",
+  "premiumUnlockTitle": "{appName} Premium अनलक गर्नुहोस्",
+  "@premiumUnlockTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumTagline": "पूर्ण अफलाइन POS, इनभ्वाइस, इन्भेन्टरी र रिपोर्ट — तपाईंको व्यवसायका लागि एउटै सदस्यता।",
+  "premiumFeatureUnlimitedInvoices": "असीमित इनभ्वाइस र रसिद",
+  "premiumFeatureInventoryStock": "इन्भेन्टरी र स्टक ट्र्याकिङ",
+  "premiumFeatureReportsAnalytics": "बिक्री रिपोर्ट र विश्लेषण",
+  "premiumFeatureOfflineLocal": "अफलाइन काम गर्छ — तपाईंको डेटा स्थानीय रहन्छ",
+  "premiumContinueWith": "{plan} सँग जारी राख्नुहोस्",
+  "@premiumContinueWith": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRestorePurchases": "खरिद पुनर्स्थापना गर्नुहोस्",
+  "premiumSubscriptionLegal": "भुक्तानी तपाईंको Apple ID मा चार्ज हुन्छ। अवधि समाप्त हुनुभन्दा कम्तीमा २४ घण्टा अघि रद्द नगरेमा सदस्यता स्वतः नवीकरण हुन्छ।",
+  "premiumPurchaseRestored": "खरिद पुनर्स्थापना भयो।",
+  "premiumNoActiveSubscription": "कुनै सक्रिय सदस्यता फेला परेन।",
+  "premiumPlanMonthly": "मासिक",
+  "premiumPlanMonthlySubtitle": "लचिलो — जुनसुकै बेला रद्द गर्नुहोस्",
+  "premiumPlanYearly": "वार्षिक",
+  "premiumPlanYearlySubtitle": "उत्तम मूल्य — {percent}% बचत",
+  "@premiumPlanYearlySubtitle": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "premiumPlanLifetime": "आजीवन",
+  "premiumPlanLifetimeSubtitle": "एक पटक तिर्नुहोस्, सधैं राख्नुहोस्",
+  "premiumPlanPopular": "लोकप्रिय",
+  "premiumOneTimePurchase": "एक पटकको खरिद",
+  "subscriptionSectionTitle": "सदस्यता",
+  "subscriptionPremiumLabel": "Premium",
+  "subscriptionUpgradeTitle": "Premium मा अपग्रेड गर्नुहोस्",
+  "subscriptionPremiumPricing": "मासिक {monthly} · वार्षिक {yearly}",
+  "@subscriptionPremiumPricing": {
+    "placeholders": {
+      "monthly": {
+        "type": "String"
+      },
+      "yearly": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActiveUntil": "{plan} {date} सम्म सक्रिय",
+  "@subscriptionPremiumActiveUntil": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActive": "{plan} सक्रिय",
+  "@subscriptionPremiumActive": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRequired": "Premium आवश्यक",
+  "upgradeToPremiumContinue": "जारी राख्न Premium मा अपग्रेड गर्नुहोस्।",
+  "freemiumFreePlanLimit": "निःशुल्क योजनामा अधिकतम {limit} {label}। असीमित पहुँचका लागि Premium मा अपग्रेड गर्नुहोस्।",
+  "@freemiumFreePlanLimit": {
+    "placeholders": {
+      "limit": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "freemiumPartyRoleRequired": "पार्टी भूमिका आवश्यक छ।",
+  "shiftReminderOpeningTitle": "खोल्ने सम्झना",
+  "shiftReminderOpeningMessage": "के तपाईंले आजको लागि रजिष्टर खोल्नुभयो?",
+  "shiftReminderOpeningProceed": "हो, अहिले खोल्नुहोस्",
+  "shiftReminderClosingTitle": "बन्द गर्ने सम्झना",
+  "shiftReminderClosingMessage": "के तपाईंले आजको लागि रजिष्टर बन्द गर्नुभयो?",
+  "shiftReminderClosingProceed": "हो, अहिले बन्द गर्नुहोस्",
+  "shiftReminderSkipToday": "आजका लागि छोड्नुहोस्",
+  "shiftReminderOpeningNotificationTitle": "खोल्ने सम्झना",
+  "shiftReminderOpeningNotificationBody": "के तपाईंले आजको लागि रजिष्टर खोल्नुभयो? अझै खोल्नुपर्छ भने यहाँ ट्याप गर्नुहोस्।",
+  "shiftReminderClosingNotificationTitle": "बन्द गर्ने सम्झना",
+  "shiftReminderClosingNotificationBody": "के तपाईंले आजको लागि रजिष्टर बन्द गर्नुभयो? अझै बन्द गर्नुपर्छ भने यहाँ ट्याप गर्नुहोस्।",
+  "closeExchangePayQrGetCashHint": "{business} ले ग्राहकलाई QR तिर्छ; ग्राहकले नगद दिन्छ।",
+  "@closeExchangePayQrGetCashHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExchangePayCashGetQrHint": "{business} ले ग्राहकलाई नगद तिर्छ; ग्राहकले QR भुक्तानी दिन्छ।",
+  "@closeExchangePayCashGetQrHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closePaymentExchange": "भुक्तानी विनिमय",
+  "closePayQrGetCashExchangeLabel": "QR तिरेर नगद विनिमय",
+  "closePayCashGetQrExchangeLabel": "नगद तिरेर QR विनिमय",
+  "closePayQrGetCashDetail": "QR तिरेर नगद पाउनु",
+  "closePayCashGetQrDetail": "नगद तिरेर QR पाउनु",
+  "faqSectionPremium": "Premium र बिलिङ",
+  "faqPremiumWhatsIncludedQuestion": "Premium मा के के छ?",
+  "faqPremiumWhatsIncludedAnswer": "Premium ले असीमित इनभ्वाइस, पूर्ण रिपोर्ट (P&L, विवरण, विश्लेषण), ब्याकअप र सिङ्क, पेरोल, उपस्थिति, स्टक उपकरण, इनभ्वाइस निर्यात/प्रिन्ट र थप संस्थाहरू unlock गर्छ। निःशुल्क स्तरमा मुख्य POS सुविधा उचित सीमा भित्र प्रयोग गर्न सकिन्छ।",
+  "faqPremiumFreeTierQuestion": "निःशुल्क स्तरमा के छ?",
+  "faqPremiumFreeTierAnswer": "तपाईं अधिकतम १० बिक्री र १० खरिद इनभ्वाइस, ४ कर्मचारी, ३० वस्तु बनाउन सक्नुहुन्छ र सीमा पुग्दा अन्य सीमा देखिन्छ। खोल्ने, बन्द, क्याल्कुलेटर र डेटा हेर्नु निःशुल्क रहन्छ।",
+  "faqPremiumRestoreQuestion": "खरिद कसरी पुनर्स्थापना गर्ने?",
+  "faqPremiumRestoreAnswer": "थप → Premium मा अपग्रेड (वा paywall) खोल्नुहोस् र खरिद पुनर्स्थापना ट्याप गर्नुहोस्। सदस्यता लिएको Apple ID प्रयोग गर्नुहोस्।",
+  "faqPremiumCancelQuestion": "सदस्यता कसरी रद्द गर्ने?",
+  "faqPremiumCancelAnswer": "iPhone Settings → Apple ID → Subscriptions मा व्यवस्थापन वा रद्द गर्नुहोस्। भुक्तानी अवधि समाप्तसम्म पहुँच रहन्छ।",
+  "faqDarkModeQuestion": "डार्क मोड कसरी सक्रिय गर्ने?",
+  "faqDarkModeAnswer": "थप → देखावट खोल्नुहोस् र Dark mode सक्षम गर्नुहोस्। उपकरणले प्रणाली थिम प्रयोग गर्दा एप स्वतः अनुसरण गर्छ।",
+  "faqOpeningClosingReminderQuestion": "खोल्ने र बन्द गर्ने सम्झना के हो?",
+  "faqOpeningClosingReminderAnswer": "{appName} ले दैनिक नगद रजिष्टर खोल्न वा बन्द गर्न सम्झना दिन सक्छ। तपाईं जारी राख्न, आज छोड्न वा सम्झना खारेज गर्न सक्नुहुन्छ।",
+  "faqPartyRolesQuestion": "पार्टी भूमिका के हो?",
+  "faqPartyRolesAnswer": "पार्टी भूमिकाले ग्राहक, आपूर्तिकर्ता, कोठा वा कर्मचारी जस्ता सम्पर्क वर्गीकरण गर्छ। सञ्चालन → Party roles मा अनुकूलन गर्नुहोस् र टोलीका लागि छोटो विवरण थप्नुहोस्।",
+  "faqRateAppQuestion": "{appName} कसरी मूल्याङ्कन गर्ने?",
+  "faqRateAppAnswer": "App Store मा समीक्षा दिन थप → Rate us खोल्नुहोस्। तपाईंको प्रतिक्रियाले अफलाइन बिलिङ सुधार गर्छ।",
+  "freemiumLabelSalesInvoices": "बिक्री इनभ्वाइस",
+  "freemiumLabelPurchaseInvoices": "खरिद इनभ्वाइस",
+  "freemiumLabelEmployees": "कर्मचारी",
+  "freemiumLabelItems": "वस्तु",
+  "freemiumLabelCategories": "श्रेणी",
+  "freemiumLabelPaymentMethods": "भुक्तानी विधि",
+  "freemiumLabelCustomPartyRoles": "अनुकूलित पार्टी भूमिका",
+  "freemiumLabelPartiesForRole": "{role} का लागि पार्टी",
+  "freemiumLabelOrganizations": "संस्था",
+  "freemiumPremiumReports": "रिपोर्ट Premium सँग उपलब्ध छ।",
+  "freemiumPremiumBackupSync": "ब्याकअप र सिङ्क Premium चाहिन्छ।",
+  "freemiumPremiumPayroll": "पेरोल Premium चाहिन्छ।",
+  "freemiumPremiumAttendance": "उपस्थिति Premium चाहिन्छ।",
+  "freemiumPremiumStock": "स्टक व्यवस्थापन Premium चाहिन्छ।",
+  "freemiumPremiumInvoiceExport": "डाउनलोड र प्रिन्ट Premium चाहिन्छ।",
+  "@faqOpeningClosingReminderAnswer": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@faqRateAppQuestion": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@freemiumLabelPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  }
+}

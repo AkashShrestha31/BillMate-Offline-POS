@@ -1,0 +1,45 @@
+Billmate is een offline kassa, winkelkassa en restaurantfacturatie voor winkels, cafés, bars en kleine bedrijven.
+
+FACTURATIE
+
+Maak verkoop- en inkoopfacturen met regels, kortingen en klantopvolging — een volledige factuurmaker op zak. Noteer uitgaven per categorie, volg openstaande bedragen van elke klant en leverancier, en verreken volledig, deels of in bulk. Exporteer elke factuur of bon als PDF. Geen internet nodig.
+
+KASSA VOOR WINKELS EN DETAIL
+
+Snelle checkout voor winkels en kleine bedrijven. Accepteer contant, QR en kaart en print bonnen op elke ESC/POS-thermische printer. Je telefoon wordt de kassa.
+
+RESTAURANT- EN BARKASSA MET TAFELBEHEER
+
+Een volledige restaurantkassa met een visuele tafelindeling. Neem bestellingen aan tafel of om mee te nemen, stuur ze naar de keuken (KOT) en volg elk gerecht van bestelling tot uitgifte. Inclusief een drankenlijst voor bars.
+
+VOORRAAD
+
+Volg de voorraad van winkel, magazijn of restaurant. Vergelijk tellingen met de administratie, corrigeer verschillen meteen, upload voorraad in bulk via CSV of Excel en exporteer rapporten als PDF.
+
+PERSONEEL, LOON EN AANWEZIGHEID
+
+Bewaar personeelsdossiers, noteer dagelijkse aanwezigheid en maak de loonlijst automatisch uit werkdagen en salaris, met inhouding van voorschotten. Exporteer loonstroken als PDF en beheer verlof.
+
+RAPPORTEN, BOEKHOUDING EN ANALYSE
+
+Winst en verlies, rekeningoverzichten van klanten en leveranciers, betalingssamenvattingen en grafieken van omzet tegen uitgaven per dag, week, maand of eigen periode. Een dagelijks kasoverzicht toont de dagafsluiting.
+
+EERST OFFLINE — ALTIJD AAN
+
+Verkoop, uitgaven, voorraad, personeel en kas draaien op je apparaat en blijven na een herstart. Geen verbinding, geen onderbreking.
+
+TOEGANG PER ROL EN BEVEILIGING
+
+Stel rechten per rol in, van kassier tot manager, met fijne controle over facturen, retouren en wijzigingen. Je bedrijfsgegevens blijven op het apparaat.
+
+MEERDERE VALUTA’S, MEERDERE APPARATEN
+
+Facturatie in meerdere valuta’s. Werkt op telefoons en tablets.
+
+KLAAR OP DAG ÉÉN
+
+39 bedrijfscategorieën staan al klaar — eten, drinken, verblijf, benodigdheden en meer. Geen installatie. Open de app en begin met verkopen.
+
+Van de hoekwinkel tot de berghut, van het stadscafé tot de volle bar — Billmate is de kassa en facturatie die blijft draaien, ook offline.
+
+Privacybeleid: https://billmate-woad.vercel.app/

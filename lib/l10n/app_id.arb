@@ -1,0 +1,2653 @@
+{
+  "@@locale": "id",
+  "noInternetConnection": "Tidak ada koneksi internet.",
+  "formatException": "Pengecualian format",
+  "rememberMe": "Ingat saya",
+  "signIn": "Masuk",
+  "passwordHint": "Masukkan kata sandi",
+  "forgetPassword": "Lupa informasi login?",
+  "okay": "Oke",
+  "success": "Berhasil",
+  "hotel": "hotel",
+  "errorEncountered": "Terjadi kesalahan",
+  "serverError": "Kesalahan server",
+  "requestFailed": "Permintaan gagal",
+  "connectionTimedOut": "Koneksi habis waktu",
+  "password": "Kata sandi",
+  "keepSignIn": "Tetap masuk",
+  "enterPassword": "Masukkan kata sandi",
+  "enterValidPassword": "Masukkan kata sandi yang valid",
+  "skip": "LEWATI",
+  "pleaseWait": "Harap tunggu ....",
+  "enterValidUserName": "Masukkan nama pengguna yang valid.",
+  "userName": "Nama pengguna",
+  "or": "Atau",
+  "retry": "Coba lagi",
+  "error": "Kesalahan",
+  "supportMessage": "Hubungi admin.",
+  "responseMessage404": "Kesalahan 404",
+  "appDisplayName": "BizTrack",
+  "appVersionLabel": "Versi {version}",
+  "@appVersionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "Batal",
+  "yes": "Ya",
+  "no": "Tidak",
+  "close": "Tutup",
+  "save": "Simpan",
+  "delete": "Hapus",
+  "confirm": "Konfirmasi",
+  "done": "Selesai",
+  "next": "Lanjut",
+  "getStarted": "Mulai",
+  "back": "Kembali",
+  "submit": "Kirim",
+  "continueAction": "Lanjutkan",
+  "tryAgain": "Coba lagi",
+  "warning": "PERINGATAN",
+  "loading": "Memuat…",
+  "comingSoon": "Segera hadir",
+  "required": "Wajib",
+  "search": "Cari",
+  "add": "Tambah",
+  "edit": "Ubah",
+  "remove": "Hapus",
+  "view": "Lihat",
+  "export": "Ekspor",
+  "import": "Impor",
+  "refresh": "Muat ulang",
+  "select": "Pilih",
+  "upload": "Unggah",
+  "download": "Unduh",
+  "share": "Bagikan",
+  "filter": "Filter",
+  "sort": "Urutkan",
+  "apply": "Terapkan",
+  "reset": "Atur ulang",
+  "clear": "Hapus",
+  "all": "Semua",
+  "none": "Tidak ada",
+  "total": "Total",
+  "subtotal": "Subtotal",
+  "grandTotal": "Total Keseluruhan",
+  "amount": "Jumlah",
+  "quantity": "Kuantitas",
+  "rate": "Harga",
+  "discount": "Diskon",
+  "paid": "Lunas",
+  "unpaid": "Belum dibayar",
+  "credit": "Kredit",
+  "cash": "Tunai",
+  "date": "Tanggal",
+  "time": "Waktu",
+  "name": "Nama",
+  "email": "Email",
+  "phone": "Telepon",
+  "address": "Alamat",
+  "notes": "Catatan",
+  "description": "Deskripsi",
+  "status": "Status",
+  "type": "Tipe",
+  "category": "Kategori",
+  "party": "Pihak",
+  "item": "Item",
+  "payment": "Pembayaran",
+  "settlement": "Penyelesaian",
+  "opening": "Pembukaan",
+  "closing": "Penutupan",
+  "stock": "Stock reconciliation",
+  "expense": "Pengeluaran",
+  "revenue": "Pendapatan",
+  "profit": "Laba",
+  "loss": "Kerugian",
+  "sales": "Penjualan",
+  "purchase": "Pembelian",
+  "monthJan": "Jan",
+  "monthFeb": "Feb",
+  "monthMar": "Mar",
+  "monthApr": "Apr",
+  "monthMay": "Mei",
+  "monthJun": "Jun",
+  "monthJul": "Jul",
+  "monthAug": "Agu",
+  "monthSep": "Sep",
+  "monthOct": "Okt",
+  "monthNov": "Nov",
+  "monthDec": "Des",
+  "more": "Lainnya",
+  "profile": "Profil",
+  "operations": "Operasi",
+  "employeeManagement": "Manajemen karyawan",
+  "report": "Laporan",
+  "helpAndSupport": "Bantuan & Dukungan",
+  "privacyAndPolicies": "Privasi & Kebijakan",
+  "faq": "Pertanyaan Umum",
+  "contactSupport": "Hubungi dukungan",
+  "rateUs": "Beri nilai kami",
+  "rateUsSubtitle": "Menikmati BizTrack? Tinggalkan ulasan di Google Play",
+  "rateUsUnavailable": "Tidak dapat membuka toko. Coba lagi nanti.",
+  "reportProblem": "Laporkan masalah",
+  "logout": "Keluar",
+  "signOut": "Keluar",
+  "settings": "Pengaturan",
+  "testData": "Data uji",
+  "regionAndCurrency": "Wilayah & mata uang",
+  "reportingCurrency": "Mata uang pelaporan",
+  "selectCurrency": "Pilih mata uang",
+  "currencySample": "{code} · {symbol} · contoh {sample}",
+  "@currencySample": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      },
+      "sample": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdated": "Mata uang diatur ke {code} ({symbol})",
+  "@currencyUpdated": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdateFailed": "Tidak dapat memperbarui mata uang: {error}",
+  "@currencyUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "setupAppTitle": "Siapkan {appName}",
+  "@setupAppTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "setupSubtitle": "Konfigurasikan organisasi dan akuntansi Anda — disimpan di perangkat ini untuk penggunaan offline.",
+  "regionAndCurrencySubtitle": "Lokal dan mata uang pelaporan.",
+  "country": "Negara",
+  "currency": "Mata uang",
+  "selectCountry": "Pilih negara",
+  "language": "Bahasa",
+  "selectLanguage": "Pilih bahasa",
+  "languageUpdated": "Bahasa diatur ke {name}",
+  "@languageUpdated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "languageUpdateFailed": "Tidak dapat memperbarui bahasa: {error}",
+  "@languageUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToApp": "Selamat datang di {appName}",
+  "@welcomeToApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "forceUpdateMessage": "Instal versi terbaru {appName} untuk melanjutkan.",
+  "@forceUpdateMessage": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "generatedByApp": "Dibuat oleh {appName}",
+  "@generatedByApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "whatIsApp": "Apa itu {appName}?",
+  "@whatIsApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "appDescriptionFaq": "{appName} membantu Anda mengelola faktur penjualan dan pembelian, pihak (pelanggan dan pemasok), stok, pembayaran, karyawan, dan ringkasan harian — dari ponsel atau tablet Anda.",
+  "@appDescriptionFaq": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "faqIntro": "Jawaban atas pertanyaan umum tentang {appName}.",
+  "@faqIntro": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseFromGallery": "Pilih dari Galeri",
+  "takePhoto": "Ambil Foto",
+  "photoLibrary": "Perpustakaan foto",
+  "addPhoto": "Tambah foto",
+  "couldNotPickImage": "Tidak dapat memilih gambar: {error}",
+  "@couldNotPickImage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteOrganizationTitle": "Hapus organisasi?",
+  "deleteOrganizationMessage": "Hapus {name} dari perangkat ini. Semua data lokal untuk organisasi ini akan dihapus.",
+  "deleteOrganizationWarning": "Ini tidak dapat dibatalkan.",
+  "organizationDeleted": "Organisasi dihapus",
+  "createAction": "Buat",
+  "connectOrganizationTitle": "Hubungkan Organisasi Anda",
+  "connectOrganizationSubtitle": "Pilih organisasi untuk masuk.",
+  "selectOrganization": "Organisasi",
+  "selectOrganizationHint": "Ketuk organisasi untuk melanjutkan",
+  "noSavedOrganizationsYet": "Belum ada organisasi. Buat satu atau gunakan data uji di bawah.",
+  "orgConnectOnceInfo": "Ini menghubungkan aplikasi ke akun bisnis Anda. Anda hanya perlu mengaturnya sekali per perangkat.",
+  "organizationCodeLabel": "Kode: {code}",
+  "loginWithTestData": "Masuk dengan data uji",
+  "loginWithTestDataSubtitle": "Muat data hotel demo dan masuk secara otomatis",
+  "testDataLoginFailed": "Tidak dapat memuat data uji: {error}",
+  "preparingTestData": "Mempersiapkan data demo…",
+  "setupOrganizationName": "Nama organisasi",
+  "setupCompanyName": "Nama perusahaan",
+  "setupBusinessType": "Jenis bisnis",
+  "businessTypeHotel": "Hotel",
+  "businessTypeRestaurant": "Restoran",
+  "businessTypeHotelRestaurant": "Hotel & Restoran",
+  "businessTypeRetail": "Ritel / Toko",
+  "businessTypeCafe": "Kafe / Bakeri",
+  "businessTypeBar": "Bar / Pub",
+  "businessTypeOther": "Lainnya",
+  "organizationBusinessTypeLabel": "Jenis: {type}",
+  "@organizationBusinessTypeLabel": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "organizationSettings": "Organisasi",
+  "editOrganizationInfo": "Info organisasi",
+  "editOrganizationInfoSubtitle": "Perbarui tampilan bisnis ini di aplikasi. Kode organisasi tidak dapat diubah.",
+  "organizationCode": "Kode organisasi",
+  "organizationCodeReadOnly": "Kode ini ditetapkan setelah penyiapan.",
+  "organizationInfoUpdated": "Info organisasi disimpan",
+  "organizationInfoLoadFailed": "Tidak dapat memuat info organisasi",
+  "organizationInfoSaveFailed": "Tidak dapat menyimpan info organisasi: {error}",
+  "@organizationInfoSaveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "saveChanges": "Simpan perubahan",
+  "setupFullName": "Nama lengkap",
+  "setupConfirmPassword": "Konfirmasi kata sandi",
+  "setupBankName": "Nama bank",
+  "setupRegionStepTitle": "Wilayah & mata uang",
+  "setupOrganizationStepTitle": "Organisasi",
+  "setupOrganizationStepSubtitle": "Bagaimana bisnis Anda tampil di aplikasi",
+  "setupAdminStepTitle": "Akun admin",
+  "setupAdminStepSubtitle": "Pengguna utama untuk instalasi ini",
+  "setupAccountingStepTitle": "Akuntansi",
+  "setupAccountingStepSubtitle": "Bank, bagan akun, dan tahun fiskal",
+  "setupCompleteSetup": "Selesaikan pengaturan",
+  "fieldRequired": "{field} wajib diisi",
+  "invalidEmailAddress": "Masukkan alamat email yang valid",
+  "passwordMinLength": "Kata sandi harus minimal {min} karakter",
+  "passwordsDoNotMatch": "Kata sandi tidak cocok",
+  "setupFixValidationErrors": "Perbaiki kesalahan di bawah untuk melanjutkan",
+  "setupCompleteSuccess": "Pengaturan berhasil diselesaikan",
+  "setupCompleteWithPdfSuccess": "Pengaturan selesai. Simpan PDF di tempat yang aman.",
+  "setupPdfFailed": "Pengaturan selesai, tetapi PDF tidak dapat disimpan: {error}",
+  "setupFailed": "Pengaturan tidak dapat diselesaikan. Silakan coba lagi.",
+  "setupFailedWithDetails": "Pengaturan gagal: {error}",
+  "languageChangeLaterHint": "Anda dapat mengubahnya nanti dari pengaturan",
+  "unpaidAmount": "Belum lunas Jumlah",
+  "unpaidBalance": "Belum lunas",
+  "unpaidColonAmount": "Belum lunas: {amount}",
+  "previousUnpaid": "Belum lunas",
+  "partyUnpaid": "Belum lunas",
+  "loadingUnpaid": "Belum lunas…",
+  "totalUnpaid": "Belum lunas",
+  "unpaidAmountNotYetCollected": "Jumlah belum dibayar yang belum dikumpulkan.",
+  "partyUnpaidTabHint": "Buka Karyawan, pilih seseorang, lalu ketuk Belum dibayar pihak di profil mereka. Server memerlukan id karyawan untuk pencarian ini.",
+  "partySettlementUsesUnpaidTotal": "Penyelesaian pihak menggunakan total belum dibayar.",
+  "selectPartyWithUnpaidFirst": "Masukkan jumlah penyelesaian terlebih dahulu (atau pilih pihak dengan belum dibayar).",
+  "@unpaidColonAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "partyRolesTitle": "Peran pihak",
+  "partyRolesMoreSubtitle": "Pelanggan, pemasok, keduanya & lainnya",
+  "searchRoles": "Cari peran",
+  "roleCount": "{count, plural, =1{1 peran} other{{count} peran}}",
+  "@roleCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noRolesYet": "Belum ada peran",
+  "noRolesYetHint": "Tambahkan Pelanggan, Pemasok, Keduanya, atau peran khusus untuk kontak.",
+  "addRole": "Tambah peran",
+  "deleteRoleTitle": "Hapus peran",
+  "deleteRoleConfirm": "Hapus \"{name}\"? Ini tidak dapat dibatalkan.",
+  "@deleteRoleConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteRoleHasPartiesMessage": "\"{name}\" digunakan oleh {partyCount, plural, =1{1 pihak} other{{partyCount} pihak}}. Transfer pihak-pihak tersebut ke peran lain, atau hapus paksa dan hilangkan mereka.",
+  "@deleteRoleHasPartiesMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "transferParties": "Transfer pihak",
+  "hardDeleteLoseParties": "Hapus paksa (kehilangan pihak)",
+  "hardDeleteRoleTitle": "Hapus paksa?",
+  "hardDeleteRoleMessage": "Ini akan menghapus secara permanen \"{name}\" dan semua {partyCount, plural, =1{1 pihak} other{{partyCount} pihak}} yang ditetapkan padanya. Data pihak tidak dapat dipulihkan.\n\nPihak yang terkait dengan faktur atau pembayaran mungkin tidak terhapus — gunakan Transfer sebagai gantinya.",
+  "@hardDeleteRoleMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteRoleAndParties": "Hapus peran dan pihak",
+  "addAnotherRoleBeforeDelete": "Tambahkan peran lain sebelum menghapus ini.",
+  "transferPartiesMoveMessage": "Pindahkan {partyCount, plural, =1{1 pihak} other{{partyCount} pihak}} dari \"{fromRole}\" ke:",
+  "@transferPartiesMoveMessage": {
+    "placeholders": {
+      "partyCount": {
+        "type": "int"
+      },
+      "fromRole": {
+        "type": "String"
+      }
+    }
+  },
+  "transferAndDeleteRole": "Transfer dan hapus peran",
+  "builtInRole": "Bawaan",
+  "rolePartyCount": "{count, plural, =1{1 pihak} other{{count} pihak}}",
+  "@rolePartyCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noPartiesYet": "Belum ada pihak",
+  "newRole": "Peran baru",
+  "editRole": "Edit peran",
+  "defaultRolesCannotEdit": "Peran default tidak dapat diubah namanya atau dihapus.",
+  "roleNameLabel": "Nama peran *",
+  "roleNameHint": "mis. Pelanggan",
+  "roleDescriptionLabel": "Deskripsi",
+  "roleDescriptionHint": "Catatan singkat untuk tim Anda",
+  "roleSortOrderLabel": "Urutan sortir",
+  "roleSortOrderHint": "Nilai lebih rendah muncul pertama dalam daftar",
+  "roleCreated": "Peran dibuat",
+  "roleUpdated": "Peran diperbarui",
+  "roleDeleted": "Peran dihapus",
+  "roleDeletedPartiesTransferred": "Peran dihapus. {count, plural, =1{1 pihak} other{{count} pihak}} dipindahkan ke {targetRole}.",
+  "@roleDeletedPartiesTransferred": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "targetRole": {
+        "type": "String"
+      }
+    }
+  },
+  "roleAndPartiesDeleted": "Peran dan {count, plural, =1{1 pihak} other{{count} pihak}} dihapus.",
+  "@roleAndPartiesDeleted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@deleteOrganizationMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@organizationCodeLabel": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "@testDataLoginFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@fieldRequired": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "@passwordMinLength": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "@setupPdfFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@setupFailedWithDetails": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "workspace": "Ruang kerja",
+  "change": "Ubah",
+  "addMoreOrganization": "Tambah lagi +",
+  "connectAnotherOrganization": "Hubungkan organisasi lain",
+  "noSavedOrganizationsUseAddMore": "Belum ada organisasi tersimpan. Gunakan Tambah lagi + untuk menghubungkan satu.",
+  "registerNewOrganizationTitleSignedIn": "Daftarkan organisasi baru?",
+  "registerNewOrganizationTitle": "Daftarkan organisasi baru?",
+  "registerNewOrganizationMessageSignedIn": "Anda akan keluar dan wizard penyiapan akan dimulai dari awal sehingga Anda dapat mendaftarkan bisnis baru di perangkat ini.\n\nOrganisasi yang sudah Anda simpan tetap ada dalam daftar setelah penyiapan.",
+  "registerNewOrganizationMessageLogin": "Wizard penyiapan akan dimulai sehingga Anda dapat mendaftarkan bisnis baru di perangkat ini. Selesaikan penyiapan untuk membuatnya; organisasi yang tersimpan tetap ada dalam daftar.",
+  "startSetup": "Mulai penyiapan",
+  "enterOrganizationCode": "Masukkan kode organisasi Anda",
+  "organizationNotFoundCheckCode": "Organisasi tidak ditemukan. Periksa kode dan coba lagi.",
+  "organizationNotFound": "Organisasi tidak ditemukan",
+  "couldNotVerifyOrganization": "Tidak dapat memverifikasi organisasi",
+  "noLocalDataCompleteSetup": "Tidak ada data lokal untuk {name}. Selesaikan penyiapan untuk organisasi ini terlebih dahulu.",
+  "@noLocalDataCompleteSetup": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeBack": "Selamat Datang Kembali",
+  "signInToContinue": "Masuk untuk melanjutkan",
+  "enterEmail": "Masukkan email",
+  "pleaseEnterEmail": "Masukkan email Anda",
+  "pleaseEnterValidEmail": "Masukkan email yang valid",
+  "enterEmailLocalPartOnly": "Masukkan hanya bagian sebelum @",
+  "pleaseEnterPassword": "Masukkan kata sandi Anda",
+  "logIn": "MASUK",
+  "searchCountry": "Cari negara",
+  "searchCodeOrSymbol": "Cari kode atau simbol",
+  "saveLoginDetailsTitle": "Simpan detail login Anda?",
+  "saveLoginDetailsMessage": "Anda akan menyelesaikan penyiapan untuk organisasi ini.\n\nApakah Anda ingin mengunduh PDF dengan aman yang berisi kode organisasi, nama organisasi, email login, dan kata sandi? Simpan di tempat yang aman — siapa saja yang memiliki file ini dapat masuk.",
+  "downloadPdfAndContinue": "Unduh PDF & lanjutkan",
+  "continueWithoutPdf": "Lanjutkan tanpa PDF",
+  "legalDisplayNameHint": "Nama legal / tampilan",
+  "chartOfAccounts": "Bagan akun",
+  "fiscalYearStart": "Awal tahun fiskal",
+  "fiscalYearEnd": "Akhir tahun fiskal",
+  "removeTestDataTitle": "Hapus data uji?",
+  "removeTestDataMessageDemoOrg": "Semua penjualan demo, pembelian, kontak, pihak, item inventaris, staf, produk kalkulator minuman, dan organisasi demo tambahan akan dihapus.\n\nAnda berada di organisasi demo — setelah ini Anda akan dialihkan kembali ke organisasi pertama secara otomatis.",
+  "removeTestDataMessageNormal": "Semua penjualan demo, pembelian, kontak, pihak, item inventaris, staf, dan 3 organisasi demo tambahan akan dihapus. Akun admin dan data penyiapan nyata Anda tetap utuh.",
+  "removeTestDataWarning": "Ini tidak dapat dibatalkan kecuali dengan memuat ulang data uji.",
+  "removeTestData": "Hapus data uji",
+  "keepTestData": "Pertahankan data uji",
+  "demoDataRemoved": "Data demo dihapus",
+  "testDataRemovedSwitchedTo": "Data uji dihapus. Beralih ke {name}.",
+  "@testDataRemovedSwitchedTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "testDataRemoved": "Data uji dihapus",
+  "couldNotRemoveTestData": "Tidak dapat menghapus data uji: {error}",
+  "@couldNotRemoveTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loadTestDataTitle": "Muat data uji?",
+  "loadTestDataMessage": "Ini akan menambahkan hingga 50 kontak demo, 50 item inventaris hanya penjualan dan 50 hanya pembelian, ditambah penjualan, pembelian, pembayaran, stok, ringkasan penutupan, staf, penggajian, kehadiran untuk 15 hari terakhir, dan produk minuman sampel untuk kalkulator.",
+  "loadTestData": "Muat data uji",
+  "testDataLoaded": "Data uji dimuat",
+  "couldNotLoadTestData": "Tidak dapat memuat data uji: {error}",
+  "@couldNotLoadTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "demoTestData": "Data uji demo",
+  "importTestDataSubtitle": "Impor data uji untuk semua fitur",
+  "hideTestDataTitle": "Sembunyikan data uji untuk organisasi ini?",
+  "hideTestDataMessage": "Jika Anda melanjutkan, bagian Data Uji akan disembunyikan di mana-mana dalam organisasi ini (termasuk penyiapan). Anda hanya dapat mengaktifkannya kembali dengan menginstal ulang atau menghapus data aplikasi untuk organisasi ini.",
+  "hideTestDataWarning": "Data demo yang sudah dimuat akan tetap ada di database sampai Anda menghapusnya dari pengaturan.",
+  "okHideTestData": "OK, sembunyikan data uji",
+  "testDataHiddenForOrg": "Data Uji disembunyikan untuk organisasi ini",
+  "hideTestDataTooltip": "Sembunyikan data uji untuk organisasi ini",
+  "privacyPolicyTitle": "Kebijakan Privasi",
+  "termsAndConditions": "Syarat & Ketentuan",
+  "logoutConfirmTitle": "Keluar",
+  "logoutConfirmMessage": "Apakah Anda yakin ingin keluar dari akun Anda?",
+  "faqTapToExpand": "Ketuk pertanyaan untuk memperluas.",
+  "faqSectionGettingStarted": "Memulai",
+  "faqSectionLogin": "Login",
+  "faqSectionNavigation": "Navigasi",
+  "faqSectionInvoices": "Faktur",
+  "faqSectionPayments": "Pembayaran",
+  "faqSectionItemsStock": "Item & stok",
+  "faqSectionProfileEmployees": "Profil & karyawan",
+  "faqSectionDashboardReports": "Dasbor & laporan",
+  "faqSectionSyncTroubleshooting": "Sinkronisasi & pemecahan masalah",
+  "faqNeedInternetQuestion": "Apakah saya memerlukan internet?",
+  "faqNeedInternetAnswer": "Setelah penyiapan lokal pertama kali, Anda dapat mencatat faktur, item, dan pembayaran tanpa internet. Data tetap di perangkat Anda. Sinkronisasi dengan server bersifat opsional.",
+  "faqFirstInstallQuestion": "Apa yang terjadi pada instalasi pertama?",
+  "faqFirstInstallAnswer": "Anda mungkin melihat panduan singkat, lalu penyiapan lokal (organisasi, perusahaan, email login dan kata sandi, mata uang, tahun fiskal). Setelah itu, masuk dengan email dan kata sandi yang Anda buat.",
+  "faqSignInCredentialsQuestion": "Apa yang saya gunakan untuk masuk?",
+  "faqSignInCredentialsAnswer": "Alamat email dan kata sandi dari penyiapan. Aplikasi menjaga Anda tetap masuk sampai Anda keluar dari Lainnya.",
+  "faqLoggedOutQuestion": "Mengapa saya dikeluarkan?",
+  "faqLoggedOutAnswer": "Anda memilih Keluar, menghapus data aplikasi, atau sesi berakhir. Masuk lagi dengan kredensial yang sama.",
+  "faqBottomTabsQuestion": "Apa fungsi tab bawah?",
+  "faqBottomTabsAnswer": "Beranda — dasbor dan ikhtisar.\nPenjualan — faktur penjualan berdasarkan tanggal.\nPengeluaran — faktur pembelian / pengeluaran.\nTombol tengah — Pihak (pelanggan, pemasok).\nLainnya — profil, laporan, sinkronisasi, bantuan, keluar.",
+  "faqCreateInvoiceQuestion": "Bagaimana cara membuat faktur penjualan atau pembelian?",
+  "faqCreateInvoiceAnswer": "Buka Penjualan atau Pengeluaran, pilih tanggal di kalender, ketuk tombol +, tambahkan item dan jumlah, pilih pihak jika diperlukan, lalu simpan atau kirim.",
+  "faqInvoiceDetailsQuestion": "Bagaimana cara melihat detail faktur lengkap?",
+  "faqInvoiceDetailsAnswer": "Ketuk faktur mana pun dalam daftar. Detail transaksi menampilkan item baris, total, diskon, dan pembayaran. Anda dapat mencetak, berbagi, menduplikasi, atau membayar dari sana.",
+  "faqZeroRateQuestion": "Tarif atau jumlah menampilkan nol dalam detail",
+  "faqZeroRateAnswer": "Ini biasanya berarti data baris atau pembayaran hilang di penyimpanan lama. Perbarui aplikasi dan buat atau selesaikan lagi jika diperlukan.",
+  "faqPartialPaymentQuestion": "Bagaimana cara mencatat pembayaran sebagian?",
+  "faqPartialPaymentAnswer": "Buka faktur → Detail transaksi → Lakukan Pembayaran. Masukkan jumlah, metode, dan tanggal, lalu Proses Penyelesaian.",
+  "faqMultiplePaymentQuestion": "Bagaimana cara kerja Pembayaran Ganda?",
+  "faqMultiplePaymentAnswer": "Aktifkan Pembayaran Ganda, ketuk edit, dan bagi total ke Tunai, Kartu, QR, dll. Setiap metode dicatat secara terpisah.",
+  "faqSplitPaymentSavedQuestion": "Hanya satu pembayaran yang disimpan dari pembagian",
+  "faqSplitPaymentSavedAnswer": "Perbarui ke versi aplikasi terbaru. Build lama terkadang hanya menyimpan baris pembagian pertama. Selesaikan lagi jika saldo belum dibayar masih salah.",
+  "faqAddItemQuestion": "Bagaimana cara menambahkan item?",
+  "faqAddItemAnswer": "Gunakan Tambah item dari alur penjualan atau tambah cepat. Masukkan nama, tarif, satuan, tujuan, dan foto opsional (JPEG/PNG/GIF/WebP, maks 5 MB), lalu Buat item.",
+  "faqCustomUnitQuestion": "Bagaimana cara menambahkan satuan kustom?",
+  "faqCustomUnitAnswer": "Pada formulir item, ketuk Satuan → Buat satuan baru di bagian bawah daftar, masukkan nama (mis. Liter, Kotak), dan Buat.",
+  "faqStockQuantitiesQuestion": "How do I enter stock quantities?",
+  "faqStockQuantitiesAnswer": "Live qty is In stock on each item. Set stock on an item to enter opening stock or a stock adjustment. Opening stock / stock reconciliation (upload or enter a count) also sets In stock when live tracking is on. Liquor prices is a pour-price list, not stock.",
+  "faqProfileNameQuestion": "Saya mengubah nama tetapi profil masih menampilkan nama lama",
+  "faqProfileNameAnswer": "Edit catatan karyawan Anda (email sama dengan login) dan simpan. Tab Lainnya dan dasbor seharusnya diperbarui.",
+  "faqRevenueDetailsQuestion": "Apa itu Detail Pendapatan?",
+  "faqRevenueDetailsAnswer": "Tampilan bulanan dengan grafik tren harian, laba bersih, piutang belum dibayar, dan perincian penjualan vs pembelian hari demi hari. Ubah bulan dengan kalender atau chip bulan.",
+  "faqOtherReportsQuestion": "Di mana laporan lainnya?",
+  "faqOtherReportsAnswer": "Buka Lainnya dan lihat di bawah Laporan (Analitik, Laba & Rugi, Laporan, dll.) jika peran Anda memiliki akses.",
+  "faqWhenSyncQuestion": "Kapan saya harus menyinkronkan?",
+  "faqWhenSyncAnswer": "Hanya saat administrator Anda meminta dan saat Anda memiliki koneksi yang stabil. Sinkronisasi mengirim atau menerima data antara perangkat dan server.",
+  "faqFabPositionQuestion": "Tombol + terlihat terlalu tinggi di Penjualan / Pengeluaran",
+  "faqFabPositionAnswer": "Tombol berada di atas bilah navigasi bawah. Gulir daftar atau perbarui aplikasi jika tombol tumpang tindih dengan konten di perangkat Anda.",
+  "faqHowLogoutQuestion": "Bagaimana cara keluar?",
+  "faqHowLogoutAnswer": "Lainnya → Keluar di bagian bawah daftar pengaturan.",
+  "statisticsGoodMorning": "Good Morning",
+  "statisticsGoodAfternoon": "Good Afternoon",
+  "statisticsGoodEvening": "Good Evening",
+  "statisticsDefaultUser": "User",
+  "statisticsCheckConnection": "Please check your connection and try again.",
+  "statisticsCouldNotLoadProfile": "Could not load profile",
+  "statisticsCouldNotLoadData": "Could not load data",
+  "statisticsPeriodDay": "Day",
+  "statisticsPeriodMonth": "Month",
+  "statisticsPeriodYear": "Year",
+  "statisticsSelectedPeriod": "Selected Period",
+  "statisticsSelectMonth": "Select Month",
+  "statisticsSelectMonthSubtitle": "Choose a month to filter data",
+  "statisticsQuickOperations": "Quick Operations",
+  "statisticsAnnualRevenue": "Annual Revenue",
+  "statisticsCashflowLast7Days": "Arus kas (7 hari terakhir)",
+  "statisticsCashflowLast12Months": "Arus kas (12 bulan terakhir)",
+  "statisticsDaily": "Daily",
+  "statisticsMonthly": "Monthly",
+  "statisticsOverall": "Overall",
+  "statisticsLast7Days": "Last 7 Days",
+  "statisticsLast12Months": "Last 12 Months",
+  "statisticsAllYears": "All Years",
+  "statisticsNoDataAvailable": "No data available",
+  "statisticsMoneyIn": "Money In",
+  "statisticsMoneyOut": "Money Out",
+  "statisticsIncome": "Income",
+  "statisticsExpenses": "Expenses",
+  "statisticsSalesSummary": "Sales Summary",
+  "statisticsPurchaseSummary": "Purchase Summary",
+  "statisticsTotalSales": "Total Sales",
+  "statisticsTotalIncome": "Total Income",
+  "statisticsTotalUnpaid": "Total Unpaid",
+  "statisticsTotalPurchase": "Total Purchase",
+  "statisticsPaidPurchase": "Paid Purchase",
+  "statisticsUnpaidPurchase": "Unpaid Purchase",
+  "statisticsEmployeeDashboard": "Employee Dashboard",
+  "statisticsDefaultEmployee": "Employee",
+  "statisticsDefaultDepartment": "Department",
+  "statisticsDefaultPosition": "Position",
+  "statisticsCurrentMonth": "Current Month",
+  "statisticsStatus": "Status",
+  "statisticsActive": "Active",
+  "statisticsWelcome": "Welcome",
+  "statisticsEmployeeWelcomeMessage": "You are logged in as an employee. Use the navigation menu to access available features.",
+  "statisticsRevenueDetails": "Revenue Details",
+  "statisticsEmployeeDetails": "Employee Details",
+  "statisticsChangeMonth": "Change month",
+  "statisticsFilterChartsSubtitle": "Filter charts and breakdown",
+  "statisticsDailyTrend": "Daily trend",
+  "statisticsDailyActivity": "Daily activity",
+  "statisticsNoDataForMonth": "No data for this month",
+  "statisticsNetProfit": "Net profit",
+  "statisticsMonthReceivables": "Month receivables",
+  "statisticsNoDailyEntries": "No daily entries for this month",
+  "statisticsDailySalesBreakdown": "Daily sales breakdown",
+  "statisticsDailyBreakdown": "Daily breakdown",
+  "statisticsAdvance": "Advance",
+  "statisticsExploreFeatures": "Explore Features",
+  "statisticsShowOrHideFeatures": "Show or hide features",
+  "statisticsAllFeaturesHidden": "All explore features are hidden",
+  "statisticsNoFeaturesForOrg": "No features available for your organization",
+  "statisticsTapTuneToShow": "Tap the tune icon above to show shortcuts again.",
+  "statisticsMenuCheck": "Reconciliation",
+  "statisticsMenuEmployee": "Employee",
+  "statisticsMenuOrder": "Order",
+  "statisticsMenuInventory": "Items",
+  "statisticsMenuCustomers": "Customers",
+  "statisticsMenuCalculator": "Liquor prices",
+  "statisticsMenuQuickExpenses": "Quick\nExpenses",
+  "statisticsMenuQuickSales": "Quick\nSales",
+  "statisticsMenuAddEmployee": "Add\nEmployee",
+  "statisticsMenuAddParty": "Add\nParty",
+  "statisticsMenuAddEmployeeSingle": "Add Employee",
+  "statisticsMenuAddPartySingle": "Add Party",
+  "statisticsGreeting": "{greeting}, {name}",
+  "@statisticsGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsEmployeeGreeting": "{greeting}, {name}!",
+  "@statisticsEmployeeGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDepartmentPosition": "{department} • {position}",
+  "@statisticsDepartmentPosition": {
+    "placeholders": {
+      "department": {
+        "type": "String"
+      },
+      "position": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricCollected": "{amount} collected",
+  "@statisticsMetricCollected": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricPaid": "{amount} paid",
+  "@statisticsMetricPaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyInAmount": "Money In: {amount}",
+  "@statisticsMoneyInAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyOutAmount": "Money Out: {amount}",
+  "@statisticsMoneyOutAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDayTooltip": "Day {day}\n{amount}",
+  "@statisticsDayTooltip": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsProfitMargin": "{percent}% margin",
+  "@statisticsProfitMargin": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "selectBusinessType": "Select business type",
+  "businessTypeHotelSubtitle": "Rooms, guests & front desk",
+  "businessTypeRestaurantSubtitle": "Dine-in, kitchen & table orders",
+  "businessTypeHotelRestaurantSubtitle": "Hotel rooms and restaurant together",
+  "businessTypeRetailSubtitle": "Products, stock & checkout",
+  "businessTypeCafeSubtitle": "Coffee, pastries & light bites",
+  "businessTypeBarSubtitle": "Drinks menu, tabs & bar sales",
+  "businessTypeOtherSubtitle": "Custom setup for any business",
+  "@invoiceCommonSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonInvoiceLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCustomerLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSupplierLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchingFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchItemsHint": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonEmptyForDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDeleteInvoiceConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCancelReturnMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPartyLoadingError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceFoundSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceFoundPurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDatePurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateInvoiceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteMessage": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceReturnCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotPrint": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotSave": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotShare": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonItemReturnedQty": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      },
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonMultiplePaymentSummary": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptFilename": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReturnAgainst": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSavedPath": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonUnpaidWithAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonTodayAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyExportReceipts": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyNoItemsMatching": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceQuickShowingItems": {
+    "placeholders": {
+      "shown": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickLoadedItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickScrollLoadMore": {
+    "placeholders": {
+      "perPage": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickCartWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemActionsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditSelectedItem": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditRateLabel": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditItemLabel": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemsError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditPartiesError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditSaveError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonActions": "Actions",
+  "invoiceCommonSearchItems": "Search Items",
+  "invoiceCommonSearchItemsSubtitle": "Search for specific items",
+  "invoiceCommonAddNewInvoice": "Add New Invoice",
+  "invoiceCommonAddSalesInvoiceSubtitle": "Create a new sales invoice",
+  "invoiceCommonAddPurchaseInvoiceSubtitle": "Create a new purchase invoice",
+  "invoiceCommonSelectMonthYear": "Select Month/Year",
+  "invoiceCommonSelectMonthYearSubtitle": "Jump to a specific month",
+  "invoiceCommonSelectMonthAndYear": "Select Month & Year",
+  "invoiceCommonFilterByDate": "Filter by date",
+  "invoiceCommonFilterByDateRange": "Filter by date range",
+  "invoiceCommonCloseSearch": "Close search",
+  "invoiceCommonSelectAll": "Select All",
+  "invoiceCommonToday": "Today",
+  "invoiceCommonTotalQuantity": "Total Quantity",
+  "invoiceCommonTotalAmount": "Total Amount",
+  "invoiceCommonTotal": "Total",
+  "invoiceCommonSearchForItems": "Search for items",
+  "invoiceCommonNoItemsFound": "No items found",
+  "invoiceCommonUnknownItem": "Unknown Item",
+  "invoiceCommonNotAvailable": "N/A",
+  "invoiceSalesCouldNotLoad": "Could not load sales",
+  "invoiceSalesNoFound": "No Sales found",
+  "invoiceSalesSelectDate": "Select a date to view Sales",
+  "invoiceSalesNoInvoicesFound": "No invoices found",
+  "invoiceSalesSelectDateLegacy": "Select a date to view invoices",
+  "invoicePurchaseCouldNotLoad": "Could not load expenses",
+  "invoicePurchaseNoFound": "No purchases found",
+  "invoicePurchaseSelectDate": "Select a date to view purchases",
+  "invoiceWeekdaySun": "Sun",
+  "invoiceWeekdayMon": "Mon",
+  "invoiceWeekdayTue": "Tue",
+  "invoiceWeekdayWed": "Wed",
+  "invoiceWeekdayThu": "Thu",
+  "invoiceWeekdayFri": "Fri",
+  "invoiceWeekdaySat": "Sat",
+  "invoiceCommonSelectedCount": "{count} Selected",
+  "invoiceCommonQtyLabel": "Qty: {qty}",
+  "invoiceCommonInvoiceLabel": "Invoice: {number}",
+  "invoiceCommonCustomerLabel": "Customer: {name}",
+  "invoiceCommonSupplierLabel": "Supplier: {name}",
+  "invoiceCommonSearchingFor": "Searching for \"{query}\"...",
+  "invoiceCommonSearchItemsHint": "Search items in {scope}...",
+  "invoiceCommonSalesSearchPrompt": "Type an item name to find all sales\nin {scope}",
+  "invoiceCommonPurchaseSearchPrompt": "Type an item name to find all purchases\nin {scope}",
+  "invoiceCommonSalesNoMatch": "No sales of \"{query}\"\nin {scope}",
+  "invoiceCommonPurchaseNoMatch": "No purchases of \"{query}\"\nin {scope}",
+  "invoiceCommonEmptyForDate": "for {date}",
+  "invoiceFoundSalesCount": "Found {count, plural, =1{1 sale} other{{count} sales}}",
+  "invoiceFoundPurchaseCount": "Found {count, plural, =1{1 purchase} other{{count} purchases}}",
+  "invoiceDateSalesCount": "{count, plural, =1{1 sale} other{{count} sales}}",
+  "invoiceDatePurchaseCount": "{count, plural, =1{1 purchase} other{{count} purchases}}",
+  "invoiceDateInvoiceCount": "{count, plural, =1{1 invoice} other{{count} invoices}}",
+  "invoiceDeleteTitle": "Delete {count, plural, =1{1 invoice} other{{count} invoices}}",
+  "invoiceDeleteMessage": "Are you sure you want to delete {count, plural, =1{1 selected invoice} other{{count} selected invoices}}? This action cannot be undone.",
+  "contacts": "Contacts",
+  "categories": "Categories",
+  "manageStaff": "Manage staff",
+  "payroll": "Payroll",
+  "attendance": "Attendance",
+  "profitAndLoss": "Laba rugi",
+  "statementReport": "Laporan",
+  "analytics": "Analitik",
+  "loggedOut": "Logged out",
+  "organizationCodeDisplay": "Code: {code}",
+  "@organizationCodeDisplay": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "moreDataSynchronization": "Data Synchronization",
+  "moreSendDataToClient": "Send Data to Client",
+  "moreSendDataToClientSubtitle": "Upload server data to client",
+  "moreSendDataToClientWarning": "This action will replace the current client database with data from the server. All recent client changes may be lost.",
+  "moreSendDataToClientConfirm": "Are you sure you want to send data to the client?",
+  "moreFetchDataFromClient": "Fetch Data from Client",
+  "moreFetchDataFromClientSubtitle": "Download client data to server",
+  "moreFetchDataFromClientWarning": "This action will replace the current server database with data from the client. All recent server changes may be lost.",
+  "moreFetchDataFromClientConfirm": "Are you sure you want to fetch data from the client?",
+  "notifications": "Notifications",
+  "openingReminder": "Opening reminder",
+  "closingReminder": "Closing reminder",
+  "openingTime": "Opening time",
+  "closingTime": "Closing time",
+  "notificationSettingsSaved": "Notification settings saved",
+  "notificationPermissionHint": "Allow notifications (and alarms on Android) so reminders work when the app is closed",
+  "dailyAtTime": "Daily at {time}",
+  "@dailyAtTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonYesterday": "Yesterday",
+  "invoiceCommonTodayAt": "Today, {time}",
+  "invoiceCommonDaysAgo": "{count} days ago",
+  "invoiceReturnCount": "{count, plural, =1{1 return} other{{count} returns}}",
+  "statisticsMonthRevenue": "Month Revenue",
+  "statisticsMonthExpenses": "Month Expenses",
+  "exploreCustomizeTitle": "Customize features",
+  "exploreCustomizeSubtitle": "Show or hide shortcuts on your home screen. Only features your organization can access are listed.",
+  "exploreVisibleOnDashboard": "Visible on dashboard",
+  "exploreHiddenOnDashboard": "Hidden on dashboard",
+  "partiesTitle": "Parties",
+  "partySearchByName": "Search by name…",
+  "partySortBy": "Sort By:",
+  "partySortLatest": "Latest",
+  "partySortAmountHighLow": "Amount: High to Low",
+  "partySortAmountLowHigh": "Amount: Low to High",
+  "partySortNameAZ": "Name: A to Z",
+  "partySortNameZA": "Name: Z to A",
+  "partyAddNew": "Add New Party",
+  "partyEdit": "Edit Party",
+  "partyUpdate": "Update Party",
+  "partyNameLabel": "Party Name*",
+  "partyNameHint": "Enter party name",
+  "partyNewNameLabel": "New Party Name*",
+  "partyNewNameHint": "Enter new party name",
+  "partyRoleLabel": "Party Role *",
+  "partyTapToSelect": "Tap to select",
+  "partySelectRoleValidation": "Please select role",
+  "partyEnterNameValidation": "Please enter party name",
+  "partyBasicInfo": "Basic Info",
+  "partyAdditionalInfo": "Additional Info",
+  "partyEmail": "Party Email",
+  "partyEmailHint": "Enter email address",
+  "partyPhone": "Phone Number",
+  "partyPhoneHint": "Enter phone number",
+  "partyAddress": "Party Address",
+  "partyAddressHint": "Enter address",
+  "partyRoleCustomer": "Pelanggan",
+  "partyRoleSupplier": "Supplier",
+  "partyRoleRoom": "Room",
+  "partyRoleCabin": "Cabin",
+  "partyRoleEmployee": "Employee",
+  "partyRoleBoth": "Both",
+  "partyDefaultAccount": "Default Account",
+  "partyLoyaltyProgram": "Loyalty Program",
+  "partyLoyaltyPoints": "Loyalty Points",
+  "partySelectDefaultAccount": "Select Default Account",
+  "partySelectLoyaltyProgram": "Select Loyalty Program",
+  "partyCreateNewProgram": "Create new program",
+  "partySelectPartyRole": "Select Party Role",
+  "partyAccountDebtors": "Debtors",
+  "partyAccountCreditors": "Creditors",
+  "partyBothRoleHint": "Both means this party appears under Customer and Supplier only — not Room, Cabin, or Employee.",
+  "partyValidNumber": "Please enter valid number",
+  "partyValidAmount": "Please enter valid amount",
+  "exportAsPdf": "Export as PDF",
+  "sharePdf": "Share PDF",
+  "partyExportPdfTooltip": "Export PDF",
+  "checkoutSelectParty": "Select Party",
+  "checkoutCartSummary": "Cart summary",
+  "checkoutNoItemsInCart": "No items in cart",
+  "checkoutSearchHere": "Search here",
+  "checkoutCreateInvoice": "Create Invoice",
+  "checkoutEditInvoice": "Edit Invoice",
+  "checkoutSaveInvoice": "Save Invoice",
+  "checkoutInvoiceSummary": "Invoice Summary",
+  "checkoutEstimate": "Estimate",
+  "checkoutBasicInformation": "Basic Information",
+  "checkoutAddItems": "Add Items",
+  "checkoutItemsSection": "Items",
+  "checkoutPartyRequired": "Party *",
+  "checkoutPartyInformation": "Party Information",
+  "checkoutBillSummary": "Bill Summary",
+  "checkoutBillSummaryHint": "Tap to know more detailed calculation.",
+  "checkoutItemTotal": "Item Total",
+  "checkoutLoyaltyDiscount": "Loyalty Discount ({percent}%)",
+  "@checkoutLoyaltyDiscount": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutDiscountLine": "- Discount ({percent}%)",
+  "@checkoutDiscountLine": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutTapToEdit": "Tap to Edit",
+  "checkoutTotalAmount": "Total Amount",
+  "checkoutPaymentMode": "Record payment",
+  "checkoutPaymentModeHint": "Turn on to take payment now. Leave off to submit the bill unpaid and collect later.",
+  "checkoutNetSalesAmount": "Net Sales Amount",
+  "checkoutConfirmCheckout": "Confirm Checkout",
+  "checkoutEditDiscount": "Edit Discount",
+  "checkoutPercentage": "Percentage",
+  "checkoutDiscard": "Discard",
+  "checkoutPartialPayment": "Partial Payment",
+  "checkoutPartialPaymentBanner": "By activating Partial Payment the customer will be able to pay the amount less than the Total Billed Amount.",
+  "checkoutPleaseEnterAmounts": "Please enter respective amounts:",
+  "checkoutPartialPaymentEqualHint": "Since no user is assigned, the total amount should be equal to the total billed amount.",
+  "checkoutOverGrandTotalBy": "Over Grand Total by: {amount}",
+  "@checkoutOverGrandTotalBy": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutRemainingUnpaid": "Remaining (unpaid from Grand Total): {amount}",
+  "@checkoutRemainingUnpaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutConfirmPayment": "Confirm Payment",
+  "checkoutUnpaidCredit": "Unpaid / Credit",
+  "checkoutAddAtLeastOneLine": "Add at least one line item to view estimate",
+  "checkoutMultiplePayment": "Multiple Payment",
+  "checkoutPaymentStatus": "Payment status",
+  "checkoutPaymentMethods": "Payment methods",
+  "checkoutPaymentMethod": "Payment method",
+  "checkoutTenderAmount": "Tender amount",
+  "checkoutLoadingPaymentMethods": "Loading payment methods…",
+  "stocksTitle": "Stock reconciliation",
+  "stockUploadTooltip": "Opening stock",
+  "stockNoDataYet": "No opening stock yet",
+  "stockNoDataSubtitle": "Enter a physical count. With live tracking on, that count becomes In stock.",
+  "stockUploadAction": "Opening stock",
+  "stockSearchByDateHint": "Search by date or month…",
+  "stockNoMatches": "No matches",
+  "stockTryDifferentSearch": "Try a different search term",
+  "stockTryAnotherSearch": "Try another search",
+  "stockQtyLabel": "Qty {qty}",
+  "@stockQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "stockCardSummary": "{records} records · {items} items · {locations} locations",
+  "@stockCardSummary": {
+    "placeholders": {
+      "records": {
+        "type": "String"
+      },
+      "items": {
+        "type": "String"
+      },
+      "locations": {
+        "type": "String"
+      }
+    }
+  },
+  "stockFilterTitle": "Filter stock reconciliation",
+  "stockBatchNumber": "Batch number",
+  "stockLocation": "Location",
+  "stockOptionalHint": "Optional",
+  "stockApplyFilters": "Apply filters",
+  "stockClearFields": "Clear fields",
+  "stockDeleteAllTooltip": "Delete all stock for this date",
+  "stockNoItemsFound": "No stock items found",
+  "stockNoItemsSubtitle": "Try different filters or another reporting date.",
+  "stockAdjustFilters": "Adjust filters",
+  "stockSearchItemHint": "Search item, batch, location…",
+  "stockEditQuantities": "Edit quantities",
+  "stockNoChangesDetected": "No changes detected",
+  "stockErrorPreparingChanges": "Error preparing changes: {error}",
+  "@stockErrorPreparingChanges": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "stockUpdateSuccessful": "Update Successful!",
+  "stockSummary": "Summary",
+  "stockTotalRequested": "Total Requested",
+  "stockSuccessfullyUpdated": "Successfully Updated",
+  "stockFailed": "Failed",
+  "stockUpdateFailed": "Update Failed",
+  "stockClearAllQuantitiesTitle": "Clear All Quantities?",
+  "stockClearAllQuantitiesMessage": "This will reset all quantities to 0. Are you sure?",
+  "stockClearAll": "Clear All",
+  "stockUpdatingQuantities": "Updating stock quantities...",
+  "stockEditQuantitiesTitle": "Edit Stock Quantities",
+  "stockReportingDate": "Reporting Date: {date}",
+  "@stockReportingDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "stockTotalItemsHint": "Total items: {count} • Update quantities as needed",
+  "@stockTotalItemsHint": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "stockItemName": "Item Name",
+  "stockBatchPrefix": "Batch: {batch}",
+  "@stockBatchPrefix": {
+    "placeholders": {
+      "batch": {
+        "type": "String"
+      }
+    }
+  },
+  "stockDeleteConfirmTitle": "Confirm Deletion",
+  "stockDeleteConfirmIntro": "You are about to permanently delete all stock items for the following date:",
+  "stockDeleteConfirmWarning": "This action cannot be undone. All stock records for this date will be permanently deleted.",
+  "stockNoInternetRetry": "No internet connection. Please check your connection and try again.",
+  "itemsTitle": "Items",
+  "itemAddSheetTitle": "Add item",
+  "itemSingleAdd": "Single add",
+  "itemBulkAdd": "Bulk add",
+  "itemBulkAddTitle": "Bulk add items",
+  "itemEditTitle": "Edit Item",
+  "itemAddTitle": "Add Item",
+  "itemCreateButton": "Create Item",
+  "itemUpdateButton": "Update Item",
+  "itemDeleteTitle": "Delete Item",
+  "itemDeleteConfirm": "Are you sure you want to delete \"{name}\"?",
+  "itemDeletedSuccess": "Item deleted successfully",
+  "itemCreatedSuccess": "Item created successfully",
+  "itemUpdatedSuccess": "Item updated successfully",
+  "itemLoading": "Loading items...",
+  "itemErrorTitle": "Oops! Something went wrong",
+  "itemTryAgain": "Try Again",
+  "itemSearchHint": "Search items",
+  "itemNoItemsFound": "No items found",
+  "itemTryAdjustSearch": "Try adjusting your search terms",
+  "itemNoItemsAvailable": "No items available",
+  "itemAddToGetStarted": "Add items to get started",
+  "itemNoMoreItems": "No more items",
+  "itemPurposeBoth": "Both",
+  "itemPurposePurchases": "Purchases",
+  "itemTypeProduct": "Product",
+  "itemTypeService": "Service",
+  "itemTypeInventory": "Inventory",
+  "itemPhotoTitle": "Item photo",
+  "itemPhotoHint": "Click here to select or upload photos",
+  "itemPhotoFormats": "JPEG, PNG, GIF, or WebP · max 5MB",
+  "itemAddPhoto": "Add photo",
+  "itemPhotoLibrary": "Photo library",
+  "itemPhotoLibraryHint": "Choose from your photos",
+  "itemTakePhoto": "Take a photo",
+  "itemUploadGallery": "Upload from gallery",
+  "itemUploadGalleryHint": "Browse files on this device",
+  "itemTypeLabel": "Type",
+  "itemTypeField": "Item type",
+  "itemNameLabel": "Item name",
+  "itemNameHint": "Enter item name",
+  "itemBarcodeLabel": "Barcode / QR Code",
+  "itemBarcodeField": "Barcode / QR code",
+  "itemBarcodeHint": "Scan from app bar or paste",
+  "itemRateLabel": "Rate",
+  "itemUnitLabel": "Unit",
+  "itemPurposeLabel": "Purpose",
+  "itemSelectUnit": "Select unit",
+  "itemSelectPurpose": "Select purpose",
+  "itemSelectCategory": "Select category",
+  "itemSelectType": "Select type",
+  "itemSelectItemType": "Select item type",
+  "itemSearchUnits": "Search units…",
+  "itemSearchPurpose": "Search purpose…",
+  "itemSearchCategories": "Search categories…",
+  "itemCreateCustomUnit": "Create custom unit",
+  "itemUnitName": "Unit name",
+  "itemUnitNameHint": "e.g., Litre, Box, Piece",
+  "itemValidationName": "Please enter item name",
+  "itemValidationRate": "Please enter rate",
+  "itemValidationNumber": "Please enter valid number",
+  "itemSelectUnitRequired": "Please select a unit",
+  "itemSelectPurposeRequired": "Please select a purpose",
+  "itemImageMissing": "Image file is missing",
+  "itemImageFormatError": "Use JPEG, PNG, GIF, or WebP",
+  "itemImageSizeError": "Image must be 5MB or smaller",
+  "itemScanBarcode": "Scan barcode",
+  "itemNameFromCatalog": "Name filled from catalog: {name}",
+  "itemBarcodePasteHint": "No product name found — code pasted as name. Edit if needed.",
+  "itemBulkRefillTooltip": "Refill previous input",
+  "itemBulkAddRow": "Add row",
+  "itemBulkRowLabel": "Item {index}",
+  "itemBulkNameRequired": "Name required",
+  "itemBulkInvalidNumber": "Invalid number",
+  "itemBulkCreating": "Creating…",
+  "itemBulkCreateItems": "Create items",
+  "itemBulkCreatedCount": "{count} item(s) created",
+  "itemBulkCreateFailed": "Failed to create items: {error}",
+  "itemBulkNoDraft": "No saved draft found",
+  "itemBulkInvalidDraft": "Saved draft format is invalid",
+  "itemBulkDraftRestored": "Previous draft restored",
+  "itemBulkDraftRestoreFailed": "Could not restore saved draft",
+  "itemBulkAtLeastOne": "Add at least one item",
+  "itemBulkCategoriesLoading": "Categories are loading, please try again",
+  "itemBulkLoadingCategories": "Loading categories…",
+  "inventoryTitle": "Inventory Analytics",
+  "inventorySubtitle": "Real-time stock movement tracking",
+  "inventorySearchHint": "Search items...",
+  "inventorySold": "Sold",
+  "inventoryPurchased": "Purchased",
+  "catNoCategories": "No categories. Tap + to create.",
+  "catLoadCategories": "Load categories",
+  "catCreated": "Category created",
+  "catRenamed": "Category renamed",
+  "catDeleted": "Category deleted",
+  "catNewTitle": "New category",
+  "catRenameTitle": "Rename category",
+  "catNewName": "New name",
+  "catRename": "Rename",
+  "catDeleteTitle": "Delete category",
+  "catDeleteConfirm": "Delete \"{name}\"?",
+  "catDeleteLinkedHint": "Items are linked. You can force delete to unlink them.",
+  "catForceDelete": "Force delete",
+  "catItemsCount": "{count} items",
+  "contactFavoritesOnly": "Favorites only",
+  "contactShowAll": "Show all contacts",
+  "contactSearchHint": "Search name, phone, email…",
+  "contactNoConnection": "No connection",
+  "contactCheckNetwork": "Check your network and try again.",
+  "contactSomethingWrong": "Something went wrong",
+  "contactNoContacts": "No contacts",
+  "contactNoFavorites": "No favorites match. Turn off the star filter or add favorites in a contact.",
+  "contactTrySearchOrAdd": "Try a different search or tap + to add a contact.",
+  "contactEndOfList": "End of list",
+  "contactNewTooltip": "New contact",
+  "contactLoading": "Loading contacts…",
+  "contactUnknown": "Unknown",
+  "contactCallTooltip": "Call",
+  "contactEditTitle": "Edit contact",
+  "contactNewTitle": "New contact",
+  "contactSelectTitle": "Select contact",
+  "contactDeleteTitle": "Delete contact?",
+  "contactDeleteUndo": "This action cannot be undone.",
+  "contactNameRequired": "Name is required",
+  "contactNameLabel": "Name *",
+  "contactNameHint": "Contact name",
+  "contactPhoneHint": "+977-9841234567",
+  "contactEmailHint": "email@example.com",
+  "contactCategoryHint": "e.g. business, general, vip",
+  "contactCompanyHint": "Company name",
+  "contactFavorite": "Favorite",
+  "contactCannotCall": "Cannot make calls on this device",
+  "contactPermissionDenied": "Contact permission was denied. You can enable it in Settings.",
+  "contactPermissionRequired": "Contact permission is required to import from phone",
+  "contactImported": "Contact imported from phone",
+  "contactCreated": "Contact created",
+  "contactUpdated": "Contact updated",
+  "contactDeleted": "Contact deleted",
+  "contactImportSearchHint": "Search by name, phone, email, company",
+  "contactImportNoResults": "No contacts found",
+  "@itemDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemNameFromCatalog": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkRowLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreatedCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@catDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@catItemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutMultiplePaymentHint": "Turn this ON, if customer pays via multiple payment mode.",
+  "checkoutFillRemainingBalance": "Fill remaining balance",
+  "checkoutEnterAtLeastOnePayment": "Enter at least one payment amount",
+  "checkoutPaymentsExceedTotal": "Total payments cannot exceed the grand total",
+  "checkoutSentAs": "Sent as: {api}",
+  "@checkoutSentAs": {
+    "placeholders": {
+      "api": {
+        "type": "String"
+      }
+    }
+  },
+  "paymentCard": "Card",
+  "paymentQr": "QR",
+  "paymentBank": "Bank",
+  "paymentTransfer": "Transfer",
+  "paymentBankTransfer": "Bank Transfer",
+  "paymentSettlement": "Settlement",
+  "paymentCheque": "Cheque",
+  "paymentDigital": "Digital",
+  "paymentDigitalQr": "Digital (QR)",
+  "closeSummaryTitle": "Ringkasan penutupan",
+  "closeTabDashboard": "Dashboard",
+  "closeTabCredits": "Credits",
+  "closeWelcome": "Welcome to Closing Summary",
+  "closeSelectDateHint": "Pilih tanggal dan ketuk segarkan untuk memuat data",
+  "closeLoadingDashboard": "Loading dashboard data...",
+  "closeDataDeleted": "Data deleted",
+  "closeErrorPrefix": "Error: {message}",
+  "@closeErrorPrefix": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExtraAmount": "Extra amount",
+  "closeExtraAmountDesc": "Additional cash or adjustments recorded for this closing day.",
+  "closeLostAmount": "Lost amount",
+  "closeLostAmountDesc": "Cash shortage or variance flagged for this period.",
+  "closeTapForDetails": "Tap for details",
+  "closeAmountLabel": "Closing",
+  "closeAmountFormula": "Closing Amount Formula",
+  "closeFormulaExpression": "Cash Sales - Cash Expenses = Closing Amount",
+  "closeCashSales": "Cash Sales",
+  "closeCashExpenses": "Cash Expenses",
+  "closeClosingAmount": "Closing Amount",
+  "closeWhatThisMeans": "What this means:",
+  "closeClosingMeaning": "This is the amount of cash that should be in your register/drawer at the end of the day. It represents all cash received minus all cash paid out.",
+  "closeQuickStats": "Quick Stats",
+  "closeTapCardHint": "Tap a card for a short description",
+  "closeOpeningBalance": "Opening Balance",
+  "closeTotalSales": "Total penjualan",
+  "closeQrAmount": "QR Amount",
+  "closeCashAmount": "Cash Amount",
+  "closeSalesDiscount": "Sales Discount",
+  "closeCreditQr": "Credit QR",
+  "closeCreditCash": "Credit Cash",
+  "closeCreditDiscount": "Credit Discount",
+  "closePayCashGetQr": "Bayar tunai → Terima QR",
+  "closePayQrGetCash": "Bayar QR → Terima tunai",
+  "closePaymentMix": "Payment mix",
+  "closePaymentMixHint": "Tap cash or digital · bar shows share of sales",
+  "closeCashVsDigitalTooltip": "Cash vs digital share of sales",
+  "closeSalesShareDesc": "{label} made up {percent}% of total sales for this day.",
+  "@closeSalesShareDesc": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSalesLabel": "{label} sales",
+  "@closeSalesLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "closeNoTransactions": "No transactions available",
+  "closeRecentTransactions": "Recent Transactions",
+  "closeViewAll": "View All",
+  "closeNoPurchases": "No purchases available",
+  "closeRecentPurchases": "Recent Purchases",
+  "closeNoSalesDate": "No sales for this date",
+  "closeNoSalesHint": "Sales will show here after they are recorded.",
+  "closeRoomSales": "Room sales",
+  "closeEmployeeSales": "Employee sales",
+  "closeOtherSales": "Other sales",
+  "closeSectionCount": "{title} ({count})",
+  "@closeSectionCount": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "closeDiscountShort": "Disc: {amount}",
+  "@closeDiscountShort": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "closePercentOff": "{percent}% off",
+  "@closePercentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closePending": "Pending",
+  "closeNoCreditPayments": "No Credit Payments",
+  "closeNoCreditHint": "Credit payments will appear here",
+  "closeViewStatistics": "View Statistics",
+  "closeExportData": "Ekspor data",
+  "closeExportComingSoon": "Fitur ekspor akan diimplementasikan di sini",
+  "closeHintOpeningBalance": "Cash position at the start of the selected day.",
+  "closeHintTotalSales": "Sum of all sales recorded for this date.",
+  "closeHintQrAmount": "Payments received via QR or digital methods.",
+  "closeHintCashAmount": "Cash portion of sales for the day.",
+  "closeHintCashExpenses": "Cash paid out for expenses during the day.",
+  "closeHintSalesDiscount": "Discounts applied to sales.",
+  "closeHintCreditQr": "Credit-related QR collections.",
+  "closeHintCreditCash": "Credit-related cash movements.",
+  "closeHintCreditDiscount": "Discounts applied on credit transactions.",
+  "closeHintPayCashGetQr": "Exchange where cash was paid and QR credit received.",
+  "closeHintPayQrGetCash": "Exchange where QR was paid and cash was received.",
+  "closeOpeningAmount": "Opening Amount",
+  "closeCurrentAmount": "Current Amount",
+  "closeSaveReport": "Save Report",
+  "closeUpdateSummary": "Update Summary",
+  "closeExists": "Exists",
+  "closeExistingDataInfo": "You can view or modify existing data",
+  "closeEnterOpeningAmount": "Please enter an opening amount",
+  "closeEnterValidAmount": "Please enter a valid amount",
+  "languageSelectionSubtitle": "Pilih cara Anda ingin menggunakan {appName}. Anda dapat mengubahnya nanti di Pengaturan.",
+  "searchLanguages": "Cari bahasa",
+  "languageSuggestedBadge": "DISARANKAN",
+  "continueInLanguage": "Lanjutkan dalam {languageName}",
+  "noLanguageMatches": "Tidak ada yang cocok",
+  "noLanguageMatchesForQuery": "Tidak ada bahasa yang cocok dengan \"{query}\"",
+  "@languageSelectionSubtitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@continueInLanguage": {
+    "placeholders": {
+      "languageName": {
+        "type": "String"
+      }
+    }
+  },
+  "@noLanguageMatchesForQuery": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockSettingsSaved": "Pengaturan kunci aplikasi disimpan",
+  "appLockSubtitle": "Memerlukan PIN atau biometrik saat membuka kembali aplikasi",
+  "appLockTitle": "Kunci aplikasi",
+  "appPin": "PIN aplikasi",
+  "appPinIncorrect": "PIN salah. Coba lagi.",
+  "appPinIncorrectWithAttempts": "PIN salah. Anda memiliki {remaining} percobaan tersisa.",
+  "@appPinIncorrectWithAttempts": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      }
+    }
+  },
+  "appPinLockoutMessage": "Terlalu banyak percobaan PIN salah. Masuk dengan email dan kata sandi untuk mengatur ulang PIN.",
+  "appPinMismatch": "PIN tidak cocok. Coba lagi.",
+  "appPinRemoved": "PIN aplikasi dihapus",
+  "appPinSetSuccess": "PIN disimpan untuk organisasi ini",
+  "appPinSubtitle": "Buka cepat dengan PIN {length} digit",
+  "@appPinSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "appearance": "Tampilan",
+  "backupAutoBackupHint": "Cadangkan otomatis saat aplikasi dibuka jika sudah waktunya",
+  "backupAutoBackupTitle": "Cadangan otomatis",
+  "backupAutoDirectionBoth": "Unggah & unduh",
+  "backupAutoDirectionDownload": "Unduh dari cloud",
+  "backupAutoDirectionUpload": "Unggah ke cloud",
+  "backupAutoFrequencyDaily": "Harian",
+  "backupAutoFrequencyMonthly": "Bulanan",
+  "backupAutoFrequencyOff": "Mati",
+  "backupAutoFrequencyTitle": "Frekuensi cadangan",
+  "backupAutoFrequencyWeekly": "Mingguan",
+  "backupAutoLastDownloaded": "Pemulihan otomatis terakhir: {detail}",
+  "@backupAutoLastDownloaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastFailed": "Sinkronisasi otomatis terakhir gagal: {detail}",
+  "@backupAutoLastFailed": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastSkipped": "Sinkronisasi otomatis terakhir dilewati: {detail}",
+  "@backupAutoLastSkipped": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastUploaded": "Cadangan otomatis terakhir: {detail}",
+  "@backupAutoLastUploaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoSettingsTitle": "Pengaturan Google Drive",
+  "backupAutoSyncDirectionTitle": "Sinkronisasi otomatis",
+  "backupSyncActiveOrganization": "Organisasi saat ini",
+  "backupSyncActiveOrganizationHint": "Cadangan mengunggah data organisasi yang sedang Anda gunakan.",
+  "backupSyncCompletedHint": "Data Anda aman dicadangkan di Google Drive.",
+  "backupSyncConnected": "Terhubung",
+  "backupSyncCurrentStep": "Langkah: {step}",
+  "@backupSyncCurrentStep": {
+    "placeholders": {
+      "step": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncGoogleAccount": "Akun Google",
+  "backupSyncInProgress": "Sinkronisasi berlangsung",
+  "backupSyncLastError": "Kesalahan terakhir: {error}",
+  "@backupSyncLastError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncLastSyncDate": "Tanggal & waktu",
+  "backupSyncLastSyncTitle": "Sinkronisasi terakhir",
+  "backupSyncNeverSynced": "Belum ada cadangan yang diunggah.",
+  "backupSyncOrganization": "Organisasi",
+  "backupSyncPageTitle": "Cadangan & Sinkronisasi",
+  "backupSyncPhaseExport": "Ekspor",
+  "backupSyncPhaseUpload": "Unggah",
+  "backupSyncProgressPercent": "{percent}%",
+  "@backupSyncProgressPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "backupSyncRecords": "Rekaman dicadangkan",
+  "backupSyncSignInHint": "Masuk dengan Google untuk mencadangkan data organisasi Anda.",
+  "backupSyncSignOutConfirm": "Keluar dari Google Drive di perangkat ini?",
+  "backupSyncSignedInAs": "Masuk sebagai",
+  "backupSyncStatus": "Status",
+  "backupSyncStatusSuccess": "Selesai",
+  "backupSyncStepExport": "Mengekspor data lokal",
+  "backupSyncStepUploadFile": "Mengunggah {file}",
+  "@backupSyncStepUploadFile": {
+    "placeholders": {
+      "file": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncStepUploadTable": "Mengunggah {table}",
+  "@backupSyncStepUploadTable": {
+    "placeholders": {
+      "table": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncTables": "Tabel dicadangkan",
+  "backupSyncUnknownOrganization": "Organisasi saat ini",
+  "backupWifiOnlyContinue": "Gunakan data seluler",
+  "backupWifiOnlyHint": "Cadangan otomatis menunggu Wi‑Fi",
+  "backupWifiOnlyTitle": "Cadangkan hanya via Wi‑Fi",
+  "biometricNotAvailable": "Biometrik tidak tersedia di perangkat ini",
+  "biometricRequiresPin": "Atur PIN aplikasi sebelum mengaktifkan biometrik",
+  "biometricUnlockReason": "Buka kunci BizTrack",
+  "changeAppPin": "Ubah PIN",
+  "confirmAppPin": "Konfirmasi PIN",
+  "confirmAppPinHint": "Masukkan PIN lagi untuk konfirmasi",
+  "confirmPasscodeHint": "Masukkan passcode lagi untuk konfirmasi",
+  "contactUs": "Hubungi kami",
+  "contactUsSubtitle": "Dukungan, masukan, atau pertanyaan tentang aplikasi.",
+  "createAppPinHint": "Pilih PIN {length} digit untuk organisasi ini",
+  "@createAppPinHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "createPasscodeHint": "Pilih passcode {length} digit untuk organisasi ini",
+  "@createPasscodeHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "darkMode": "Mode gelap",
+  "darkModeSubtitle": "Gunakan latar belakang gelap di seluruh aplikasi",
+  "darkModeSystemSubtitle": "Mengikuti tema perangkat Anda",
+  "dataAndBackup": "Data & Cadangan",
+  "developerLabel": "Pengembang",
+  "disableAppPinMessage": "Face ID / buka kunci biometrik juga akan dinonaktifkan untuk organisasi ini.",
+  "disableAppPinTitle": "Hapus PIN aplikasi?",
+  "displayPrecision": "Presisi tampilan",
+  "displayPrecisionRange": "Masukkan angka dari 0 hingga 5",
+  "emailCopiedToClipboard": "Email disalin ke clipboard",
+  "employeeManagementSubtitle": "Staf, penggajian, dan kehadiran",
+  "enableBiometricAfterPinMessage": "Gunakan biometrik perangkat bersama PIN untuk masuk lebih cepat.",
+  "enableBiometricTitle": "Aktifkan biometrik?",
+  "enableFaceIdTitle": "Aktifkan Face ID?",
+  "enableFingerprintTitle": "Aktifkan sidik jari?",
+  "enableInvoiceReturns": "Aktifkan retur faktur",
+  "enableInvoiceReturnsSubtitle": "Izinkan membuat retur dari faktur yang sudah dibayar.",
+  "enterAppPin": "Masukkan PIN Anda",
+  "enterPasscode": "Masukkan passcode",
+  "googleDriveBackupFailed": "Cadangan gagal: {error}",
+  "@googleDriveBackupFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupNow": "Cadangkan sekarang",
+  "googleDriveBackupPluginError": "Cadangan memerlukan restart penuh aplikasi. Tutup aplikasi, buka lagi, lalu coba ulang.",
+  "googleDriveBackupSectionTitle": "Cadangan & Sinkronisasi",
+  "googleDriveBackupStarting": "Menyiapkan cadangan…",
+  "googleDriveBackupSubtitleSignedIn": "Masuk sebagai {email}",
+  "@googleDriveBackupSubtitleSignedIn": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupSubtitleSignedOut": "Masuk untuk mencadangkan data organisasi Anda dengan aman di Google Drive.",
+  "googleDriveBackupSuccess": "Cadangan diunggah ({tableCount} tabel, {recordCount} rekaman)",
+  "@googleDriveBackupSuccess": {
+    "placeholders": {
+      "tableCount": {
+        "type": "int"
+      },
+      "recordCount": {
+        "type": "int"
+      }
+    }
+  },
+  "googleDriveBackupTitle": "Cadangan Google Drive",
+  "googleDriveLastBackup": "Cadangan terakhir: {date}",
+  "@googleDriveLastBackup": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveSignIn": "Masuk dengan Google",
+  "googleDriveSignInCancelled": "Masuk Google dibatalkan",
+  "googleDriveSignInSuccess": "Masuk ke Google Drive",
+  "googleDriveSignOut": "Keluar",
+  "googleDriveSignOutSuccess": "Keluar dari Google Drive",
+  "itemSelectCategoryRequired": "Silakan pilih kategori",
+  "moreBackupSyncTileLastSync": "Sinkronisasi terakhir: {date}",
+  "@moreBackupSyncTileLastSync": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "moreBackupSyncTileNeverSynced": "Cadangkan ke Google Drive",
+  "moreBackupSyncTileSignedInNoSync": "Masuk · Belum ada cadangan",
+  "notNow": "Tidak sekarang",
+  "operationManagement": "Manajemen operasi",
+  "operationManagementSubtitle": "Items, stock reconciliation, contacts, categories, and closing",
+  "orContinueWithPassword": "atau masuk dengan kata sandi",
+  "organizationAccountingSubtitle": "Pengaturan faktur dan tampilan jumlah.",
+  "organizationRegionalSubtitle": "Negara, mata uang pelaporan, dan tanggal tahun fiskal.",
+  "organizationTabAccounting": "Akuntansi",
+  "organizationTabGeneral": "Umum",
+  "organizationTabRegional": "Regional & fiskal",
+  "partyPickerAddNewRole": "Tambah {role} baru",
+  "@partyPickerAddNewRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSearchHint": "Cari {role}…",
+  "@partyPickerSearchHint": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSelectedLabel": "DIPILIH",
+  "partyPickerSettled": "Lunas",
+  "partyPickerSubtitle": "Penjualan ini untuk siapa?",
+  "preferences": "Preferensi",
+  "quickUnlockAsUser": "Masuk cepat sebagai {email}",
+  "@quickUnlockAsUser": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSubtitle": "Laba rugi, laporan, dan analitik",
+  "restoreAction": "Pulihkan",
+  "restoreFromGoogleDrive": "Pulihkan dari Google Drive",
+  "restoreFromGoogleDriveConfirm": "Pulihkan \"{name}\"? Ini akan mengganti data lokal organisasi tersebut.",
+  "@restoreFromGoogleDriveConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveEmpty": "Tidak ada cadangan di Google Drive Anda.",
+  "restoreFromGoogleDriveFailed": "Pemulihan gagal: {error}",
+  "@restoreFromGoogleDriveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveHint": "Masuk dan pilih cadangan untuk memulihkan organisasi di perangkat ini.",
+  "restoreFromGoogleDriveStarting": "Memulai pemulihan…",
+  "restoreFromGoogleDriveSuccess": "{name} dipulihkan. Anda bisa masuk sekarang.",
+  "@restoreFromGoogleDriveSuccess": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreStepCreateDatabase": "Membuat database",
+  "restoreStepDownload": "Mengunduh cadangan",
+  "restoreStepFinalize": "Menyelesaikan pemulihan",
+  "restoreStepImport": "Mengimpor data",
+  "security": "Keamanan",
+  "setUpAppPin": "Atur PIN",
+  "setUpFaceIdOrPin": "Atur Face ID atau PIN",
+  "setUpFingerprintOrPin": "Atur sidik jari atau PIN",
+  "setUpNow": "Atur sekarang",
+  "setUpQuickUnlock": "Atur masuk cepat dengan PIN",
+  "setUpQuickUnlockAfterLoginMessage": "Atur Face ID, sidik jari, atau PIN untuk masuk lebih cepat lain kali. Bisa diubah nanti di Pengaturan.",
+  "setUpQuickUnlockAfterLoginTitle": "Aktifkan masuk cepat?",
+  "setUpQuickUnlockSubtitle": "Gunakan biometrik atau PIN untuk organisasi ini",
+  "signInWithBiometric": "Masuk dengan biometrik",
+  "signInWithFaceId": "Masuk dengan Face ID",
+  "signInWithFingerprint": "Masuk dengan sidik jari",
+  "signInWithPin": "Masuk dengan PIN",
+  "statisticsCashflow": "Arus kas",
+  "statisticsQuickOperationInvoice": "Faktur",
+  "statisticsQuickOperationReports": "Laporan",
+  "statisticsQuickOperationsSeeAll": "Lihat semua",
+  "tapDigitsToUnlock": "Ketuk {length} digit apa saja untuk membuka kunci.",
+  "@tapDigitsToUnlock": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "unlockApp": "Buka kunci aplikasi",
+  "useBiometricInstead": "Gunakan biometrik",
+  "useBiometricUnlock": "Gunakan Face ID / biometrik",
+  "useBiometricUnlockSubtitle": "Buka kunci dengan sidik jari atau Face ID setelah mengatur PIN",
+  "useFaceIdUnlock": "Gunakan Face ID",
+  "useFingerprintUnlock": "Gunakan sidik jari",
+  "usePinInstead": "Gunakan PIN saja",
+  "verifyPinToRemoveSubtitle": "Konfirmasi PIN {length} digit untuk menghapus kunci aplikasi",
+  "@verifyPinToRemoveSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "verifyPinToRemoveTitle": "Masukkan PIN Anda",
+  "walkthroughBackupDescription": "Keamanan setara bank dengan cadangan Google Drive sekali ketuk — data Anda terlindungi dan mudah dipulihkan.",
+  "walkthroughBackupTitle": "Data Anda, selalu aman",
+  "walkthroughBillingDescription": "Faktur penjualan dan pembelian, pesanan meja dengan tiket dapur, dan inventaris langsung — semua dalam satu aplikasi.",
+  "walkthroughBillingTitle": "Tagih dan jual dalam hitungan detik",
+  "walkthroughDashboardDescription": "Penjualan hari ini, pendapatan, dan saldo tertunggak — semua di dasbor bersih saat Anda membuka aplikasi.",
+  "walkthroughDashboardTitle": "Seluruh bisnis Anda, sekilas",
+  "walkthroughOfflineDescription": "Buat faktur, catat pengeluaran, dan kelola stok sepenuhnya offline. Semua tersinkron otomatis saat online.",
+  "walkthroughOfflineTitle": "Berfungsi tanpa internet",
+  "walkthroughReadyDescription": "Siapkan organisasi Anda dalam hitungan menit dan jalankan bisnis lebih cerdas hari ini. Mari mulai.",
+  "walkthroughReadyTitle": "Siap saat Anda siap",
+  "walkthroughStaffDescription": "Kelola kehadiran dan penggajian, lalu ekspor laporan P&L dan slip gaji sebagai PDF — tanpa alat tambahan.",
+  "walkthroughStaffTitle": "Staf, penggajian & laporan",
+  "ok": "OK",
+  "reportPeriodYear": "Tahun",
+  "reportPeriodMonth": "Bulan",
+  "reportPeriodRange": "Rentang",
+  "reportPeriodDay": "Hari",
+  "reportPeriodFrom": "Dari",
+  "reportPeriodTo": "Hingga",
+  "reportPeriod": "Periode",
+  "reportAllPurchases": "Semua pembelian",
+  "reportBeforeTax": "Sebelum pajak",
+  "reportRevenueRetained": "Pendapatan ditahan",
+  "reportHideDetails": "Sembunyikan detail",
+  "reportShowDetails": "Tampilkan detail",
+  "reportSalesRevenue": "Pendapatan penjualan",
+  "reportDiscountsGiven": "Diskon diberikan",
+  "reportNetRevenue": "Pendapatan bersih",
+  "reportOperatingExpenses": "Beban operasional",
+  "reportTotalExpenses": "Total pengeluaran",
+  "reportGrossProfit": "Laba kotor",
+  "reportGrossProfitChart": "Laba kotor",
+  "reportOperatingPlDisclaimer": "Pajak, depresiasi, dan kewajiban gaji belum dihitung — perkiraan laba rugi operasional.",
+  "reportContraLabel": "Kontra",
+  "reportNoDataForPeriod": "Tidak ada data untuk periode yang dipilih",
+  "reportRevenueVsExpenses": "Pendapatan vs pengeluaran",
+  "reportExpenseBreakdown": "Rincian pengeluaran",
+  "reportExpenseFallback": "Pengeluaran",
+  "reportGrossMarginPercent": "Margin kotor %",
+  "reportRoomVsFnB": "Kamar vs F&B",
+  "reportSegmentRoom": "Kamar",
+  "reportSegmentFnB": "F&B",
+  "reportKeyMetrics": "Metrik utama",
+  "reportIncomeStatement": "Laporan laba rugi",
+  "reportChartsSection": "Grafik",
+  "reportSegmentSummary": "Ringkasan segmen",
+  "reportFailedToLoad": "Gagal memuat laporan",
+  "reportOverview": "Ikhtisar",
+  "reportOverviewCash": "Kas",
+  "reportOverviewBank": "Bank",
+  "reportMonthlyOpeningBalance": "Saldo awal bulanan",
+  "reportOpeningBalanceHint": "Posisi kas awal setiap bulan",
+  "reportCashInOut": "Kas masuk / keluar",
+  "reportCashIn": "Kas masuk",
+  "reportCashOut": "Kas keluar",
+  "reportBankReceiptsPayments": "Penerimaan / pembayaran bank",
+  "reportReceipts": "Penerimaan",
+  "reportPayments": "Pembayaran",
+  "reportDailyCashVsQr": "Kas harian vs QR",
+  "reportSummariesSection": "Ringkasan",
+  "reportCashSummary": "Ringkasan kas",
+  "reportBankSummary": "Ringkasan bank",
+  "reportDailySummary": "Ringkasan harian",
+  "reportTabPurchase": "Pembelian",
+  "reportTabSales": "Penjualan",
+  "reportTabDashboard": "Dasbor",
+  "reportSingleDayTrend": "Satu hari — tren harian",
+  "reportFullYearTrend": "Setahun penuh — grafik tren bulanan",
+  "reportYearLabel": "Tahun {year}",
+  "@reportYearLabel": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportJanDec": "Jan – Des {year}",
+  "@reportJanDec": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportTotalPurchases": "Total pembelian",
+  "reportTotalSales": "Total penjualan",
+  "reportTotalInvoices": "Total faktur",
+  "reportUnpaidBalance": "Saldo belum dibayar",
+  "reportAvgPerInvoice": "Rata-rata per faktur",
+  "reportPerTransaction": "Per transaksi",
+  "reportMonthlySpend": "Pengeluaran bulanan ({symbol})",
+  "@reportMonthlySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportMonthlySalesChart": "Penjualan bulanan ({symbol})",
+  "@reportMonthlySalesChart": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportInvoiceCountByMonth": "Jumlah faktur per bulan",
+  "reportTopItemsBySpend": "Item teratas berdasarkan pengeluaran ({symbol})",
+  "@reportTopItemsBySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSpendByCategory": "Pengeluaran per kategori",
+  "reportOtherCategory": "Lainnya",
+  "reportSuppliers": "Pemasok",
+  "reportTableSupplier": "Pemasok",
+  "reportTableAmount": "Jumlah",
+  "reportTableBills": "Tagihan",
+  "reportSalesTotal": "Total penjualan",
+  "reportPurchaseTotal": "Total pembelian",
+  "reportPositiveMargin": "Margin positif",
+  "reportNegativeMargin": "Margin negatif",
+  "reportGrossMargin": "Margin kotor",
+  "reportOfTotalSales": "Dari total penjualan",
+  "reportFailedToLoadAnalytics": "Gagal memuat analitik",
+  "reportMarginKpi": "Margin",
+  "reportExpensesKpi": "Pengeluaran",
+  "partyPickerNoResultsFor": "Tidak ada hasil untuk \"{query}\"",
+  "@partyPickerNoResultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerNoPartiesForRole": "Tidak ada pihak {role} ditemukan",
+  "@partyPickerNoPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerLoadParties": "Muat pihak",
+  "invoiceCashCustomer": "Pelanggan tunai",
+  "invoiceQuickAddItemsTitle": "Tambah item cepat",
+  "invoiceQuickLoadingMenu": "Memuat menu…",
+  "invoiceQuickInvoiceCreated": "Faktur dibuat",
+  "invoiceQuickAddAtLeastOneItem": "Tambahkan minimal satu item",
+  "invoiceQuickNoResults": "Tidak ada hasil!",
+  "invoiceQuickNoItemsInCategory": "Tidak ada item dalam kategori ini",
+  "invoiceQuickAddItem": "Tambah item",
+  "invoiceQuickLoadMore": "Muat lebih banyak",
+  "invoiceQuickScrollLoadMore": "Gulir untuk memuat lebih banyak ({count} per halaman)",
+  "invoiceQuickSupplierEmployee": "Pemasok / Karyawan",
+  "invoiceQuickEditItem": "Edit item",
+  "closeSelectDateRange": "Pilih rentang tanggal",
+  "closeStartDate": "Tanggal mulai",
+  "closeEndDate": "Tanggal akhir",
+  "closeSelectBothDates": "Pilih tanggal mulai dan akhir",
+  "closeDeleteSummary": "Hapus ringkasan",
+  "closeDeleteSummaryConfirm": "Yakin ingin menghapus ringkasan ini?",
+  "closeSelectDate": "Pilih tanggal",
+  "closeNoDataToExport": "Tidak ada data untuk diekspor",
+  "closeNoDataToShare": "Tidak ada data untuk dibagikan",
+  "closeNoDataToPrint": "Tidak ada data untuk dicetak",
+  "closePdfGenerateError": "Kesalahan membuat PDF: {error}",
+  "@closePdfGenerateError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfShareError": "Kesalahan membagikan PDF: {error}",
+  "@closePdfShareError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfPrintError": "Kesalahan mencetak PDF: {error}",
+  "@closePdfPrintError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExportPdf": "Ekspor sebagai PDF",
+  "closeSharePdf": "Bagikan PDF",
+  "closePrint": "Cetak",
+  "closeExportOptions": "Opsi ekspor",
+  "closeExportPdfSubtitle": "Simpan atau lihat sebagai dokumen PDF",
+  "closeSharePdfSubtitle": "Bagikan melalui aplikasi atau email",
+  "closePrintSubtitle": "Cetak laporan",
+  "invoiceQuickShowingItems": "Menampilkan {shown} dari {total}",
+  "invoiceQuickLoadedItems": "Dimuat: {count}",
+  "invoiceQuickRoomCabinEmployee": "Kamar / Kabin / Karyawan",
+  "reportPercentOfRevenue": "{percent}% pendapatan",
+  "@reportPercentOfRevenue": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "reportParties": "Pihak",
+  "reportMonthYearDailyTrend": "{month} {year} — grafik tren harian",
+  "@reportMonthYearDailyTrend": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceQuickCart": "Keranjang",
+  "invoiceQuickCartWithCount": "Keranjang ({count})",
+  "invoiceQuickClearSearch": "Hapus pencarian",
+  "closeAllRecords": "Semua catatan",
+  "closeDailyCashSummaryReport": "Laporan ringkasan kas harian",
+  "closeDailyCashSummaryTitle": "Ringkasan kas harian",
+  "closeDetails": "Detail",
+  "closeGeneratedAt": "Dibuat: {date}",
+  "@closeGeneratedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "closePageN": "Halaman {n}",
+  "@closePageN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "closePeriodRange": "Periode: {start} hingga {end}",
+  "@closePeriodRange": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummaryOverview": "Ikhtisar ringkasan",
+  "closeTotalRecords": "Total catatan",
+  "closeAddSummary": "Tambah ringkasan",
+  "closeSalesAmount": "Jumlah penjualan",
+  "closeClosingBalance": "Saldo penutupan",
+  "closeLostMoney": "Uang hilang",
+  "closeDiscount": "Diskon",
+  "closeExpenses": "Pengeluaran",
+  "closeUnpaid": "Belum dibayar",
+  "closeTotalOpeningBalance": "Total saldo awal",
+  "closeTotalSalesAmount": "Total jumlah penjualan",
+  "closeTotalCashAmount": "Total tunai",
+  "closeTotalQrAmount": "Total QR",
+  "closeTotalDiscount": "Total diskon",
+  "closeTotalExpenses": "Total pengeluaran",
+  "closeTotalClosingBalance": "Total saldo penutupan",
+  "closeTotalLostMoney": "Total uang hilang",
+  "closeTotalExtraAmount": "Total jumlah tambahan",
+  "closeShowingCurrentMonth": "Menampilkan data bulan ini",
+  "closeNoSummariesFound": "Ringkasan tidak ditemukan",
+  "closeNoSummariesAvailable": "Tidak ada ringkasan",
+  "closeTryAdjustingDateRange": "Coba sesuaikan rentang tanggal",
+  "closeCreateFirstSummary": "Buat ringkasan pertama untuk memulai",
+  "closeClearFilter": "Hapus filter",
+  "closeFiltered": "Tersaring",
+  "closeFilteredWithRange": "Tersaring: {range}",
+  "@closeFilteredWithRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummarySingular": "Ringkasan",
+  "closeSummariesPlural": "Ringkasan",
+  "closeSummaryUpdatedSuccess": "Ringkasan berhasil diperbarui",
+  "closeSummaryDeletedSuccess": "Ringkasan berhasil dihapus",
+  "premiumUnlockTitle": "Buka {appName} Premium",
+  "@premiumUnlockTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumTagline": "POS offline lengkap, faktur, inventaris, dan laporan — satu langganan untuk bisnis Anda.",
+  "premiumFeatureUnlimitedInvoices": "Faktur & struk tak terbatas",
+  "premiumFeatureInventoryStock": "Inventaris & pelacakan stok",
+  "premiumFeatureReportsAnalytics": "Laporan penjualan & analitik",
+  "premiumFeatureOfflineLocal": "Bekerja offline — data Anda tetap lokal",
+  "premiumContinueWith": "Lanjutkan dengan {plan}",
+  "@premiumContinueWith": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRestorePurchases": "Pulihkan pembelian",
+  "premiumSubscriptionLegal": "Pembayaran dibebankan ke Apple ID Anda. Langganan diperpanjang otomatis kecuali dibatalkan minimal 24 jam sebelum akhir periode.",
+  "premiumPurchaseRestored": "Pembelian dipulihkan.",
+  "premiumNoActiveSubscription": "Tidak ada langganan aktif.",
+  "premiumPlanMonthly": "Bulanan",
+  "premiumPlanMonthlySubtitle": "Fleksibel — batalkan kapan saja",
+  "premiumPlanYearly": "Tahunan",
+  "premiumPlanYearlySubtitle": "Nilai terbaik — hemat {percent}%",
+  "@premiumPlanYearlySubtitle": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "premiumPlanLifetime": "Seumur hidup",
+  "premiumPlanLifetimeSubtitle": "Bayar sekali, miliki selamanya",
+  "premiumPlanPopular": "Populer",
+  "premiumOneTimePurchase": "Pembelian sekali",
+  "subscriptionSectionTitle": "Langganan",
+  "subscriptionPremiumLabel": "Premium",
+  "subscriptionUpgradeTitle": "Upgrade ke Premium",
+  "subscriptionPremiumPricing": "Bulanan {monthly} · Tahunan {yearly}",
+  "@subscriptionPremiumPricing": {
+    "placeholders": {
+      "monthly": {
+        "type": "String"
+      },
+      "yearly": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActiveUntil": "{plan} aktif hingga {date}",
+  "@subscriptionPremiumActiveUntil": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActive": "{plan} aktif",
+  "@subscriptionPremiumActive": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRequired": "Premium diperlukan",
+  "upgradeToPremiumContinue": "Upgrade ke Premium untuk melanjutkan.",
+  "freemiumFreePlanLimit": "Paket gratis memungkinkan hingga {limit} {label}. Upgrade ke Premium untuk akses tak terbatas.",
+  "@freemiumFreePlanLimit": {
+    "placeholders": {
+      "limit": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "freemiumPartyRoleRequired": "Peran pihak wajib diisi.",
+  "shiftReminderOpeningTitle": "Pengingat buka",
+  "shiftReminderOpeningMessage": "Apakah Anda sudah membuka kasir hari ini?",
+  "shiftReminderOpeningProceed": "Ya, buka sekarang",
+  "shiftReminderClosingTitle": "Pengingat tutup",
+  "shiftReminderClosingMessage": "Apakah Anda sudah menutup kasir hari ini?",
+  "shiftReminderClosingProceed": "Ya, tutup sekarang",
+  "shiftReminderSkipToday": "Lewati hari ini",
+  "shiftReminderOpeningNotificationTitle": "Pengingat buka",
+  "shiftReminderOpeningNotificationBody": "Apakah Anda sudah membuka kasir hari ini? Ketuk di sini jika masih perlu membuka.",
+  "shiftReminderClosingNotificationTitle": "Pengingat tutup",
+  "shiftReminderClosingNotificationBody": "Apakah Anda sudah menutup kasir hari ini? Ketuk di sini jika masih perlu menutup.",
+  "closeExchangePayQrGetCashHint": "{business} membayar QR ke pelanggan; pelanggan memberikan tunai.",
+  "@closeExchangePayQrGetCashHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExchangePayCashGetQrHint": "{business} membayar tunai ke pelanggan; pelanggan membayar dengan QR.",
+  "@closeExchangePayCashGetQrHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closePaymentExchange": "Pertukaran pembayaran",
+  "closePayQrGetCashExchangeLabel": "Bayar QR → Terima tunai (pertukaran)",
+  "closePayCashGetQrExchangeLabel": "Bayar tunai → Terima QR (pertukaran)",
+  "closePayQrGetCashDetail": "Bayar QR, terima tunai",
+  "closePayCashGetQrDetail": "Bayar tunai, terima QR",
+  "faqSectionPremium": "Premium & penagihan",
+  "faqPremiumWhatsIncludedQuestion": "Apa saja yang termasuk Premium?",
+  "faqPremiumWhatsIncludedAnswer": "Premium membuka faktur tak terbatas, laporan lengkap (P&L, laporan keuangan, analitik), cadangan & sinkronisasi, payroll, absensi, alat stok, ekspor/cetak faktur, dan organisasi tambahan. Tier gratis tetap memungkinkan fitur POS inti dalam batas wajar.",
+  "faqPremiumFreeTierQuestion": "Apa yang termasuk tier gratis?",
+  "faqPremiumFreeTierAnswer": "Anda dapat membuat hingga 10 faktur penjualan dan 10 pembelian, 4 karyawan, 30 item, dan batas lain saat tercapai. Buka, tutup, kalkulator, dan jelajahi data tetap gratis.",
+  "faqPremiumRestoreQuestion": "Bagaimana memulihkan pembelian?",
+  "faqPremiumRestoreAnswer": "Buka Lainnya → Upgrade ke Premium (atau paywall) dan ketuk Pulihkan pembelian. Gunakan Apple ID yang sama saat berlangganan.",
+  "faqPremiumCancelQuestion": "Bagaimana membatalkan langganan?",
+  "faqPremiumCancelAnswer": "Kelola atau batalkan di Pengaturan iPhone → Apple ID → Langganan. Akses tetap hingga akhir periode berbayar.",
+  "faqDarkModeQuestion": "Bagaimana mengaktifkan mode gelap?",
+  "faqDarkModeAnswer": "Buka Lainnya → Tampilan dan aktifkan Mode gelap. Saat perangkat memakai tema sistem, aplikasi mengikutinya otomatis.",
+  "faqOpeningClosingReminderQuestion": "Apa itu pengingat buka dan tutup?",
+  "faqOpeningClosingReminderAnswer": "{appName} dapat mengingatkan Anda membuka atau menutup kas harian. Anda bisa lanjut, lewati hari ini, atau tutup pengingat.",
+  "faqPartyRolesQuestion": "Apa itu peran pihak?",
+  "faqPartyRolesAnswer": "Peran pihak mengklasifikasikan kontak seperti pelanggan, pemasok, kamar, atau karyawan. Sesuaikan di Operasi → Peran pihak dan tambahkan deskripsi singkat untuk tim.",
+  "faqRateAppQuestion": "Bagaimana menilai {appName}?",
+  "faqRateAppAnswer": "Buka Lainnya → Nilai kami untuk memberi ulasan di App Store. Masukan Anda membantu kami meningkatkan penagihan offline untuk bisnis Anda.",
+  "freemiumLabelSalesInvoices": "faktur penjualan",
+  "freemiumLabelPurchaseInvoices": "faktur pembelian",
+  "freemiumLabelEmployees": "karyawan",
+  "freemiumLabelItems": "item",
+  "freemiumLabelCategories": "kategori",
+  "freemiumLabelPaymentMethods": "metode pembayaran",
+  "freemiumLabelCustomPartyRoles": "peran pihak kustom",
+  "freemiumLabelPartiesForRole": "pihak untuk {role}",
+  "freemiumLabelOrganizations": "organisasi",
+  "freemiumPremiumReports": "Laporan tersedia dengan Premium.",
+  "freemiumPremiumBackupSync": "Cadangan & sinkronisasi memerlukan Premium.",
+  "freemiumPremiumPayroll": "Payroll memerlukan Premium.",
+  "freemiumPremiumAttendance": "Absensi memerlukan Premium.",
+  "freemiumPremiumStock": "Manajemen stok memerlukan Premium.",
+  "freemiumPremiumInvoiceExport": "Unduh dan cetak memerlukan Premium.",
+  "@faqOpeningClosingReminderAnswer": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@faqRateAppQuestion": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@freemiumLabelPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  }
+}

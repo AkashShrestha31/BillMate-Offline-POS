@@ -1,0 +1,2653 @@
+{
+  "@@locale": "tr",
+  "noInternetConnection": "İnternet bağlantısı yok.",
+  "formatException": "Biçim istisnası",
+  "rememberMe": "Beni hatırla",
+  "signIn": "Giriş yap",
+  "passwordHint": "Şifre girin",
+  "forgetPassword": "Giriş bilgilerini unuttunuz mu?",
+  "okay": "Tamam",
+  "success": "Başarılı",
+  "hotel": "otel",
+  "errorEncountered": "Hata oluştu",
+  "serverError": "Sunucu hatası",
+  "requestFailed": "İstek başarısız",
+  "connectionTimedOut": "Bağlantı zaman aşımına uğradı",
+  "password": "Şifre",
+  "keepSignIn": "Oturumu açık tut",
+  "enterPassword": "Şifre girin",
+  "enterValidPassword": "Geçerli bir şifre girin",
+  "skip": "ATLA",
+  "pleaseWait": "Lütfen bekleyin ....",
+  "enterValidUserName": "Geçerli bir kullanıcı adı girin.",
+  "userName": "Kullanıcı adı",
+  "or": "Veya",
+  "retry": "Yeniden dene",
+  "error": "Hata",
+  "supportMessage": "Lütfen yönetici ile iletişime geçin.",
+  "responseMessage404": "404 hatası",
+  "appDisplayName": "BizTrack",
+  "appVersionLabel": "Sürüm {version}",
+  "@appVersionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "İptal",
+  "yes": "Evet",
+  "no": "Hayır",
+  "close": "Kapat",
+  "save": "Kaydet",
+  "delete": "Sil",
+  "confirm": "Onayla",
+  "done": "Bitti",
+  "next": "İleri",
+  "getStarted": "Başla",
+  "back": "Geri",
+  "submit": "Gönder",
+  "continueAction": "Devam et",
+  "tryAgain": "Tekrar dene",
+  "warning": "UYARI",
+  "loading": "Yükleniyor…",
+  "comingSoon": "Yakında",
+  "required": "Zorunlu",
+  "search": "Ara",
+  "add": "Ekle",
+  "edit": "Düzenle",
+  "remove": "Kaldır",
+  "view": "Görüntüle",
+  "export": "Dışa aktar",
+  "import": "İçe aktar",
+  "refresh": "Yenile",
+  "select": "Seç",
+  "upload": "Yükle",
+  "download": "İndir",
+  "share": "Paylaş",
+  "filter": "Filtrele",
+  "sort": "Sırala",
+  "apply": "Uygula",
+  "reset": "Sıfırla",
+  "clear": "Temizle",
+  "all": "Tümü",
+  "none": "Hiçbiri",
+  "total": "Toplam",
+  "subtotal": "Ara toplam",
+  "grandTotal": "Genel Toplam",
+  "amount": "Tutar",
+  "quantity": "Miktar",
+  "rate": "Fiyat",
+  "discount": "İndirim",
+  "paid": "Ödendi",
+  "unpaid": "Ödenmemiş",
+  "credit": "Kredi",
+  "cash": "Nakit",
+  "date": "Tarih",
+  "time": "Saat",
+  "name": "Ad",
+  "email": "E-posta",
+  "phone": "Telefon",
+  "address": "Adres",
+  "notes": "Notlar",
+  "description": "Açıklama",
+  "status": "Durum",
+  "type": "Tür",
+  "category": "Kategori",
+  "party": "Taraf",
+  "item": "Kalem",
+  "payment": "Ödeme",
+  "settlement": "Mutabakat",
+  "opening": "Açılış",
+  "closing": "Kapanış",
+  "stock": "Stock reconciliation",
+  "expense": "Gider",
+  "revenue": "Gelir",
+  "profit": "Kâr",
+  "loss": "Zarar",
+  "sales": "Satış",
+  "purchase": "Satın alma",
+  "monthJan": "Oca",
+  "monthFeb": "Şub",
+  "monthMar": "Mart",
+  "monthApr": "Nis",
+  "monthMay": "Mayıs",
+  "monthJun": "Haz",
+  "monthJul": "Tem",
+  "monthAug": "Ağu",
+  "monthSep": "Eyl",
+  "monthOct": "Eki",
+  "monthNov": "Kas",
+  "monthDec": "Ara",
+  "more": "Daha fazla",
+  "profile": "Profil",
+  "operations": "Operasyonlar",
+  "employeeManagement": "Çalışan yönetimi",
+  "report": "Rapor",
+  "helpAndSupport": "Yardım ve destek",
+  "privacyAndPolicies": "Gizlilik ve politikalar",
+  "faq": "SSS",
+  "contactSupport": "Desteğe ulaşın",
+  "rateUs": "Bizi Değerlendirin",
+  "rateUsSubtitle": "BizTrack'ten memnun musunuz? Google Play'de yorum bırakın",
+  "rateUsUnavailable": "Mağaza açılamadı. Daha sonra tekrar deneyin.",
+  "reportProblem": "Sorun bildir",
+  "logout": "Çıkış yap",
+  "signOut": "Oturumu kapat",
+  "settings": "Ayarlar",
+  "testData": "Test verileri",
+  "regionAndCurrency": "Bölge ve para birimi",
+  "reportingCurrency": "Raporlama para birimi",
+  "selectCurrency": "Para birimi seçin",
+  "currencySample": "{code} · {symbol} · örnek {sample}",
+  "@currencySample": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      },
+      "sample": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdated": "Para birimi {code} ({symbol}) olarak ayarlandı",
+  "@currencyUpdated": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdateFailed": "Para birimi güncellenemedi: {error}",
+  "@currencyUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "setupAppTitle": "{appName} kurulumu",
+  "@setupAppTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "setupSubtitle": "Organizasyonunuzu ve muhasebenizi yapılandırın — çevrimdışı kullanım için bu cihazda saklanır.",
+  "regionAndCurrencySubtitle": "Yerel ayarlar ve raporlama para birimi.",
+  "country": "Ülke",
+  "currency": "Para birimi",
+  "selectCountry": "Ülke seçin",
+  "language": "Dil",
+  "selectLanguage": "Dil seçin",
+  "languageUpdated": "Dil {name} olarak ayarlandı",
+  "@languageUpdated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "languageUpdateFailed": "Dil güncellenemedi: {error}",
+  "@languageUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToApp": "{appName}'e hoş geldiniz",
+  "@welcomeToApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "forceUpdateMessage": "Devam etmek için lütfen {appName}'in en son sürümünü yükleyin.",
+  "@forceUpdateMessage": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "generatedByApp": "{appName} tarafından oluşturuldu",
+  "@generatedByApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "whatIsApp": "{appName} nedir?",
+  "@whatIsApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "appDescriptionFaq": "{appName}, satış ve satın alma faturalarını, tarafları (müşteriler ve tedarikçiler), stok, ödemeler, çalışanlar ve günlük özetleri telefonunuzdan veya tabletinizden yönetmenize yardımcı olur.",
+  "@appDescriptionFaq": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "faqIntro": "{appName} hakkında sık sorulan soruların yanıtları.",
+  "@faqIntro": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseFromGallery": "Galeriden seç",
+  "takePhoto": "Fotoğraf çek",
+  "photoLibrary": "Fotoğraf kitaplığı",
+  "addPhoto": "Fotoğraf ekle",
+  "couldNotPickImage": "Resim seçilemedi: {error}",
+  "@couldNotPickImage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteOrganizationTitle": "Organizasyonu sil?",
+  "deleteOrganizationMessage": "{name}'i bu cihazdan kaldırın. Bu organizasyona ait tüm yerel veriler silinecek.",
+  "deleteOrganizationWarning": "Bu işlem geri alınamaz.",
+  "organizationDeleted": "Organizasyon kaldırıldı",
+  "createAction": "Oluştur",
+  "connectOrganizationTitle": "Organizasyonunuzu bağlayın",
+  "connectOrganizationSubtitle": "Giriş yapmak için bir organizasyon seçin.",
+  "selectOrganization": "Organizasyonlar",
+  "selectOrganizationHint": "Devam etmek için bir organizasyona dokunun",
+  "noSavedOrganizationsYet": "Henüz organizasyon yok. Bir tane oluşturun veya aşağıdaki test verilerini kullanın.",
+  "orgConnectOnceInfo": "Bu, uygulamayı iş hesabınıza bağlar. Bunu cihaz başına yalnızca bir kez ayarlamanız gerekir.",
+  "organizationCodeLabel": "Kod: {code}",
+  "loginWithTestData": "Test verileriyle giriş yap",
+  "loginWithTestDataSubtitle": "Demo otel verilerini yükle ve otomatik olarak giriş yap",
+  "testDataLoginFailed": "Test verileri yüklenemedi: {error}",
+  "preparingTestData": "Demo veriler hazırlanıyor…",
+  "setupOrganizationName": "Organizasyon adı",
+  "setupCompanyName": "Şirket adı",
+  "setupBusinessType": "İşletme türü",
+  "businessTypeHotel": "Otel",
+  "businessTypeRestaurant": "Restoran",
+  "businessTypeHotelRestaurant": "Otel & Restoran",
+  "businessTypeRetail": "Perakende / Dükkan",
+  "businessTypeCafe": "Kafe / Fırın",
+  "businessTypeBar": "Bar / Bar",
+  "businessTypeOther": "Diğer",
+  "organizationBusinessTypeLabel": "Tür: {type}",
+  "@organizationBusinessTypeLabel": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "organizationSettings": "Organizasyon",
+  "editOrganizationInfo": "Organizasyon bilgileri",
+  "editOrganizationInfoSubtitle": "Bu işletmenin uygulamada nasıl göründüğünü güncelleyin. Organizasyon kodu değiştirilemez.",
+  "organizationCode": "Organizasyon kodu",
+  "organizationCodeReadOnly": "Bu kod kurulumdan sonra sabittir.",
+  "organizationInfoUpdated": "Organizasyon bilgileri kaydedildi",
+  "organizationInfoLoadFailed": "Organizasyon bilgileri yüklenemedi",
+  "organizationInfoSaveFailed": "Organizasyon bilgileri kaydedilemedi: {error}",
+  "@organizationInfoSaveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "saveChanges": "Değişiklikleri kaydet",
+  "setupFullName": "Tam ad",
+  "setupConfirmPassword": "Şifreyi onayla",
+  "setupBankName": "Banka adı",
+  "setupRegionStepTitle": "Bölge ve para birimi",
+  "setupOrganizationStepTitle": "Organizasyon",
+  "setupOrganizationStepSubtitle": "İşletmenizin uygulamada nasıl göründüğü",
+  "setupAdminStepTitle": "Yönetici hesabı",
+  "setupAdminStepSubtitle": "Bu kurulum için birincil kullanıcı",
+  "setupAccountingStepTitle": "Muhasebe",
+  "setupAccountingStepSubtitle": "Banka, hesap planı ve mali yıl",
+  "setupCompleteSetup": "Kurulumu tamamla",
+  "fieldRequired": "{field} gereklidir",
+  "invalidEmailAddress": "Geçerli bir e-posta adresi girin",
+  "passwordMinLength": "Şifre en az {min} karakter olmalıdır",
+  "passwordsDoNotMatch": "Şifreler eşleşmiyor",
+  "setupFixValidationErrors": "Devam etmek için aşağıdaki hataları düzeltin",
+  "setupCompleteSuccess": "Kurulum başarıyla tamamlandı",
+  "setupCompleteWithPdfSuccess": "Kurulum tamamlandı. PDF'yi güvenli bir yerde kaydedin.",
+  "setupPdfFailed": "Kurulum tamamlandı, ancak PDF kaydedilemedi: {error}",
+  "setupFailed": "Kurulum tamamlanamadı. Lütfen tekrar deneyin.",
+  "setupFailedWithDetails": "Kurulum başarısız: {error}",
+  "languageChangeLaterHint": "Daha sonra ayarlardan değiştirebilirsiniz",
+  "unpaidAmount": "Ödenmedi Tutar",
+  "unpaidBalance": "Ödenmedi",
+  "unpaidColonAmount": "Ödenmedi: {amount}",
+  "previousUnpaid": "Ödenmedi",
+  "partyUnpaid": "Ödenmedi",
+  "loadingUnpaid": "Ödenmedi…",
+  "totalUnpaid": "Ödenmedi",
+  "unpaidAmountNotYetCollected": "Ödenmemiş tutar henüz tahsil edilmedi.",
+  "partyUnpaidTabHint": "Çalışanlar'ı açın, bir kişi seçin, ardından profillerinde Taraf ödemesi yapılmamış'a dokunun. Sunucunun bu arama için bir çalışan kimliğine ihtiyacı var.",
+  "partySettlementUsesUnpaidTotal": "Taraf mutabakatı ödenmemiş toplamı kullanır.",
+  "selectPartyWithUnpaidFirst": "Önce bir mutabakat tutarı girin (veya ödemesi yapılmamış bir taraf seçin).",
+  "@unpaidColonAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "partyRolesTitle": "Taraf rolleri",
+  "partyRolesMoreSubtitle": "Müşteri, tedarikçi, ikisi ve daha fazlası",
+  "searchRoles": "Rolleri ara",
+  "roleCount": "{count, plural, =1{1 rol} other{{count} rol}}",
+  "@roleCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noRolesYet": "Henüz rol yok",
+  "noRolesYetHint": "Kişiler için Müşteri, Tedarikçi, İkisi veya özel roller ekleyin.",
+  "addRole": "Rol ekle",
+  "deleteRoleTitle": "Rolü sil",
+  "deleteRoleConfirm": "\"{name}\" silinsin mi? Bu geri alınamaz.",
+  "@deleteRoleConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteRoleHasPartiesMessage": "\"{name}\", {partyCount, plural, =1{1 taraf} other{{partyCount} taraf}} tarafından kullanılmaktadır. Bu tarafları başka bir role aktarın veya zorla silin ve kaybettirin.",
+  "@deleteRoleHasPartiesMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "transferParties": "Tarafları aktar",
+  "hardDeleteLoseParties": "Zorla sil (tarafları kaybet)",
+  "hardDeleteRoleTitle": "Zorla silinsin mi?",
+  "hardDeleteRoleMessage": "Bu, \"{name}\" ve ona atanmış tüm {partyCount, plural, =1{1 tarafı} other{{partyCount} tarafı}} kalıcı olarak silecek. Taraf verileri kurtarılamaz.\n\nFaturalara veya ödemelere bağlı taraflar silinmeyebilir — bunun yerine Aktar'ı kullanın.",
+  "@hardDeleteRoleMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteRoleAndParties": "Rolü ve tarafları sil",
+  "addAnotherRoleBeforeDelete": "Bunu silmeden önce başka bir rol ekleyin.",
+  "transferPartiesMoveMessage": "{partyCount, plural, =1{1 tarafı} other{{partyCount} tarafı}} \"{fromRole}\" konumundan şuraya taşı:",
+  "@transferPartiesMoveMessage": {
+    "placeholders": {
+      "partyCount": {
+        "type": "int"
+      },
+      "fromRole": {
+        "type": "String"
+      }
+    }
+  },
+  "transferAndDeleteRole": "Aktar ve rolü sil",
+  "builtInRole": "Yerleşik",
+  "rolePartyCount": "{count, plural, =1{1 taraf} other{{count} taraf}}",
+  "@rolePartyCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noPartiesYet": "Henüz taraf yok",
+  "newRole": "Yeni rol",
+  "editRole": "Rolü düzenle",
+  "defaultRolesCannotEdit": "Varsayılan roller yeniden adlandırılamaz veya silinemez.",
+  "roleNameLabel": "Rol adı *",
+  "roleNameHint": "örn. Müşteri",
+  "roleDescriptionLabel": "Açıklama",
+  "roleDescriptionHint": "Ekibiniz için kısa not",
+  "roleSortOrderLabel": "Sıralama",
+  "roleSortOrderHint": "Düşük değerler listelerde önce görünür",
+  "roleCreated": "Rol oluşturuldu",
+  "roleUpdated": "Rol güncellendi",
+  "roleDeleted": "Rol silindi",
+  "roleDeletedPartiesTransferred": "Rol silindi. {count, plural, =1{1 taraf} other{{count} taraf}} {targetRole} konumuna taşındı.",
+  "@roleDeletedPartiesTransferred": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "targetRole": {
+        "type": "String"
+      }
+    }
+  },
+  "roleAndPartiesDeleted": "Rol ve {count, plural, =1{1 taraf} other{{count} taraf}} silindi.",
+  "@roleAndPartiesDeleted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@deleteOrganizationMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@organizationCodeLabel": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "@testDataLoginFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@fieldRequired": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "@passwordMinLength": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "@setupPdfFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@setupFailedWithDetails": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "workspace": "Çalışma alanı",
+  "change": "Değiştir",
+  "addMoreOrganization": "Daha fazla ekle +",
+  "connectAnotherOrganization": "Başka bir organizasyon bağla",
+  "noSavedOrganizationsUseAddMore": "Henüz kayıtlı organizasyon yok. Bir tane bağlamak için Daha fazla ekle + kullanın.",
+  "registerNewOrganizationTitleSignedIn": "Yeni bir organizasyon kaydettir?",
+  "registerNewOrganizationTitle": "Yeni organizasyon kaydettir?",
+  "registerNewOrganizationMessageSignedIn": "Oturumunuz kapatılacak ve bu cihazda yeni bir işletme kaydedebilmeniz için kurulum sihirbazı baştan başlayacak.\n\nHalihazırda kaydettiğiniz organizasyonlar kurulumdan sonra listede kalacak.",
+  "registerNewOrganizationMessageLogin": "Bu cihazda yeni bir işletme kaydedebilmeniz için kurulum sihirbazı başlayacak. Oluşturmak için kurulumu tamamlayın; kayıtlı organizasyonlarınız listede kalır.",
+  "startSetup": "Kurulumu başlat",
+  "enterOrganizationCode": "Lütfen organizasyon kodunuzu girin",
+  "organizationNotFoundCheckCode": "Organizasyon bulunamadı. Kodu kontrol edip tekrar deneyin.",
+  "organizationNotFound": "Organizasyon bulunamadı",
+  "couldNotVerifyOrganization": "Organizasyon doğrulanamadı",
+  "noLocalDataCompleteSetup": "{name} için yerel veri yok. Önce bu organizasyonun kurulumunu tamamlayın.",
+  "@noLocalDataCompleteSetup": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeBack": "Tekrar Hoş Geldiniz",
+  "signInToContinue": "Devam etmek için giriş yapın",
+  "enterEmail": "E-posta girin",
+  "pleaseEnterEmail": "Lütfen e-posta adresinizi girin",
+  "pleaseEnterValidEmail": "Lütfen geçerli bir e-posta girin",
+  "enterEmailLocalPartOnly": "Yalnızca @ öncesi kısmı girin",
+  "pleaseEnterPassword": "Lütfen şifrenizi girin",
+  "logIn": "GİRİŞ YAP",
+  "searchCountry": "Ülke ara",
+  "searchCodeOrSymbol": "Kod veya sembol ara",
+  "saveLoginDetailsTitle": "Giriş bilgileriniz kaydedilsin mi?",
+  "saveLoginDetailsMessage": "Bu organizasyonun kurulumunu tamamlamak üzeresiniz.\n\nOrganizasyon kodunuzu, organizasyon adınızı, giriş e-postanızı ve şifrenizi içeren bir PDF'i güvenle indirmek ister misiniz? Güvenli bir yerde saklayın — bu dosyaya sahip herkes giriş yapabilir.",
+  "downloadPdfAndContinue": "PDF'i indir ve devam et",
+  "continueWithoutPdf": "PDF olmadan devam et",
+  "legalDisplayNameHint": "Yasal / görünen ad",
+  "chartOfAccounts": "Hesap planı",
+  "fiscalYearStart": "Mali yıl başlangıcı",
+  "fiscalYearEnd": "Mali yıl bitişi",
+  "removeTestDataTitle": "Test verileri kaldırılsın mı?",
+  "removeTestDataMessageDemoOrg": "Tüm demo satışlar, alımlar, kişiler, taraflar, envanter kalemleri, personel, içki hesap makinesi ürünleri ve ekstra demo organizasyonlar kaldırılacak.\n\nDemo organizasyondasınız — bundan sonra otomatik olarak ilk organizasyonunuza geçirileceksiniz.",
+  "removeTestDataMessageNormal": "Tüm demo satışlar, alımlar, kişiler, taraflar, envanter kalemleri, personel ve 3 ekstra demo organizasyon kaldırılacak. Yönetici hesabınız ve gerçek kurulum verileriniz korunur.",
+  "removeTestDataWarning": "Test verileri yeniden yüklenmeden bu geri alınamaz.",
+  "removeTestData": "Test verilerini kaldır",
+  "keepTestData": "Test verilerini sakla",
+  "demoDataRemoved": "Demo veriler kaldırıldı",
+  "testDataRemovedSwitchedTo": "Test verileri kaldırıldı. {name} konumuna geçildi.",
+  "@testDataRemovedSwitchedTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "testDataRemoved": "Test verileri kaldırıldı",
+  "couldNotRemoveTestData": "Test verileri kaldırılamadı: {error}",
+  "@couldNotRemoveTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loadTestDataTitle": "Test verileri yüklensin mi?",
+  "loadTestDataMessage": "Bu, 50'ye kadar demo kişi, 50 yalnızca satış ve 50 yalnızca alım envanter kalemi ile örnek satışlar, alımlar, ödemeler, stok, kapanış özetleri, personel, bordro, son 15 güne ait devam ve hesap makinesi için örnek içki ürünleri ekleyecek.",
+  "loadTestData": "Test verilerini yükle",
+  "testDataLoaded": "Test verileri yüklendi",
+  "couldNotLoadTestData": "Test verileri yüklenemedi: {error}",
+  "@couldNotLoadTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "demoTestData": "Demo test verileri",
+  "importTestDataSubtitle": "Tüm özellikler için test verilerini içe aktar",
+  "hideTestDataTitle": "Bu organizasyon için test verileri gizlensin mi?",
+  "hideTestDataMessage": "Devam ederseniz, Test Verileri bölümü bu organizasyonda her yerde gizlenecek (kurulum dahil). Yalnızca uygulamayı yeniden yükleyerek veya bu organizasyonun uygulama verilerini temizleyerek geri açabilirsiniz.",
+  "hideTestDataWarning": "Zaten yüklü demo veriler, ayarlardan kaldırana kadar veritabanında kalacak.",
+  "okHideTestData": "Tamam, test verilerini gizle",
+  "testDataHiddenForOrg": "Bu organizasyon için Test Verileri gizlendi",
+  "hideTestDataTooltip": "Bu organizasyon için test verilerini gizle",
+  "privacyPolicyTitle": "Gizlilik Politikası",
+  "termsAndConditions": "Şartlar ve Koşullar",
+  "logoutConfirmTitle": "Çıkış",
+  "logoutConfirmMessage": "Hesabınızdan çıkış yapmak istediğinizden emin misiniz?",
+  "faqTapToExpand": "Genişletmek için bir soruya dokunun.",
+  "faqSectionGettingStarted": "Başlarken",
+  "faqSectionLogin": "Giriş",
+  "faqSectionNavigation": "Gezinme",
+  "faqSectionInvoices": "Faturalar",
+  "faqSectionPayments": "Ödemeler",
+  "faqSectionItemsStock": "Ürünler ve stok",
+  "faqSectionProfileEmployees": "Profil ve çalışanlar",
+  "faqSectionDashboardReports": "Gösterge paneli ve raporlar",
+  "faqSectionSyncTroubleshooting": "Senkronizasyon ve sorun giderme",
+  "faqNeedInternetQuestion": "İnternete ihtiyacım var mı?",
+  "faqNeedInternetAnswer": "İlk yerel kurulumdan sonra internetsiz fatura, ürün ve ödeme kaydedebilirsiniz. Veriler cihazınızda kalır. Sunucuyla senkronizasyon isteğe bağlıdır.",
+  "faqFirstInstallQuestion": "İlk kurulumda ne olur?",
+  "faqFirstInstallAnswer": "Kısa bir tanıtım görebilir, ardından yerel kurulum (organizasyon, şirket, giriş e-postası ve şifresi, para birimi, mali yıl) yapılır. Ardından oluşturduğunuz e-posta ve şifreyle giriş yapın.",
+  "faqSignInCredentialsQuestion": "Giriş yapmak için ne kullanmalıyım?",
+  "faqSignInCredentialsAnswer": "Kurulumdan e-posta adresiniz ve şifreniz. Uygulama, Daha Fazla'dan çıkış yapana kadar sizi oturumda tutar.",
+  "faqLoggedOutQuestion": "Neden oturumum kapatıldı?",
+  "faqLoggedOutAnswer": "Çıkış'ı seçtiniz, uygulama verilerini temizlediniz veya oturum süresi doldu. Aynı bilgilerle tekrar giriş yapın.",
+  "faqBottomTabsQuestion": "Alt sekmeler ne işe yarar?",
+  "faqBottomTabsAnswer": "Ana Sayfa — gösterge paneli ve genel bakış.\nSatışlar — tarihe göre satış faturaları.\nGiderler — alım / gider faturaları.\nMerkez düğme — Taraflar (müşteriler, tedarikçiler).\nDaha Fazla — profil, raporlar, senkronizasyon, yardım, çıkış.",
+  "faqCreateInvoiceQuestion": "Satış veya alım faturası nasıl oluşturulur?",
+  "faqCreateInvoiceAnswer": "Satışlar veya Giderler'i açın, takvimde bir tarih seçin, + düğmesine dokunun, ürün ve tutarları ekleyin, gerekirse bir taraf seçin, ardından kaydedin veya gönderin.",
+  "faqInvoiceDetailsQuestion": "Fatura ayrıntılarını nasıl görüntülerim?",
+  "faqInvoiceDetailsAnswer": "Listede herhangi bir faturaya dokunun. İşlem ayrıntıları; satır kalemleri, toplamlar, indirimler ve ödemeleri gösterir. Oradan yazdırabilir, paylaşabilir, kopyalayabilir veya ödeme yapabilirsiniz.",
+  "faqZeroRateQuestion": "Ayrıntılarda oran veya tutar sıfır görünüyor",
+  "faqZeroRateAnswer": "Bu genellikle eski kayıtlarda satır veya ödeme verilerinin eksik olduğu anlamına gelir. Uygulamayı güncelleyin ve gerekirse yeniden oluşturun veya mutabık kalın.",
+  "faqPartialPaymentQuestion": "Kısmi ödeme nasıl kaydedilir?",
+  "faqPartialPaymentAnswer": "Faturayı açın → İşlem ayrıntıları → Ödeme yap. Tutarı, yöntemi ve tarihi girin, ardından Mutabakatı işle.",
+  "faqMultiplePaymentQuestion": "Çoklu Ödeme nasıl çalışır?",
+  "faqMultiplePaymentAnswer": "Çoklu Ödeme'yi açın, düzenle'ye dokunun ve toplamı Nakit, Kart, QR vb. arasında bölün. Her yöntem ayrı ayrı kaydedilir.",
+  "faqSplitPaymentSavedQuestion": "Bölünmüş ödemeden yalnızca bir ödeme kaydedildi",
+  "faqSplitPaymentSavedAnswer": "En son uygulama sürümüne güncelleyin. Eski sürümler bazen yalnızca ilk bölme satırını kaydediyordu. Ödenmemiş bakiyeniz hâlâ yanlışsa tekrar mutabık kalın.",
+  "faqAddItemQuestion": "Ürün nasıl eklenir?",
+  "faqAddItemAnswer": "Satış akışından veya hızlı ekle'den Ürün ekle'yi kullanın. Ad, oran, birim, amaç ve isteğe bağlı fotoğraf (JPEG/PNG/GIF/WebP, maks. 5 MB) girin, ardından Ürün oluştur.",
+  "faqCustomUnitQuestion": "Özel birim nasıl eklenir?",
+  "faqCustomUnitAnswer": "Ürün formunda, Birim'e dokunun → Listenin altındaki Yeni birim oluştur'a dokunun, adı (örn. Litre, Kutu) girin ve Oluştur.",
+  "faqStockQuantitiesQuestion": "How do I enter stock quantities?",
+  "faqStockQuantitiesAnswer": "Live qty is In stock on each item. Set stock on an item to enter opening stock or a stock adjustment. Opening stock / stock reconciliation (upload or enter a count) also sets In stock when live tracking is on. Liquor prices is a pour-price list, not stock.",
+  "faqProfileNameQuestion": "Adımı değiştirdim ancak profil hâlâ eski adı gösteriyor",
+  "faqProfileNameAnswer": "Çalışan kaydınızı (girişteki e-posta ile aynı) düzenleyin ve kaydedin. Daha Fazla sekmesi ve gösterge paneli güncellenmelidir.",
+  "faqRevenueDetailsQuestion": "Gelir Ayrıntıları nedir?",
+  "faqRevenueDetailsAnswer": "Günlük trend grafiği, net kâr, ödenmemiş alacaklar ve gün gün satış ile alım dökümü içeren aylık görünüm. Takvim veya ay çipiyle ayı değiştirin.",
+  "faqOtherReportsQuestion": "Diğer raporlar nerede?",
+  "faqOtherReportsAnswer": "Daha Fazla'yı açın ve rolünüzün erişimi varsa Raporlar (Analitik, Kâr & Zarar, Ekstre vb.) altına bakın.",
+  "faqWhenSyncQuestion": "Ne zaman senkronize etmeliyim?",
+  "faqWhenSyncAnswer": "Yalnızca yöneticiniz istediğinde ve stabil bir bağlantınız olduğunda. Senkronizasyon, cihaz ile sunucu arasında veri gönderir veya alır.",
+  "faqFabPositionQuestion": "+ düğmesi Satışlar / Giderler'de çok yüksek görünüyor",
+  "faqFabPositionAnswer": "Alt gezinme çubuğunun üzerinde yer alır. Düğme cihazınızda içerikle örtüşüyorsa listeyi kaydırın veya uygulamayı güncelleyin.",
+  "faqHowLogoutQuestion": "Nasıl çıkış yaparım?",
+  "faqHowLogoutAnswer": "Daha Fazla → Ayarlar listesinin altındaki Çıkış.",
+  "statisticsGoodMorning": "Günaydın",
+  "statisticsGoodAfternoon": "Tünaydın",
+  "statisticsGoodEvening": "İyi akşamlar",
+  "statisticsDefaultUser": "Kullanıcı",
+  "statisticsCheckConnection": "Lütfen bağlantınızı kontrol edip tekrar deneyin.",
+  "statisticsCouldNotLoadProfile": "Profil yüklenemedi",
+  "statisticsCouldNotLoadData": "Veriler yüklenemedi",
+  "statisticsPeriodDay": "Gün",
+  "statisticsPeriodMonth": "Ay",
+  "statisticsPeriodYear": "Yıl",
+  "statisticsSelectedPeriod": "Seçilen Dönem",
+  "statisticsSelectMonth": "Ayı Seçin",
+  "statisticsSelectMonthSubtitle": "Verileri filtrelemek için bir ay seçin",
+  "statisticsQuickOperations": "Quick Operations",
+  "statisticsAnnualRevenue": "Yıllık Gelir",
+  "statisticsCashflowLast7Days": "Nakit akışı (son 7 gün)",
+  "statisticsCashflowLast12Months": "Nakit akışı (son 12 ay)",
+  "statisticsDaily": "Günlük",
+  "statisticsMonthly": "Aylık",
+  "statisticsOverall": "Etraflı",
+  "statisticsLast7Days": "Last 7 Days",
+  "statisticsLast12Months": "Last 12 Months",
+  "statisticsAllYears": "Tüm Yıllar",
+  "statisticsNoDataAvailable": "Veri yok",
+  "statisticsMoneyIn": "Para Girişi",
+  "statisticsMoneyOut": "Para Çıkışı",
+  "statisticsIncome": "Gelir",
+  "statisticsExpenses": "Giderler",
+  "statisticsSalesSummary": "Satış Özeti",
+  "statisticsPurchaseSummary": "Satın Alma Özeti",
+  "statisticsTotalSales": "Toplam Satışlar",
+  "statisticsTotalIncome": "Toplam Gelir",
+  "statisticsTotalUnpaid": "Toplam Ödenmemiş",
+  "statisticsTotalPurchase": "Toplam Satın Alma",
+  "statisticsPaidPurchase": "Ücretli Satın Alma",
+  "statisticsUnpaidPurchase": "Ödenmemiş Satın Alma",
+  "statisticsEmployeeDashboard": "Çalışan Kontrol Paneli",
+  "statisticsDefaultEmployee": "Çalışan",
+  "statisticsDefaultDepartment": "Departman",
+  "statisticsDefaultPosition": "Konum",
+  "statisticsCurrentMonth": "Geçerli Ay",
+  "statisticsStatus": "Durum",
+  "statisticsActive": "Aktif",
+  "statisticsWelcome": "Hoş geldin",
+  "statisticsEmployeeWelcomeMessage": "Çalışan olarak giriş yaptınız. Mevcut özelliklere erişmek için gezinme menüsünü kullanın.",
+  "statisticsRevenueDetails": "Gelir Ayrıntıları",
+  "statisticsEmployeeDetails": "Çalışan Detayları",
+  "statisticsChangeMonth": "Ayı değiştir",
+  "statisticsFilterChartsSubtitle": "Grafikleri ve dökümü filtreleyin",
+  "statisticsDailyTrend": "Günlük trend",
+  "statisticsDailyActivity": "Günlük aktivite",
+  "statisticsNoDataForMonth": "Bu aya ait veri yok",
+  "statisticsNetProfit": "Net kâr",
+  "statisticsMonthReceivables": "Aylık alacaklar",
+  "statisticsNoDailyEntries": "Bu ay için günlük giriş yok",
+  "statisticsDailySalesBreakdown": "Günlük satış dökümü",
+  "statisticsDailyBreakdown": "Günlük döküm",
+  "statisticsAdvance": "İlerlemek",
+  "statisticsExploreFeatures": "Özellikleri Keşfedin",
+  "statisticsShowOrHideFeatures": "Özellikleri göster veya gizle",
+  "statisticsAllFeaturesHidden": "Tüm keşfetme özellikleri gizlidir",
+  "statisticsNoFeaturesForOrg": "Kuruluşunuz için kullanılabilir özellik yok",
+  "statisticsTapTuneToShow": "Kısayolları tekrar göstermek için yukarıdaki ayar simgesine dokunun.",
+  "statisticsMenuCheck": "Mutabakat",
+  "statisticsMenuEmployee": "Çalışan",
+  "statisticsMenuOrder": "Emir",
+  "statisticsMenuInventory": "Items",
+  "statisticsMenuCustomers": "Müşteriler",
+  "statisticsMenuCalculator": "Liquor prices",
+  "statisticsMenuQuickExpenses": "Hızlı\nGiderler",
+  "statisticsMenuQuickSales": "Hızlı\nSatış",
+  "statisticsMenuAddEmployee": "Ekle\nÇalışan",
+  "statisticsMenuAddParty": "Ekle\nTaraf",
+  "statisticsMenuAddEmployeeSingle": "Çalışan Ekle",
+  "statisticsMenuAddPartySingle": "Taraf Ekle",
+  "statisticsGreeting": "{greeting}, {name}",
+  "@statisticsGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsEmployeeGreeting": "{greeting}, {name}!",
+  "@statisticsEmployeeGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDepartmentPosition": "{department} • {position}",
+  "@statisticsDepartmentPosition": {
+    "placeholders": {
+      "department": {
+        "type": "String"
+      },
+      "position": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricCollected": "{amount} toplandı",
+  "@statisticsMetricCollected": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricPaid": "{amount} ödendi",
+  "@statisticsMetricPaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyInAmount": "Para Girişi: {amount}",
+  "@statisticsMoneyInAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyOutAmount": "Para Çıkışı: {amount}",
+  "@statisticsMoneyOutAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDayTooltip": "Gün {day}\n{amount}",
+  "@statisticsDayTooltip": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsProfitMargin": "{percent}% marj",
+  "@statisticsProfitMargin": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "selectBusinessType": "İşletme türünü seçin",
+  "businessTypeHotelSubtitle": "Odalar, misafirler ve ön büro",
+  "businessTypeRestaurantSubtitle": "Yemek, mutfak ve masa siparişleri",
+  "businessTypeHotelRestaurantSubtitle": "Otel odaları ve restoran bir arada",
+  "businessTypeRetailSubtitle": "Ürünler, stok ve ödeme",
+  "businessTypeCafeSubtitle": "Kahve, hamur işleri ve hafif atıştırmalıklar",
+  "businessTypeBarSubtitle": "İçecek menüsü, sekmeler ve bar satışları",
+  "businessTypeOtherSubtitle": "Her işletmeye özel kurulum",
+  "@invoiceCommonSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonInvoiceLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCustomerLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSupplierLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchingFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchItemsHint": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonEmptyForDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDeleteInvoiceConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCancelReturnMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPartyLoadingError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceFoundSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceFoundPurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDatePurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateInvoiceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteMessage": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceReturnCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotPrint": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotSave": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotShare": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonItemReturnedQty": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      },
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonMultiplePaymentSummary": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptFilename": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReturnAgainst": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSavedPath": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonUnpaidWithAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonTodayAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyExportReceipts": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyNoItemsMatching": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceQuickShowingItems": {
+    "placeholders": {
+      "shown": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickLoadedItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickScrollLoadMore": {
+    "placeholders": {
+      "perPage": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickCartWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemActionsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditSelectedItem": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditRateLabel": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditItemLabel": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemsError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditPartiesError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditSaveError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonActions": "Eylemler",
+  "invoiceCommonSearchItems": "Öğeleri Ara",
+  "invoiceCommonSearchItemsSubtitle": "Belirli öğeleri arayın",
+  "invoiceCommonAddNewInvoice": "Yeni Fatura Ekle",
+  "invoiceCommonAddSalesInvoiceSubtitle": "Yeni bir satış faturası oluştur",
+  "invoiceCommonAddPurchaseInvoiceSubtitle": "Yeni bir satın alma faturası oluştur",
+  "invoiceCommonSelectMonthYear": "Ay/Yıl Seçiniz",
+  "invoiceCommonSelectMonthYearSubtitle": "Belirli bir aya atla",
+  "invoiceCommonSelectMonthAndYear": "Ay ve Yılı Seçin",
+  "invoiceCommonFilterByDate": "Tarihe göre filtrele",
+  "invoiceCommonFilterByDateRange": "Tarih aralığına göre filtrele",
+  "invoiceCommonCloseSearch": "Aramayı kapat",
+  "invoiceCommonSelectAll": "Tümünü Seç",
+  "invoiceCommonToday": "Bugün",
+  "invoiceCommonTotalQuantity": "Toplam Adet",
+  "invoiceCommonTotalAmount": "Toplam Tutar",
+  "invoiceCommonTotal": "Toplam",
+  "invoiceCommonSearchForItems": "Öğeleri ara",
+  "invoiceCommonNoItemsFound": "Hiçbir öğe bulunamadı",
+  "invoiceCommonUnknownItem": "Bilinmeyen Öğe",
+  "invoiceCommonNotAvailable": "Yok",
+  "invoiceSalesCouldNotLoad": "Satışlar yüklenemedi",
+  "invoiceSalesNoFound": "Satış bulunamadı",
+  "invoiceSalesSelectDate": "Satışları görüntülemek için bir tarih seçin",
+  "invoiceSalesNoInvoicesFound": "Fatura bulunamadı",
+  "invoiceSalesSelectDateLegacy": "Faturaları görüntülemek için bir tarih seçin",
+  "invoicePurchaseCouldNotLoad": "Giderler yüklenemedi",
+  "invoicePurchaseNoFound": "Hiçbir satın alma bulunamadı",
+  "invoicePurchaseSelectDate": "Satın alımları görüntülemek için bir tarih seçin",
+  "invoiceWeekdaySun": "Güneş",
+  "invoiceWeekdayMon": "Pazartesi",
+  "invoiceWeekdayTue": "Salı",
+  "invoiceWeekdayWed": "Çar",
+  "invoiceWeekdayThu": "Per",
+  "invoiceWeekdayFri": "Cuma",
+  "invoiceWeekdaySat": "Doygunluk",
+  "invoiceCommonSelectedCount": "{count} Seçildi",
+  "invoiceCommonQtyLabel": "Adet: {qty}",
+  "invoiceCommonInvoiceLabel": "Fatura: {number}",
+  "invoiceCommonCustomerLabel": "Müşteri: {name}",
+  "invoiceCommonSupplierLabel": "Tedarikçi: {name}",
+  "invoiceCommonSearchingFor": "\"{query}\" aranıyor...",
+  "invoiceCommonSearchItemsHint": "{scope} içindeki öğeleri ara...",
+  "invoiceCommonSalesSearchPrompt": "Tüm satışları bulmak için bir ürün adı yazın\n{scope} içinde",
+  "invoiceCommonPurchaseSearchPrompt": "Tüm satın alımları bulmak için bir ürün adı yazın\n{scope} içinde",
+  "invoiceCommonSalesNoMatch": "\"{query}\" satışı yok\n{scope}'de",
+  "invoiceCommonPurchaseNoMatch": "\"{query}\" satın alımı yok\n{scope}'de",
+  "invoiceCommonEmptyForDate": "{date} için",
+  "invoiceFoundSalesCount": "{count, plural, =1{1 satış} other{{count} satış}} bulundu",
+  "invoiceFoundPurchaseCount": "{count, plural, =1{1 satın alma} other{{count} satın alma}} bulundu",
+  "invoiceDateSalesCount": "{count, plural, =1{1 satış} other{{count} satış}}",
+  "invoiceDatePurchaseCount": "{count, plural, =1{1 satın alma} other{{count} satın alma}}",
+  "invoiceDateInvoiceCount": "{count, plural, =1{1 fatura} other{{count} faturalar}}",
+  "invoiceDeleteTitle": "{count, plural, =1{1 fatura} other{{count} faturaları}} sil",
+  "invoiceDeleteMessage": "{count, plural, =1{1 seçili fatura} other{{count} seçili faturaları}} silmek istediğinizden emin misiniz? Bu eylem geri alınamaz.",
+  "contacts": "Kişiler",
+  "categories": "Kategoriler",
+  "manageStaff": "Personeli yönet",
+  "payroll": "Bordro",
+  "attendance": "Katılım",
+  "profitAndLoss": "Kâr ve zarar",
+  "statementReport": "Ekstre",
+  "analytics": "Analitik",
+  "loggedOut": "Çıkış yapıldı",
+  "organizationCodeDisplay": "Kod: {code}",
+  "@organizationCodeDisplay": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "moreDataSynchronization": "Veri Senkronizasyonu",
+  "moreSendDataToClient": "Müşteriye Veri Gönder",
+  "moreSendDataToClientSubtitle": "Sunucu verilerini istemciye yükleyin",
+  "moreSendDataToClientWarning": "Bu eylem, mevcut istemci veritabanını sunucudaki verilerle değiştirecektir. Son istemci değişikliklerinin tümü kaybolabilir.",
+  "moreSendDataToClientConfirm": "İstemciye veri göndermek istediğinizden emin misiniz?",
+  "moreFetchDataFromClient": "İstemciden Veri Alma",
+  "moreFetchDataFromClientSubtitle": "İstemci verilerini sunucuya indirin",
+  "moreFetchDataFromClientWarning": "Bu eylem, geçerli sunucu veritabanını istemciden gelen verilerle değiştirecektir. Tüm son sunucu değişiklikleri kaybolabilir.",
+  "moreFetchDataFromClientConfirm": "İstemciden veri almak istediğinizden emin misiniz?",
+  "notifications": "Bildirimler",
+  "openingReminder": "Açılış hatırlatıcısı",
+  "closingReminder": "Kapanış hatırlatıcısı",
+  "openingTime": "Açılış zamanı",
+  "closingTime": "Kapanış zamanı",
+  "notificationSettingsSaved": "Bildirim ayarları kaydedildi",
+  "notificationPermissionHint": "Uygulama kapatıldığında hatırlatıcıların çalışması için bildirimlere (ve Android'de alarmlara) izin verin",
+  "dailyAtTime": "Her gün {time}'da",
+  "@dailyAtTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonYesterday": "Dün",
+  "invoiceCommonTodayAt": "Bugün, {time}",
+  "invoiceCommonDaysAgo": "{count} gün önce",
+  "invoiceReturnCount": "{count, plural, =1{1 iade} other{{count} iade}}",
+  "statisticsMonthRevenue": "Aylık Gelir",
+  "statisticsMonthExpenses": "Aylık Giderler",
+  "exploreCustomizeTitle": "Özellikleri özelleştirin",
+  "exploreCustomizeSubtitle": "Ana ekranınızda kısayolları gösterin veya gizleyin. Yalnızca kuruluşunuzun erişebileceği özellikler listelenir.",
+  "exploreVisibleOnDashboard": "Kontrol panelinde görünür",
+  "exploreHiddenOnDashboard": "Kontrol panelinde gizli",
+  "partiesTitle": "Taraflar",
+  "partySearchByName": "İsme göre ara…",
+  "partySortBy": "Sırala:",
+  "partySortLatest": "En son",
+  "partySortAmountHighLow": "Tutar: Yüksekten düşüğe",
+  "partySortAmountLowHigh": "Tutar: Düşükten yükseğe",
+  "partySortNameAZ": "Ad: A'dan Z'ye",
+  "partySortNameZA": "Ad: Z'den A'ya",
+  "partyAddNew": "Yeni taraf ekle",
+  "partyEdit": "Tarafı düzenle",
+  "partyUpdate": "Tarafı güncelle",
+  "partyNameLabel": "Taraf adı*",
+  "partyNameHint": "Taraf adını girin",
+  "partyNewNameLabel": "Yeni taraf adı*",
+  "partyNewNameHint": "Yeni taraf adını girin",
+  "partyRoleLabel": "Taraf rolü *",
+  "partyTapToSelect": "Seçmek için dokunun",
+  "partySelectRoleValidation": "Lütfen rol seçin",
+  "partyEnterNameValidation": "Lütfen taraf adını girin",
+  "partyBasicInfo": "Temel bilgiler",
+  "partyAdditionalInfo": "Ek bilgi",
+  "partyEmail": "Taraf e-postası",
+  "partyEmailHint": "E-posta adresini girin",
+  "partyPhone": "Telefon numarası",
+  "partyPhoneHint": "Telefon numarasını girin",
+  "partyAddress": "Taraf adresi",
+  "partyAddressHint": "Adresi girin",
+  "partyRoleCustomer": "Müşteri",
+  "partyRoleSupplier": "Tedarikçi",
+  "partyRoleRoom": "Oda",
+  "partyRoleCabin": "Kabin",
+  "partyRoleEmployee": "Çalışan",
+  "partyRoleBoth": "Her ikisi",
+  "partyDefaultAccount": "Varsayılan hesap",
+  "partyLoyaltyProgram": "Sadakat programı",
+  "partyLoyaltyPoints": "Sadakat puanları",
+  "partySelectDefaultAccount": "Varsayılan hesabı seçin",
+  "partySelectLoyaltyProgram": "Sadakat programını seçin",
+  "partyCreateNewProgram": "Yeni program oluştur",
+  "partySelectPartyRole": "Taraf rolünü seçin",
+  "partyAccountDebtors": "Alacaklar",
+  "partyAccountCreditors": "Borçlar",
+  "partyBothRoleHint": "Her ikisi, bu tarafın yalnızca Müşteri ve Tedarikçi altında göründüğü anlamına gelir — Oda, Kabin veya Çalışan altında değil.",
+  "partyValidNumber": "Lütfen geçerli bir numara girin",
+  "partyValidAmount": "Lütfen geçerli tutarı girin",
+  "exportAsPdf": "PDF olarak dışa aktar",
+  "sharePdf": "PDF'yi paylaş",
+  "partyExportPdfTooltip": "PDF'yi dışa aktar",
+  "checkoutSelectParty": "Taraf seçin",
+  "checkoutCartSummary": "Sepet özeti",
+  "checkoutNoItemsInCart": "Sepette ürün yok",
+  "checkoutSearchHere": "Burada arayın",
+  "checkoutCreateInvoice": "Fatura Oluştur",
+  "checkoutEditInvoice": "Faturayı Düzenle",
+  "checkoutSaveInvoice": "Faturayı Kaydet",
+  "checkoutInvoiceSummary": "Fatura Özeti",
+  "checkoutEstimate": "Tahmin etmek",
+  "checkoutBasicInformation": "Temel Bilgiler",
+  "checkoutAddItems": "Öğe Ekle",
+  "checkoutItemsSection": "Öğeler",
+  "checkoutPartyRequired": "Taraf *",
+  "checkoutPartyInformation": "Taraf bilgileri",
+  "checkoutBillSummary": "Fatura Özeti",
+  "checkoutBillSummaryHint": "Daha ayrıntılı hesaplamayı öğrenmek için dokunun.",
+  "checkoutItemTotal": "Ürün Toplamı",
+  "checkoutLoyaltyDiscount": "Sadakat İndirimi (%{percent})",
+  "@checkoutLoyaltyDiscount": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutDiscountLine": "- İndirim (%{percent})",
+  "@checkoutDiscountLine": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutTapToEdit": "Düzenlemek için dokunun",
+  "checkoutTotalAmount": "Toplam Tutar",
+  "checkoutPaymentMode": "Record payment",
+  "checkoutPaymentModeHint": "Turn on to take payment now. Leave off to submit the bill unpaid and collect later.",
+  "checkoutNetSalesAmount": "Net Satış Tutarı",
+  "checkoutConfirmCheckout": "Ödemeyi Onayla",
+  "checkoutEditDiscount": "İndirimi Düzenle",
+  "checkoutPercentage": "Yüzde",
+  "checkoutDiscard": "At",
+  "checkoutPartialPayment": "Kısmi Ödeme",
+  "checkoutPartialPaymentBanner": "Kısmi Ödemeyi etkinleştirerek müşteri, Toplam Fatura Tutarından daha düşük bir tutarı ödeyebilecektir.",
+  "checkoutPleaseEnterAmounts": "Lütfen ilgili tutarları girin:",
+  "checkoutPartialPaymentEqualHint": "Hiçbir kullanıcı atanmadığı için toplam tutarın toplam fatura tutarına eşit olması gerekir.",
+  "checkoutOverGrandTotalBy": "Genel Toplam Üzerinden: {amount}",
+  "@checkoutOverGrandTotalBy": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutRemainingUnpaid": "Kalan (Genel Toplamdan ödenmemiş): {amount}",
+  "@checkoutRemainingUnpaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutConfirmPayment": "Ödemeyi Onayla",
+  "checkoutUnpaidCredit": "Ödenmemiş / Kredi",
+  "checkoutAddAtLeastOneLine": "Tahmini görüntülemek için en az bir satır öğesi ekleyin",
+  "checkoutMultiplePayment": "Çoklu Ödeme",
+  "checkoutPaymentStatus": "Ödeme durumu",
+  "checkoutPaymentMethods": "Ödeme yöntemleri",
+  "checkoutPaymentMethod": "Ödeme yöntemi",
+  "checkoutTenderAmount": "İhale tutarı",
+  "checkoutLoadingPaymentMethods": "Ödeme yöntemleri yükleniyor…",
+  "stocksTitle": "Stock reconciliation",
+  "stockUploadTooltip": "Opening stock",
+  "stockNoDataYet": "No opening stock yet",
+  "stockNoDataSubtitle": "Enter a physical count. With live tracking on, that count becomes In stock.",
+  "stockUploadAction": "Opening stock",
+  "stockSearchByDateHint": "Tarihe veya aya göre arayın…",
+  "stockNoMatches": "Eşleşme yok",
+  "stockTryDifferentSearch": "Farklı bir arama terimi deneyin",
+  "stockTryAnotherSearch": "Başka bir arama yapmayı deneyin",
+  "stockQtyLabel": "Adet {qty}",
+  "@stockQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "stockCardSummary": "{records} kayıtları · {items} öğeleri · {locations} konumları",
+  "@stockCardSummary": {
+    "placeholders": {
+      "records": {
+        "type": "String"
+      },
+      "items": {
+        "type": "String"
+      },
+      "locations": {
+        "type": "String"
+      }
+    }
+  },
+  "stockFilterTitle": "Filter stock reconciliation",
+  "stockBatchNumber": "Parti numarası",
+  "stockLocation": "Konum",
+  "stockOptionalHint": "İsteğe bağlı",
+  "stockApplyFilters": "Filtreleri uygula",
+  "stockClearFields": "Alanları temizle",
+  "stockDeleteAllTooltip": "Bu tarihe ait tüm stokları sil",
+  "stockNoItemsFound": "Stok ürünü bulunamadı",
+  "stockNoItemsSubtitle": "Farklı filtreler veya başka bir raporlama tarihi deneyin.",
+  "stockAdjustFilters": "Filtreleri ayarla",
+  "stockSearchItemHint": "Öğeyi, toplu işi, konumu arayın…",
+  "stockEditQuantities": "Miktarları düzenle",
+  "stockNoChangesDetected": "Hiçbir değişiklik algılanmadı",
+  "stockErrorPreparingChanges": "Değişiklikler hazırlanırken hata oluştu: {error}",
+  "@stockErrorPreparingChanges": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "stockUpdateSuccessful": "Güncelleme Başarılı!",
+  "stockSummary": "Özet",
+  "stockTotalRequested": "Toplam Talep Edilen",
+  "stockSuccessfullyUpdated": "Başarıyla Güncellendi",
+  "stockFailed": "Arızalı",
+  "stockUpdateFailed": "Güncelleme Başarısız",
+  "stockClearAllQuantitiesTitle": "Tüm Miktarlar Temizlensin mi?",
+  "stockClearAllQuantitiesMessage": "Bu, tüm miktarları 0'a sıfırlayacaktır. Emin misiniz?",
+  "stockClearAll": "Tümünü Temizle",
+  "stockUpdatingQuantities": "Stok adetleri güncelleniyor...",
+  "stockEditQuantitiesTitle": "Stok Adetlerini Düzenle",
+  "stockReportingDate": "Raporlama Tarihi: {date}",
+  "@stockReportingDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "stockTotalItemsHint": "Toplam öğe: {count} • Miktarları gerektiği gibi güncelleyin",
+  "@stockTotalItemsHint": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "stockItemName": "Öğe Adı",
+  "stockBatchPrefix": "Toplu: {batch}",
+  "@stockBatchPrefix": {
+    "placeholders": {
+      "batch": {
+        "type": "String"
+      }
+    }
+  },
+  "stockDeleteConfirmTitle": "Silmeyi Onayla",
+  "stockDeleteConfirmIntro": "Aşağıdaki tarih için tüm stok kalemlerini kalıcı olarak silmek üzeresiniz:",
+  "stockDeleteConfirmWarning": "Bu eylem geri alınamaz. Bu tarihe ait tüm stok kayıtları kalıcı olarak silinecektir.",
+  "stockNoInternetRetry": "İnternet bağlantısı yok. Lütfen bağlantınızı kontrol edip tekrar deneyin.",
+  "itemsTitle": "Öğeler",
+  "itemAddSheetTitle": "Öğe ekle",
+  "itemSingleAdd": "Tek ekleme",
+  "itemBulkAdd": "Toplu ekleme",
+  "itemBulkAddTitle": "Öğeleri toplu ekleme",
+  "itemEditTitle": "Öğeyi Düzenle",
+  "itemAddTitle": "Öğe Ekle",
+  "itemCreateButton": "Öğe Oluştur",
+  "itemUpdateButton": "Öğeyi Güncelle",
+  "itemDeleteTitle": "Öğeyi Sil",
+  "itemDeleteConfirm": "\"{name}\" öğesini silmek istediğinizden emin misiniz?",
+  "itemDeletedSuccess": "Öğe başarıyla silindi",
+  "itemCreatedSuccess": "Öğe başarıyla oluşturuldu",
+  "itemUpdatedSuccess": "Öğe başarıyla güncellendi",
+  "itemLoading": "Öğeler yükleniyor...",
+  "itemErrorTitle": "Hata! Bir şeyler ters gitti",
+  "itemTryAgain": "Tekrar deneyin",
+  "itemSearchHint": "Öğeleri ara",
+  "itemNoItemsFound": "Hiçbir öğe bulunamadı",
+  "itemTryAdjustSearch": "Arama terimlerinizi ayarlamayı deneyin",
+  "itemNoItemsAvailable": "Hiçbir öğe mevcut değil",
+  "itemAddToGetStarted": "Başlamak için öğe ekleyin",
+  "itemNoMoreItems": "Başka öğe yok",
+  "itemPurposeBoth": "İkisi birden",
+  "itemPurposePurchases": "Satın almalar",
+  "itemTypeProduct": "Ürün",
+  "itemTypeService": "Hizmet",
+  "itemTypeInventory": "Envanter",
+  "itemPhotoTitle": "Ürün fotoğrafı",
+  "itemPhotoHint": "Fotoğraf seçmek veya yüklemek için burayı tıklayın",
+  "itemPhotoFormats": "JPEG, PNG, GIF veya WebP · maksimum 5 MB",
+  "itemAddPhoto": "Fotoğraf ekle",
+  "itemPhotoLibrary": "Fotoğraf kitaplığı",
+  "itemPhotoLibraryHint": "Fotoğraflarınız arasından seçim yapın",
+  "itemTakePhoto": "Fotoğraf çek",
+  "itemUploadGallery": "Galeriden yükle",
+  "itemUploadGalleryHint": "Bu cihazdaki dosyalara göz atın",
+  "itemTypeLabel": "Tip",
+  "itemTypeField": "Öğe türü",
+  "itemNameLabel": "Öğe adı",
+  "itemNameHint": "Öğe adını girin",
+  "itemBarcodeLabel": "Barkod / QR Kodu",
+  "itemBarcodeField": "Barkod / QR kodu",
+  "itemBarcodeHint": "Uygulama çubuğundan tarayın veya yapıştırın",
+  "itemRateLabel": "Oran",
+  "itemUnitLabel": "Birim",
+  "itemPurposeLabel": "Amaç",
+  "itemSelectUnit": "Birim seçin",
+  "itemSelectPurpose": "Amaç seçin",
+  "itemSelectCategory": "Kategori seç",
+  "itemSelectType": "Tür seçin",
+  "itemSelectItemType": "Öğe türünü seçin",
+  "itemSearchUnits": "Birimleri arayın…",
+  "itemSearchPurpose": "Arama amacı…",
+  "itemSearchCategories": "Kategorileri ara…",
+  "itemCreateCustomUnit": "Özel birim oluştur",
+  "itemUnitName": "Birim adı",
+  "itemUnitNameHint": "ör. Litre, Kutu, Adet",
+  "itemValidationName": "Lütfen öğe adını girin",
+  "itemValidationRate": "Lütfen ücreti girin",
+  "itemValidationNumber": "Lütfen geçerli bir numara girin",
+  "itemSelectUnitRequired": "Lütfen bir birim seçin",
+  "itemSelectPurposeRequired": "Lütfen bir amaç seçin",
+  "itemImageMissing": "Resim dosyası eksik",
+  "itemImageFormatError": "JPEG, PNG, GIF veya WebP kullanın",
+  "itemImageSizeError": "Resim 5 MB veya daha küçük olmalıdır",
+  "itemScanBarcode": "Barkodu tarayın",
+  "itemNameFromCatalog": "Katalogdan doldurulmuş ad: {name}",
+  "itemBarcodePasteHint": "Ürün adı bulunamadı — kod ad olarak yapıştırıldı. Gerekirse düzenleyin.",
+  "itemBulkRefillTooltip": "Önceki girişi yeniden doldur",
+  "itemBulkAddRow": "Satır ekle",
+  "itemBulkRowLabel": "Öğe {index}",
+  "itemBulkNameRequired": "Ad gerekli",
+  "itemBulkInvalidNumber": "Geçersiz numara",
+  "itemBulkCreating": "Oluşturuluyor…",
+  "itemBulkCreateItems": "Öğe oluştur",
+  "itemBulkCreatedCount": "{count} öğe oluşturuldu",
+  "itemBulkCreateFailed": "Öğeler oluşturulamadı: {error}",
+  "itemBulkNoDraft": "Kayıtlı taslak bulunamadı",
+  "itemBulkInvalidDraft": "Kaydedilen taslak biçimi geçersiz",
+  "itemBulkDraftRestored": "Önceki taslak geri yüklendi",
+  "itemBulkDraftRestoreFailed": "Kaydedilen taslak geri yüklenemedi",
+  "itemBulkAtLeastOne": "En az bir öğe ekleyin",
+  "itemBulkCategoriesLoading": "Kategoriler yükleniyor, lütfen tekrar deneyin",
+  "itemBulkLoadingCategories": "Kategoriler yükleniyor…",
+  "inventoryTitle": "Envanter Analitiği",
+  "inventorySubtitle": "Gerçek zamanlı stok hareketi takibi",
+  "inventorySearchHint": "Öğeleri ara...",
+  "inventorySold": "Satılmış",
+  "inventoryPurchased": "Satın alındı",
+  "catNoCategories": "Kategori yok. Oluşturmak için +'ya dokunun.",
+  "catLoadCategories": "Kategorileri yükle",
+  "catCreated": "Kategori oluşturuldu",
+  "catRenamed": "Kategori yeniden adlandırıldı",
+  "catDeleted": "Kategori silindi",
+  "catNewTitle": "Yeni kategori",
+  "catRenameTitle": "Kategoriyi yeniden adlandır",
+  "catNewName": "Yeni isim",
+  "catRename": "Yeniden isimlendirmek",
+  "catDeleteTitle": "Kategoriyi sil",
+  "catDeleteConfirm": "\"{name}\" silinsin mi?",
+  "catDeleteLinkedHint": "Öğeler bağlantılıdır. Bağlantılarını kaldırmak için silmeyi zorlayabilirsiniz.",
+  "catForceDelete": "Silmeye zorla",
+  "catItemsCount": "{count} öğe",
+  "contactFavoritesOnly": "Yalnızca favoriler",
+  "contactShowAll": "Tüm kişileri göster",
+  "contactSearchHint": "Ad, telefon, e-posta arayın…",
+  "contactNoConnection": "Bağlantı yok",
+  "contactCheckNetwork": "Ağınızı kontrol edip tekrar deneyin.",
+  "contactSomethingWrong": "Bir şeyler ters gitti",
+  "contactNoContacts": "Kişi yok",
+  "contactNoFavorites": "Favori eşleşme yok. Yıldız filtresini kapatın veya bir kişiye favoriler ekleyin.",
+  "contactTrySearchOrAdd": "Farklı bir arama yapmayı deneyin veya kişi eklemek için +'ya dokunun.",
+  "contactEndOfList": "Listenin sonu",
+  "contactNewTooltip": "Yeni kişi",
+  "contactLoading": "Kişiler yükleniyor…",
+  "contactUnknown": "Bilinmiyor",
+  "contactCallTooltip": "Arama",
+  "contactEditTitle": "Kişiyi düzenle",
+  "contactNewTitle": "Yeni kişi",
+  "contactSelectTitle": "Kişiyi seçin",
+  "contactDeleteTitle": "Kişi silinsin mi?",
+  "contactDeleteUndo": "Bu eylem geri alınamaz.",
+  "contactNameRequired": "Ad gerekli",
+  "contactNameLabel": "İsim *",
+  "contactNameHint": "Kişi adı",
+  "contactPhoneHint": "+977-9841234567",
+  "contactEmailHint": "e-posta@example.com",
+  "contactCategoryHint": "örneğin iş, genel, VIP",
+  "contactCompanyHint": "Firma Adı",
+  "contactFavorite": "Favori",
+  "contactCannotCall": "Bu cihazda arama yapılamıyor",
+  "contactPermissionDenied": "İletişim izni reddedildi. Bunu Ayarlar'dan etkinleştirebilirsiniz.",
+  "contactPermissionRequired": "Telefondan içe aktarmak için iletişim izni gerekiyor",
+  "contactImported": "Kişi telefondan içe aktarıldı",
+  "contactCreated": "Kişi oluşturuldu",
+  "contactUpdated": "İletişim güncellendi",
+  "contactDeleted": "Kişi silindi",
+  "contactImportSearchHint": "Ada, telefona, e-postaya, şirkete göre arayın",
+  "contactImportNoResults": "Kişi bulunamadı",
+  "@itemDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemNameFromCatalog": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkRowLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreatedCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@catDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@catItemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutMultiplePaymentHint": "Müşteri birden fazla ödeme modu aracılığıyla ödeme yapıyorsa bunu AÇIK konuma getirin.",
+  "checkoutFillRemainingBalance": "Kalan bakiyeyi doldurun",
+  "checkoutEnterAtLeastOnePayment": "En az bir ödeme tutarı girin",
+  "checkoutPaymentsExceedTotal": "Toplam ödemeler genel toplamı aşamaz",
+  "checkoutSentAs": "Şu şekilde gönderildi: {api}",
+  "@checkoutSentAs": {
+    "placeholders": {
+      "api": {
+        "type": "String"
+      }
+    }
+  },
+  "paymentCard": "Kart",
+  "paymentQr": "QR",
+  "paymentBank": "Banka",
+  "paymentTransfer": "Aktarım",
+  "paymentBankTransfer": "Banka Havalesi",
+  "paymentSettlement": "Yerleşim",
+  "paymentCheque": "Kontrol etmek",
+  "paymentDigital": "Dijital",
+  "paymentDigitalQr": "Dijital (QR)",
+  "closeSummaryTitle": "Kapanış özeti",
+  "closeTabDashboard": "Kontrol Paneli",
+  "closeTabCredits": "Kredi",
+  "closeWelcome": "Kapanış Özetine Hoş Geldiniz",
+  "closeSelectDateHint": "Verileri yüklemek için tarih seçin ve yenile'ye dokunun",
+  "closeLoadingDashboard": "Kontrol paneli verileri yükleniyor...",
+  "closeDataDeleted": "Veriler silindi",
+  "closeErrorPrefix": "Hata: {message}",
+  "@closeErrorPrefix": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExtraAmount": "Ekstra miktar",
+  "closeExtraAmountDesc": "Bu kapanış günü için kaydedilen ek nakit veya düzeltmeler.",
+  "closeLostAmount": "Kayıp miktar",
+  "closeLostAmountDesc": "Bu dönem için nakit sıkıntısı veya sapma işaretlendi.",
+  "closeTapForDetails": "Ayrıntılar için dokunun",
+  "closeAmountLabel": "Kapanış",
+  "closeAmountFormula": "Kapanış Tutarı Formülü",
+  "closeFormulaExpression": "Peşin Satışlar - Nakit Giderler = Kapanış Tutarı",
+  "closeCashSales": "Peşin Satış",
+  "closeCashExpenses": "Nakit Giderler",
+  "closeClosingAmount": "Kapanış Tutarı",
+  "closeWhatThisMeans": "Bu ne anlama geliyor:",
+  "closeClosingMeaning": "Bu, gün sonunda kasanızda/çekmecenizde olması gereken nakit miktarıdır. Alınan tüm nakit eksi ödenen tüm nakitleri temsil eder.",
+  "closeQuickStats": "Hızlı İstatistikler",
+  "closeTapCardHint": "Kısa bir açıklama için bir karta dokunun",
+  "closeOpeningBalance": "Açılış Bakiyesi",
+  "closeTotalSales": "Toplam satış",
+  "closeQrAmount": "QR Tutarı",
+  "closeCashAmount": "Nakit Tutar",
+  "closeSalesDiscount": "Satış İndirimi",
+  "closeCreditQr": "Kredi QR'si",
+  "closeCreditCash": "Kredi Nakit",
+  "closeCreditDiscount": "Kredi İndirimi",
+  "closePayCashGetQr": "Nakit Öde → QR Al",
+  "closePayQrGetCash": "Qr Öde → Nakit Al",
+  "closePaymentMix": "Ödeme karışımı",
+  "closePaymentMixHint": "Nakde veya dijitale dokunun · çubuk, satışların payını gösterir",
+  "closeCashVsDigitalTooltip": "Satışların nakit ve dijital payı",
+  "closeSalesShareDesc": "{label} bu günkü toplam satışların %{percent} kadarını oluşturdu.",
+  "@closeSalesShareDesc": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSalesLabel": "{label} satışlar",
+  "@closeSalesLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "closeNoTransactions": "Hiçbir işlem mevcut değil",
+  "closeRecentTransactions": "Son İşlemler",
+  "closeViewAll": "Tümünü Görüntüle",
+  "closeNoPurchases": "Satın alma işlemi mevcut değil",
+  "closeRecentPurchases": "Son Satın Alınanlar",
+  "closeNoSalesDate": "Bu tarih için satış yok",
+  "closeNoSalesHint": "Satışlar kaydedildikten sonra burada gösterilecektir.",
+  "closeRoomSales": "Oda satışları",
+  "closeEmployeeSales": "Çalışan satışları",
+  "closeOtherSales": "other satış",
+  "closeSectionCount": "{title} ({count})",
+  "@closeSectionCount": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "closeDiscountShort": "Disk: {amount}",
+  "@closeDiscountShort": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "closePercentOff": "{percent}% indirim",
+  "@closePercentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closePending": "Askıda olması",
+  "closeNoCreditPayments": "Kredi Ödemesi Yok",
+  "closeNoCreditHint": "Kredi ödemeleri burada görünecek",
+  "closeViewStatistics": "İstatistikleri Görüntüle",
+  "closeExportData": "Verileri dışa aktar",
+  "closeExportComingSoon": "Dışa aktarma özelliği burada uygulanacak",
+  "closeHintOpeningBalance": "Seçilen günün başlangıcındaki nakit pozisyonu.",
+  "closeHintTotalSales": "Bu tarih için kaydedilen tüm satışların toplamı.",
+  "closeHintQrAmount": "Ödemeler QR veya dijital yöntemlerle alınır.",
+  "closeHintCashAmount": "Günlük satışların nakit kısmı.",
+  "closeHintCashExpenses": "Gün içindeki harcamalar için ödenen nakit.",
+  "closeHintSalesDiscount": "Satışlara indirim uygulanır.",
+  "closeHintCreditQr": "Krediyle ilgili QR koleksiyonları.",
+  "closeHintCreditCash": "Krediyle ilgili nakit hareketleri.",
+  "closeHintCreditDiscount": "Kredi işlemlerinde indirim uygulanır.",
+  "closeHintPayCashGetQr": "Nakit ödemenin yapıldığı ve QR kredisinin alındığı takas.",
+  "closeHintPayQrGetCash": "QR'nin ödendiği ve nakit alınan takas.",
+  "closeOpeningAmount": "Açılış Tutarı",
+  "closeCurrentAmount": "Cari Tutar",
+  "closeSaveReport": "Raporu Kaydet",
+  "closeUpdateSummary": "Özeti Güncelle",
+  "closeExists": "Var",
+  "closeExistingDataInfo": "Mevcut verileri görüntüleyebilir veya değiştirebilirsiniz",
+  "closeEnterOpeningAmount": "Lütfen açılış tutarını girin",
+  "closeEnterValidAmount": "Lütfen geçerli bir tutar girin",
+  "languageSelectionSubtitle": "{appName} uygulamasını nasıl kullanmak istediğinizi seçin. Bunu daha sonra Ayarlar'dan değiştirebilirsiniz.",
+  "searchLanguages": "Dilleri ara",
+  "languageSuggestedBadge": "ÖNERİLEN",
+  "continueInLanguage": "{languageName} ile devam et",
+  "noLanguageMatches": "Eşleşme yok",
+  "noLanguageMatchesForQuery": "\"{query}\" ile eşleşen dil yok",
+  "@languageSelectionSubtitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@continueInLanguage": {
+    "placeholders": {
+      "languageName": {
+        "type": "String"
+      }
+    }
+  },
+  "@noLanguageMatchesForQuery": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockSettingsSaved": "Uygulama kilidi ayarları kaydedildi",
+  "appLockSubtitle": "Uygulama yeniden açıldığında PIN veya biyometri gerekir",
+  "appLockTitle": "Uygulama kilidi",
+  "appPin": "Uygulama PIN'i",
+  "appPinIncorrect": "Yanlış PIN. Tekrar deneyin.",
+  "appPinIncorrectWithAttempts": "Yanlış PIN. {remaining} deneme hakkınız kaldı.",
+  "@appPinIncorrectWithAttempts": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      }
+    }
+  },
+  "appPinLockoutMessage": "Çok fazla yanlış PIN denemesi. PIN'i sıfırlamak için e-posta ve şifre ile giriş yapın.",
+  "appPinMismatch": "PIN'ler eşleşmiyor. Tekrar deneyin.",
+  "appPinRemoved": "Uygulama PIN'i kaldırıldı",
+  "appPinSetSuccess": "Bu organizasyon için PIN kaydedildi",
+  "appPinSubtitle": "{length} haneli PIN ile hızlı kilidi aç",
+  "@appPinSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "appearance": "Görünüm",
+  "backupAutoBackupHint": "Zamanı gelince uygulama başlangıcında otomatik yedekle",
+  "backupAutoBackupTitle": "Otomatik yedekleme",
+  "backupAutoDirectionBoth": "Yükle ve indir",
+  "backupAutoDirectionDownload": "Buluttan indir",
+  "backupAutoDirectionUpload": "Buluta yükle",
+  "backupAutoFrequencyDaily": "Günlük",
+  "backupAutoFrequencyMonthly": "Aylık",
+  "backupAutoFrequencyOff": "Kapalı",
+  "backupAutoFrequencyTitle": "Yedekleme sıklığı",
+  "backupAutoFrequencyWeekly": "Haftalık",
+  "backupAutoLastDownloaded": "Son otomatik geri yükleme: {detail}",
+  "@backupAutoLastDownloaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastFailed": "Son otomatik senkronizasyon başarısız: {detail}",
+  "@backupAutoLastFailed": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastSkipped": "Son otomatik senkronizasyon atlandı: {detail}",
+  "@backupAutoLastSkipped": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastUploaded": "Son otomatik yedek: {detail}",
+  "@backupAutoLastUploaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoSettingsTitle": "Google Drive ayarları",
+  "backupAutoSyncDirectionTitle": "Otomatik senkronizasyon",
+  "backupSyncActiveOrganization": "Mevcut organizasyon",
+  "backupSyncActiveOrganizationHint": "Yedekleme şu an kullandığınız organizasyonun verilerini yükler.",
+  "backupSyncCompletedHint": "Verileriniz Google Drive'da güvenle yedeklendi.",
+  "backupSyncConnected": "Bağlı",
+  "backupSyncCurrentStep": "Adım: {step}",
+  "@backupSyncCurrentStep": {
+    "placeholders": {
+      "step": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncGoogleAccount": "Google hesabı",
+  "backupSyncInProgress": "Senkronizasyon devam ediyor",
+  "backupSyncLastError": "Son hata: {error}",
+  "@backupSyncLastError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncLastSyncDate": "Tarih ve saat",
+  "backupSyncLastSyncTitle": "Son senkronizasyon",
+  "backupSyncNeverSynced": "Henüz yedek yüklenmedi.",
+  "backupSyncOrganization": "Organizasyon",
+  "backupSyncPageTitle": "Yedekleme ve Senkronizasyon",
+  "backupSyncPhaseExport": "Dışa aktar",
+  "backupSyncPhaseUpload": "Yükle",
+  "backupSyncProgressPercent": "%{percent}",
+  "@backupSyncProgressPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "backupSyncRecords": "Yedeklenen kayıtlar",
+  "backupSyncSignInHint": "Organizasyon verilerinizi yedeklemek için Google ile giriş yapın.",
+  "backupSyncSignOutConfirm": "Bu cihazda Google Drive'dan çıkış yapılsın mı?",
+  "backupSyncSignedInAs": "Giriş yapıldı:",
+  "backupSyncStatus": "Durum",
+  "backupSyncStatusSuccess": "Tamamlandı",
+  "backupSyncStepExport": "Yerel veriler dışa aktarılıyor",
+  "backupSyncStepUploadFile": "{file} yükleniyor",
+  "@backupSyncStepUploadFile": {
+    "placeholders": {
+      "file": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncStepUploadTable": "{table} yükleniyor",
+  "@backupSyncStepUploadTable": {
+    "placeholders": {
+      "table": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncTables": "Yedeklenen tablolar",
+  "backupSyncUnknownOrganization": "Mevcut organizasyon",
+  "backupWifiOnlyContinue": "Mobil veri kullan",
+  "backupWifiOnlyHint": "Otomatik yedekleme Wi‑Fi bekler",
+  "backupWifiOnlyTitle": "Yalnızca Wi‑Fi ile yedekle",
+  "biometricNotAvailable": "Bu cihazda biyometri kullanılamıyor",
+  "biometricRequiresPin": "Biyometriyi etkinleştirmeden önce uygulama PIN'i ayarlayın",
+  "biometricUnlockReason": "BizTrack kilidini aç",
+  "changeAppPin": "PIN değiştir",
+  "confirmAppPin": "PIN'i onayla",
+  "confirmAppPinHint": "Onaylamak için PIN'i tekrar girin",
+  "confirmPasscodeHint": "Onaylamak için parolayı tekrar girin",
+  "contactUs": "Bize ulaşın",
+  "contactUsSubtitle": "Destek, geri bildirim veya uygulama hakkında sorular.",
+  "createAppPinHint": "Bu organizasyon için {length} haneli PIN seçin",
+  "@createAppPinHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "createPasscodeHint": "Bu organizasyon için {length} haneli parola seçin",
+  "@createPasscodeHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "darkMode": "Karanlık mod",
+  "darkModeSubtitle": "Uygulama genelinde koyu arka plan kullan",
+  "darkModeSystemSubtitle": "Cihaz temasını takip eder",
+  "dataAndBackup": "Veri ve Yedekleme",
+  "developerLabel": "Geliştirici",
+  "disableAppPinMessage": "Face ID / biyometrik kilidi açma da bu organizasyon için kapatılacak.",
+  "disableAppPinTitle": "Uygulama PIN'i kaldırılsın mı?",
+  "displayPrecision": "Görüntüleme hassasiyeti",
+  "displayPrecisionRange": "0 ile 5 arasında bir sayı girin",
+  "emailCopiedToClipboard": "E-posta panoya kopyalandı",
+  "employeeManagementSubtitle": "Personel, bordro ve devam",
+  "enableBiometricAfterPinMessage": "Daha hızlı giriş için PIN ile birlikte cihaz biyometrisini kullanın.",
+  "enableBiometricTitle": "Biyometri etkinleştirilsin mi?",
+  "enableFaceIdTitle": "Face ID etkinleştirilsin mi?",
+  "enableFingerprintTitle": "Parmak izi etkinleştirilsin mi?",
+  "enableInvoiceReturns": "Fatura iadelerini etkinleştir",
+  "enableInvoiceReturnsSubtitle": "Ödenmiş faturalardan iade oluşturmaya izin ver.",
+  "enterAppPin": "PIN'inizi girin",
+  "enterPasscode": "Parolayı girin",
+  "googleDriveBackupFailed": "Yedekleme başarısız: {error}",
+  "@googleDriveBackupFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupNow": "Şimdi yedekle",
+  "googleDriveBackupPluginError": "Yedekleme tam uygulama yeniden başlatması gerektirir. Uygulamayı kapatın, yeniden açın ve tekrar deneyin.",
+  "googleDriveBackupSectionTitle": "Yedekleme ve Senkronizasyon",
+  "googleDriveBackupStarting": "Yedek hazırlanıyor…",
+  "googleDriveBackupSubtitleSignedIn": "{email} olarak giriş yapıldı",
+  "@googleDriveBackupSubtitleSignedIn": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupSubtitleSignedOut": "Organizasyon verilerinizi Google Drive'da güvenle yedeklemek için giriş yapın.",
+  "googleDriveBackupSuccess": "Yedek yüklendi ({tableCount} tablo, {recordCount} kayıt)",
+  "@googleDriveBackupSuccess": {
+    "placeholders": {
+      "tableCount": {
+        "type": "int"
+      },
+      "recordCount": {
+        "type": "int"
+      }
+    }
+  },
+  "googleDriveBackupTitle": "Google Drive Yedekleme",
+  "googleDriveLastBackup": "Son yedek: {date}",
+  "@googleDriveLastBackup": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveSignIn": "Google ile giriş yap",
+  "googleDriveSignInCancelled": "Google girişi iptal edildi",
+  "googleDriveSignInSuccess": "Google Drive'a giriş yapıldı",
+  "googleDriveSignOut": "Çıkış yap",
+  "googleDriveSignOutSuccess": "Google Drive'dan çıkış yapıldı",
+  "itemSelectCategoryRequired": "Lütfen bir kategori seçin",
+  "moreBackupSyncTileLastSync": "Son senkronizasyon: {date}",
+  "@moreBackupSyncTileLastSync": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "moreBackupSyncTileNeverSynced": "Google Drive'a yedekle",
+  "moreBackupSyncTileSignedInNoSync": "Giriş yapıldı · Henüz yedek yok",
+  "notNow": "Şimdi değil",
+  "operationManagement": "Operasyon yönetimi",
+  "operationManagementSubtitle": "Items, stock reconciliation, contacts, categories, and closing",
+  "orContinueWithPassword": "veya şifre ile giriş yap",
+  "organizationAccountingSubtitle": "Fatura ve tutar görüntüleme ayarları.",
+  "organizationRegionalSubtitle": "Ülke, raporlama para birimi ve mali yıl tarihleri.",
+  "organizationTabAccounting": "Muhasebe",
+  "organizationTabGeneral": "Genel",
+  "organizationTabRegional": "Bölgesel ve mali",
+  "partyPickerAddNewRole": "Yeni {role} ekle",
+  "@partyPickerAddNewRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSearchHint": "{role} ara…",
+  "@partyPickerSearchHint": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSelectedLabel": "SEÇİLDİ",
+  "partyPickerSettled": "Ödendi",
+  "partyPickerSubtitle": "Bu satış kimin için?",
+  "preferences": "Tercihler",
+  "quickUnlockAsUser": "{email} olarak hızlı giriş",
+  "@quickUnlockAsUser": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSubtitle": "Kar-zarar, tablolar ve analizler",
+  "restoreAction": "Geri yükle",
+  "restoreFromGoogleDrive": "Google Drive'dan geri yükle",
+  "restoreFromGoogleDriveConfirm": "\"{name}\" geri yüklensin mi? Bu organizasyonun yerel verilerini değiştirir.",
+  "@restoreFromGoogleDriveConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveEmpty": "Google Drive'ınızda yedek bulunamadı.",
+  "restoreFromGoogleDriveFailed": "Geri yükleme başarısız: {error}",
+  "@restoreFromGoogleDriveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveHint": "Giriş yapın ve bu cihazda organizasyonu geri yüklemek için bir yedek seçin.",
+  "restoreFromGoogleDriveStarting": "Geri yükleme başlatılıyor…",
+  "restoreFromGoogleDriveSuccess": "{name} geri yüklendi. Şimdi giriş yapabilirsiniz.",
+  "@restoreFromGoogleDriveSuccess": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreStepCreateDatabase": "Veritabanı oluşturuluyor",
+  "restoreStepDownload": "Yedek indiriliyor",
+  "restoreStepFinalize": "Geri yükleme tamamlanıyor",
+  "restoreStepImport": "Veriler içe aktarılıyor",
+  "security": "Güvenlik",
+  "setUpAppPin": "PIN ayarla",
+  "setUpFaceIdOrPin": "Face ID veya PIN ayarla",
+  "setUpFingerprintOrPin": "Parmak izi veya PIN ayarla",
+  "setUpNow": "Şimdi ayarla",
+  "setUpQuickUnlock": "PIN hızlı giriş ayarla",
+  "setUpQuickUnlockAfterLoginMessage": "Bir sonraki sefer daha hızlı giriş için Face ID, parmak izi veya PIN ayarlayın. Ayarlar'dan sonra değiştirebilirsiniz.",
+  "setUpQuickUnlockAfterLoginTitle": "Hızlı giriş etkinleştirilsin mi?",
+  "setUpQuickUnlockSubtitle": "Bu organizasyon için biyometri veya PIN kullanın",
+  "signInWithBiometric": "Biyometri ile giriş yap",
+  "signInWithFaceId": "Face ID ile giriş yap",
+  "signInWithFingerprint": "Parmak izi ile giriş yap",
+  "signInWithPin": "PIN ile giriş yap",
+  "statisticsCashflow": "Nakit akışı",
+  "statisticsQuickOperationInvoice": "Fatura",
+  "statisticsQuickOperationReports": "Raporlar",
+  "statisticsQuickOperationsSeeAll": "Tümünü gör",
+  "tapDigitsToUnlock": "Kilidi açmak için herhangi {length} haneye dokunun.",
+  "@tapDigitsToUnlock": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "unlockApp": "Uygulama kilidini aç",
+  "useBiometricInstead": "Biyometri kullan",
+  "useBiometricUnlock": "Face ID / biyometri kullan",
+  "useBiometricUnlockSubtitle": "PIN ayarladıktan sonra parmak izi veya Face ID ile kilidi aç",
+  "useFaceIdUnlock": "Face ID kullan",
+  "useFingerprintUnlock": "Parmak izi kullan",
+  "usePinInstead": "Bunun yerine PIN kullan",
+  "verifyPinToRemoveSubtitle": "Uygulama kilidini kaldırmak için {length} haneli PIN'inizi onaylayın",
+  "@verifyPinToRemoveSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "verifyPinToRemoveTitle": "PIN'inizi girin",
+  "walkthroughBackupDescription": "Tek dokunuşla Google Drive yedeklemesiyle banka düzeyinde güvenlik — kayıtlarınız korunur ve kolayca geri yüklenir.",
+  "walkthroughBackupTitle": "Verileriniz, her zaman güvende",
+  "walkthroughBillingDescription": "Satış ve satın alma faturaları, mutfak fişli masa siparişleri ve canlı envanter — hepsi tek uygulamada.",
+  "walkthroughBillingTitle": "Saniyeler içinde faturala ve sat",
+  "walkthroughDashboardDescription": "Bugünkü satışlar, gelir ve bakiyeler — uygulamayı açtığınızda tek bir net panoda.",
+  "walkthroughDashboardTitle": "Tüm işiniz tek bakışta",
+  "walkthroughOfflineDescription": "Tamamen çevrimdışı fatura oluşturun, gider kaydedin ve stok yönetin. Çevrimiçi olunca otomatik senkronize olur.",
+  "walkthroughOfflineTitle": "İnternet olmadan da çalışır",
+  "walkthroughReadyDescription": "Organizasyonunuzu dakikalar içinde kurun ve işinizi bugünden daha akıllıca yönetin. Başlayalım.",
+  "walkthroughReadyTitle": "Hazır olduğunuzda hazır",
+  "walkthroughStaffDescription": "Devam ve bordroyu yönetin, K/Z tablolarını ve bordroları PDF olarak dışa aktarın — ekstra araç gerekmez.",
+  "walkthroughStaffTitle": "Personel, bordro ve raporlar",
+  "ok": "Tamam",
+  "reportPeriodYear": "Yıl",
+  "reportPeriodMonth": "Ay",
+  "reportPeriodRange": "Aralık",
+  "reportPeriodDay": "Gün",
+  "reportPeriodFrom": "Başlangıç",
+  "reportPeriodTo": "Bitiş",
+  "reportPeriod": "Dönem",
+  "reportAllPurchases": "Tüm satın almalar",
+  "reportBeforeTax": "Vergi öncesi",
+  "reportRevenueRetained": "Elde tutulan gelir",
+  "reportHideDetails": "Detayları gizle",
+  "reportShowDetails": "Detayları göster",
+  "reportSalesRevenue": "Satış geliri",
+  "reportDiscountsGiven": "Verilen indirimler",
+  "reportNetRevenue": "Net gelir",
+  "reportOperatingExpenses": "Faaliyet giderleri",
+  "reportTotalExpenses": "Toplam giderler",
+  "reportGrossProfit": "Brüt kâr",
+  "reportGrossProfitChart": "Brüt kâr",
+  "reportOperatingPlDisclaimer": "Vergi, amortisman ve bordro yükümlülükleri henüz hesaba katılmadı — faaliyet düzeyi K/Z yaklaşımı.",
+  "reportContraLabel": "Karşı hesap",
+  "reportNoDataForPeriod": "Seçilen dönem için veri yok",
+  "reportRevenueVsExpenses": "Gelir vs giderler",
+  "reportExpenseBreakdown": "Gider dağılımı",
+  "reportExpenseFallback": "Gider",
+  "reportGrossMarginPercent": "Brüt marj %",
+  "reportRoomVsFnB": "Oda vs F&B",
+  "reportSegmentRoom": "Oda",
+  "reportSegmentFnB": "F&B",
+  "reportKeyMetrics": "Temel metrikler",
+  "reportIncomeStatement": "Gelir tablosu",
+  "reportChartsSection": "Grafikler",
+  "reportSegmentSummary": "Segment özeti",
+  "reportFailedToLoad": "Rapor yüklenemedi",
+  "reportOverview": "Genel bakış",
+  "reportOverviewCash": "Nakit",
+  "reportOverviewBank": "Banka",
+  "reportMonthlyOpeningBalance": "Aylık açılış bakiyesi",
+  "reportOpeningBalanceHint": "Her ayın başındaki nakit durumu",
+  "reportCashInOut": "Nakit giriş / çıkış",
+  "reportCashIn": "Nakit giriş",
+  "reportCashOut": "Nakit çıkış",
+  "reportBankReceiptsPayments": "Banka tahsilat / ödemeler",
+  "reportReceipts": "Tahsilatlar",
+  "reportPayments": "Ödemeler",
+  "reportDailyCashVsQr": "Günlük nakit vs QR",
+  "reportSummariesSection": "Özetler",
+  "reportCashSummary": "Kasa özeti",
+  "reportBankSummary": "Banka özeti",
+  "reportDailySummary": "Günlük özet",
+  "reportTabPurchase": "Satın alma",
+  "reportTabSales": "Satış",
+  "reportTabDashboard": "Panel",
+  "reportSingleDayTrend": "Tek gün — günlük trend",
+  "reportFullYearTrend": "Tüm yıl — aylık trend grafikleri",
+  "reportYearLabel": "Yıl {year}",
+  "@reportYearLabel": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportJanDec": "Oca – Ara {year}",
+  "@reportJanDec": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportTotalPurchases": "Toplam satın alma",
+  "reportTotalSales": "Toplam satış",
+  "reportTotalInvoices": "Toplam fatura",
+  "reportUnpaidBalance": "Ödenmemiş bakiye",
+  "reportAvgPerInvoice": "Fatura başına ort.",
+  "reportPerTransaction": "İşlem başına",
+  "reportMonthlySpend": "Aylık harcama ({symbol})",
+  "@reportMonthlySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportMonthlySalesChart": "Aylık satış ({symbol})",
+  "@reportMonthlySalesChart": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportInvoiceCountByMonth": "Aya göre fatura sayısı",
+  "reportTopItemsBySpend": "Harcamaya göre en çok satılan ({symbol})",
+  "@reportTopItemsBySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSpendByCategory": "Kategoriye göre harcama",
+  "reportOtherCategory": "Diğer",
+  "reportSuppliers": "Tedarikçiler",
+  "reportTableSupplier": "Tedarikçi",
+  "reportTableAmount": "Tutar",
+  "reportTableBills": "Faturalar",
+  "reportSalesTotal": "Toplam satış",
+  "reportPurchaseTotal": "Toplam satın alma",
+  "reportPositiveMargin": "Pozitif marj",
+  "reportNegativeMargin": "Negatif marj",
+  "reportGrossMargin": "Brüt marj",
+  "reportOfTotalSales": "Toplam satışın",
+  "reportFailedToLoadAnalytics": "Analitik yüklenemedi",
+  "reportMarginKpi": "Marj",
+  "reportExpensesKpi": "Giderler",
+  "partyPickerNoResultsFor": "\"{query}\" için sonuç yok",
+  "@partyPickerNoResultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerNoPartiesForRole": "{role} tarafı bulunamadı",
+  "@partyPickerNoPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerLoadParties": "Tarafları yükle",
+  "invoiceCashCustomer": "Nakit müşteri",
+  "invoiceQuickAddItemsTitle": "Hızlı kalem ekle",
+  "invoiceQuickLoadingMenu": "Menü yükleniyor…",
+  "invoiceQuickInvoiceCreated": "Fatura oluşturuldu",
+  "invoiceQuickAddAtLeastOneItem": "En az bir kalem ekleyin",
+  "invoiceQuickNoResults": "Sonuç bulunamadı!",
+  "invoiceQuickNoItemsInCategory": "Bu kategoride kalem yok",
+  "invoiceQuickAddItem": "Kalem ekle",
+  "invoiceQuickLoadMore": "Daha fazla yükle",
+  "invoiceQuickScrollLoadMore": "Daha fazla yüklemek için kaydırın (sayfa başına {count})",
+  "invoiceQuickSupplierEmployee": "Tedarikçi / Çalışan",
+  "invoiceQuickEditItem": "Kalemi düzenle",
+  "closeSelectDateRange": "Tarih aralığı seç",
+  "closeStartDate": "Başlangıç tarihi",
+  "closeEndDate": "Bitiş tarihi",
+  "closeSelectBothDates": "Lütfen başlangıç ve bitiş tarihlerini seçin",
+  "closeDeleteSummary": "Özeti sil",
+  "closeDeleteSummaryConfirm": "Bu özeti silmek istediğinizden emin misiniz?",
+  "closeSelectDate": "Tarih seç",
+  "closeNoDataToExport": "Dışa aktarılacak veri yok",
+  "closeNoDataToShare": "Paylaşılacak veri yok",
+  "closeNoDataToPrint": "Yazdırılacak veri yok",
+  "closePdfGenerateError": "PDF oluşturma hatası: {error}",
+  "@closePdfGenerateError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfShareError": "PDF paylaşma hatası: {error}",
+  "@closePdfShareError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfPrintError": "PDF yazdırma hatası: {error}",
+  "@closePdfPrintError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExportPdf": "PDF olarak dışa aktar",
+  "closeSharePdf": "PDF paylaş",
+  "closePrint": "Yazdır",
+  "closeExportOptions": "Dışa aktarma seçenekleri",
+  "closeExportPdfSubtitle": "PDF belgesi olarak kaydet veya görüntüle",
+  "closeSharePdfSubtitle": "Uygulamalar veya e-posta ile paylaş",
+  "closePrintSubtitle": "Raporu yazdır",
+  "invoiceQuickShowingItems": "{total} içinden {shown} gösteriliyor",
+  "invoiceQuickLoadedItems": "Yüklendi: {count}",
+  "invoiceQuickRoomCabinEmployee": "Oda / Kabin / Çalışan",
+  "reportPercentOfRevenue": "Gelirin %{percent}'i",
+  "@reportPercentOfRevenue": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "reportParties": "Taraflar",
+  "reportMonthYearDailyTrend": "{month} {year} — günlük trend grafikleri",
+  "@reportMonthYearDailyTrend": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceQuickCart": "Sepet",
+  "invoiceQuickCartWithCount": "Sepet ({count})",
+  "invoiceQuickClearSearch": "Aramayı temizle",
+  "closeAllRecords": "Tüm kayıtlar",
+  "closeDailyCashSummaryReport": "Günlük kasa özet raporu",
+  "closeDailyCashSummaryTitle": "Günlük kasa özeti",
+  "closeDetails": "Detaylar",
+  "closeGeneratedAt": "Oluşturulma: {date}",
+  "@closeGeneratedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "closePageN": "Sayfa {n}",
+  "@closePageN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "closePeriodRange": "Dönem: {start} - {end}",
+  "@closePeriodRange": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummaryOverview": "Özet genel bakış",
+  "closeTotalRecords": "Toplam kayıt",
+  "closeAddSummary": "Özet ekle",
+  "closeSalesAmount": "Satış tutarı",
+  "closeClosingBalance": "Kapanış bakiyesi",
+  "closeLostMoney": "Kayıp para",
+  "closeDiscount": "İndirim",
+  "closeExpenses": "Giderler",
+  "closeUnpaid": "Ödenmemiş",
+  "closeTotalOpeningBalance": "Toplam açılış bakiyesi",
+  "closeTotalSalesAmount": "Toplam satış tutarı",
+  "closeTotalCashAmount": "Toplam nakit tutarı",
+  "closeTotalQrAmount": "Toplam QR tutarı",
+  "closeTotalDiscount": "Toplam indirim",
+  "closeTotalExpenses": "Toplam giderler",
+  "closeTotalClosingBalance": "Toplam kapanış bakiyesi",
+  "closeTotalLostMoney": "Toplam kayıp para",
+  "closeTotalExtraAmount": "Toplam ek tutar",
+  "closeShowingCurrentMonth": "Bu ayın verileri gösteriliyor",
+  "closeNoSummariesFound": "Özet bulunamadı",
+  "closeNoSummariesAvailable": "Özet mevcut değil",
+  "closeTryAdjustingDateRange": "Tarih aralığını ayarlamayı deneyin",
+  "closeCreateFirstSummary": "Başlamak için ilk özetinizi oluşturun",
+  "closeClearFilter": "Filtreyi temizle",
+  "closeFiltered": "Filtrelendi",
+  "closeFilteredWithRange": "Filtrelendi: {range}",
+  "@closeFilteredWithRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummarySingular": "Özet",
+  "closeSummariesPlural": "Özetler",
+  "closeSummaryUpdatedSuccess": "Özet başarıyla güncellendi",
+  "closeSummaryDeletedSuccess": "Özet başarıyla silindi",
+  "premiumUnlockTitle": "{appName} Premium'u aç",
+  "@premiumUnlockTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumTagline": "Tam çevrimdışı POS, faturalama, envanter ve raporlar — işletmeniz için tek abonelik.",
+  "premiumFeatureUnlimitedInvoices": "Sınırsız fatura ve fiş",
+  "premiumFeatureInventoryStock": "Envanter ve stok takibi",
+  "premiumFeatureReportsAnalytics": "Satış raporları ve analiz",
+  "premiumFeatureOfflineLocal": "Çevrimdışı çalışır — verileriniz yerelde kalır",
+  "premiumContinueWith": "{plan} ile devam et",
+  "@premiumContinueWith": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRestorePurchases": "Satın alımları geri yükle",
+  "premiumSubscriptionLegal": "Ödeme Apple ID'nize yansıtılır. Dönem bitiminden en az 24 saat önce iptal edilmezse abonelikler otomatik yenilenir.",
+  "premiumPurchaseRestored": "Satın alım geri yüklendi.",
+  "premiumNoActiveSubscription": "Aktif abonelik bulunamadı.",
+  "premiumPlanMonthly": "Aylık",
+  "premiumPlanMonthlySubtitle": "Esnek — istediğiniz zaman iptal",
+  "premiumPlanYearly": "Yıllık",
+  "premiumPlanYearlySubtitle": "En iyi değer — %{percent} tasarruf",
+  "@premiumPlanYearlySubtitle": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "premiumPlanLifetime": "Ömür boyu",
+  "premiumPlanLifetimeSubtitle": "Bir kez öde, sonsuza kadar kullan",
+  "premiumPlanPopular": "Popüler",
+  "premiumOneTimePurchase": "Tek seferlik satın alma",
+  "subscriptionSectionTitle": "Abonelik",
+  "subscriptionPremiumLabel": "Premium",
+  "subscriptionUpgradeTitle": "Premium'a yükselt",
+  "subscriptionPremiumPricing": "Aylık {monthly} · Yıllık {yearly}",
+  "@subscriptionPremiumPricing": {
+    "placeholders": {
+      "monthly": {
+        "type": "String"
+      },
+      "yearly": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActiveUntil": "{plan} {date} tarihine kadar aktif",
+  "@subscriptionPremiumActiveUntil": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActive": "{plan} aktif",
+  "@subscriptionPremiumActive": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRequired": "Premium gerekli",
+  "upgradeToPremiumContinue": "Devam etmek için Premium'a yükseltin.",
+  "freemiumFreePlanLimit": "Ücretsiz plan en fazla {limit} {label} izin verir. Sınırsız erişim için Premium'a yükseltin.",
+  "@freemiumFreePlanLimit": {
+    "placeholders": {
+      "limit": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "freemiumPartyRoleRequired": "Taraf rolü gerekli.",
+  "shiftReminderOpeningTitle": "Açılış hatırlatıcısı",
+  "shiftReminderOpeningMessage": "Bugün için kasayı açtınız mı?",
+  "shiftReminderOpeningProceed": "Evet, şimdi aç",
+  "shiftReminderClosingTitle": "Kapanış hatırlatıcısı",
+  "shiftReminderClosingMessage": "Bugün için kasayı kapattınız mı?",
+  "shiftReminderClosingProceed": "Evet, şimdi kapat",
+  "shiftReminderSkipToday": "Bugün atla",
+  "shiftReminderOpeningNotificationTitle": "Açılış hatırlatıcısı",
+  "shiftReminderOpeningNotificationBody": "Bugün için kasayı açtınız mı? Hâlâ açmanız gerekiyorsa buraya dokunun.",
+  "shiftReminderClosingNotificationTitle": "Kapanış hatırlatıcısı",
+  "shiftReminderClosingNotificationBody": "Bugün için kasayı kapattınız mı? Hâlâ kapatmanız gerekiyorsa buraya dokunun.",
+  "closeExchangePayQrGetCashHint": "{business} müşteriye QR öder; müşteri nakit verir.",
+  "@closeExchangePayQrGetCashHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExchangePayCashGetQrHint": "{business} müşteriye nakit öder; müşteri QR ödemesi yapar.",
+  "@closeExchangePayCashGetQrHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closePaymentExchange": "Ödeme değişimi",
+  "closePayQrGetCashExchangeLabel": "QR öde → Nakit al (değişim)",
+  "closePayCashGetQrExchangeLabel": "Nakit öde → QR al (değişim)",
+  "closePayQrGetCashDetail": "QR öde, nakit al",
+  "closePayCashGetQrDetail": "Nakit öde, QR al",
+  "faqSectionPremium": "Premium ve faturalama",
+  "faqPremiumWhatsIncludedQuestion": "Premium neleri içerir?",
+  "faqPremiumWhatsIncludedAnswer": "Premium sınırsız fatura, tam raporlar (P&L, ekstre, analiz), yedekleme ve senkronizasyon, bordro, devam, stok araçları, fatura dışa aktarma/yazdırma ve ek kuruluşların kilidini açar. Ücretsiz katman temel POS özelliklerini makul limitler içinde kullanmanıza izin verir.",
+  "faqPremiumFreeTierQuestion": "Ücretsiz katmanda neler var?",
+  "faqPremiumFreeTierAnswer": "En fazla 10 satış ve 10 alış faturası, 4 çalışan, 30 kalem oluşturabilirsiniz; ulaştığınızda diğer limitler gösterilir. Açma, kapama, hesap makinesi ve veri gezintisi ücretsiz kalır.",
+  "faqPremiumRestoreQuestion": "Satın alımımı nasıl geri yüklerim?",
+  "faqPremiumRestoreAnswer": "Daha Fazla → Premium'a yükselt (veya ödeme ekranı) açın ve Satın alımları geri yükle'ye dokunun. Abone olduğunuz Apple ID'yi kullanın.",
+  "faqPremiumCancelQuestion": "Aboneliğimi nasıl iptal ederim?",
+  "faqPremiumCancelAnswer": "iPhone Ayarları → Apple ID → Abonelikler'den yönetin veya iptal edin. Ödenen dönem sonuna kadar erişiminiz devam eder.",
+  "faqDarkModeQuestion": "Karanlık modu nasıl açarım?",
+  "faqDarkModeAnswer": "Daha Fazla → Görünüm'ü açın ve Karanlık mod'u etkinleştirin. Cihaz sistem temasını kullanıyorsa uygulama otomatik uyar.",
+  "faqOpeningClosingReminderQuestion": "Açılış ve kapanış hatırlatıcıları nedir?",
+  "faqOpeningClosingReminderAnswer": "{appName} günlük kasayı açmanızı veya kapatmanızı hatırlatabilir. Devam edebilir, bugün atlayabilir veya hatırlatıcıyı kapatabilirsiniz.",
+  "faqPartyRolesQuestion": "Taraf rolleri nedir?",
+  "faqPartyRolesAnswer": "Taraf rolleri müşteri, tedarikçi, oda veya çalışan gibi kişileri sınıflandırır. İşlemler → Taraf rolleri altında özelleştirin ve ekibiniz için kısa açıklama ekleyin.",
+  "faqRateAppQuestion": "{appName}'i nasıl değerlendiririm?",
+  "faqRateAppAnswer": "App Store'da yorum bırakmak için Daha Fazla → Bizi değerlendir'in. Geri bildiriminiz çevrimdışı faturalamayı geliştirmemize yardımcı olur.",
+  "freemiumLabelSalesInvoices": "satış faturası",
+  "freemiumLabelPurchaseInvoices": "alış faturası",
+  "freemiumLabelEmployees": "çalışan",
+  "freemiumLabelItems": "kalem",
+  "freemiumLabelCategories": "kategori",
+  "freemiumLabelPaymentMethods": "ödeme yöntemi",
+  "freemiumLabelCustomPartyRoles": "özel taraf rolü",
+  "freemiumLabelPartiesForRole": "{role} için taraf",
+  "freemiumLabelOrganizations": "kuruluş",
+  "freemiumPremiumReports": "Raporlar Premium ile kullanılabilir.",
+  "freemiumPremiumBackupSync": "Yedekleme ve senkronizasyon Premium gerektirir.",
+  "freemiumPremiumPayroll": "Bordro Premium gerektirir.",
+  "freemiumPremiumAttendance": "Devam Premium gerektirir.",
+  "freemiumPremiumStock": "Stok yönetimi Premium gerektirir.",
+  "freemiumPremiumInvoiceExport": "İndirme ve yazdırma Premium gerektirir.",
+  "@faqOpeningClosingReminderAnswer": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@faqRateAppQuestion": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@freemiumLabelPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  }
+}

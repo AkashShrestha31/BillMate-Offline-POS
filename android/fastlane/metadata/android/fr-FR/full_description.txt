@@ -1,0 +1,45 @@
+Billmate est une caisse hors ligne, un tiroir-caisse de magasin et une facturation restaurant pour le commerce, les cafés, les bars et les petites entreprises.
+
+FACTURATION
+
+Créez des factures de vente et d’achat avec lignes, remises et suivi client — un outil de facturation complet dans la poche. Notez les dépenses par catégorie, suivez les soldes dus de chaque client et fournisseur, et réglez en totalité, en partie ou en lot. Exportez toute facture ou tout reçu en PDF. Sans internet.
+
+CAISSE POUR MAGASINS ET COMMERCE
+
+Encaissement rapide pour les magasins et les petites entreprises. Acceptez les paiements en espèces, QR et carte, et imprimez les reçus sur toute imprimante thermique ESC/POS. Votre téléphone devient une caisse.
+
+CAISSE RESTAURANT ET BAR AVEC GESTION DES TABLES
+
+Une caisse restaurant complète avec plan de salle visuel. Prenez les commandes à table ou à emporter, envoyez-les en cuisine (KOT) et suivez chaque plat de la commande au service. Inclut un catalogue de boissons pour les bars.
+
+STOCKS ET INVENTAIRE
+
+Suivez le stock du magasin, de l’entrepôt ou du restaurant. Rapprochez les comptages des enregistrements, corrigez les écarts sur place, importez le stock en masse via CSV ou Excel, et exportez les rapports en PDF.
+
+PERSONNEL, PAIE ET PRÉSENCES
+
+Gardez les fiches du personnel, notez la présence quotidienne et générez la paie automatiquement à partir des jours travaillés et du salaire, avances déduites. Exportez les bulletins en PDF et gérez les congés.
+
+RAPPORTS, COMPTABILITÉ ET ANALYSES
+
+Compte de résultat, relevés clients et fournisseurs, récapitulatifs de paiements, et graphiques ventes contre dépenses par jour, semaine, mois ou période choisie. Un résumé de caisse quotidien donne la clôture de la journée.
+
+HORS LIGNE D’ABORD — TOUJOURS DISPONIBLE
+
+Ventes, dépenses, stocks, personnel et caisse fonctionnent sur votre appareil et restent après un redémarrage. Sans connexion, sans interruption.
+
+ACCÈS PAR RÔLE ET SÉCURITÉ
+
+Définissez les droits par rôle, du caissier au responsable, avec un contrôle précis des factures, retours et modifications. Vos données restent sur l’appareil.
+
+MULTI-DEVISES, MULTI-APPAREILS
+
+Facturation en plusieurs devises. Sur téléphones et tablettes.
+
+PRÊT DÈS LE PREMIER JOUR
+
+39 catégories d’activité déjà chargées — alimentation, boissons, hébergement, fournitures et plus. Aucune configuration. Ouvrez l’application et vendez.
+
+De l’échoppe du coin au refuge de montagne, du café de ville au bar plein — Billmate est la caisse et la facturation qui continue, même hors ligne.
+
+Politique de confidentialité : https://billmate-woad.vercel.app/

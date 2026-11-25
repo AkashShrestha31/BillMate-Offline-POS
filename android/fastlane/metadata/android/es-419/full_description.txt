@@ -1,0 +1,45 @@
+Billmate es un punto de venta sin conexión, caja de tienda y facturación para restaurantes, hecho para comercios, cafés, bares y pequeños negocios.
+
+FACTURACIÓN
+
+Cree facturas de venta y compra con partidas, descuentos y seguimiento de clientes: un facturador completo en el bolsillo. Registre gastos por categoría, lleve los saldos pendientes de cada cliente y proveedor, y cobre el pago total, parcial o en lote. Exporte cualquier factura o recibo en PDF. Sin internet.
+
+PUNTO DE VENTA PARA TIENDAS Y COMERCIO
+
+Cobro rápido para tiendas y pequeños negocios. Acepte pagos en efectivo, QR y tarjeta, e imprima recibos en cualquier impresora térmica ESC/POS. Su teléfono se convierte en caja.
+
+PUNTO DE VENTA PARA RESTAURANTE Y BAR CON MESAS
+
+Un punto de venta completo para restaurantes con plano visual de mesas. Tome pedidos en mesa o para llevar, envíelos a la cocina (KOT) y siga cada plato del pedido a la entrega. Incluye un catálogo de licores para bares.
+
+INVENTARIO Y STOCK
+
+Controle el stock de la tienda, el almacén o el restaurante. Compare el conteo físico con los registros, corrija diferencias al momento, cargue stock en lote por CSV o Excel y exporte informes en PDF.
+
+PERSONAL, NÓMINA Y ASISTENCIA
+
+Guarde fichas del personal, registre la asistencia diaria y genere la nómina automáticamente con los días trabajados y el sueldo, descontando anticipos. Exporte recibos de pago en PDF y gestione las licencias.
+
+INFORMES, CONTABILIDAD Y ANÁLISIS
+
+Estado de resultados, estados de cuenta de clientes y proveedores, resúmenes de pagos y gráficos de ventas frente a gastos por día, semana, mes o un rango propio. Un resumen diario de caja muestra el cierre del día.
+
+SIN CONEXIÓN PRIMERO — SIEMPRE ACTIVO
+
+Ventas, gastos, inventario, personal y caja funcionan en su dispositivo y se conservan al reiniciar. Sin conexión, sin interrupción.
+
+ACCESO POR ROL Y SEGURIDAD
+
+Defina permisos por rol, de cajero a encargado, con control fino de facturas, devoluciones y ediciones. Los datos del negocio permanecen en el dispositivo.
+
+MULTIMONEDA, VARIOS DISPOSITIVOS
+
+Facturación en varias monedas. Funciona en teléfonos y tabletas.
+
+LISTO DESDE EL PRIMER DÍA
+
+39 categorías de negocio ya cargadas: comida, bebidas, hospedaje, insumos y más. Sin configuración. Abra la app y empiece a vender.
+
+De la tienda de la esquina al albergue de montaña, del café de la ciudad al bar lleno: Billmate es el punto de venta y la facturación que sigue funcionando, incluso sin conexión.
+
+Política de privacidad: https://billmate-woad.vercel.app/

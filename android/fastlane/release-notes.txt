@@ -1,0 +1,10 @@
+- fix id from 1->0 for provence in sole confirm operating address
+- fix alignment for transaction status
+- 16298 [Mobile] System does not fetch the access right 'Fund Sub agent' when only 'Fund Sub agent' is given as access right to the admin.
+- 16297 [Mobile>>Post Admin user invitation] The user is navigated to sub agents section after the invitation of admin user is complete.
+
+
+
+
+
+

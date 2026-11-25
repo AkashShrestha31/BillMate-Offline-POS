@@ -1,0 +1,2653 @@
+{
+  "@@locale": "ko",
+  "noInternetConnection": "인터넷에 연결되어 있지 않습니다.",
+  "formatException": "형식 예외",
+  "rememberMe": "로그인 유지",
+  "signIn": "로그인",
+  "passwordHint": "비밀번호 입력",
+  "forgetPassword": "로그인 정보를 잊으셨나요?",
+  "okay": "확인",
+  "success": "성공",
+  "hotel": "호텔",
+  "errorEncountered": "오류 발생",
+  "serverError": "서버 오류",
+  "requestFailed": "요청 실패",
+  "connectionTimedOut": "연결 시간 초과",
+  "password": "비밀번호",
+  "keepSignIn": "로그인 유지",
+  "enterPassword": "비밀번호 입력",
+  "enterValidPassword": "유효한 비밀번호를 입력하세요",
+  "skip": "건너뛰기",
+  "pleaseWait": "잠시 기다려 주세요 ....",
+  "enterValidUserName": "유효한 사용자 이름을 입력하세요.",
+  "userName": "사용자 이름",
+  "or": "또는",
+  "retry": "다시 시도",
+  "error": "오류",
+  "supportMessage": "관리자에게 문의하세요.",
+  "responseMessage404": "404 오류",
+  "appDisplayName": "BizTrack",
+  "appVersionLabel": "버전 {version}",
+  "@appVersionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "취소",
+  "yes": "예",
+  "no": "아니오",
+  "close": "닫기",
+  "save": "저장",
+  "delete": "삭제",
+  "confirm": "확인",
+  "done": "완료",
+  "next": "다음",
+  "getStarted": "시작하기",
+  "back": "뒤로",
+  "submit": "제출",
+  "continueAction": "계속",
+  "tryAgain": "다시 시도",
+  "warning": "경고",
+  "loading": "로딩 중…",
+  "comingSoon": "출시 예정",
+  "required": "필수",
+  "search": "검색",
+  "add": "추가",
+  "edit": "편집",
+  "remove": "제거",
+  "view": "보기",
+  "export": "내보내기",
+  "import": "가져오기",
+  "refresh": "새로고침",
+  "select": "선택",
+  "upload": "업로드",
+  "download": "다운로드",
+  "share": "공유",
+  "filter": "필터",
+  "sort": "정렬",
+  "apply": "적용",
+  "reset": "초기화",
+  "clear": "지우기",
+  "all": "전체",
+  "none": "없음",
+  "total": "합계",
+  "subtotal": "소계",
+  "grandTotal": "총합계",
+  "amount": "금액",
+  "quantity": "수량",
+  "rate": "단가",
+  "discount": "할인",
+  "paid": "결제 완료",
+  "unpaid": "미지급",
+  "credit": "외상",
+  "cash": "현금",
+  "date": "날짜",
+  "time": "시간",
+  "name": "이름",
+  "email": "이메일",
+  "phone": "전화",
+  "address": "주소",
+  "notes": "메모",
+  "description": "설명",
+  "status": "상태",
+  "type": "유형",
+  "category": "카테고리",
+  "party": "거래처",
+  "item": "항목",
+  "payment": "결제",
+  "settlement": "정산",
+  "opening": "기초",
+  "closing": "기말",
+  "stock": "Stock reconciliation",
+  "expense": "비용",
+  "revenue": "수익",
+  "profit": "이익",
+  "loss": "손실",
+  "sales": "매출",
+  "purchase": "구매",
+  "monthJan": "1월",
+  "monthFeb": "2월",
+  "monthMar": "3월",
+  "monthApr": "4월",
+  "monthMay": "5월",
+  "monthJun": "6월",
+  "monthJul": "7월",
+  "monthAug": "8월",
+  "monthSep": "9월",
+  "monthOct": "10월",
+  "monthNov": "11월",
+  "monthDec": "12월",
+  "more": "더보기",
+  "profile": "프로필",
+  "operations": "운영",
+  "employeeManagement": "직원 관리",
+  "report": "보고서",
+  "helpAndSupport": "도움말 및 지원",
+  "privacyAndPolicies": "개인정보 및 정책",
+  "faq": "자주 묻는 질문",
+  "contactSupport": "지원팀 문의",
+  "rateUs": "평가해 주세요",
+  "rateUsSubtitle": "BizTrack이 마음에 드시나요? Google Play에 리뷰를 남겨주세요",
+  "rateUsUnavailable": "스토어를 열 수 없습니다. 나중에 다시 시도해 주세요.",
+  "reportProblem": "문제 신고",
+  "logout": "로그아웃",
+  "signOut": "로그아웃",
+  "settings": "설정",
+  "testData": "테스트 데이터",
+  "regionAndCurrency": "지역 및 통화",
+  "reportingCurrency": "보고 통화",
+  "selectCurrency": "통화 선택",
+  "currencySample": "{code} · {symbol} · 예시 {sample}",
+  "@currencySample": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      },
+      "sample": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdated": "통화가 {code} ({symbol})으로 설정되었습니다",
+  "@currencyUpdated": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdateFailed": "통화를 업데이트할 수 없습니다: {error}",
+  "@currencyUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "setupAppTitle": "{appName} 설정",
+  "@setupAppTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "setupSubtitle": "조직 및 회계를 구성하세요 — 오프라인 사용을 위해 이 기기에 저장됩니다.",
+  "regionAndCurrencySubtitle": "로케일 및 보고 통화.",
+  "country": "국가",
+  "currency": "통화",
+  "selectCountry": "국가 선택",
+  "language": "언어",
+  "selectLanguage": "언어 선택",
+  "languageUpdated": "언어가 {name}으로 설정되었습니다",
+  "@languageUpdated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "languageUpdateFailed": "언어를 업데이트할 수 없습니다: {error}",
+  "@languageUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToApp": "{appName}에 오신 것을 환영합니다",
+  "@welcomeToApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "forceUpdateMessage": "계속하려면 {appName}의 최신 버전을 설치하세요.",
+  "@forceUpdateMessage": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "generatedByApp": "{appName}에서 생성됨",
+  "@generatedByApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "whatIsApp": "{appName}이란 무엇인가요?",
+  "@whatIsApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "appDescriptionFaq": "{appName}은 판매 및 구매 청구서, 거래처(고객 및 공급업체), 재고, 결제, 직원 및 일일 요약을 스마트폰이나 태블릿에서 관리할 수 있도록 도와줍니다.",
+  "@appDescriptionFaq": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "faqIntro": "{appName}에 대한 자주 묻는 질문에 대한 답변.",
+  "@faqIntro": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseFromGallery": "갤러리에서 선택",
+  "takePhoto": "사진 찍기",
+  "photoLibrary": "사진 보관함",
+  "addPhoto": "사진 추가",
+  "couldNotPickImage": "이미지를 선택할 수 없습니다: {error}",
+  "@couldNotPickImage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteOrganizationTitle": "조직을 삭제하시겠습니까?",
+  "deleteOrganizationMessage": "이 기기에서 {name}을 제거합니다. 이 조직의 모든 로컬 데이터가 삭제됩니다.",
+  "deleteOrganizationWarning": "이 작업은 취소할 수 없습니다.",
+  "organizationDeleted": "조직이 삭제되었습니다",
+  "createAction": "생성",
+  "connectOrganizationTitle": "조직 연결",
+  "connectOrganizationSubtitle": "로그인할 조직을 선택하세요.",
+  "selectOrganization": "조직",
+  "selectOrganizationHint": "계속하려면 조직을 탭하세요",
+  "noSavedOrganizationsYet": "아직 조직이 없습니다. 하나를 만들거나 아래 테스트 데이터를 사용하세요.",
+  "orgConnectOnceInfo": "이 앱을 비즈니스 계정에 연결합니다. 기기당 한 번만 설정하면 됩니다.",
+  "organizationCodeLabel": "코드: {code}",
+  "loginWithTestData": "테스트 데이터로 로그인",
+  "loginWithTestDataSubtitle": "데모 호텔 데이터를 불러오고 자동으로 로그인",
+  "testDataLoginFailed": "테스트 데이터를 불러올 수 없습니다: {error}",
+  "preparingTestData": "데모 데이터 준비 중…",
+  "setupOrganizationName": "조직 이름",
+  "setupCompanyName": "회사 이름",
+  "setupBusinessType": "사업 유형",
+  "businessTypeHotel": "호텔",
+  "businessTypeRestaurant": "레스토랑",
+  "businessTypeHotelRestaurant": "호텔 & 레스토랑",
+  "businessTypeRetail": "소매 / 상점",
+  "businessTypeCafe": "카페 / 베이커리",
+  "businessTypeBar": "바 / 펍",
+  "businessTypeOther": "기타",
+  "organizationBusinessTypeLabel": "유형: {type}",
+  "@organizationBusinessTypeLabel": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "organizationSettings": "조직",
+  "editOrganizationInfo": "조직 정보",
+  "editOrganizationInfoSubtitle": "이 사업체가 앱에 표시되는 방식을 업데이트합니다. 조직 코드는 변경할 수 없습니다.",
+  "organizationCode": "조직 코드",
+  "organizationCodeReadOnly": "이 코드는 설정 후 고정됩니다.",
+  "organizationInfoUpdated": "조직 정보가 저장되었습니다",
+  "organizationInfoLoadFailed": "조직 정보를 불러올 수 없습니다",
+  "organizationInfoSaveFailed": "조직 정보를 저장할 수 없습니다: {error}",
+  "@organizationInfoSaveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "saveChanges": "변경사항 저장",
+  "setupFullName": "전체 이름",
+  "setupConfirmPassword": "비밀번호 확인",
+  "setupBankName": "은행 이름",
+  "setupRegionStepTitle": "지역 및 통화",
+  "setupOrganizationStepTitle": "조직",
+  "setupOrganizationStepSubtitle": "앱에서 비즈니스가 표시되는 방식",
+  "setupAdminStepTitle": "관리자 계정",
+  "setupAdminStepSubtitle": "이 설치의 기본 사용자",
+  "setupAccountingStepTitle": "회계",
+  "setupAccountingStepSubtitle": "은행, 계정 과목표 및 회계 연도",
+  "setupCompleteSetup": "설정 완료",
+  "fieldRequired": "{field}은(는) 필수입니다",
+  "invalidEmailAddress": "유효한 이메일 주소를 입력하세요",
+  "passwordMinLength": "비밀번호는 최소 {min}자 이상이어야 합니다",
+  "passwordsDoNotMatch": "비밀번호가 일치하지 않습니다",
+  "setupFixValidationErrors": "계속하려면 아래 오류를 수정하세요",
+  "setupCompleteSuccess": "설정이 성공적으로 완료되었습니다",
+  "setupCompleteWithPdfSuccess": "설정 완료. PDF를 안전한 곳에 저장하세요.",
+  "setupPdfFailed": "설정이 완료되었지만 PDF를 저장할 수 없습니다: {error}",
+  "setupFailed": "설정을 완료할 수 없습니다. 다시 시도하세요.",
+  "setupFailedWithDetails": "설정 실패: {error}",
+  "languageChangeLaterHint": "나중에 설정에서 변경할 수 있습니다",
+  "unpaidAmount": "미결제 금액",
+  "unpaidBalance": "미결제",
+  "unpaidColonAmount": "미결제: {amount}",
+  "previousUnpaid": "미결제",
+  "partyUnpaid": "미결제",
+  "loadingUnpaid": "미결제…",
+  "totalUnpaid": "미결제",
+  "unpaidAmountNotYetCollected": "미수금이 아직 수령되지 않았습니다.",
+  "partyUnpaidTabHint": "직원을 열고, 사람을 선택한 다음 프로필에서 거래처 미수금을 탭하세요. 서버는 이 검색에 직원 ID가 필요합니다.",
+  "partySettlementUsesUnpaidTotal": "거래처 정산은 미수금 합계를 사용합니다.",
+  "selectPartyWithUnpaidFirst": "먼저 정산 금액을 입력하세요 (또는 미수금이 있는 거래처를 선택하세요).",
+  "@unpaidColonAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "partyRolesTitle": "거래처 역할",
+  "partyRolesMoreSubtitle": "고객, 공급업체, 둘 다 및 더 많이",
+  "searchRoles": "역할 검색",
+  "roleCount": "{count, plural, =1{역할 1개} other{역할 {count}개}}",
+  "@roleCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noRolesYet": "아직 역할이 없습니다",
+  "noRolesYetHint": "연락처에 고객, 공급업체, 둘 다 또는 사용자 지정 역할을 추가하세요.",
+  "addRole": "역할 추가",
+  "deleteRoleTitle": "역할 삭제",
+  "deleteRoleConfirm": "\"{name}\"을(를) 삭제하시겠습니까? 되돌릴 수 없습니다.",
+  "@deleteRoleConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteRoleHasPartiesMessage": "\"{name}\"은(는) {partyCount, plural, =1{거래처 1개} other{거래처 {partyCount}개}}에서 사용 중입니다. 해당 거래처를 다른 역할로 이전하거나 강제 삭제하여 잃어버리세요.",
+  "@deleteRoleHasPartiesMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "transferParties": "거래처 이전",
+  "hardDeleteLoseParties": "강제 삭제 (거래처 손실)",
+  "hardDeleteRoleTitle": "강제 삭제하시겠습니까?",
+  "hardDeleteRoleMessage": "이렇게 하면 \"{name}\"과(와) 이에 할당된 모든 {partyCount, plural, =1{거래처 1개} other{거래처 {partyCount}개}}가 영구적으로 삭제됩니다. 거래처 데이터는 복구할 수 없습니다.\n\n청구서나 결제에 연결된 거래처는 삭제되지 않을 수 있습니다 — 대신 이전을 사용하세요.",
+  "@hardDeleteRoleMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteRoleAndParties": "역할 및 거래처 삭제",
+  "addAnotherRoleBeforeDelete": "이 역할을 삭제하기 전에 다른 역할을 추가하세요.",
+  "transferPartiesMoveMessage": "{partyCount, plural, =1{거래처 1개} other{거래처 {partyCount}개}}를 \"{fromRole}\"에서 이동:",
+  "@transferPartiesMoveMessage": {
+    "placeholders": {
+      "partyCount": {
+        "type": "int"
+      },
+      "fromRole": {
+        "type": "String"
+      }
+    }
+  },
+  "transferAndDeleteRole": "이전 후 역할 삭제",
+  "builtInRole": "기본 제공",
+  "rolePartyCount": "{count, plural, =1{거래처 1개} other{거래처 {count}개}}",
+  "@rolePartyCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noPartiesYet": "아직 거래처가 없습니다",
+  "newRole": "새 역할",
+  "editRole": "역할 편집",
+  "defaultRolesCannotEdit": "기본 역할은 이름을 변경하거나 삭제할 수 없습니다.",
+  "roleNameLabel": "역할 이름 *",
+  "roleNameHint": "예: 고객",
+  "roleDescriptionLabel": "설명",
+  "roleDescriptionHint": "팀을 위한 짧은 메모",
+  "roleSortOrderLabel": "정렬 순서",
+  "roleSortOrderHint": "낮은 값이 목록에서 먼저 표시됩니다",
+  "roleCreated": "역할이 생성되었습니다",
+  "roleUpdated": "역할이 업데이트되었습니다",
+  "roleDeleted": "역할이 삭제되었습니다",
+  "roleDeletedPartiesTransferred": "역할이 삭제되었습니다. {count, plural, =1{거래처 1개} other{거래처 {count}개}}가 {targetRole}(으)로 이동되었습니다.",
+  "@roleDeletedPartiesTransferred": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "targetRole": {
+        "type": "String"
+      }
+    }
+  },
+  "roleAndPartiesDeleted": "역할과 {count, plural, =1{거래처 1개} other{거래처 {count}개}}가 삭제되었습니다.",
+  "@roleAndPartiesDeleted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@deleteOrganizationMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@organizationCodeLabel": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "@testDataLoginFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@fieldRequired": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "@passwordMinLength": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "@setupPdfFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@setupFailedWithDetails": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "workspace": "워크스페이스",
+  "change": "변경",
+  "addMoreOrganization": "더 추가 +",
+  "connectAnotherOrganization": "다른 조직 연결",
+  "noSavedOrganizationsUseAddMore": "아직 저장된 조직이 없습니다. 더 추가 +를 사용하여 연결하세요.",
+  "registerNewOrganizationTitleSignedIn": "새 조직을 등록하시겠습니까?",
+  "registerNewOrganizationTitle": "새 조직 등록?",
+  "registerNewOrganizationMessageSignedIn": "로그아웃되고 설정 마법사가 처음부터 시작되어 이 기기에 새 사업체를 등록할 수 있습니다.\n\n이미 저장한 조직은 설정 후 목록에 유지됩니다.",
+  "registerNewOrganizationMessageLogin": "이 기기에 새 사업체를 등록할 수 있도록 설정 마법사가 시작됩니다. 설정을 완료하여 생성하세요. 저장된 조직은 목록에 유지됩니다.",
+  "startSetup": "설정 시작",
+  "enterOrganizationCode": "조직 코드를 입력해 주세요",
+  "organizationNotFoundCheckCode": "조직을 찾을 수 없습니다. 코드를 확인하고 다시 시도하세요.",
+  "organizationNotFound": "조직을 찾을 수 없습니다",
+  "couldNotVerifyOrganization": "조직을 확인할 수 없습니다",
+  "noLocalDataCompleteSetup": "{name}에 대한 로컬 데이터가 없습니다. 먼저 이 조직의 설정을 완료하세요.",
+  "@noLocalDataCompleteSetup": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeBack": "다시 오신 것을 환영합니다",
+  "signInToContinue": "계속하려면 로그인하세요",
+  "enterEmail": "이메일 입력",
+  "pleaseEnterEmail": "이메일을 입력해 주세요",
+  "pleaseEnterValidEmail": "유효한 이메일을 입력해 주세요",
+  "enterEmailLocalPartOnly": "@ 앞 부분만 입력하세요",
+  "pleaseEnterPassword": "비밀번호를 입력해 주세요",
+  "logIn": "로그인",
+  "searchCountry": "국가 검색",
+  "searchCodeOrSymbol": "코드 또는 기호 검색",
+  "saveLoginDetailsTitle": "로그인 정보를 저장하시겠습니까?",
+  "saveLoginDetailsMessage": "이 조직의 설정을 완료하려고 합니다.\n\n조직 코드, 조직 이름, 로그인 이메일 및 비밀번호가 포함된 PDF를 안전하게 다운로드하시겠습니까? 안전한 곳에 보관하세요 — 이 파일을 가진 누구든 로그인할 수 있습니다.",
+  "downloadPdfAndContinue": "PDF 다운로드 및 계속",
+  "continueWithoutPdf": "PDF 없이 계속",
+  "legalDisplayNameHint": "법적 / 표시 이름",
+  "chartOfAccounts": "계정 과목",
+  "fiscalYearStart": "회계연도 시작",
+  "fiscalYearEnd": "회계연도 종료",
+  "removeTestDataTitle": "테스트 데이터를 제거하시겠습니까?",
+  "removeTestDataMessageDemoOrg": "모든 데모 판매, 구매, 연락처, 거래처, 재고 항목, 직원, 주류 계산기 제품 및 추가 데모 조직이 제거됩니다.\n\n데모 조직을 사용 중입니다 — 이후 자동으로 첫 번째 조직으로 전환됩니다.",
+  "removeTestDataMessageNormal": "모든 데모 판매, 구매, 연락처, 거래처, 재고 항목, 직원 및 3개의 추가 데모 조직이 제거됩니다. 관리자 계정과 실제 설정 데이터는 유지됩니다.",
+  "removeTestDataWarning": "테스트 데이터를 다시 로드하지 않으면 되돌릴 수 없습니다.",
+  "removeTestData": "테스트 데이터 제거",
+  "keepTestData": "테스트 데이터 유지",
+  "demoDataRemoved": "데모 데이터가 제거되었습니다",
+  "testDataRemovedSwitchedTo": "테스트 데이터가 제거되었습니다. {name}(으)로 전환되었습니다.",
+  "@testDataRemovedSwitchedTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "testDataRemoved": "테스트 데이터가 제거되었습니다",
+  "couldNotRemoveTestData": "테스트 데이터를 제거할 수 없습니다: {error}",
+  "@couldNotRemoveTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loadTestDataTitle": "테스트 데이터를 로드하시겠습니까?",
+  "loadTestDataMessage": "데모 연락처 최대 50개, 판매 전용 재고 항목 50개 및 구매 전용 재고 항목 50개와 샘플 판매, 구매, 결제, 재고, 마감 요약, 직원, 급여, 지난 15일간의 출석 및 계산기용 샘플 주류 제품이 추가됩니다.",
+  "loadTestData": "테스트 데이터 로드",
+  "testDataLoaded": "테스트 데이터가 로드되었습니다",
+  "couldNotLoadTestData": "테스트 데이터를 로드할 수 없습니다: {error}",
+  "@couldNotLoadTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "demoTestData": "데모 테스트 데이터",
+  "importTestDataSubtitle": "모든 기능에 대한 테스트 데이터 가져오기",
+  "hideTestDataTitle": "이 조직의 테스트 데이터를 숨기시겠습니까?",
+  "hideTestDataMessage": "계속하면 테스트 데이터 섹션이 이 조직의 모든 곳에서 숨겨집니다 (설정 포함). 앱을 재설치하거나 이 조직의 앱 데이터를 삭제해야만 다시 활성화할 수 있습니다.",
+  "hideTestDataWarning": "이미 로드된 데모 데이터는 설정에서 제거할 때까지 데이터베이스에 남아 있습니다.",
+  "okHideTestData": "확인, 테스트 데이터 숨기기",
+  "testDataHiddenForOrg": "이 조직의 테스트 데이터가 숨겨졌습니다",
+  "hideTestDataTooltip": "이 조직의 테스트 데이터 숨기기",
+  "privacyPolicyTitle": "개인정보 처리방침",
+  "termsAndConditions": "이용약관",
+  "logoutConfirmTitle": "로그아웃",
+  "logoutConfirmMessage": "계정에서 로그아웃하시겠습니까?",
+  "faqTapToExpand": "질문을 탭하여 펼치세요.",
+  "faqSectionGettingStarted": "시작하기",
+  "faqSectionLogin": "로그인",
+  "faqSectionNavigation": "내비게이션",
+  "faqSectionInvoices": "청구서",
+  "faqSectionPayments": "결제",
+  "faqSectionItemsStock": "항목 & 재고",
+  "faqSectionProfileEmployees": "프로필 & 직원",
+  "faqSectionDashboardReports": "대시보드 & 보고서",
+  "faqSectionSyncTroubleshooting": "동기화 & 문제 해결",
+  "faqNeedInternetQuestion": "인터넷이 필요한가요?",
+  "faqNeedInternetAnswer": "첫 번째 로컬 설정 후 인터넷 없이 청구서, 항목 및 결제를 기록할 수 있습니다. 데이터는 기기에 저장됩니다. 서버와의 동기화는 선택 사항입니다.",
+  "faqFirstInstallQuestion": "첫 설치 시 무엇이 일어나나요?",
+  "faqFirstInstallAnswer": "짧은 안내를 볼 수 있으며, 그 다음 로컬 설정 (조직, 회사, 로그인 이메일 및 비밀번호, 통화, 회계연도)을 합니다. 그 후 생성한 이메일과 비밀번호로 로그인하세요.",
+  "faqSignInCredentialsQuestion": "로그인에 무엇을 사용하나요?",
+  "faqSignInCredentialsAnswer": "설정의 이메일 주소와 비밀번호입니다. 앱은 더 보기에서 로그아웃할 때까지 로그인 상태를 유지합니다.",
+  "faqLoggedOutQuestion": "왜 로그아웃되었나요?",
+  "faqLoggedOutAnswer": "로그아웃을 선택하거나, 앱 데이터를 삭제하거나, 세션이 만료되었습니다. 동일한 자격 증명으로 다시 로그인하세요.",
+  "faqBottomTabsQuestion": "하단 탭은 무엇을 하나요?",
+  "faqBottomTabsAnswer": "홈 — 대시보드 및 개요.\n판매 — 날짜별 판매 청구서.\n지출 — 구매 / 지출 청구서.\n중앙 버튼 — 거래처 (고객, 공급업체).\n더 보기 — 프로필, 보고서, 동기화, 도움말, 로그아웃.",
+  "faqCreateInvoiceQuestion": "판매 또는 구매 청구서를 어떻게 만드나요?",
+  "faqCreateInvoiceAnswer": "판매 또는 지출을 열고, 달력에서 날짜를 선택하고, + 버튼을 탭하고, 항목과 금액을 추가하고, 필요한 경우 거래처를 선택한 다음 저장하거나 제출하세요.",
+  "faqInvoiceDetailsQuestion": "청구서 전체 내역을 어떻게 보나요?",
+  "faqInvoiceDetailsAnswer": "목록에서 청구서를 탭하세요. 거래 세부 정보에 항목, 합계, 할인 및 결제가 표시됩니다. 거기서 인쇄, 공유, 복제 또는 결제할 수 있습니다.",
+  "faqZeroRateQuestion": "세부 정보에서 요금 또는 금액이 0으로 표시됨",
+  "faqZeroRateAnswer": "이는 일반적으로 이전 저장에서 항목 또는 결제 데이터가 누락되었음을 의미합니다. 앱을 업데이트하고 필요한 경우 다시 생성하거나 정산하세요.",
+  "faqPartialPaymentQuestion": "부분 결제를 어떻게 기록하나요?",
+  "faqPartialPaymentAnswer": "청구서 열기 → 거래 세부 정보 → 결제하기. 금액, 방법 및 날짜를 입력한 다음 정산 처리하세요.",
+  "faqMultiplePaymentQuestion": "다중 결제는 어떻게 작동하나요?",
+  "faqMultiplePaymentAnswer": "다중 결제를 켜고, 편집을 탭하고, 합계를 현금, 카드, QR 등으로 분할하세요. 각 방법은 별도로 기록됩니다.",
+  "faqSplitPaymentSavedQuestion": "분할에서 하나의 결제만 저장됨",
+  "faqSplitPaymentSavedAnswer": "최신 앱 버전으로 업데이트하세요. 이전 버전은 때때로 첫 번째 분할 항목만 저장했습니다. 미수금 잔액이 여전히 잘못된 경우 다시 정산하세요.",
+  "faqAddItemQuestion": "항목을 어떻게 추가하나요?",
+  "faqAddItemAnswer": "판매 흐름 또는 빠른 추가에서 항목 추가를 사용하세요. 이름, 요금, 단위, 목적 및 선택적 사진 (JPEG/PNG/GIF/WebP, 최대 5MB)을 입력한 다음 항목 만들기를 누르세요.",
+  "faqCustomUnitQuestion": "사용자 정의 단위를 어떻게 추가하나요?",
+  "faqCustomUnitAnswer": "항목 양식에서 단위를 탭 → 목록 하단에서 새 단위 만들기, 이름 (예: 리터, 상자)을 입력하고 만들기를 누르세요.",
+  "faqStockQuantitiesQuestion": "How do I enter stock quantities?",
+  "faqStockQuantitiesAnswer": "Live qty is In stock on each item. Set stock on an item to enter opening stock or a stock adjustment. Opening stock / stock reconciliation (upload or enter a count) also sets In stock when live tracking is on. Liquor prices is a pour-price list, not stock.",
+  "faqProfileNameQuestion": "이름을 변경했지만 프로필에 이전 이름이 표시됨",
+  "faqProfileNameAnswer": "직원 기록을 편집하고 (로그인과 동일한 이메일) 저장하세요. 더 보기 탭과 대시보드가 업데이트되어야 합니다.",
+  "faqRevenueDetailsQuestion": "수익 세부 정보란 무엇인가요?",
+  "faqRevenueDetailsAnswer": "일별 추세 차트, 순이익, 미수금 및 일별 판매 대 구매 분석이 있는 월별 보기입니다. 달력이나 월 칩으로 월을 변경하세요.",
+  "faqOtherReportsQuestion": "다른 보고서는 어디에 있나요?",
+  "faqOtherReportsAnswer": "더 보기를 열고 역할에 액세스 권한이 있는 경우 보고서 (분석, 손익, 명세서 등) 아래를 확인하세요.",
+  "faqWhenSyncQuestion": "언제 동기화해야 하나요?",
+  "faqWhenSyncAnswer": "관리자가 요청할 때와 안정적인 연결이 있을 때만. 동기화는 기기와 서버 간에 데이터를 전송하거나 수신합니다.",
+  "faqFabPositionQuestion": "+ 버튼이 판매 / 지출에서 너무 높게 보임",
+  "faqFabPositionAnswer": "하단 탐색 바 위에 있습니다. 버튼이 기기의 콘텐츠와 겹치면 목록을 스크롤하거나 앱을 업데이트하세요.",
+  "faqHowLogoutQuestion": "어떻게 로그아웃하나요?",
+  "faqHowLogoutAnswer": "더 보기 → 설정 목록 하단의 로그아웃.",
+  "statisticsGoodMorning": "Good Morning",
+  "statisticsGoodAfternoon": "Good Afternoon",
+  "statisticsGoodEvening": "Good Evening",
+  "statisticsDefaultUser": "User",
+  "statisticsCheckConnection": "Please check your connection and try again.",
+  "statisticsCouldNotLoadProfile": "Could not load profile",
+  "statisticsCouldNotLoadData": "Could not load data",
+  "statisticsPeriodDay": "Day",
+  "statisticsPeriodMonth": "Month",
+  "statisticsPeriodYear": "Year",
+  "statisticsSelectedPeriod": "Selected Period",
+  "statisticsSelectMonth": "Select Month",
+  "statisticsSelectMonthSubtitle": "Choose a month to filter data",
+  "statisticsQuickOperations": "Quick Operations",
+  "statisticsAnnualRevenue": "Annual Revenue",
+  "statisticsCashflowLast7Days": "현금 흐름 (최근 7일)",
+  "statisticsCashflowLast12Months": "현금 흐름 (최근 12개월)",
+  "statisticsDaily": "Daily",
+  "statisticsMonthly": "Monthly",
+  "statisticsOverall": "Overall",
+  "statisticsLast7Days": "Last 7 Days",
+  "statisticsLast12Months": "Last 12 Months",
+  "statisticsAllYears": "All Years",
+  "statisticsNoDataAvailable": "No data available",
+  "statisticsMoneyIn": "Money In",
+  "statisticsMoneyOut": "Money Out",
+  "statisticsIncome": "Income",
+  "statisticsExpenses": "Expenses",
+  "statisticsSalesSummary": "Sales Summary",
+  "statisticsPurchaseSummary": "Purchase Summary",
+  "statisticsTotalSales": "Total Sales",
+  "statisticsTotalIncome": "Total Income",
+  "statisticsTotalUnpaid": "Total Unpaid",
+  "statisticsTotalPurchase": "Total Purchase",
+  "statisticsPaidPurchase": "Paid Purchase",
+  "statisticsUnpaidPurchase": "Unpaid Purchase",
+  "statisticsEmployeeDashboard": "Employee Dashboard",
+  "statisticsDefaultEmployee": "Employee",
+  "statisticsDefaultDepartment": "Department",
+  "statisticsDefaultPosition": "Position",
+  "statisticsCurrentMonth": "Current Month",
+  "statisticsStatus": "Status",
+  "statisticsActive": "Active",
+  "statisticsWelcome": "Welcome",
+  "statisticsEmployeeWelcomeMessage": "You are logged in as an employee. Use the navigation menu to access available features.",
+  "statisticsRevenueDetails": "Revenue Details",
+  "statisticsEmployeeDetails": "Employee Details",
+  "statisticsChangeMonth": "Change month",
+  "statisticsFilterChartsSubtitle": "Filter charts and breakdown",
+  "statisticsDailyTrend": "Daily trend",
+  "statisticsDailyActivity": "Daily activity",
+  "statisticsNoDataForMonth": "No data for this month",
+  "statisticsNetProfit": "Net profit",
+  "statisticsMonthReceivables": "Month receivables",
+  "statisticsNoDailyEntries": "No daily entries for this month",
+  "statisticsDailySalesBreakdown": "Daily sales breakdown",
+  "statisticsDailyBreakdown": "Daily breakdown",
+  "statisticsAdvance": "Advance",
+  "statisticsExploreFeatures": "Explore Features",
+  "statisticsShowOrHideFeatures": "Show or hide features",
+  "statisticsAllFeaturesHidden": "All explore features are hidden",
+  "statisticsNoFeaturesForOrg": "No features available for your organization",
+  "statisticsTapTuneToShow": "Tap the tune icon above to show shortcuts again.",
+  "statisticsMenuCheck": "Reconciliation",
+  "statisticsMenuEmployee": "Employee",
+  "statisticsMenuOrder": "Order",
+  "statisticsMenuInventory": "Items",
+  "statisticsMenuCustomers": "Customers",
+  "statisticsMenuCalculator": "Liquor prices",
+  "statisticsMenuQuickExpenses": "Quick\nExpenses",
+  "statisticsMenuQuickSales": "Quick\nSales",
+  "statisticsMenuAddEmployee": "Add\nEmployee",
+  "statisticsMenuAddParty": "Add\nParty",
+  "statisticsMenuAddEmployeeSingle": "Add Employee",
+  "statisticsMenuAddPartySingle": "Add Party",
+  "statisticsGreeting": "{greeting}, {name}",
+  "@statisticsGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsEmployeeGreeting": "{greeting}, {name}!",
+  "@statisticsEmployeeGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDepartmentPosition": "{department} • {position}",
+  "@statisticsDepartmentPosition": {
+    "placeholders": {
+      "department": {
+        "type": "String"
+      },
+      "position": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricCollected": "{amount} collected",
+  "@statisticsMetricCollected": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricPaid": "{amount} paid",
+  "@statisticsMetricPaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyInAmount": "Money In: {amount}",
+  "@statisticsMoneyInAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyOutAmount": "Money Out: {amount}",
+  "@statisticsMoneyOutAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDayTooltip": "Day {day}\n{amount}",
+  "@statisticsDayTooltip": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsProfitMargin": "{percent}% margin",
+  "@statisticsProfitMargin": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "selectBusinessType": "Select business type",
+  "businessTypeHotelSubtitle": "Rooms, guests & front desk",
+  "businessTypeRestaurantSubtitle": "Dine-in, kitchen & table orders",
+  "businessTypeHotelRestaurantSubtitle": "Hotel rooms and restaurant together",
+  "businessTypeRetailSubtitle": "Products, stock & checkout",
+  "businessTypeCafeSubtitle": "Coffee, pastries & light bites",
+  "businessTypeBarSubtitle": "Drinks menu, tabs & bar sales",
+  "businessTypeOtherSubtitle": "Custom setup for any business",
+  "@invoiceCommonSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonInvoiceLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCustomerLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSupplierLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchingFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchItemsHint": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonEmptyForDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDeleteInvoiceConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCancelReturnMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPartyLoadingError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceFoundSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceFoundPurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDatePurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateInvoiceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteMessage": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceReturnCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotPrint": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotSave": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotShare": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonItemReturnedQty": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      },
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonMultiplePaymentSummary": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptFilename": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReturnAgainst": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSavedPath": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonUnpaidWithAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonTodayAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyExportReceipts": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyNoItemsMatching": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceQuickShowingItems": {
+    "placeholders": {
+      "shown": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickLoadedItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickScrollLoadMore": {
+    "placeholders": {
+      "perPage": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickCartWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemActionsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditSelectedItem": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditRateLabel": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditItemLabel": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemsError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditPartiesError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditSaveError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonActions": "Actions",
+  "invoiceCommonSearchItems": "Search Items",
+  "invoiceCommonSearchItemsSubtitle": "Search for specific items",
+  "invoiceCommonAddNewInvoice": "Add New Invoice",
+  "invoiceCommonAddSalesInvoiceSubtitle": "Create a new sales invoice",
+  "invoiceCommonAddPurchaseInvoiceSubtitle": "Create a new purchase invoice",
+  "invoiceCommonSelectMonthYear": "Select Month/Year",
+  "invoiceCommonSelectMonthYearSubtitle": "Jump to a specific month",
+  "invoiceCommonSelectMonthAndYear": "Select Month & Year",
+  "invoiceCommonFilterByDate": "Filter by date",
+  "invoiceCommonFilterByDateRange": "Filter by date range",
+  "invoiceCommonCloseSearch": "Close search",
+  "invoiceCommonSelectAll": "Select All",
+  "invoiceCommonToday": "Today",
+  "invoiceCommonTotalQuantity": "Total Quantity",
+  "invoiceCommonTotalAmount": "Total Amount",
+  "invoiceCommonTotal": "Total",
+  "invoiceCommonSearchForItems": "Search for items",
+  "invoiceCommonNoItemsFound": "No items found",
+  "invoiceCommonUnknownItem": "Unknown Item",
+  "invoiceCommonNotAvailable": "N/A",
+  "invoiceSalesCouldNotLoad": "Could not load sales",
+  "invoiceSalesNoFound": "No Sales found",
+  "invoiceSalesSelectDate": "Select a date to view Sales",
+  "invoiceSalesNoInvoicesFound": "No invoices found",
+  "invoiceSalesSelectDateLegacy": "Select a date to view invoices",
+  "invoicePurchaseCouldNotLoad": "Could not load expenses",
+  "invoicePurchaseNoFound": "No purchases found",
+  "invoicePurchaseSelectDate": "Select a date to view purchases",
+  "invoiceWeekdaySun": "Sun",
+  "invoiceWeekdayMon": "Mon",
+  "invoiceWeekdayTue": "Tue",
+  "invoiceWeekdayWed": "Wed",
+  "invoiceWeekdayThu": "Thu",
+  "invoiceWeekdayFri": "Fri",
+  "invoiceWeekdaySat": "Sat",
+  "invoiceCommonSelectedCount": "{count} Selected",
+  "invoiceCommonQtyLabel": "Qty: {qty}",
+  "invoiceCommonInvoiceLabel": "Invoice: {number}",
+  "invoiceCommonCustomerLabel": "Customer: {name}",
+  "invoiceCommonSupplierLabel": "Supplier: {name}",
+  "invoiceCommonSearchingFor": "Searching for \"{query}\"...",
+  "invoiceCommonSearchItemsHint": "Search items in {scope}...",
+  "invoiceCommonSalesSearchPrompt": "Type an item name to find all sales\nin {scope}",
+  "invoiceCommonPurchaseSearchPrompt": "Type an item name to find all purchases\nin {scope}",
+  "invoiceCommonSalesNoMatch": "No sales of \"{query}\"\nin {scope}",
+  "invoiceCommonPurchaseNoMatch": "No purchases of \"{query}\"\nin {scope}",
+  "invoiceCommonEmptyForDate": "for {date}",
+  "invoiceFoundSalesCount": "Found {count, plural, =1{1 sale} other{{count} sales}}",
+  "invoiceFoundPurchaseCount": "Found {count, plural, =1{1 purchase} other{{count} purchases}}",
+  "invoiceDateSalesCount": "{count, plural, =1{1 sale} other{{count} sales}}",
+  "invoiceDatePurchaseCount": "{count, plural, =1{1 purchase} other{{count} purchases}}",
+  "invoiceDateInvoiceCount": "{count, plural, =1{1 invoice} other{{count} invoices}}",
+  "invoiceDeleteTitle": "Delete {count, plural, =1{1 invoice} other{{count} invoices}}",
+  "invoiceDeleteMessage": "Are you sure you want to delete {count, plural, =1{1 selected invoice} other{{count} selected invoices}}? This action cannot be undone.",
+  "contacts": "Contacts",
+  "categories": "Categories",
+  "manageStaff": "Manage staff",
+  "payroll": "Payroll",
+  "attendance": "Attendance",
+  "profitAndLoss": "손익",
+  "statementReport": "명세서",
+  "analytics": "분석",
+  "loggedOut": "Logged out",
+  "organizationCodeDisplay": "Code: {code}",
+  "@organizationCodeDisplay": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "moreDataSynchronization": "Data Synchronization",
+  "moreSendDataToClient": "Send Data to Client",
+  "moreSendDataToClientSubtitle": "Upload server data to client",
+  "moreSendDataToClientWarning": "This action will replace the current client database with data from the server. All recent client changes may be lost.",
+  "moreSendDataToClientConfirm": "Are you sure you want to send data to the client?",
+  "moreFetchDataFromClient": "Fetch Data from Client",
+  "moreFetchDataFromClientSubtitle": "Download client data to server",
+  "moreFetchDataFromClientWarning": "This action will replace the current server database with data from the client. All recent server changes may be lost.",
+  "moreFetchDataFromClientConfirm": "Are you sure you want to fetch data from the client?",
+  "notifications": "Notifications",
+  "openingReminder": "Opening reminder",
+  "closingReminder": "Closing reminder",
+  "openingTime": "Opening time",
+  "closingTime": "Closing time",
+  "notificationSettingsSaved": "Notification settings saved",
+  "notificationPermissionHint": "Allow notifications (and alarms on Android) so reminders work when the app is closed",
+  "dailyAtTime": "Daily at {time}",
+  "@dailyAtTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonYesterday": "Yesterday",
+  "invoiceCommonTodayAt": "Today, {time}",
+  "invoiceCommonDaysAgo": "{count} days ago",
+  "invoiceReturnCount": "{count, plural, =1{1 return} other{{count} returns}}",
+  "statisticsMonthRevenue": "Month Revenue",
+  "statisticsMonthExpenses": "Month Expenses",
+  "exploreCustomizeTitle": "Customize features",
+  "exploreCustomizeSubtitle": "Show or hide shortcuts on your home screen. Only features your organization can access are listed.",
+  "exploreVisibleOnDashboard": "Visible on dashboard",
+  "exploreHiddenOnDashboard": "Hidden on dashboard",
+  "partiesTitle": "Parties",
+  "partySearchByName": "Search by name…",
+  "partySortBy": "Sort By:",
+  "partySortLatest": "Latest",
+  "partySortAmountHighLow": "Amount: High to Low",
+  "partySortAmountLowHigh": "Amount: Low to High",
+  "partySortNameAZ": "Name: A to Z",
+  "partySortNameZA": "Name: Z to A",
+  "partyAddNew": "Add New Party",
+  "partyEdit": "Edit Party",
+  "partyUpdate": "Update Party",
+  "partyNameLabel": "Party Name*",
+  "partyNameHint": "Enter party name",
+  "partyNewNameLabel": "New Party Name*",
+  "partyNewNameHint": "Enter new party name",
+  "partyRoleLabel": "Party Role *",
+  "partyTapToSelect": "Tap to select",
+  "partySelectRoleValidation": "Please select role",
+  "partyEnterNameValidation": "Please enter party name",
+  "partyBasicInfo": "Basic Info",
+  "partyAdditionalInfo": "Additional Info",
+  "partyEmail": "Party Email",
+  "partyEmailHint": "Enter email address",
+  "partyPhone": "Phone Number",
+  "partyPhoneHint": "Enter phone number",
+  "partyAddress": "Party Address",
+  "partyAddressHint": "Enter address",
+  "partyRoleCustomer": "고객",
+  "partyRoleSupplier": "Supplier",
+  "partyRoleRoom": "Room",
+  "partyRoleCabin": "Cabin",
+  "partyRoleEmployee": "Employee",
+  "partyRoleBoth": "Both",
+  "partyDefaultAccount": "Default Account",
+  "partyLoyaltyProgram": "Loyalty Program",
+  "partyLoyaltyPoints": "Loyalty Points",
+  "partySelectDefaultAccount": "Select Default Account",
+  "partySelectLoyaltyProgram": "Select Loyalty Program",
+  "partyCreateNewProgram": "Create new program",
+  "partySelectPartyRole": "Select Party Role",
+  "partyAccountDebtors": "Debtors",
+  "partyAccountCreditors": "Creditors",
+  "partyBothRoleHint": "Both means this party appears under Customer and Supplier only — not Room, Cabin, or Employee.",
+  "partyValidNumber": "Please enter valid number",
+  "partyValidAmount": "Please enter valid amount",
+  "exportAsPdf": "Export as PDF",
+  "sharePdf": "Share PDF",
+  "partyExportPdfTooltip": "Export PDF",
+  "checkoutSelectParty": "Select Party",
+  "checkoutCartSummary": "Cart summary",
+  "checkoutNoItemsInCart": "No items in cart",
+  "checkoutSearchHere": "Search here",
+  "checkoutCreateInvoice": "Create Invoice",
+  "checkoutEditInvoice": "Edit Invoice",
+  "checkoutSaveInvoice": "Save Invoice",
+  "checkoutInvoiceSummary": "Invoice Summary",
+  "checkoutEstimate": "Estimate",
+  "checkoutBasicInformation": "Basic Information",
+  "checkoutAddItems": "Add Items",
+  "checkoutItemsSection": "Items",
+  "checkoutPartyRequired": "Party *",
+  "checkoutPartyInformation": "Party Information",
+  "checkoutBillSummary": "Bill Summary",
+  "checkoutBillSummaryHint": "Tap to know more detailed calculation.",
+  "checkoutItemTotal": "Item Total",
+  "checkoutLoyaltyDiscount": "Loyalty Discount ({percent}%)",
+  "@checkoutLoyaltyDiscount": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutDiscountLine": "- Discount ({percent}%)",
+  "@checkoutDiscountLine": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutTapToEdit": "Tap to Edit",
+  "checkoutTotalAmount": "Total Amount",
+  "checkoutPaymentMode": "Record payment",
+  "checkoutPaymentModeHint": "Turn on to take payment now. Leave off to submit the bill unpaid and collect later.",
+  "checkoutNetSalesAmount": "Net Sales Amount",
+  "checkoutConfirmCheckout": "Confirm Checkout",
+  "checkoutEditDiscount": "Edit Discount",
+  "checkoutPercentage": "Percentage",
+  "checkoutDiscard": "Discard",
+  "checkoutPartialPayment": "Partial Payment",
+  "checkoutPartialPaymentBanner": "By activating Partial Payment the customer will be able to pay the amount less than the Total Billed Amount.",
+  "checkoutPleaseEnterAmounts": "Please enter respective amounts:",
+  "checkoutPartialPaymentEqualHint": "Since no user is assigned, the total amount should be equal to the total billed amount.",
+  "checkoutOverGrandTotalBy": "Over Grand Total by: {amount}",
+  "@checkoutOverGrandTotalBy": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutRemainingUnpaid": "Remaining (unpaid from Grand Total): {amount}",
+  "@checkoutRemainingUnpaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutConfirmPayment": "Confirm Payment",
+  "checkoutUnpaidCredit": "Unpaid / Credit",
+  "checkoutAddAtLeastOneLine": "Add at least one line item to view estimate",
+  "checkoutMultiplePayment": "Multiple Payment",
+  "checkoutPaymentStatus": "Payment status",
+  "checkoutPaymentMethods": "Payment methods",
+  "checkoutPaymentMethod": "Payment method",
+  "checkoutTenderAmount": "Tender amount",
+  "checkoutLoadingPaymentMethods": "Loading payment methods…",
+  "stocksTitle": "Stock reconciliation",
+  "stockUploadTooltip": "Opening stock",
+  "stockNoDataYet": "No opening stock yet",
+  "stockNoDataSubtitle": "Enter a physical count. With live tracking on, that count becomes In stock.",
+  "stockUploadAction": "Opening stock",
+  "stockSearchByDateHint": "Search by date or month…",
+  "stockNoMatches": "No matches",
+  "stockTryDifferentSearch": "Try a different search term",
+  "stockTryAnotherSearch": "Try another search",
+  "stockQtyLabel": "Qty {qty}",
+  "@stockQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "stockCardSummary": "{records} records · {items} items · {locations} locations",
+  "@stockCardSummary": {
+    "placeholders": {
+      "records": {
+        "type": "String"
+      },
+      "items": {
+        "type": "String"
+      },
+      "locations": {
+        "type": "String"
+      }
+    }
+  },
+  "stockFilterTitle": "Filter stock reconciliation",
+  "stockBatchNumber": "Batch number",
+  "stockLocation": "Location",
+  "stockOptionalHint": "Optional",
+  "stockApplyFilters": "Apply filters",
+  "stockClearFields": "Clear fields",
+  "stockDeleteAllTooltip": "Delete all stock for this date",
+  "stockNoItemsFound": "No stock items found",
+  "stockNoItemsSubtitle": "Try different filters or another reporting date.",
+  "stockAdjustFilters": "Adjust filters",
+  "stockSearchItemHint": "Search item, batch, location…",
+  "stockEditQuantities": "Edit quantities",
+  "stockNoChangesDetected": "No changes detected",
+  "stockErrorPreparingChanges": "Error preparing changes: {error}",
+  "@stockErrorPreparingChanges": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "stockUpdateSuccessful": "Update Successful!",
+  "stockSummary": "Summary",
+  "stockTotalRequested": "Total Requested",
+  "stockSuccessfullyUpdated": "Successfully Updated",
+  "stockFailed": "Failed",
+  "stockUpdateFailed": "Update Failed",
+  "stockClearAllQuantitiesTitle": "Clear All Quantities?",
+  "stockClearAllQuantitiesMessage": "This will reset all quantities to 0. Are you sure?",
+  "stockClearAll": "Clear All",
+  "stockUpdatingQuantities": "Updating stock quantities...",
+  "stockEditQuantitiesTitle": "Edit Stock Quantities",
+  "stockReportingDate": "Reporting Date: {date}",
+  "@stockReportingDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "stockTotalItemsHint": "Total items: {count} • Update quantities as needed",
+  "@stockTotalItemsHint": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "stockItemName": "Item Name",
+  "stockBatchPrefix": "Batch: {batch}",
+  "@stockBatchPrefix": {
+    "placeholders": {
+      "batch": {
+        "type": "String"
+      }
+    }
+  },
+  "stockDeleteConfirmTitle": "Confirm Deletion",
+  "stockDeleteConfirmIntro": "You are about to permanently delete all stock items for the following date:",
+  "stockDeleteConfirmWarning": "This action cannot be undone. All stock records for this date will be permanently deleted.",
+  "stockNoInternetRetry": "No internet connection. Please check your connection and try again.",
+  "itemsTitle": "Items",
+  "itemAddSheetTitle": "Add item",
+  "itemSingleAdd": "Single add",
+  "itemBulkAdd": "Bulk add",
+  "itemBulkAddTitle": "Bulk add items",
+  "itemEditTitle": "Edit Item",
+  "itemAddTitle": "Add Item",
+  "itemCreateButton": "Create Item",
+  "itemUpdateButton": "Update Item",
+  "itemDeleteTitle": "Delete Item",
+  "itemDeleteConfirm": "Are you sure you want to delete \"{name}\"?",
+  "itemDeletedSuccess": "Item deleted successfully",
+  "itemCreatedSuccess": "Item created successfully",
+  "itemUpdatedSuccess": "Item updated successfully",
+  "itemLoading": "Loading items...",
+  "itemErrorTitle": "Oops! Something went wrong",
+  "itemTryAgain": "Try Again",
+  "itemSearchHint": "Search items",
+  "itemNoItemsFound": "No items found",
+  "itemTryAdjustSearch": "Try adjusting your search terms",
+  "itemNoItemsAvailable": "No items available",
+  "itemAddToGetStarted": "Add items to get started",
+  "itemNoMoreItems": "No more items",
+  "itemPurposeBoth": "Both",
+  "itemPurposePurchases": "Purchases",
+  "itemTypeProduct": "Product",
+  "itemTypeService": "Service",
+  "itemTypeInventory": "Inventory",
+  "itemPhotoTitle": "Item photo",
+  "itemPhotoHint": "Click here to select or upload photos",
+  "itemPhotoFormats": "JPEG, PNG, GIF, or WebP · max 5MB",
+  "itemAddPhoto": "Add photo",
+  "itemPhotoLibrary": "Photo library",
+  "itemPhotoLibraryHint": "Choose from your photos",
+  "itemTakePhoto": "Take a photo",
+  "itemUploadGallery": "Upload from gallery",
+  "itemUploadGalleryHint": "Browse files on this device",
+  "itemTypeLabel": "Type",
+  "itemTypeField": "Item type",
+  "itemNameLabel": "Item name",
+  "itemNameHint": "Enter item name",
+  "itemBarcodeLabel": "Barcode / QR Code",
+  "itemBarcodeField": "Barcode / QR code",
+  "itemBarcodeHint": "Scan from app bar or paste",
+  "itemRateLabel": "Rate",
+  "itemUnitLabel": "Unit",
+  "itemPurposeLabel": "Purpose",
+  "itemSelectUnit": "Select unit",
+  "itemSelectPurpose": "Select purpose",
+  "itemSelectCategory": "Select category",
+  "itemSelectType": "Select type",
+  "itemSelectItemType": "Select item type",
+  "itemSearchUnits": "Search units…",
+  "itemSearchPurpose": "Search purpose…",
+  "itemSearchCategories": "Search categories…",
+  "itemCreateCustomUnit": "Create custom unit",
+  "itemUnitName": "Unit name",
+  "itemUnitNameHint": "e.g., Litre, Box, Piece",
+  "itemValidationName": "Please enter item name",
+  "itemValidationRate": "Please enter rate",
+  "itemValidationNumber": "Please enter valid number",
+  "itemSelectUnitRequired": "Please select a unit",
+  "itemSelectPurposeRequired": "Please select a purpose",
+  "itemImageMissing": "Image file is missing",
+  "itemImageFormatError": "Use JPEG, PNG, GIF, or WebP",
+  "itemImageSizeError": "Image must be 5MB or smaller",
+  "itemScanBarcode": "Scan barcode",
+  "itemNameFromCatalog": "Name filled from catalog: {name}",
+  "itemBarcodePasteHint": "No product name found — code pasted as name. Edit if needed.",
+  "itemBulkRefillTooltip": "Refill previous input",
+  "itemBulkAddRow": "Add row",
+  "itemBulkRowLabel": "Item {index}",
+  "itemBulkNameRequired": "Name required",
+  "itemBulkInvalidNumber": "Invalid number",
+  "itemBulkCreating": "Creating…",
+  "itemBulkCreateItems": "Create items",
+  "itemBulkCreatedCount": "{count} item(s) created",
+  "itemBulkCreateFailed": "Failed to create items: {error}",
+  "itemBulkNoDraft": "No saved draft found",
+  "itemBulkInvalidDraft": "Saved draft format is invalid",
+  "itemBulkDraftRestored": "Previous draft restored",
+  "itemBulkDraftRestoreFailed": "Could not restore saved draft",
+  "itemBulkAtLeastOne": "Add at least one item",
+  "itemBulkCategoriesLoading": "Categories are loading, please try again",
+  "itemBulkLoadingCategories": "Loading categories…",
+  "inventoryTitle": "Inventory Analytics",
+  "inventorySubtitle": "Real-time stock movement tracking",
+  "inventorySearchHint": "Search items...",
+  "inventorySold": "Sold",
+  "inventoryPurchased": "Purchased",
+  "catNoCategories": "No categories. Tap + to create.",
+  "catLoadCategories": "Load categories",
+  "catCreated": "Category created",
+  "catRenamed": "Category renamed",
+  "catDeleted": "Category deleted",
+  "catNewTitle": "New category",
+  "catRenameTitle": "Rename category",
+  "catNewName": "New name",
+  "catRename": "Rename",
+  "catDeleteTitle": "Delete category",
+  "catDeleteConfirm": "Delete \"{name}\"?",
+  "catDeleteLinkedHint": "Items are linked. You can force delete to unlink them.",
+  "catForceDelete": "Force delete",
+  "catItemsCount": "{count} items",
+  "contactFavoritesOnly": "Favorites only",
+  "contactShowAll": "Show all contacts",
+  "contactSearchHint": "Search name, phone, email…",
+  "contactNoConnection": "No connection",
+  "contactCheckNetwork": "Check your network and try again.",
+  "contactSomethingWrong": "Something went wrong",
+  "contactNoContacts": "No contacts",
+  "contactNoFavorites": "No favorites match. Turn off the star filter or add favorites in a contact.",
+  "contactTrySearchOrAdd": "Try a different search or tap + to add a contact.",
+  "contactEndOfList": "End of list",
+  "contactNewTooltip": "New contact",
+  "contactLoading": "Loading contacts…",
+  "contactUnknown": "Unknown",
+  "contactCallTooltip": "Call",
+  "contactEditTitle": "Edit contact",
+  "contactNewTitle": "New contact",
+  "contactSelectTitle": "Select contact",
+  "contactDeleteTitle": "Delete contact?",
+  "contactDeleteUndo": "This action cannot be undone.",
+  "contactNameRequired": "Name is required",
+  "contactNameLabel": "Name *",
+  "contactNameHint": "Contact name",
+  "contactPhoneHint": "+977-9841234567",
+  "contactEmailHint": "email@example.com",
+  "contactCategoryHint": "e.g. business, general, vip",
+  "contactCompanyHint": "Company name",
+  "contactFavorite": "Favorite",
+  "contactCannotCall": "Cannot make calls on this device",
+  "contactPermissionDenied": "Contact permission was denied. You can enable it in Settings.",
+  "contactPermissionRequired": "Contact permission is required to import from phone",
+  "contactImported": "Contact imported from phone",
+  "contactCreated": "Contact created",
+  "contactUpdated": "Contact updated",
+  "contactDeleted": "Contact deleted",
+  "contactImportSearchHint": "Search by name, phone, email, company",
+  "contactImportNoResults": "No contacts found",
+  "@itemDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemNameFromCatalog": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkRowLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreatedCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@catDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@catItemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutMultiplePaymentHint": "Turn this ON, if customer pays via multiple payment mode.",
+  "checkoutFillRemainingBalance": "Fill remaining balance",
+  "checkoutEnterAtLeastOnePayment": "Enter at least one payment amount",
+  "checkoutPaymentsExceedTotal": "Total payments cannot exceed the grand total",
+  "checkoutSentAs": "Sent as: {api}",
+  "@checkoutSentAs": {
+    "placeholders": {
+      "api": {
+        "type": "String"
+      }
+    }
+  },
+  "paymentCard": "Card",
+  "paymentQr": "QR",
+  "paymentBank": "Bank",
+  "paymentTransfer": "Transfer",
+  "paymentBankTransfer": "Bank Transfer",
+  "paymentSettlement": "Settlement",
+  "paymentCheque": "Cheque",
+  "paymentDigital": "Digital",
+  "paymentDigitalQr": "Digital (QR)",
+  "closeSummaryTitle": "마감 요약",
+  "closeTabDashboard": "Dashboard",
+  "closeTabCredits": "Credits",
+  "closeWelcome": "Welcome to Closing Summary",
+  "closeSelectDateHint": "날짜를 선택하고 새로고침을 눌러 데이터를 불러오세요",
+  "closeLoadingDashboard": "Loading dashboard data...",
+  "closeDataDeleted": "Data deleted",
+  "closeErrorPrefix": "Error: {message}",
+  "@closeErrorPrefix": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExtraAmount": "Extra amount",
+  "closeExtraAmountDesc": "Additional cash or adjustments recorded for this closing day.",
+  "closeLostAmount": "Lost amount",
+  "closeLostAmountDesc": "Cash shortage or variance flagged for this period.",
+  "closeTapForDetails": "Tap for details",
+  "closeAmountLabel": "Closing",
+  "closeAmountFormula": "Closing Amount Formula",
+  "closeFormulaExpression": "Cash Sales - Cash Expenses = Closing Amount",
+  "closeCashSales": "Cash Sales",
+  "closeCashExpenses": "Cash Expenses",
+  "closeClosingAmount": "Closing Amount",
+  "closeWhatThisMeans": "What this means:",
+  "closeClosingMeaning": "This is the amount of cash that should be in your register/drawer at the end of the day. It represents all cash received minus all cash paid out.",
+  "closeQuickStats": "Quick Stats",
+  "closeTapCardHint": "Tap a card for a short description",
+  "closeOpeningBalance": "Opening Balance",
+  "closeTotalSales": "총 매출",
+  "closeQrAmount": "QR Amount",
+  "closeCashAmount": "Cash Amount",
+  "closeSalesDiscount": "Sales Discount",
+  "closeCreditQr": "Credit QR",
+  "closeCreditCash": "Credit Cash",
+  "closeCreditDiscount": "Credit Discount",
+  "closePayCashGetQr": "현금 결제 → QR 수령",
+  "closePayQrGetCash": "QR 결제 → 현금 수령",
+  "closePaymentMix": "Payment mix",
+  "closePaymentMixHint": "Tap cash or digital · bar shows share of sales",
+  "closeCashVsDigitalTooltip": "Cash vs digital share of sales",
+  "closeSalesShareDesc": "{label} made up {percent}% of total sales for this day.",
+  "@closeSalesShareDesc": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSalesLabel": "{label} sales",
+  "@closeSalesLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "closeNoTransactions": "No transactions available",
+  "closeRecentTransactions": "Recent Transactions",
+  "closeViewAll": "View All",
+  "closeNoPurchases": "No purchases available",
+  "closeRecentPurchases": "Recent Purchases",
+  "closeNoSalesDate": "No sales for this date",
+  "closeNoSalesHint": "Sales will show here after they are recorded.",
+  "closeRoomSales": "Room sales",
+  "closeEmployeeSales": "Employee sales",
+  "closeOtherSales": "Other sales",
+  "closeSectionCount": "{title} ({count})",
+  "@closeSectionCount": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "closeDiscountShort": "Disc: {amount}",
+  "@closeDiscountShort": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "closePercentOff": "{percent}% off",
+  "@closePercentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closePending": "Pending",
+  "closeNoCreditPayments": "No Credit Payments",
+  "closeNoCreditHint": "Credit payments will appear here",
+  "closeViewStatistics": "View Statistics",
+  "closeExportData": "데이터 내보내기",
+  "closeExportComingSoon": "내보내기 기능이 여기에 구현됩니다",
+  "closeHintOpeningBalance": "Cash position at the start of the selected day.",
+  "closeHintTotalSales": "Sum of all sales recorded for this date.",
+  "closeHintQrAmount": "Payments received via QR or digital methods.",
+  "closeHintCashAmount": "Cash portion of sales for the day.",
+  "closeHintCashExpenses": "Cash paid out for expenses during the day.",
+  "closeHintSalesDiscount": "Discounts applied to sales.",
+  "closeHintCreditQr": "Credit-related QR collections.",
+  "closeHintCreditCash": "Credit-related cash movements.",
+  "closeHintCreditDiscount": "Discounts applied on credit transactions.",
+  "closeHintPayCashGetQr": "Exchange where cash was paid and QR credit received.",
+  "closeHintPayQrGetCash": "Exchange where QR was paid and cash was received.",
+  "closeOpeningAmount": "Opening Amount",
+  "closeCurrentAmount": "Current Amount",
+  "closeSaveReport": "Save Report",
+  "closeUpdateSummary": "Update Summary",
+  "closeExists": "Exists",
+  "closeExistingDataInfo": "You can view or modify existing data",
+  "closeEnterOpeningAmount": "Please enter an opening amount",
+  "closeEnterValidAmount": "Please enter a valid amount",
+  "languageSelectionSubtitle": "{appName} 사용 방법을 선택하세요. 나중에 설정에서 변경할 수 있습니다.",
+  "searchLanguages": "언어 검색",
+  "languageSuggestedBadge": "추천",
+  "continueInLanguage": "{languageName}으로 계속",
+  "noLanguageMatches": "일치 항목 없음",
+  "noLanguageMatchesForQuery": "\"{query}\"와(과) 일치하는 언어가 없습니다",
+  "@languageSelectionSubtitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@continueInLanguage": {
+    "placeholders": {
+      "languageName": {
+        "type": "String"
+      }
+    }
+  },
+  "@noLanguageMatchesForQuery": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockSettingsSaved": "앱 잠금 설정이 저장되었습니다",
+  "appLockSubtitle": "앱을 다시 열 때 PIN 또는 생체 인증 필요",
+  "appLockTitle": "앱 잠금",
+  "appPin": "앱 PIN",
+  "appPinIncorrect": "PIN이 올바르지 않습니다. 다시 시도하세요.",
+  "appPinIncorrectWithAttempts": "PIN이 올바르지 않습니다. {remaining}번 더 시도할 수 있습니다.",
+  "@appPinIncorrectWithAttempts": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      }
+    }
+  },
+  "appPinLockoutMessage": "PIN 입력 횟수를 초과했습니다. 이메일과 비밀번호로 로그인하여 PIN을 재설정하세요.",
+  "appPinMismatch": "PIN이 일치하지 않습니다. 다시 시도하세요.",
+  "appPinRemoved": "앱 PIN이 제거되었습니다",
+  "appPinSetSuccess": "이 조직의 PIN이 저장되었습니다",
+  "appPinSubtitle": "{length}자리 PIN으로 빠른 잠금 해제",
+  "@appPinSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "appearance": "모양",
+  "backupAutoBackupHint": "기한이 되면 앱 시작 시 자동 백업",
+  "backupAutoBackupTitle": "자동 백업",
+  "backupAutoDirectionBoth": "업로드 및 다운로드",
+  "backupAutoDirectionDownload": "클라우드에서 다운로드",
+  "backupAutoDirectionUpload": "클라우드에 업로드",
+  "backupAutoFrequencyDaily": "매일",
+  "backupAutoFrequencyMonthly": "매월",
+  "backupAutoFrequencyOff": "끔",
+  "backupAutoFrequencyTitle": "백업 빈도",
+  "backupAutoFrequencyWeekly": "매주",
+  "backupAutoLastDownloaded": "마지막 자동 복원: {detail}",
+  "@backupAutoLastDownloaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastFailed": "마지막 자동 동기화 실패: {detail}",
+  "@backupAutoLastFailed": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastSkipped": "마지막 자동 동기화 건너뜀: {detail}",
+  "@backupAutoLastSkipped": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastUploaded": "마지막 자동 백업: {detail}",
+  "@backupAutoLastUploaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoSettingsTitle": "Google Drive 설정",
+  "backupAutoSyncDirectionTitle": "자동 동기화",
+  "backupSyncActiveOrganization": "현재 조직",
+  "backupSyncActiveOrganizationHint": "백업은 현재 사용 중인 조직의 데이터를 업로드합니다.",
+  "backupSyncCompletedHint": "데이터가 Google Drive에 안전하게 백업되었습니다.",
+  "backupSyncConnected": "연결됨",
+  "backupSyncCurrentStep": "단계: {step}",
+  "@backupSyncCurrentStep": {
+    "placeholders": {
+      "step": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncGoogleAccount": "Google 계정",
+  "backupSyncInProgress": "동기화 진행 중",
+  "backupSyncLastError": "마지막 오류: {error}",
+  "@backupSyncLastError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncLastSyncDate": "날짜 및 시간",
+  "backupSyncLastSyncTitle": "마지막 동기화",
+  "backupSyncNeverSynced": "아직 업로드된 백업이 없습니다.",
+  "backupSyncOrganization": "조직",
+  "backupSyncPageTitle": "백업 및 동기화",
+  "backupSyncPhaseExport": "내보내기",
+  "backupSyncPhaseUpload": "업로드",
+  "backupSyncProgressPercent": "{percent}%",
+  "@backupSyncProgressPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "backupSyncRecords": "백업된 레코드",
+  "backupSyncSignInHint": "Google로 로그인하여 조직 데이터를 백업하세요.",
+  "backupSyncSignOutConfirm": "이 기기에서 Google Drive 로그아웃하시겠습니까?",
+  "backupSyncSignedInAs": "로그인 계정",
+  "backupSyncStatus": "상태",
+  "backupSyncStatusSuccess": "완료",
+  "backupSyncStepExport": "로컬 데이터 내보내는 중",
+  "backupSyncStepUploadFile": "{file} 업로드 중",
+  "@backupSyncStepUploadFile": {
+    "placeholders": {
+      "file": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncStepUploadTable": "{table} 업로드 중",
+  "@backupSyncStepUploadTable": {
+    "placeholders": {
+      "table": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncTables": "백업된 테이블",
+  "backupSyncUnknownOrganization": "현재 조직",
+  "backupWifiOnlyContinue": "모바일 데이터 사용",
+  "backupWifiOnlyHint": "자동 백업은 Wi‑Fi를 기다립니다",
+  "backupWifiOnlyTitle": "Wi‑Fi에서만 백업",
+  "biometricNotAvailable": "이 기기에서 생체 인증을 사용할 수 없습니다",
+  "biometricRequiresPin": "생체 인증을 활성화하기 전에 앱 PIN을 설정하세요",
+  "biometricUnlockReason": "BizTrack 잠금 해제",
+  "changeAppPin": "PIN 변경",
+  "confirmAppPin": "PIN 확인",
+  "confirmAppPinHint": "확인을 위해 PIN을 다시 입력",
+  "confirmPasscodeHint": "확인을 위해 암호를 다시 입력",
+  "contactUs": "문의하기",
+  "contactUsSubtitle": "지원, 피드백 또는 앱 관련 문의.",
+  "createAppPinHint": "이 조직용 {length}자리 PIN 선택",
+  "@createAppPinHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "createPasscodeHint": "이 조직용 {length}자리 암호 선택",
+  "@createPasscodeHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "darkMode": "다크 모드",
+  "darkModeSubtitle": "앱 전체에 어두운 배경 사용",
+  "darkModeSystemSubtitle": "기기 테마 따름",
+  "dataAndBackup": "데이터 및 백업",
+  "developerLabel": "개발자",
+  "disableAppPinMessage": "이 조직의 Face ID / 생체 인증 잠금 해제도 꺼집니다.",
+  "disableAppPinTitle": "앱 PIN을 제거하시겠습니까?",
+  "displayPrecision": "표시 정밀도",
+  "displayPrecisionRange": "0에서 5 사이의 숫자 입력",
+  "emailCopiedToClipboard": "이메일이 클립보드에 복사됨",
+  "employeeManagementSubtitle": "직원, 급여 및 근태",
+  "enableBiometricAfterPinMessage": "PIN과 함께 기기 생체 인증을 사용하여 더 빠르게 로그인.",
+  "enableBiometricTitle": "생체 인증을 활성화하시겠습니까?",
+  "enableFaceIdTitle": "Face ID를 활성화하시겠습니까?",
+  "enableFingerprintTitle": "지문을 활성화하시겠습니까?",
+  "enableInvoiceReturns": "청구서 반품 활성화",
+  "enableInvoiceReturnsSubtitle": "결제된 청구서에서 반품 생성 허용.",
+  "enterAppPin": "PIN 입력",
+  "enterPasscode": "암호 입력",
+  "googleDriveBackupFailed": "백업 실패: {error}",
+  "@googleDriveBackupFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupNow": "지금 백업",
+  "googleDriveBackupPluginError": "백업하려면 앱을 완전히 재시작해야 합니다. 앱을 종료하고 다시 실행한 후 재시도하세요.",
+  "googleDriveBackupSectionTitle": "백업 및 동기화",
+  "googleDriveBackupStarting": "백업 준비 중…",
+  "googleDriveBackupSubtitleSignedIn": "{email}(으)로 로그인",
+  "@googleDriveBackupSubtitleSignedIn": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupSubtitleSignedOut": "Google Drive에 조직 데이터를 안전하게 백업하려면 로그인하세요.",
+  "googleDriveBackupSuccess": "백업 업로드됨 ({tableCount}개 테이블, {recordCount}개 레코드)",
+  "@googleDriveBackupSuccess": {
+    "placeholders": {
+      "tableCount": {
+        "type": "int"
+      },
+      "recordCount": {
+        "type": "int"
+      }
+    }
+  },
+  "googleDriveBackupTitle": "Google Drive 백업",
+  "googleDriveLastBackup": "마지막 백업: {date}",
+  "@googleDriveLastBackup": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveSignIn": "Google로 로그인",
+  "googleDriveSignInCancelled": "Google 로그인이 취소됨",
+  "googleDriveSignInSuccess": "Google Drive에 로그인됨",
+  "googleDriveSignOut": "로그아웃",
+  "googleDriveSignOutSuccess": "Google Drive에서 로그아웃됨",
+  "itemSelectCategoryRequired": "카테고리를 선택하세요",
+  "moreBackupSyncTileLastSync": "마지막 동기화: {date}",
+  "@moreBackupSyncTileLastSync": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "moreBackupSyncTileNeverSynced": "Google Drive에 백업",
+  "moreBackupSyncTileSignedInNoSync": "로그인됨 · 아직 백업 없음",
+  "notNow": "나중에",
+  "operationManagement": "운영 관리",
+  "operationManagementSubtitle": "Items, stock reconciliation, contacts, categories, and closing",
+  "orContinueWithPassword": "또는 비밀번호로 로그인",
+  "organizationAccountingSubtitle": "청구서 및 금액 표시 설정.",
+  "organizationRegionalSubtitle": "국가, 보고 통화 및 회계연도 날짜.",
+  "organizationTabAccounting": "회계",
+  "organizationTabGeneral": "일반",
+  "organizationTabRegional": "지역 및 회계",
+  "partyPickerAddNewRole": "새 {role} 추가",
+  "@partyPickerAddNewRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSearchHint": "{role} 검색…",
+  "@partyPickerSearchHint": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSelectedLabel": "선택됨",
+  "partyPickerSettled": "정산 완료",
+  "partyPickerSubtitle": "이 판매는 누구를 위한 것인가요?",
+  "preferences": "환경설정",
+  "quickUnlockAsUser": "{email}(으)로 빠른 로그인",
+  "@quickUnlockAsUser": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSubtitle": "손익, 명세서 및 분석",
+  "restoreAction": "복원",
+  "restoreFromGoogleDrive": "Google Drive에서 복원",
+  "restoreFromGoogleDriveConfirm": "\"{name}\"을(를) 복원하시겠습니까? 해당 조직의 로컬 데이터가 대체됩니다.",
+  "@restoreFromGoogleDriveConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveEmpty": "Google Drive에서 백업을 찾을 수 없습니다.",
+  "restoreFromGoogleDriveFailed": "복원 실패: {error}",
+  "@restoreFromGoogleDriveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveHint": "로그인하고 백업을 선택하여 이 기기에서 조직을 복원하세요.",
+  "restoreFromGoogleDriveStarting": "복원 시작 중…",
+  "restoreFromGoogleDriveSuccess": "{name} 복원됨. 이제 로그인할 수 있습니다.",
+  "@restoreFromGoogleDriveSuccess": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreStepCreateDatabase": "데이터베이스 생성 중",
+  "restoreStepDownload": "백업 다운로드 중",
+  "restoreStepFinalize": "복원 완료 중",
+  "restoreStepImport": "데이터 가져오는 중",
+  "security": "보안",
+  "setUpAppPin": "PIN 설정",
+  "setUpFaceIdOrPin": "Face ID 또는 PIN 설정",
+  "setUpFingerprintOrPin": "지문 또는 PIN 설정",
+  "setUpNow": "지금 설정",
+  "setUpQuickUnlock": "PIN 빠른 로그인 설정",
+  "setUpQuickUnlockAfterLoginMessage": "다음에 더 빠르게 로그인하려면 Face ID, 지문 또는 PIN을 설정하세요. 나중에 설정에서 변경할 수 있습니다.",
+  "setUpQuickUnlockAfterLoginTitle": "빠른 로그인을 활성화하시겠습니까?",
+  "setUpQuickUnlockSubtitle": "이 조직에 생체 인증 또는 PIN 사용",
+  "signInWithBiometric": "생체 인증으로 로그인",
+  "signInWithFaceId": "Face ID로 로그인",
+  "signInWithFingerprint": "지문으로 로그인",
+  "signInWithPin": "PIN으로 로그인",
+  "statisticsCashflow": "현금 흐름",
+  "statisticsQuickOperationInvoice": "청구서",
+  "statisticsQuickOperationReports": "보고서",
+  "statisticsQuickOperationsSeeAll": "모두 보기",
+  "tapDigitsToUnlock": "잠금 해제하려면 {length}자리를 탭하세요.",
+  "@tapDigitsToUnlock": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "unlockApp": "앱 잠금 해제",
+  "useBiometricInstead": "생체 인증 사용",
+  "useBiometricUnlock": "Face ID / 생체 인증 사용",
+  "useBiometricUnlockSubtitle": "PIN 설정 후 지문 또는 Face ID로 잠금 해제",
+  "useFaceIdUnlock": "Face ID 사용",
+  "useFingerprintUnlock": "지문 사용",
+  "usePinInstead": "대신 PIN 사용",
+  "verifyPinToRemoveSubtitle": "앱 잠금을 제거하려면 {length}자리 PIN 확인",
+  "@verifyPinToRemoveSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "verifyPinToRemoveTitle": "PIN 입력",
+  "walkthroughBackupDescription": "원터치 Google Drive 백업으로 은행 수준 보안 — 데이터 보호 및 쉬운 복원.",
+  "walkthroughBackupTitle": "데이터, 항상 안전",
+  "walkthroughBillingDescription": "매출 및 매입 청구서, 주방 티켓이 있는 테이블 주문, 실시간 재고 — 모두 하나의 앱에서.",
+  "walkthroughBillingTitle": "몇 초 만에 청구 및 판매",
+  "walkthroughDashboardDescription": "오늘의 매출, 수익 및 미수 잔액 — 앱을 열면 한눈에 보는 대시보드.",
+  "walkthroughDashboardTitle": "전체 비즈니스 한눈에",
+  "walkthroughOfflineDescription": "완전 오프라인으로 청구서 생성, 지출 기록 및 재고 관리. 온라인 시 자동 동기화.",
+  "walkthroughOfflineTitle": "인터넷 없이도 작동",
+  "walkthroughReadyDescription": "몇 분 만에 조직을 설정하고 오늘부터 더 스마트하게 운영하세요. 시작해 봅시다.",
+  "walkthroughReadyTitle": "준비되면 바로",
+  "walkthroughStaffDescription": "근태 및 급여 관리, P&L 및 급여명세서 PDF 내보내기 — 추가 도구 불필요.",
+  "walkthroughStaffTitle": "직원, 급여 및 보고서",
+  "ok": "확인",
+  "reportPeriodYear": "년",
+  "reportPeriodMonth": "월",
+  "reportPeriodRange": "범위",
+  "reportPeriodDay": "일",
+  "reportPeriodFrom": "부터",
+  "reportPeriodTo": "까지",
+  "reportPeriod": "기간",
+  "reportAllPurchases": "전체 구매",
+  "reportBeforeTax": "세전",
+  "reportRevenueRetained": "유보 수익",
+  "reportHideDetails": "세부 정보 숨기기",
+  "reportShowDetails": "세부 정보 표시",
+  "reportSalesRevenue": "매출 수익",
+  "reportDiscountsGiven": "제공된 할인",
+  "reportNetRevenue": "순수익",
+  "reportOperatingExpenses": "영업비용",
+  "reportTotalExpenses": "총 비용",
+  "reportGrossProfit": "매출총이익",
+  "reportGrossProfitChart": "매출총이익",
+  "reportOperatingPlDisclaimer": "세금, 감가상각, 급여 부채 미반영 — 영업 수준 손익 추정치.",
+  "reportContraLabel": "상대 계정",
+  "reportNoDataForPeriod": "선택한 기간에 데이터가 없습니다",
+  "reportRevenueVsExpenses": "수익 vs 비용",
+  "reportExpenseBreakdown": "비용 내역",
+  "reportExpenseFallback": "비용",
+  "reportGrossMarginPercent": "매출총이익률 %",
+  "reportRoomVsFnB": "객실 vs F&B",
+  "reportSegmentRoom": "객실",
+  "reportSegmentFnB": "F&B",
+  "reportKeyMetrics": "주요 지표",
+  "reportIncomeStatement": "손익계산서",
+  "reportChartsSection": "차트",
+  "reportSegmentSummary": "세그먼트 요약",
+  "reportFailedToLoad": "보고서를 불러오지 못했습니다",
+  "reportOverview": "개요",
+  "reportOverviewCash": "현금",
+  "reportOverviewBank": "은행",
+  "reportMonthlyOpeningBalance": "월별 기초 잔액",
+  "reportOpeningBalanceHint": "매월 초 현금 보유액",
+  "reportCashInOut": "현금 유입 / 유출",
+  "reportCashIn": "현금 유입",
+  "reportCashOut": "현금 유출",
+  "reportBankReceiptsPayments": "은행 입금 / 출금",
+  "reportReceipts": "입금",
+  "reportPayments": "결제",
+  "reportDailyCashVsQr": "일일 현금 vs QR",
+  "reportSummariesSection": "요약",
+  "reportCashSummary": "현금 요약",
+  "reportBankSummary": "은행 요약",
+  "reportDailySummary": "일일 요약",
+  "reportTabPurchase": "구매",
+  "reportTabSales": "매출",
+  "reportTabDashboard": "대시보드",
+  "reportSingleDayTrend": "단일 일 — 일별 추세",
+  "reportFullYearTrend": "연간 — 월별 추세 차트",
+  "reportYearLabel": "{year}년",
+  "@reportYearLabel": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportJanDec": "1월 – 12월 {year}",
+  "@reportJanDec": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportTotalPurchases": "총 구매",
+  "reportTotalSales": "총 매출",
+  "reportTotalInvoices": "총 청구서",
+  "reportUnpaidBalance": "미지급 잔액",
+  "reportAvgPerInvoice": "청구서당 평균",
+  "reportPerTransaction": "거래당",
+  "reportMonthlySpend": "월별 지출 ({symbol})",
+  "@reportMonthlySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportMonthlySalesChart": "월별 매출 ({symbol})",
+  "@reportMonthlySalesChart": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportInvoiceCountByMonth": "월별 청구서 수",
+  "reportTopItemsBySpend": "지출 상위 항목 ({symbol})",
+  "@reportTopItemsBySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSpendByCategory": "카테고리별 지출",
+  "reportOtherCategory": "기타",
+  "reportSuppliers": "공급업체",
+  "reportTableSupplier": "공급업체",
+  "reportTableAmount": "금액",
+  "reportTableBills": "청구서",
+  "reportSalesTotal": "매출 합계",
+  "reportPurchaseTotal": "구매 합계",
+  "reportPositiveMargin": "플러스 마진",
+  "reportNegativeMargin": "마이너스 마진",
+  "reportGrossMargin": "매출총이익률",
+  "reportOfTotalSales": "총 매출 대비",
+  "reportFailedToLoadAnalytics": "분석을 불러오지 못했습니다",
+  "reportMarginKpi": "마진",
+  "reportExpensesKpi": "비용",
+  "partyPickerNoResultsFor": "\"{query}\"에 대한 결과 없음",
+  "@partyPickerNoResultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerNoPartiesForRole": "{role} 거래처를 찾을 수 없습니다",
+  "@partyPickerNoPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerLoadParties": "거래처 불러오기",
+  "invoiceCashCustomer": "현금 고객",
+  "invoiceQuickAddItemsTitle": "빠른 항목 추가",
+  "invoiceQuickLoadingMenu": "메뉴 불러오는 중…",
+  "invoiceQuickInvoiceCreated": "청구서가 생성되었습니다",
+  "invoiceQuickAddAtLeastOneItem": "최소 한 개 항목을 추가하세요",
+  "invoiceQuickNoResults": "결과를 찾을 수 없습니다!",
+  "invoiceQuickNoItemsInCategory": "이 카테고리에 항목이 없습니다",
+  "invoiceQuickAddItem": "항목 추가",
+  "invoiceQuickLoadMore": "더 불러오기",
+  "invoiceQuickScrollLoadMore": "스크롤하여 더 불러오기 (페이지당 {count})",
+  "invoiceQuickSupplierEmployee": "공급업체 / 직원",
+  "invoiceQuickEditItem": "항목 편집",
+  "closeSelectDateRange": "날짜 범위 선택",
+  "closeStartDate": "시작일",
+  "closeEndDate": "종료일",
+  "closeSelectBothDates": "시작일과 종료일을 모두 선택하세요",
+  "closeDeleteSummary": "요약 삭제",
+  "closeDeleteSummaryConfirm": "이 요약을 삭제하시겠습니까?",
+  "closeSelectDate": "날짜 선택",
+  "closeNoDataToExport": "내보낼 데이터가 없습니다",
+  "closeNoDataToShare": "공유할 데이터가 없습니다",
+  "closeNoDataToPrint": "인쇄할 데이터가 없습니다",
+  "closePdfGenerateError": "PDF 생성 오류: {error}",
+  "@closePdfGenerateError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfShareError": "PDF 공유 오류: {error}",
+  "@closePdfShareError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfPrintError": "PDF 인쇄 오류: {error}",
+  "@closePdfPrintError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExportPdf": "PDF로 내보내기",
+  "closeSharePdf": "PDF 공유",
+  "closePrint": "인쇄",
+  "closeExportOptions": "내보내기 옵션",
+  "closeExportPdfSubtitle": "PDF 문서로 저장 또는 보기",
+  "closeSharePdfSubtitle": "앱 또는 이메일로 공유",
+  "closePrintSubtitle": "보고서 인쇄",
+  "invoiceQuickShowingItems": "{total}개 중 {shown}개 표시",
+  "invoiceQuickLoadedItems": "불러옴: {count}",
+  "invoiceQuickRoomCabinEmployee": "객실 / 캐빈 / 직원",
+  "reportPercentOfRevenue": "수익의 {percent}%",
+  "@reportPercentOfRevenue": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "reportParties": "거래처",
+  "reportMonthYearDailyTrend": "{month} {year} — 일별 추세 차트",
+  "@reportMonthYearDailyTrend": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceQuickCart": "장바구니",
+  "invoiceQuickCartWithCount": "장바구니 ({count})",
+  "invoiceQuickClearSearch": "검색 지우기",
+  "closeAllRecords": "전체 기록",
+  "closeDailyCashSummaryReport": "일일 현금 요약 보고서",
+  "closeDailyCashSummaryTitle": "일일 현금 요약",
+  "closeDetails": "세부 정보",
+  "closeGeneratedAt": "생성일: {date}",
+  "@closeGeneratedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "closePageN": "{n}페이지",
+  "@closePageN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "closePeriodRange": "기간: {start} ~ {end}",
+  "@closePeriodRange": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummaryOverview": "요약 개요",
+  "closeTotalRecords": "총 기록 수",
+  "closeAddSummary": "요약 추가",
+  "closeSalesAmount": "매출 금액",
+  "closeClosingBalance": "마감 잔액",
+  "closeLostMoney": "분실 금액",
+  "closeDiscount": "할인",
+  "closeExpenses": "비용",
+  "closeUnpaid": "미납",
+  "closeTotalOpeningBalance": "총 기초 잔액",
+  "closeTotalSalesAmount": "총 매출 금액",
+  "closeTotalCashAmount": "총 현금 금액",
+  "closeTotalQrAmount": "총 QR 금액",
+  "closeTotalDiscount": "총 할인",
+  "closeTotalExpenses": "총 비용",
+  "closeTotalClosingBalance": "총 마감 잔액",
+  "closeTotalLostMoney": "총 분실 금액",
+  "closeTotalExtraAmount": "총 추가 금액",
+  "closeShowingCurrentMonth": "이번 달 데이터 표시",
+  "closeNoSummariesFound": "요약을 찾을 수 없습니다",
+  "closeNoSummariesAvailable": "사용 가능한 요약이 없습니다",
+  "closeTryAdjustingDateRange": "날짜 범위를 조정해 보세요",
+  "closeCreateFirstSummary": "시작하려면 첫 요약을 만드세요",
+  "closeClearFilter": "필터 지우기",
+  "closeFiltered": "필터됨",
+  "closeFilteredWithRange": "필터: {range}",
+  "@closeFilteredWithRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummarySingular": "요약",
+  "closeSummariesPlural": "요약",
+  "closeSummaryUpdatedSuccess": "요약이 업데이트되었습니다",
+  "closeSummaryDeletedSuccess": "요약이 삭제되었습니다",
+  "premiumUnlockTitle": "{appName} Premium 잠금 해제",
+  "@premiumUnlockTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumTagline": "완전 오프라인 POS, 청구, 재고, 보고서 — 비즈니스를 위한 하나의 구독.",
+  "premiumFeatureUnlimitedInvoices": "무제한 청구서 및 영수증",
+  "premiumFeatureInventoryStock": "재고 및 스톡 추적",
+  "premiumFeatureReportsAnalytics": "매출 보고서 및 분석",
+  "premiumFeatureOfflineLocal": "오프라인 작동 — 데이터는 기기에 저장",
+  "premiumContinueWith": "{plan}(으)로 계속",
+  "@premiumContinueWith": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRestorePurchases": "구매 복원",
+  "premiumSubscriptionLegal": "결제는 Apple ID로 청구됩니다. 기간 종료 최소 24시간 전에 취소하지 않으면 구독이 자동 갱신됩니다.",
+  "premiumPurchaseRestored": "구매가 복원되었습니다.",
+  "premiumNoActiveSubscription": "활성 구독을 찾을 수 없습니다.",
+  "premiumPlanMonthly": "월간",
+  "premiumPlanMonthlySubtitle": "유연함 — 언제든 취소",
+  "premiumPlanYearly": "연간",
+  "premiumPlanYearlySubtitle": "최고의 가치 — {percent}% 절약",
+  "@premiumPlanYearlySubtitle": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "premiumPlanLifetime": "평생",
+  "premiumPlanLifetimeSubtitle": "한 번 결제, 영구 보유",
+  "premiumPlanPopular": "인기",
+  "premiumOneTimePurchase": "일회성 구매",
+  "subscriptionSectionTitle": "구독",
+  "subscriptionPremiumLabel": "Premium",
+  "subscriptionUpgradeTitle": "Premium으로 업그레이드",
+  "subscriptionPremiumPricing": "월간 {monthly} · 연간 {yearly}",
+  "@subscriptionPremiumPricing": {
+    "placeholders": {
+      "monthly": {
+        "type": "String"
+      },
+      "yearly": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActiveUntil": "{plan} {date}까지 활성",
+  "@subscriptionPremiumActiveUntil": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActive": "{plan} 활성",
+  "@subscriptionPremiumActive": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRequired": "Premium 필요",
+  "upgradeToPremiumContinue": "계속하려면 Premium으로 업그레이드하세요.",
+  "freemiumFreePlanLimit": "무료 플랜은 최대 {limit} {label}까지 허용됩니다. 무제한 액세스는 Premium으로 업그레이드하세요.",
+  "@freemiumFreePlanLimit": {
+    "placeholders": {
+      "limit": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "freemiumPartyRoleRequired": "거래처 역할이 필요합니다.",
+  "shiftReminderOpeningTitle": "개점 알림",
+  "shiftReminderOpeningMessage": "오늘 금전 등록기를 열었습니까?",
+  "shiftReminderOpeningProceed": "예, 지금 열기",
+  "shiftReminderClosingTitle": "마감 알림",
+  "shiftReminderClosingMessage": "오늘 금전 등록기를 닫았습니까?",
+  "shiftReminderClosingProceed": "예, 지금 닫기",
+  "shiftReminderSkipToday": "오늘 건너뛰기",
+  "shiftReminderOpeningNotificationTitle": "개점 알림",
+  "shiftReminderOpeningNotificationBody": "오늘 금전 등록기를 열었습니까? 아직 열어야 하면 여기를 탭하세요.",
+  "shiftReminderClosingNotificationTitle": "마감 알림",
+  "shiftReminderClosingNotificationBody": "오늘 금전 등록기를 닫았습니까? 아직 닫아야 하면 여기를 탭하세요.",
+  "closeExchangePayQrGetCashHint": "{business}가 고객에게 QR로 지불하고, 고객은 현금을 제공합니다.",
+  "@closeExchangePayQrGetCashHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExchangePayCashGetQrHint": "{business}가 고객에게 현금을 지불하고, 고객은 QR 결제를 제공합니다.",
+  "@closeExchangePayCashGetQrHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closePaymentExchange": "결제 교환",
+  "closePayQrGetCashExchangeLabel": "QR 결제 → 현금 수령 (교환)",
+  "closePayCashGetQrExchangeLabel": "현금 결제 → QR 수령 (교환)",
+  "closePayQrGetCashDetail": "QR 지불 후 현금 수령",
+  "closePayCashGetQrDetail": "현금 지불 후 QR 수령",
+  "faqSectionPremium": "Premium 및 결제",
+  "faqPremiumWhatsIncludedQuestion": "Premium에 무엇이 포함되나요?",
+  "faqPremiumWhatsIncludedAnswer": "Premium은 무제한 청구서, 전체 보고서(P&L, 명세서, 분석), 백업 및 동기화, 급여, 근태, 재고 도구, 청구서 내보내기/인쇄, 추가 조직을 제공합니다. 무료 등급에서도 핵심 POS 기능을 합리적 한도 내에서 사용할 수 있습니다.",
+  "faqPremiumFreeTierQuestion": "무료 등급에 무엇이 포함되나요?",
+  "faqPremiumFreeTierAnswer": "매출 및 매입 청구서 각 10건, 직원 4명, 품목 30개 등을 만들 수 있으며 한도에 도달하면 다른 제한도 표시됩니다. 개점, 마감, 계산기, 데이터 탐색은 무료입니다.",
+  "faqPremiumRestoreQuestion": "구매를 어떻게 복원하나요?",
+  "faqPremiumRestoreAnswer": "더보기 → Premium으로 업그레이드(또는 페이월)를 열고 구매 복원을 탭하세요. 구독 시 사용한 Apple ID를 사용하세요.",
+  "faqPremiumCancelQuestion": "구독을 어떻게 취소하나요?",
+  "faqPremiumCancelAnswer": "iPhone 설정 → Apple ID → 구독에서 관리 또는 취소. 유료 기간 종료까지 액세스가 유지됩니다.",
+  "faqDarkModeQuestion": "다크 모드를 어떻게 켜나요?",
+  "faqDarkModeAnswer": "더보기 → 모양을 열고 다크 모드를 활성화하세요. 기기가 시스템 테마를 사용하면 앱이 자동으로 따릅니다.",
+  "faqOpeningClosingReminderQuestion": "개점 및 마감 알림이란?",
+  "faqOpeningClosingReminderAnswer": "{appName}이 일일 금전 등록기 개폐를 알려줄 수 있습니다. 계속, 오늘 건너뛰기 또는 알림 닫기가 가능합니다.",
+  "faqPartyRolesQuestion": "거래처 역할이란?",
+  "faqPartyRolesAnswer": "거래처 역할은 고객, 공급업체, 객실, 직원 등 연락처를 분류합니다. 운영 → 거래처 역할에서 사용자 지정하고 팀용 간단 설명을 추가하세요.",
+  "faqRateAppQuestion": "{appName}을 어떻게 평가하나요?",
+  "faqRateAppAnswer": "더보기 → 평가하기를 열어 App Store에 리뷰를 남기세요. 피드백은 오프라인 청구 개선에 도움이 됩니다.",
+  "freemiumLabelSalesInvoices": "매출 청구서",
+  "freemiumLabelPurchaseInvoices": "매입 청구서",
+  "freemiumLabelEmployees": "직원",
+  "freemiumLabelItems": "품목",
+  "freemiumLabelCategories": "카테고리",
+  "freemiumLabelPaymentMethods": "결제 수단",
+  "freemiumLabelCustomPartyRoles": "사용자 지정 거래처 역할",
+  "freemiumLabelPartiesForRole": "{role}용 거래처",
+  "freemiumLabelOrganizations": "조직",
+  "freemiumPremiumReports": "보고서는 Premium에서 이용 가능합니다.",
+  "freemiumPremiumBackupSync": "백업 및 동기화에는 Premium이 필요합니다.",
+  "freemiumPremiumPayroll": "급여에는 Premium이 필요합니다.",
+  "freemiumPremiumAttendance": "근태에는 Premium이 필요합니다.",
+  "freemiumPremiumStock": "재고 관리에는 Premium이 필요합니다.",
+  "freemiumPremiumInvoiceExport": "다운로드 및 인쇄에는 Premium이 필요합니다.",
+  "@faqOpeningClosingReminderAnswer": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@faqRateAppQuestion": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@freemiumLabelPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  }
+}

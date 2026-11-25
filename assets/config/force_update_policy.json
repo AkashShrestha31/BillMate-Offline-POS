@@ -1,0 +1,10 @@
+{
+  "force_update_enabled": true,
+  "min_required_version": "1.0.0+1",
+  "min_required_version_android": "1.0.0+23",
+  "min_required_version_ios": "1.0.0+1",
+  "force_update_title": "Update required",
+  "force_update_message": "A new version is available. Please update to continue.",
+  "android_store_url": "https://play.google.com/store/apps/details?id=ai.biztrack",
+  "ios_store_url": "https://apps.apple.com/us/app/offline-pos-billmate-billing/id6807730783"
+}

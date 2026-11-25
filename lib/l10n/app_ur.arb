@@ -1,0 +1,2653 @@
+{
+  "@@locale": "ur",
+  "noInternetConnection": "انٹرنیٹ کنکشن نہیں ہے۔",
+  "formatException": "فارمیٹ استثناء",
+  "rememberMe": "مجھے یاد رکھیں",
+  "signIn": "سائن ان کریں",
+  "passwordHint": "پاس ورڈ درج کریں",
+  "forgetPassword": "لاگ ان معلومات بھول گئے؟",
+  "okay": "ٹھیک ہے",
+  "success": "کامیابی",
+  "hotel": "ہوٹل",
+  "errorEncountered": "خرابی آئی",
+  "serverError": "سرور کی خرابی",
+  "requestFailed": "درخواست ناکام",
+  "connectionTimedOut": "کنیکشن کا وقت ختم",
+  "password": "پاس ورڈ",
+  "keepSignIn": "سائن ان رہیں",
+  "enterPassword": "پاس ورڈ درج کریں",
+  "enterValidPassword": "درست پاس ورڈ درج کریں",
+  "skip": "چھوڑیں",
+  "pleaseWait": "براہ کرم انتظار کریں ....",
+  "enterValidUserName": "درست صارف نام درج کریں۔",
+  "userName": "صارف نام",
+  "or": "یا",
+  "retry": "دوبارہ کوشش",
+  "error": "خرابی",
+  "supportMessage": "براہ کرم منتظم سے رابطہ کریں۔",
+  "responseMessage404": "404 خرابی",
+  "appDisplayName": "BizTrack",
+  "appVersionLabel": "ورژن {version}",
+  "@appVersionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "منسوخ",
+  "yes": "ہاں",
+  "no": "نہیں",
+  "close": "بند کریں",
+  "save": "محفوظ کریں",
+  "delete": "حذف",
+  "confirm": "تصدیق کریں",
+  "done": "مکمل",
+  "next": "اگلا",
+  "getStarted": "شروع کریں",
+  "back": "واپس",
+  "submit": "جمع کریں",
+  "continueAction": "جاری رکھیں",
+  "tryAgain": "دوبارہ کوشش کریں",
+  "warning": "انتباہ",
+  "loading": "لوڈ ہو رہا ہے…",
+  "comingSoon": "جلد آ رہا ہے",
+  "required": "ضروری",
+  "search": "تلاش",
+  "add": "شامل کریں",
+  "edit": "ترمیم کریں",
+  "remove": "ہٹائیں",
+  "view": "دیکھیں",
+  "export": "برآمد",
+  "import": "درآمد کریں",
+  "refresh": "تازہ کریں",
+  "select": "منتخب کریں",
+  "upload": "اپ لوڈ کریں",
+  "download": "ڈاؤن لوڈ کریں",
+  "share": "شیئر کریں",
+  "filter": "فلٹر",
+  "sort": "ترتیب دیں",
+  "apply": "لاگو کریں",
+  "reset": "دوبارہ ترتیب دیں",
+  "clear": "صاف کریں",
+  "all": "سب",
+  "none": "کوئی نہیں",
+  "total": "کل",
+  "subtotal": "ذیلی کل",
+  "grandTotal": "کل مجموعہ",
+  "amount": "رقم",
+  "quantity": "مقدار",
+  "rate": "شرح",
+  "discount": "رعایت",
+  "paid": "ادا شدہ",
+  "unpaid": "ادا نہ شدہ",
+  "credit": "ادھار",
+  "cash": "نقد",
+  "date": "تاریخ",
+  "time": "وقت",
+  "name": "نام",
+  "email": "ای میل",
+  "phone": "فون",
+  "address": "پتہ",
+  "notes": "نوٹس",
+  "description": "تفصیل",
+  "status": "حیثیت",
+  "type": "قسم",
+  "category": "زمرہ",
+  "party": "فریق",
+  "item": "آئٹم",
+  "payment": "ادائیگی",
+  "settlement": "تصفیہ",
+  "opening": "ابتدائی",
+  "closing": "اختتامی",
+  "stock": "Stock reconciliation",
+  "expense": "اخراجات",
+  "revenue": "آمدنی",
+  "profit": "منافع",
+  "loss": "نقصان",
+  "sales": "فروخت",
+  "purchase": "خرید",
+  "monthJan": "جنوری",
+  "monthFeb": "فروری",
+  "monthMar": "مارچ",
+  "monthApr": "اپریل",
+  "monthMay": "مئی",
+  "monthJun": "جون",
+  "monthJul": "جولائی",
+  "monthAug": "اگست",
+  "monthSep": "ستمبر",
+  "monthOct": "اکتوبر",
+  "monthNov": "نومبر",
+  "monthDec": "دسمبر",
+  "more": "مزید",
+  "profile": "پروفائل",
+  "operations": "آپریشنز",
+  "employeeManagement": "ملازم انتظام",
+  "report": "رپورٹ",
+  "helpAndSupport": "مدد اور سہارا",
+  "privacyAndPolicies": "رازداری اور پالیسیاں",
+  "faq": "اکثر پوچھے گئے سوالات",
+  "contactSupport": "سہارے سے رابطہ کریں",
+  "rateUs": "ہمیں ریٹ کریں",
+  "rateUsSubtitle": "BizTrack سے لطف اندوز ہو رہے ہیں؟ Google Play پر ریویو دیں",
+  "rateUsUnavailable": "اسٹور نہیں کھل سکا۔ بعد میں دوبارہ کوشش کریں۔",
+  "reportProblem": "مسئلہ رپورٹ",
+  "logout": "لاگ آؤٹ",
+  "signOut": "سائن آؤٹ",
+  "settings": "ترتیبات",
+  "testData": "ٹیسٹ ڈیٹا",
+  "regionAndCurrency": "خطہ اور کرنسی",
+  "reportingCurrency": "رپورٹنگ کرنسی",
+  "selectCurrency": "کرنسی منتخب کریں",
+  "currencySample": "{code} · {symbol} · نمونہ {sample}",
+  "@currencySample": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      },
+      "sample": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdated": "کرنسی {code} ({symbol}) پر سیٹ کی گئی",
+  "@currencyUpdated": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdateFailed": "کرنسی اپ ڈیٹ نہیں ہو سکی: {error}",
+  "@currencyUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "setupAppTitle": "{appName} ترتیب دیں",
+  "@setupAppTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "setupSubtitle": "اپنی تنظیم اور حسابات ترتیب دیں — آف لائن استعمال کے لیے اس ڈیوائس پر محفوظ۔",
+  "regionAndCurrencySubtitle": "مقامی ترتیب اور رپورٹنگ کرنسی۔",
+  "country": "ملک",
+  "currency": "کرنسی",
+  "selectCountry": "ملک منتخب کریں",
+  "language": "زبان",
+  "selectLanguage": "زبان منتخب کریں",
+  "languageUpdated": "زبان {name} پر سیٹ کی گئی",
+  "@languageUpdated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "languageUpdateFailed": "زبان اپ ڈیٹ نہیں ہو سکی: {error}",
+  "@languageUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToApp": "{appName} میں خوش آمدید",
+  "@welcomeToApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "forceUpdateMessage": "جاری رکھنے کے لیے براہ کرم {appName} کا تازہ ترین ورژن انسٹال کریں۔",
+  "@forceUpdateMessage": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "generatedByApp": "{appName} کے ذریعے تیار کردہ",
+  "@generatedByApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "whatIsApp": "{appName} کیا ہے؟",
+  "@whatIsApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "appDescriptionFaq": "{appName} آپ کو فروخت اور خریداری کے انوائس، فریقین (گاہک اور سپلائر)، اسٹاک، ادائیگیاں، ملازمین، اور روزانہ کا خلاصہ آپ کے فون یا ٹیبلیٹ سے منظم کرنے میں مدد کرتا ہے۔",
+  "@appDescriptionFaq": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "faqIntro": "{appName} کے بارے میں عام سوالات کے جوابات۔",
+  "@faqIntro": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseFromGallery": "گیلری سے منتخب کریں",
+  "takePhoto": "تصویر لیں",
+  "photoLibrary": "تصویر لائبریری",
+  "addPhoto": "تصویر شامل کریں",
+  "couldNotPickImage": "تصویر منتخب نہیں کی جا سکی: {error}",
+  "@couldNotPickImage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteOrganizationTitle": "تنظیم حذف کریں؟",
+  "deleteOrganizationMessage": "{name} کو اس ڈیوائس سے ہٹائیں۔ اس تنظیم کا تمام مقامی ڈیٹا حذف کر دیا جائے گا۔",
+  "deleteOrganizationWarning": "یہ واپس نہیں کیا جا سکتا۔",
+  "organizationDeleted": "تنظیم ہٹا دی گئی",
+  "createAction": "بنائیں",
+  "connectOrganizationTitle": "اپنی تنظیم جوڑیں",
+  "connectOrganizationSubtitle": "سائن ان کرنے کے لیے تنظیم منتخب کریں۔",
+  "selectOrganization": "تنظیمات",
+  "selectOrganizationHint": "جاری رکھنے کے لیے تنظیم پر ٹیپ کریں",
+  "noSavedOrganizationsYet": "ابھی تک کوئی تنظیم نہیں۔ ایک بنائیں یا نیچے ٹیسٹ ڈیٹا استعمال کریں۔",
+  "orgConnectOnceInfo": "یہ ایپ کو آپ کے کاروباری اکاؤنٹ سے جوڑتا ہے۔ آپ کو یہ فی ڈیوائس صرف ایک بار سیٹ کرنا ہوگا۔",
+  "organizationCodeLabel": "کوڈ: {code}",
+  "loginWithTestData": "ٹیسٹ ڈیٹا سے لاگ ان کریں",
+  "loginWithTestDataSubtitle": "ڈیمو ہوٹل ڈیٹا لوڈ کریں اور خودکار طور پر سائن ان کریں",
+  "testDataLoginFailed": "ٹیسٹ ڈیٹا لوڈ نہیں ہو سکا: {error}",
+  "preparingTestData": "ڈیمو ڈیٹا تیار ہو رہا ہے…",
+  "setupOrganizationName": "تنظیم کا نام",
+  "setupCompanyName": "کمپنی کا نام",
+  "setupBusinessType": "کاروبار کی قسم",
+  "businessTypeHotel": "ہوٹل",
+  "businessTypeRestaurant": "ریستوراں",
+  "businessTypeHotelRestaurant": "ہوٹل اور ریستوراں",
+  "businessTypeRetail": "خوردہ / دکان",
+  "businessTypeCafe": "کیفے / بیکری",
+  "businessTypeBar": "بار / پب",
+  "businessTypeOther": "دیگر",
+  "organizationBusinessTypeLabel": "قسم: {type}",
+  "@organizationBusinessTypeLabel": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "organizationSettings": "تنظیم",
+  "editOrganizationInfo": "تنظیم کی معلومات",
+  "editOrganizationInfoSubtitle": "اپ ڈیٹ کریں کہ یہ کاروبار ایپ میں کیسے ظاہر ہوتا ہے۔ تنظیم کا کوڈ تبدیل نہیں ہو سکتا۔",
+  "organizationCode": "تنظیم کا کوڈ",
+  "organizationCodeReadOnly": "یہ کوڈ سیٹ اپ کے بعد مقرر ہے۔",
+  "organizationInfoUpdated": "تنظیم کی معلومات محفوظ ہو گئی",
+  "organizationInfoLoadFailed": "تنظیم کی معلومات لوڈ نہیں ہو سکیں",
+  "organizationInfoSaveFailed": "تنظیم کی معلومات محفوظ نہیں ہو سکیں: {error}",
+  "@organizationInfoSaveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "saveChanges": "تبدیلیاں محفوظ کریں",
+  "setupFullName": "پورا نام",
+  "setupConfirmPassword": "پاس ورڈ کی تصدیق کریں",
+  "setupBankName": "بینک کا نام",
+  "setupRegionStepTitle": "خطہ اور کرنسی",
+  "setupOrganizationStepTitle": "تنظیم",
+  "setupOrganizationStepSubtitle": "آپ کا کاروبار ایپ میں کیسے نظر آتا ہے",
+  "setupAdminStepTitle": "ایڈمن اکاؤنٹ",
+  "setupAdminStepSubtitle": "اس انسٹالیشن کا بنیادی صارف",
+  "setupAccountingStepTitle": "محاسبہ",
+  "setupAccountingStepSubtitle": "بینک، اکاؤنٹ چارٹ اور مالی سال",
+  "setupCompleteSetup": "سیٹ اپ مکمل کریں",
+  "fieldRequired": "{field} ضروری ہے",
+  "invalidEmailAddress": "درست ای میل ایڈریس درج کریں",
+  "passwordMinLength": "پاس ورڈ کم از کم {min} حروف کا ہونا چاہیے",
+  "passwordsDoNotMatch": "پاس ورڈ میل نہیں کھاتے",
+  "setupFixValidationErrors": "جاری رکھنے کے لیے نیچے دی گئی غلطیاں درست کریں",
+  "setupCompleteSuccess": "سیٹ اپ کامیابی سے مکمل ہوا",
+  "setupCompleteWithPdfSuccess": "سیٹ اپ مکمل۔ PDF کو محفوظ جگہ پر محفوظ کریں۔",
+  "setupPdfFailed": "سیٹ اپ مکمل ہوا، لیکن PDF محفوظ نہیں ہو سکی: {error}",
+  "setupFailed": "سیٹ اپ مکمل نہیں ہو سکا۔ براہ کرم دوبارہ کوشش کریں۔",
+  "setupFailedWithDetails": "سیٹ اپ ناکام: {error}",
+  "languageChangeLaterHint": "آپ اسے بعد میں ترتیبات سے تبدیل کر سکتے ہیں",
+  "unpaidAmount": "غیر ادا شدہ رقم",
+  "unpaidBalance": "غیر ادا شدہ",
+  "unpaidColonAmount": "غیر ادا شدہ: {amount}",
+  "previousUnpaid": "غیر ادا شدہ",
+  "partyUnpaid": "غیر ادا شدہ",
+  "loadingUnpaid": "غیر ادا شدہ…",
+  "totalUnpaid": "غیر ادا شدہ",
+  "unpaidAmountNotYetCollected": "ادائیگی نہ کی گئی رقم ابھی تک وصول نہیں ہوئی۔",
+  "partyUnpaidTabHint": "ملازمین کھولیں، کوئی شخص منتخب کریں، پھر ان کی پروفائل پر پارٹی نادہندہ ٹیپ کریں۔ اس تلاش کے لیے سرور کو ملازم آئی ڈی چاہیے۔",
+  "partySettlementUsesUnpaidTotal": "پارٹی تصفیہ نادہندہ کل رقم استعمال کرتا ہے۔",
+  "selectPartyWithUnpaidFirst": "پہلے تصفیے کی رقم درج کریں (یا نادہندہ والی پارٹی منتخب کریں)۔",
+  "@unpaidColonAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "partyRolesTitle": "پارٹی کردار",
+  "partyRolesMoreSubtitle": "خریدار، سپلائر، دونوں اور مزید",
+  "searchRoles": "کردار تلاش کریں",
+  "roleCount": "{count, plural, =1{1 کردار} other{{count} کردار}}",
+  "@roleCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noRolesYet": "ابھی کوئی کردار نہیں",
+  "noRolesYetHint": "رابطوں کے لیے خریدار، سپلائر، دونوں یا کسٹم کردار شامل کریں۔",
+  "addRole": "کردار شامل کریں",
+  "deleteRoleTitle": "کردار حذف کریں",
+  "deleteRoleConfirm": "\"{name}\" حذف کریں؟ یہ واپس نہیں ہو سکتا۔",
+  "@deleteRoleConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteRoleHasPartiesMessage": "\"{name}\" کو {partyCount, plural, =1{1 پارٹی} other{{partyCount} پارٹیاں}} استعمال کر رہی ہیں۔ ان پارٹیوں کو دوسرے کردار میں منتقل کریں، یا زبردستی حذف کر کے انہیں کھو دیں۔",
+  "@deleteRoleHasPartiesMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "transferParties": "پارٹیاں منتقل کریں",
+  "hardDeleteLoseParties": "زبردستی حذف (پارٹیاں کھو دیں)",
+  "hardDeleteRoleTitle": "زبردستی حذف؟",
+  "hardDeleteRoleMessage": "یہ \"{name}\" اور اس کو تفویض کردہ تمام {partyCount, plural, =1{1 پارٹی} other{{partyCount} پارٹیوں}} کو مستقل طور پر حذف کر دے گا۔ پارٹی ڈیٹا بازیافت نہیں ہو سکتا۔\n\nفاکچر یا ادائیگیوں سے منسلک پارٹیاں حذف نہیں ہو سکتیں — اس کی بجائے منتقلی استعمال کریں۔",
+  "@hardDeleteRoleMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteRoleAndParties": "کردار اور پارٹیاں حذف کریں",
+  "addAnotherRoleBeforeDelete": "اسے حذف کرنے سے پہلے ایک اور کردار شامل کریں۔",
+  "transferPartiesMoveMessage": "{partyCount, plural, =1{1 پارٹی} other{{partyCount} پارٹیوں}} کو \"{fromRole}\" سے منتقل کریں:",
+  "@transferPartiesMoveMessage": {
+    "placeholders": {
+      "partyCount": {
+        "type": "int"
+      },
+      "fromRole": {
+        "type": "String"
+      }
+    }
+  },
+  "transferAndDeleteRole": "منتقل کریں اور کردار حذف کریں",
+  "builtInRole": "بلٹ ان",
+  "rolePartyCount": "{count, plural, =1{1 پارٹی} other{{count} پارٹیاں}}",
+  "@rolePartyCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noPartiesYet": "ابھی کوئی پارٹی نہیں",
+  "newRole": "نیا کردار",
+  "editRole": "کردار ترمیم کریں",
+  "defaultRolesCannotEdit": "ڈیفالٹ کردار کا نام تبدیل یا حذف نہیں کیا جا سکتا۔",
+  "roleNameLabel": "کردار کا نام *",
+  "roleNameHint": "مثلاً خریدار",
+  "roleDescriptionLabel": "تفصیل",
+  "roleDescriptionHint": "اپنی ٹیم کے لیے مختصر نوٹ",
+  "roleSortOrderLabel": "ترتیب",
+  "roleSortOrderHint": "کم نمبر پہلے فہرست میں ظاہر ہوتا ہے",
+  "roleCreated": "کردار بنایا گیا",
+  "roleUpdated": "کردار اپ ڈیٹ ہوا",
+  "roleDeleted": "کردار حذف ہوا",
+  "roleDeletedPartiesTransferred": "کردار حذف ہوا۔ {count, plural, =1{1 پارٹی} other{{count} پارٹیاں}} {targetRole} میں منتقل ہوئیں۔",
+  "@roleDeletedPartiesTransferred": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "targetRole": {
+        "type": "String"
+      }
+    }
+  },
+  "roleAndPartiesDeleted": "کردار اور {count, plural, =1{1 پارٹی} other{{count} پارٹیاں}} حذف ہوئیں۔",
+  "@roleAndPartiesDeleted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@deleteOrganizationMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@organizationCodeLabel": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "@testDataLoginFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@fieldRequired": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "@passwordMinLength": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "@setupPdfFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@setupFailedWithDetails": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "workspace": "ورک اسپیس",
+  "change": "تبدیل کریں",
+  "addMoreOrganization": "مزید شامل کریں +",
+  "connectAnotherOrganization": "ایک اور تنظیم جوڑیں",
+  "noSavedOrganizationsUseAddMore": "ابھی تک کوئی محفوظ تنظیم نہیں۔ ایک جوڑنے کے لیے مزید شامل کریں + استعمال کریں۔",
+  "registerNewOrganizationTitleSignedIn": "نئی تنظیم رجسٹر کریں؟",
+  "registerNewOrganizationTitle": "نئی تنظیم رجسٹر کریں؟",
+  "registerNewOrganizationMessageSignedIn": "آپ کو سائن آؤٹ کر دیا جائے گا اور سیٹ اپ وزرڈ شروع سے شروع ہوگا تاکہ آپ اس ڈیوائس پر ایک نیا کاروبار رجسٹر کر سکیں۔\n\nآپ کی پہلے سے محفوظ تنظیمیں سیٹ اپ کے بعد فہرست میں رہیں گی۔",
+  "registerNewOrganizationMessageLogin": "سیٹ اپ وزرڈ شروع ہوگا تاکہ آپ اس ڈیوائس پر ایک نیا کاروبار رجسٹر کر سکیں۔ اسے بنانے کے لیے سیٹ اپ مکمل کریں؛ آپ کی محفوظ تنظیمیں فہرست میں رہیں گی۔",
+  "startSetup": "سیٹ اپ شروع کریں",
+  "enterOrganizationCode": "براہ کرم اپنی تنظیم کا کوڈ درج کریں",
+  "organizationNotFoundCheckCode": "تنظیم نہیں ملی۔ کوڈ چیک کریں اور دوبارہ کوشش کریں۔",
+  "organizationNotFound": "تنظیم نہیں ملی",
+  "couldNotVerifyOrganization": "تنظیم کی تصدیق نہیں ہو سکی",
+  "noLocalDataCompleteSetup": "{name} کے لیے کوئی مقامی ڈیٹا نہیں۔ پہلے اس تنظیم کا سیٹ اپ مکمل کریں۔",
+  "@noLocalDataCompleteSetup": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeBack": "خوش آمدید واپس",
+  "signInToContinue": "جاری رکھنے کے لیے سائن ان کریں",
+  "enterEmail": "ای میل درج کریں",
+  "pleaseEnterEmail": "براہ کرم اپنا ای میل درج کریں",
+  "pleaseEnterValidEmail": "براہ کرم درست ای میل درج کریں",
+  "enterEmailLocalPartOnly": "صرف @ سے پہلے کا حصہ درج کریں",
+  "pleaseEnterPassword": "براہ کرم اپنا پاسورڈ درج کریں",
+  "logIn": "لاگ ان",
+  "searchCountry": "ملک تلاش کریں",
+  "searchCodeOrSymbol": "کوڈ یا علامت تلاش کریں",
+  "saveLoginDetailsTitle": "لاگ ان تفصیلات محفوظ کریں؟",
+  "saveLoginDetailsMessage": "آپ اس تنظیم کا سیٹ اپ مکمل کرنے والے ہیں۔\n\nکیا آپ محفوظ طریقے سے ایک PDF ڈاؤن لوڈ کرنا چاہتے ہیں جس میں آپ کا تنظیم کوڈ، تنظیم کا نام، لاگ ان ای میل اور پاسورڈ ہو؟ اسے کسی محفوظ جگہ پر رکھیں — اس فائل کا حامل کوئی بھی شخص سائن ان کر سکتا ہے۔",
+  "downloadPdfAndContinue": "PDF ڈاؤن لوڈ کریں اور جاری رکھیں",
+  "continueWithoutPdf": "PDF کے بغیر جاری رکھیں",
+  "legalDisplayNameHint": "قانونی / ظاہری نام",
+  "chartOfAccounts": "چارٹ آف اکاؤنٹس",
+  "fiscalYearStart": "مالی سال کا آغاز",
+  "fiscalYearEnd": "مالی سال کا اختتام",
+  "removeTestDataTitle": "ٹیسٹ ڈیٹا ہٹائیں؟",
+  "removeTestDataMessageDemoOrg": "تمام ڈیمو فروخت، خریداری، رابطے، پارٹیاں، انوینٹری آئٹمز، عملہ، شراب کیلکولیٹر پروڈکٹس اور اضافی ڈیمو تنظیمیں ہٹا دی جائیں گی۔\n\nآپ ڈیمو تنظیم پر ہیں — اس کے بعد آپ خود بخود اپنی پہلی تنظیم پر واپس ہو جائیں گے۔",
+  "removeTestDataMessageNormal": "تمام ڈیمو فروخت، خریداری، رابطے، پارٹیاں، انوینٹری آئٹمز، عملہ اور 3 اضافی ڈیمو تنظیمیں ہٹا دی جائیں گی۔ آپ کا ایڈمن اکاؤنٹ اور اصل سیٹ اپ ڈیٹا محفوظ رہے گا۔",
+  "removeTestDataWarning": "ٹیسٹ ڈیٹا دوبارہ لوڈ کیے بغیر یہ واپس نہیں ہو سکتا۔",
+  "removeTestData": "ٹیسٹ ڈیٹا ہٹائیں",
+  "keepTestData": "ٹیسٹ ڈیٹا رکھیں",
+  "demoDataRemoved": "ڈیمو ڈیٹا ہٹا دیا گیا",
+  "testDataRemovedSwitchedTo": "ٹیسٹ ڈیٹا ہٹا دیا گیا۔ {name} پر منتقل ہو گئے۔",
+  "@testDataRemovedSwitchedTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "testDataRemoved": "ٹیسٹ ڈیٹا ہٹا دیا گیا",
+  "couldNotRemoveTestData": "ٹیسٹ ڈیٹا نہیں ہٹا سکا: {error}",
+  "@couldNotRemoveTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loadTestDataTitle": "ٹیسٹ ڈیٹا لوڈ کریں؟",
+  "loadTestDataMessage": "یہ 50 تک ڈیمو رابطے، 50 صرف فروخت اور 50 صرف خریداری انوینٹری آئٹمز، اور نمونہ فروخت، خریداری، ادائیگیاں، اسٹاک، اختتامی خلاصے، عملہ، تنخواہ، گزشتہ 15 دنوں کی حاضری اور کیلکولیٹر کے لیے نمونہ مشروب پروڈکٹس شامل کرے گا۔",
+  "loadTestData": "ٹیسٹ ڈیٹا لوڈ کریں",
+  "testDataLoaded": "ٹیسٹ ڈیٹا لوڈ ہو گیا",
+  "couldNotLoadTestData": "ٹیسٹ ڈیٹا لوڈ نہیں ہو سکا: {error}",
+  "@couldNotLoadTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "demoTestData": "ڈیمو ٹیسٹ ڈیٹا",
+  "importTestDataSubtitle": "تمام خصوصیات کے لیے ٹیسٹ ڈیٹا درآمد کریں",
+  "hideTestDataTitle": "اس تنظیم کے لیے ٹیسٹ ڈیٹا چھپائیں؟",
+  "hideTestDataMessage": "اگر آپ جاری رہتے ہیں تو ٹیسٹ ڈیٹا سیکشن اس تنظیم میں ہر جگہ چھپ جائے گا (بشمول سیٹ اپ)۔ آپ اسے صرف ری انسٹال کر کے یا اس تنظیم کا ایپ ڈیٹا صاف کر کے واپس آن کر سکتے ہیں۔",
+  "hideTestDataWarning": "پہلے سے لوڈ کردہ ڈیمو ڈیٹا ڈیٹا بیس میں رہے گا جب تک آپ اسے سیٹنگز سے نہ ہٹائیں۔",
+  "okHideTestData": "ٹھیک ہے، ٹیسٹ ڈیٹا چھپائیں",
+  "testDataHiddenForOrg": "اس تنظیم کے لیے ٹیسٹ ڈیٹا چھپا دیا گیا",
+  "hideTestDataTooltip": "اس تنظیم کے لیے ٹیسٹ ڈیٹا چھپائیں",
+  "privacyPolicyTitle": "رازداری کی پالیسی",
+  "termsAndConditions": "شرائط و ضوابط",
+  "logoutConfirmTitle": "لاگ آؤٹ",
+  "logoutConfirmMessage": "کیا آپ واقعی اپنے اکاؤنٹ سے لاگ آؤٹ کرنا چاہتے ہیں؟",
+  "faqTapToExpand": "توسیع کے لیے سوال پر ٹیپ کریں۔",
+  "faqSectionGettingStarted": "شروع کرنا",
+  "faqSectionLogin": "لاگ ان",
+  "faqSectionNavigation": "نیویگیشن",
+  "faqSectionInvoices": "فاکچر",
+  "faqSectionPayments": "ادائیگیاں",
+  "faqSectionItemsStock": "آئٹمز اور اسٹاک",
+  "faqSectionProfileEmployees": "پروفائل اور ملازمین",
+  "faqSectionDashboardReports": "ڈیش بورڈ اور رپورٹس",
+  "faqSectionSyncTroubleshooting": "سنک اور ٹربل شوٹنگ",
+  "faqNeedInternetQuestion": "کیا مجھے انٹرنیٹ کی ضرورت ہے؟",
+  "faqNeedInternetAnswer": "پہلی بار مقامی سیٹ اپ کے بعد آپ انٹرنیٹ کے بغیر فاکچر، آئٹمز اور ادائیگیاں ریکارڈ کر سکتے ہیں۔ ڈیٹا آپ کی ڈیوائس پر رہتا ہے۔ سرور کے ساتھ سنک اختیاری ہے۔",
+  "faqFirstInstallQuestion": "پہلی انسٹال پر کیا ہوتا ہے؟",
+  "faqFirstInstallAnswer": "آپ کو ایک مختصر والک تھرو دکھایا جا سکتا ہے، پھر مقامی سیٹ اپ (تنظیم، کمپنی، لاگ ان ای میل اور پاسورڈ، کرنسی، مالی سال)۔ اس کے بعد آپ کی بنائی گئی ای میل اور پاسورڈ سے سائن ان کریں۔",
+  "faqSignInCredentialsQuestion": "سائن ان کے لیے کیا استعمال کروں؟",
+  "faqSignInCredentialsAnswer": "سیٹ اپ سے آپ کا ای میل پتہ اور پاسورڈ۔ ایپ آپ کو سائن ان رکھتی ہے جب تک آپ مزید سے لاگ آؤٹ نہ کریں۔",
+  "faqLoggedOutQuestion": "مجھے کیوں لاگ آؤٹ کیا گیا؟",
+  "faqLoggedOutAnswer": "آپ نے لاگ آؤٹ کا انتخاب کیا، ایپ ڈیٹا صاف کیا، یا سیشن ختم ہو گیا۔ انہی اسناد سے دوبارہ سائن ان کریں۔",
+  "faqBottomTabsQuestion": "نیچے کے ٹیبز کیا کرتے ہیں؟",
+  "faqBottomTabsAnswer": "ہوم — ڈیش بورڈ اور جائزہ۔\nفروخت — تاریخ کے مطابق فروخت کے فاکچر۔\nاخراجات — خریداری / اخراجات کے فاکچر۔\nمرکزی بٹن — پارٹیاں (خریدار، سپلائر)۔\nمزید — پروفائل، رپورٹس، سنک، مدد، لاگ آؤٹ۔",
+  "faqCreateInvoiceQuestion": "فروخت یا خریداری کا فاکچر کیسے بناؤں؟",
+  "faqCreateInvoiceAnswer": "فروخت یا اخراجات کھولیں، کیلنڈر پر تاریخ منتخب کریں، + بٹن ٹیپ کریں، آئٹمز اور رقومات شامل کریں، ضرورت ہو تو پارٹی منتخب کریں، پھر محفوظ یا جمع کریں۔",
+  "faqInvoiceDetailsQuestion": "فاکچر کی مکمل تفصیلات کیسے دیکھوں؟",
+  "faqInvoiceDetailsAnswer": "فہرست میں کسی بھی فاکچر پر ٹیپ کریں۔ لین دین کی تفصیلات لائن آئٹمز، ٹوٹل، رعایت اور ادائیگیاں دکھاتی ہے۔ وہاں سے پرنٹ، شیئر، نقل یا ادائیگی کر سکتے ہیں۔",
+  "faqZeroRateQuestion": "تفصیلات میں ریٹ یا رقم صفر ظاہر ہوتی ہے",
+  "faqZeroRateAnswer": "اس کا مطلب عموماً یہ ہے کہ پرانے سیو میں لائن یا ادائیگی ڈیٹا غائب تھا۔ ایپ اپ ڈیٹ کریں اور ضرورت ہو تو دوبارہ بنائیں یا تصفیہ کریں۔ نئی اندراجات درست ریٹ اور رقم ظاہر کریں گی۔",
+  "faqPartialPaymentQuestion": "جزوی ادائیگی کیسے ریکارڈ کروں؟",
+  "faqPartialPaymentAnswer": "فاکچر کھولیں ← لین دین کی تفصیلات ← ادائیگی کریں۔ رقم، طریقہ اور تاریخ درج کریں، پھر تصفیہ پروسیس کریں۔",
+  "faqMultiplePaymentQuestion": "متعدد ادائیگی کیسے کام کرتی ہے؟",
+  "faqMultiplePaymentAnswer": "متعدد ادائیگی آن کریں، ترمیم ٹیپ کریں، اور نقد، کارڈ، QR وغیرہ میں ٹوٹل تقسیم کریں۔ ہر طریقہ الگ ریکارڈ ہوتا ہے۔",
+  "faqSplitPaymentSavedQuestion": "تقسیم سے صرف ایک ادائیگی محفوظ ہوئی",
+  "faqSplitPaymentSavedAnswer": "تازہ ترین ایپ ورژن پر اپ ڈیٹ کریں۔ پرانے بلڈز کبھی کبھی صرف پہلی تقسیم لائن محفوظ کرتے تھے۔ اگر نادہندہ بیلنس غلط ہے تو دوبارہ تصفیہ کریں۔",
+  "faqAddItemQuestion": "آئٹم کیسے شامل کروں؟",
+  "faqAddItemAnswer": "فروخت فلو یا فوری اضافہ سے آئٹم شامل کریں استعمال کریں۔ نام، ریٹ، یونٹ، مقصد اور اختیاری تصویر (JPEG/PNG/GIF/WebP، زیادہ سے زیادہ 5 MB) درج کریں، پھر آئٹم بنائیں۔",
+  "faqCustomUnitQuestion": "کسٹم یونٹ کیسے شامل کروں؟",
+  "faqCustomUnitAnswer": "آئٹم فارم پر، یونٹ ٹیپ کریں ← فہرست کے نیچے نیا یونٹ بنائیں، نام درج کریں (مثلاً لیٹر، ڈبہ)، اور بنائیں۔",
+  "faqStockQuantitiesQuestion": "How do I enter stock quantities?",
+  "faqStockQuantitiesAnswer": "Live qty is In stock on each item. Set stock on an item to enter opening stock or a stock adjustment. Opening stock / stock reconciliation (upload or enter a count) also sets In stock when live tracking is on. Liquor prices is a pour-price list, not stock.",
+  "faqProfileNameQuestion": "میں نے نام تبدیل کیا لیکن پروفائل پرانا نام دکھاتی ہے",
+  "faqProfileNameAnswer": "اپنے ملازم ریکارڈ کو ترمیم کریں (لاگ ان جیسا ای میل) اور محفوظ کریں۔ مزید ٹیب اور ڈیش بورڈ اپ ڈیٹ ہو جانے چاہئیں۔",
+  "faqRevenueDetailsQuestion": "آمدن کی تفصیلات کیا ہیں؟",
+  "faqRevenueDetailsAnswer": "روزانہ ٹرینڈ چارٹ، خالص منافع، واجب الادا وصولیاں اور دن بدن فروخت بمقابلہ خریداری تفصیل کے ساتھ ماہانہ منظر۔ کیلنڈر یا مہینہ چپ سے مہینہ تبدیل کریں۔",
+  "faqOtherReportsQuestion": "دیگر رپورٹس کہاں ہیں؟",
+  "faqOtherReportsAnswer": "مزید کھولیں اور رپورٹس کے تحت دیکھیں (تجزیات، نفع و نقصان، بیان وغیرہ) اگر آپ کے کردار کو رسائی ہے۔",
+  "faqWhenSyncQuestion": "مجھے کب سنک کرنی چاہیے؟",
+  "faqWhenSyncAnswer": "صرف جب آپ کا ایڈمن کہے اور جب آپ کا مستحکم کنکشن ہو۔ سنک ڈیوائس اور سرور کے درمیان ڈیٹا بھیجتی یا وصول کرتی ہے۔",
+  "faqFabPositionQuestion": "+ بٹن فروخت / اخراجات میں بہت اونچا لگتا ہے",
+  "faqFabPositionAnswer": "یہ نیچے کی نیویگیشن بار کے اوپر ہے۔ فہرست اسکرول کریں یا اگر بٹن آپ کی ڈیوائس پر مواد سے اوورلیپ ہو تو ایپ اپ ڈیٹ کریں۔",
+  "faqHowLogoutQuestion": "لاگ آؤٹ کیسے کروں؟",
+  "faqHowLogoutAnswer": "مزید ← سیٹنگز فہرست کے نیچے لاگ آؤٹ۔",
+  "statisticsGoodMorning": "صبح بخیر",
+  "statisticsGoodAfternoon": "گڈ دوپہر",
+  "statisticsGoodEvening": "شب بخیر",
+  "statisticsDefaultUser": "صارف",
+  "statisticsCheckConnection": "براہ کرم اپنا کنکشن چیک کریں اور دوبارہ کوشش کریں۔",
+  "statisticsCouldNotLoadProfile": "پروفائل لوڈ نہیں ہو سکا",
+  "statisticsCouldNotLoadData": "ڈیٹا لوڈ نہیں ہو سکا",
+  "statisticsPeriodDay": "دن",
+  "statisticsPeriodMonth": "مہینہ",
+  "statisticsPeriodYear": "سال",
+  "statisticsSelectedPeriod": "منتخب مدت",
+  "statisticsSelectMonth": "مہینہ منتخب کریں۔",
+  "statisticsSelectMonthSubtitle": "ڈیٹا فلٹر کرنے کے لیے ایک ماہ کا انتخاب کریں۔",
+  "statisticsQuickOperations": "Quick Operations",
+  "statisticsAnnualRevenue": "سالانہ آمدنی",
+  "statisticsCashflowLast7Days": "نقد بہاؤ (گزشتہ 7 دن)",
+  "statisticsCashflowLast12Months": "نقد بہاؤ (گزشتہ 12 ماہ)",
+  "statisticsDaily": "روزانہ",
+  "statisticsMonthly": "ماہانہ",
+  "statisticsOverall": "مجموعی طور پر",
+  "statisticsLast7Days": "Last 7 Days",
+  "statisticsLast12Months": "Last 12 Months",
+  "statisticsAllYears": "تمام سال",
+  "statisticsNoDataAvailable": "کوئی ڈیٹا دستیاب نہیں ہے۔",
+  "statisticsMoneyIn": "پیسے میں",
+  "statisticsMoneyOut": "پیسے باہر",
+  "statisticsIncome": "آمدنی",
+  "statisticsExpenses": "اخراجات",
+  "statisticsSalesSummary": "فروخت کا خلاصہ",
+  "statisticsPurchaseSummary": "خریداری کا خلاصہ",
+  "statisticsTotalSales": "کل فروخت",
+  "statisticsTotalIncome": "کل آمدنی",
+  "statisticsTotalUnpaid": "کل بلا معاوضہ",
+  "statisticsTotalPurchase": "کل خریداری",
+  "statisticsPaidPurchase": "ادا شدہ خریداری",
+  "statisticsUnpaidPurchase": "بلا معاوضہ خریداری",
+  "statisticsEmployeeDashboard": "ملازم ڈیش بورڈ",
+  "statisticsDefaultEmployee": "ملازم",
+  "statisticsDefaultDepartment": "محکمہ",
+  "statisticsDefaultPosition": "پوزیشن",
+  "statisticsCurrentMonth": "موجودہ مہینہ",
+  "statisticsStatus": "حیثیت",
+  "statisticsActive": "فعال",
+  "statisticsWelcome": "خوش آمدید",
+  "statisticsEmployeeWelcomeMessage": "آپ بطور ملازم لاگ ان ہیں۔ دستیاب خصوصیات تک رسائی کے لیے نیویگیشن مینو کا استعمال کریں۔",
+  "statisticsRevenueDetails": "آمدنی کی تفصیلات",
+  "statisticsEmployeeDetails": "ملازمین کی تفصیلات",
+  "statisticsChangeMonth": "مہینہ تبدیل کریں۔",
+  "statisticsFilterChartsSubtitle": "چارٹس اور خرابی کو فلٹر کریں۔",
+  "statisticsDailyTrend": "روزانہ کا رجحان",
+  "statisticsDailyActivity": "روزانہ کی سرگرمی",
+  "statisticsNoDataForMonth": "اس مہینے کا کوئی ڈیٹا نہیں ہے۔",
+  "statisticsNetProfit": "خالص منافع",
+  "statisticsMonthReceivables": "ماہ کے قابل وصول",
+  "statisticsNoDailyEntries": "اس مہینے کے لیے روزانہ کوئی اندراج نہیں ہے۔",
+  "statisticsDailySalesBreakdown": "روزانہ فروخت کی خرابی",
+  "statisticsDailyBreakdown": "روزانہ کی خرابی",
+  "statisticsAdvance": "ایڈوانس",
+  "statisticsExploreFeatures": "خصوصیات کو دریافت کریں۔",
+  "statisticsShowOrHideFeatures": "خصوصیات دکھائیں یا چھپائیں۔",
+  "statisticsAllFeaturesHidden": "دریافت کرنے کی تمام خصوصیات پوشیدہ ہیں۔",
+  "statisticsNoFeaturesForOrg": "آپ کی تنظیم کے لیے کوئی خصوصیات دستیاب نہیں ہیں۔",
+  "statisticsTapTuneToShow": "شارٹ کٹس کو دوبارہ دکھانے کے لیے اوپر ٹیون آئیکن کو تھپتھپائیں۔",
+  "statisticsMenuCheck": "تصفیہ",
+  "statisticsMenuEmployee": "ملازم",
+  "statisticsMenuOrder": "آرڈر",
+  "statisticsMenuInventory": "Items",
+  "statisticsMenuCustomers": "گاہکوں",
+  "statisticsMenuCalculator": "Liquor prices",
+  "statisticsMenuQuickExpenses": "جلدی\nاخراجات",
+  "statisticsMenuQuickSales": "جلدی\nسیلز",
+  "statisticsMenuAddEmployee": "شامل کریں۔\nملازم",
+  "statisticsMenuAddParty": "شامل کریں\nفریق",
+  "statisticsMenuAddEmployeeSingle": "ملازم شامل کریں",
+  "statisticsMenuAddPartySingle": "فریق شامل کریں",
+  "statisticsGreeting": "{greeting}، {name}",
+  "@statisticsGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsEmployeeGreeting": "{greeting}, {name}!",
+  "@statisticsEmployeeGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDepartmentPosition": "{department} • {position}",
+  "@statisticsDepartmentPosition": {
+    "placeholders": {
+      "department": {
+        "type": "String"
+      },
+      "position": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricCollected": "{amount} جمع کیا گیا۔",
+  "@statisticsMetricCollected": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricPaid": "{amount} ادا کیا گیا۔",
+  "@statisticsMetricPaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyInAmount": "رقم میں: {amount}",
+  "@statisticsMoneyInAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyOutAmount": "رقم ختم: {amount}",
+  "@statisticsMoneyOutAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDayTooltip": "دن {day}\n{amount}",
+  "@statisticsDayTooltip": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsProfitMargin": "{percent}% مارجن",
+  "@statisticsProfitMargin": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "selectBusinessType": "کاروبار کی قسم منتخب کریں۔",
+  "businessTypeHotelSubtitle": "کمرے، مہمان اور فرنٹ ڈیسک",
+  "businessTypeRestaurantSubtitle": "ڈائن ان، کچن اور ٹیبل آرڈرز",
+  "businessTypeHotelRestaurantSubtitle": "ہوٹل کے کمرے اور ریستوراں ایک ساتھ",
+  "businessTypeRetailSubtitle": "مصنوعات، اسٹاک اور چیک آؤٹ",
+  "businessTypeCafeSubtitle": "کافی، پیسٹری اور لائٹ بائٹس",
+  "businessTypeBarSubtitle": "مشروبات کا مینو، ٹیبز اور بار کی فروخت",
+  "businessTypeOtherSubtitle": "کسی بھی کاروبار کے لیے حسب ضرورت سیٹ اپ",
+  "@invoiceCommonSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonInvoiceLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCustomerLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSupplierLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchingFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchItemsHint": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonEmptyForDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDeleteInvoiceConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCancelReturnMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPartyLoadingError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceFoundSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceFoundPurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDatePurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateInvoiceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteMessage": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceReturnCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotPrint": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotSave": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotShare": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonItemReturnedQty": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      },
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonMultiplePaymentSummary": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptFilename": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReturnAgainst": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSavedPath": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonUnpaidWithAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonTodayAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyExportReceipts": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyNoItemsMatching": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceQuickShowingItems": {
+    "placeholders": {
+      "shown": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickLoadedItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickScrollLoadMore": {
+    "placeholders": {
+      "perPage": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickCartWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemActionsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditSelectedItem": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditRateLabel": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditItemLabel": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemsError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditPartiesError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditSaveError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonActions": "اعمال",
+  "invoiceCommonSearchItems": "اشیاء تلاش کریں۔",
+  "invoiceCommonSearchItemsSubtitle": "مخصوص اشیاء تلاش کریں۔",
+  "invoiceCommonAddNewInvoice": "نیا انوائس شامل کریں۔",
+  "invoiceCommonAddSalesInvoiceSubtitle": "ایک نیا سیلز انوائس بنائیں",
+  "invoiceCommonAddPurchaseInvoiceSubtitle": "خریداری کی ایک نئی رسید بنائیں",
+  "invoiceCommonSelectMonthYear": "مہینہ/سال منتخب کریں۔",
+  "invoiceCommonSelectMonthYearSubtitle": "کسی مخصوص مہینے پر جائیں۔",
+  "invoiceCommonSelectMonthAndYear": "مہینہ اور سال منتخب کریں۔",
+  "invoiceCommonFilterByDate": "تاریخ کے لحاظ سے فلٹر کریں۔",
+  "invoiceCommonFilterByDateRange": "تاریخ کی حد کے لحاظ سے فلٹر کریں۔",
+  "invoiceCommonCloseSearch": "تلاش بند کریں۔",
+  "invoiceCommonSelectAll": "سبھی کو منتخب کریں۔",
+  "invoiceCommonToday": "آج",
+  "invoiceCommonTotalQuantity": "کل مقدار",
+  "invoiceCommonTotalAmount": "کل رقم",
+  "invoiceCommonTotal": "کل",
+  "invoiceCommonSearchForItems": "آئٹمز تلاش کریں۔",
+  "invoiceCommonNoItemsFound": "کوئی آئٹمز نہیں ملے",
+  "invoiceCommonUnknownItem": "نامعلوم آئٹم",
+  "invoiceCommonNotAvailable": "N/A",
+  "invoiceSalesCouldNotLoad": "سیلز لوڈ نہیں ہو سکا",
+  "invoiceSalesNoFound": "کوئی سیل نہیں ملا",
+  "invoiceSalesSelectDate": "سیلز دیکھنے کے لیے ایک تاریخ منتخب کریں۔",
+  "invoiceSalesNoInvoicesFound": "کوئی رسیدیں نہیں ملی",
+  "invoiceSalesSelectDateLegacy": "رسیدیں دیکھنے کے لیے ایک تاریخ منتخب کریں۔",
+  "invoicePurchaseCouldNotLoad": "اخراجات لوڈ نہیں کر سکے۔",
+  "invoicePurchaseNoFound": "کوئی خریداری نہیں ملی",
+  "invoicePurchaseSelectDate": "خریداریاں دیکھنے کے لیے ایک تاریخ منتخب کریں۔",
+  "invoiceWeekdaySun": "سورج",
+  "invoiceWeekdayMon": "پیر",
+  "invoiceWeekdayTue": "منگل",
+  "invoiceWeekdayWed": "بدھ",
+  "invoiceWeekdayThu": "جمعرات",
+  "invoiceWeekdayFri": "جمعہ",
+  "invoiceWeekdaySat": "سات",
+  "invoiceCommonSelectedCount": "{count} منتخب",
+  "invoiceCommonQtyLabel": "مقدار: {qty}",
+  "invoiceCommonInvoiceLabel": "رسید: {number}",
+  "invoiceCommonCustomerLabel": "گاہک: {name}",
+  "invoiceCommonSupplierLabel": "فراہم کنندہ: {name}",
+  "invoiceCommonSearchingFor": "\"{query}\" کو تلاش کیا جا رہا ہے...",
+  "invoiceCommonSearchItemsHint": "{scope} میں آئٹمز تلاش کریں...",
+  "invoiceCommonSalesSearchPrompt": "تمام سیلز تلاش کرنے کے لیے آئٹم کا نام ٹائپ کریں۔\n{scope} میں",
+  "invoiceCommonPurchaseSearchPrompt": "تمام خریداریوں کو تلاش کرنے کے لیے آئٹم کا نام ٹائپ کریں۔\n{scope} میں",
+  "invoiceCommonSalesNoMatch": "\"{query}\" کی کوئی فروخت نہیں\n{scope} میں",
+  "invoiceCommonPurchaseNoMatch": "\"{query}\" کی کوئی خریداری نہیں\n{scope} میں",
+  "invoiceCommonEmptyForDate": "{date} کے لیے",
+  "invoiceFoundSalesCount": "ملا {count, plural, =1{1 فروخت} other{{count} فروخت}}",
+  "invoiceFoundPurchaseCount": "ملا {count, plural, =1{1 خریداری} other{{count} خریداری}}",
+  "invoiceDateSalesCount": "{count, plural, =1{1 فروخت} other{{count} فروخت}}",
+  "invoiceDatePurchaseCount": "{count, plural, =1{1 خریداری} other{{count} خریداری}}",
+  "invoiceDateInvoiceCount": "{count, plural, =1{1 انوائس} other{{count} انوائس}}",
+  "invoiceDeleteTitle": "حذف کریں {count, plural, =1{1 انوائس} other{{count} انوائس}}",
+  "invoiceDeleteMessage": "کیا آپ واقعی {count, plural, =1{1 منتخب رسید} other{{count} منتخب انوائس}} کو حذف کرنا چاہتے ہیں؟ اس کارروائی کو کالعدم نہیں کیا جا سکتا۔",
+  "contacts": "رابطے",
+  "categories": "زمرے",
+  "manageStaff": "عملے کا انتظام کریں۔",
+  "payroll": "پے رول",
+  "attendance": "حاضری",
+  "profitAndLoss": "منافع و نقصان",
+  "statementReport": "بیان",
+  "analytics": "تجزیات",
+  "loggedOut": "لاگ آؤٹ ہو گیا۔",
+  "organizationCodeDisplay": "کوڈ: {code}",
+  "@organizationCodeDisplay": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "moreDataSynchronization": "ڈیٹا سنکرونائزیشن",
+  "moreSendDataToClient": "کلائنٹ کو ڈیٹا بھیجیں۔",
+  "moreSendDataToClientSubtitle": "کلائنٹ پر سرور ڈیٹا اپ لوڈ کریں۔",
+  "moreSendDataToClientWarning": "یہ عمل موجودہ کلائنٹ ڈیٹا بیس کو سرور کے ڈیٹا سے بدل دے گا۔ کلائنٹ کی تمام حالیہ تبدیلیاں ضائع ہو سکتی ہیں۔",
+  "moreSendDataToClientConfirm": "کیا آپ واقعی کلائنٹ کو ڈیٹا بھیجنا چاہتے ہیں؟",
+  "moreFetchDataFromClient": "کلائنٹ سے ڈیٹا حاصل کریں۔",
+  "moreFetchDataFromClientSubtitle": "کلائنٹ کا ڈیٹا سرور پر ڈاؤن لوڈ کریں۔",
+  "moreFetchDataFromClientWarning": "یہ عمل موجودہ سرور ڈیٹا بیس کو کلائنٹ کے ڈیٹا سے بدل دے گا۔ سرور کی تمام حالیہ تبدیلیاں ضائع ہو سکتی ہیں۔",
+  "moreFetchDataFromClientConfirm": "کیا آپ واقعی کلائنٹ سے ڈیٹا حاصل کرنا چاہتے ہیں؟",
+  "notifications": "اطلاعات",
+  "openingReminder": "افتتاحی یاد دہانی",
+  "closingReminder": "بند ہونے والی یاد دہانی",
+  "openingTime": "کھلنے کا وقت",
+  "closingTime": "بند ہونے کا وقت",
+  "notificationSettingsSaved": "اطلاع کی ترتیبات محفوظ ہو گئیں۔",
+  "notificationPermissionHint": "اطلاعات (اور اینڈرائیڈ پر الارم) کی اجازت دیں تاکہ ایپ بند ہونے پر یاد دہانیاں کام کریں۔",
+  "dailyAtTime": "روزانہ {time} پر",
+  "@dailyAtTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonYesterday": "کل",
+  "invoiceCommonTodayAt": "آج، {time}",
+  "invoiceCommonDaysAgo": "{count} دن پہلے",
+  "invoiceReturnCount": "{count, plural, =1{1 واپسی} other{{count} واپسی}}",
+  "statisticsMonthRevenue": "ماہ کی آمدنی",
+  "statisticsMonthExpenses": "مہینے کے اخراجات",
+  "exploreCustomizeTitle": "خصوصیات کو حسب ضرورت بنائیں",
+  "exploreCustomizeSubtitle": "اپنی ہوم اسکرین پر شارٹ کٹ دکھائیں یا چھپائیں۔ صرف وہ خصوصیات درج ہیں جو آپ کی تنظیم تک رسائی حاصل کر سکتی ہیں۔",
+  "exploreVisibleOnDashboard": "ڈیش بورڈ پر نظر آتا ہے۔",
+  "exploreHiddenOnDashboard": "ڈیش بورڈ پر چھپا ہوا ہے۔",
+  "partiesTitle": "فریقین",
+  "partySearchByName": "نام سے تلاش کریں…",
+  "partySortBy": "ترتیب دیں:",
+  "partySortLatest": "تازہ ترین",
+  "partySortAmountHighLow": "رقم: زیادہ سے کم",
+  "partySortAmountLowHigh": "رقم: کم سے زیادہ",
+  "partySortNameAZ": "نام: A سے Z",
+  "partySortNameZA": "نام: Z سے A",
+  "partyAddNew": "نیا فریق شامل کریں",
+  "partyEdit": "فریق میں ترمیم کریں",
+  "partyUpdate": "فریق اپ ڈیٹ کریں",
+  "partyNameLabel": "فریق کا نام*",
+  "partyNameHint": "فریق کا نام درج کریں",
+  "partyNewNameLabel": "نیا فریق نام*",
+  "partyNewNameHint": "نیا فریق نام درج کریں",
+  "partyRoleLabel": "فریق کا کردار *",
+  "partyTapToSelect": "منتخب کرنے کے لیے تھپتھپائیں",
+  "partySelectRoleValidation": "براہ کرم کردار منتخب کریں",
+  "partyEnterNameValidation": "براہ کرم فریق کا نام درج کریں",
+  "partyBasicInfo": "بنیادی معلومات",
+  "partyAdditionalInfo": "اضافی معلومات",
+  "partyEmail": "فریق کی ای میل",
+  "partyEmailHint": "ای میل ایڈریس درج کریں",
+  "partyPhone": "فون نمبر",
+  "partyPhoneHint": "فون نمبر درج کریں",
+  "partyAddress": "فریق کا پتہ",
+  "partyAddressHint": "پتہ درج کریں",
+  "partyRoleCustomer": "گاہک",
+  "partyRoleSupplier": "سپلائر",
+  "partyRoleRoom": "کمرہ",
+  "partyRoleCabin": "کیبن",
+  "partyRoleEmployee": "ملازم",
+  "partyRoleBoth": "دونوں",
+  "partyDefaultAccount": "ڈیفالٹ اکاؤنٹ",
+  "partyLoyaltyProgram": "لائلٹی پروگرام",
+  "partyLoyaltyPoints": "لائلٹی پوائنٹس",
+  "partySelectDefaultAccount": "ڈیفالٹ اکاؤنٹ منتخب کریں",
+  "partySelectLoyaltyProgram": "لائلٹی پروگرام منتخب کریں",
+  "partyCreateNewProgram": "نیا پروگرام بنائیں",
+  "partySelectPartyRole": "فریق کا کردار منتخب کریں",
+  "partyAccountDebtors": "وصولی",
+  "partyAccountCreditors": "ادائیگی",
+  "partyBothRoleHint": "دونوں کا مطلب ہے کہ یہ فریق صرف گاہک اور سپلائر میں ظاہر ہوتا ہے — کمرہ، کیبن، یا ملازم میں نہیں۔",
+  "partyValidNumber": "براہ کرم درست نمبر درج کریں۔",
+  "partyValidAmount": "براہ کرم درست رقم درج کریں۔",
+  "exportAsPdf": "پی ڈی ایف کے بطور ایکسپورٹ کریں۔",
+  "sharePdf": "پی ڈی ایف شیئر کریں۔",
+  "partyExportPdfTooltip": "پی ڈی ایف ایکسپورٹ کریں۔",
+  "checkoutSelectParty": "فریق منتخب کریں",
+  "checkoutCartSummary": "کارٹ کا خلاصہ",
+  "checkoutNoItemsInCart": "ٹوکری میں کوئی آئٹم نہیں ہے۔",
+  "checkoutSearchHere": "یہاں تلاش کریں۔",
+  "checkoutCreateInvoice": "انوائس بنائیں",
+  "checkoutEditInvoice": "انوائس میں ترمیم کریں۔",
+  "checkoutSaveInvoice": "انوائس محفوظ کریں۔",
+  "checkoutInvoiceSummary": "انوائس کا خلاصہ",
+  "checkoutEstimate": "اندازہ لگانا",
+  "checkoutBasicInformation": "بنیادی معلومات",
+  "checkoutAddItems": "آئٹمز شامل کریں۔",
+  "checkoutItemsSection": "اشیاء",
+  "checkoutPartyRequired": "فریق *",
+  "checkoutPartyInformation": "فریق کی معلومات",
+  "checkoutBillSummary": "بل کا خلاصہ",
+  "checkoutBillSummaryHint": "مزید تفصیلی حساب کتاب جاننے کے لیے تھپتھپائیں۔",
+  "checkoutItemTotal": "آئٹم کل",
+  "checkoutLoyaltyDiscount": "لائلٹی ڈسکاؤنٹ ({percent}%)",
+  "@checkoutLoyaltyDiscount": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutDiscountLine": "- رعایت ({percent}%)",
+  "@checkoutDiscountLine": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutTapToEdit": "ترمیم کرنے کے لیے تھپتھپائیں۔",
+  "checkoutTotalAmount": "کل رقم",
+  "checkoutPaymentMode": "Record payment",
+  "checkoutPaymentModeHint": "Turn on to take payment now. Leave off to submit the bill unpaid and collect later.",
+  "checkoutNetSalesAmount": "خالص فروخت کی رقم",
+  "checkoutConfirmCheckout": "چیک آؤٹ کی تصدیق کریں۔",
+  "checkoutEditDiscount": "رعایت میں ترمیم کریں۔",
+  "checkoutPercentage": "فیصد",
+  "checkoutDiscard": "رد کر دیں۔",
+  "checkoutPartialPayment": "جزوی ادائیگی",
+  "checkoutPartialPaymentBanner": "جزوی ادائیگی کو چالو کرنے سے صارف کل بل کی گئی رقم سے کم رقم ادا کر سکے گا۔",
+  "checkoutPleaseEnterAmounts": "براہ کرم متعلقہ رقم درج کریں:",
+  "checkoutPartialPaymentEqualHint": "چونکہ کسی صارف کو تفویض نہیں کیا گیا ہے، اس لیے کل رقم بل کی گئی کل رقم کے برابر ہونی چاہیے۔",
+  "checkoutOverGrandTotalBy": "گرانڈ ٹوٹل سے زیادہ بذریعہ: {amount}",
+  "@checkoutOverGrandTotalBy": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutRemainingUnpaid": "باقی (گرینڈ ٹوٹل سے بلا معاوضہ): {amount}",
+  "@checkoutRemainingUnpaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutConfirmPayment": "ادائیگی کی تصدیق کریں۔",
+  "checkoutUnpaidCredit": "بلا معاوضہ / کریڈٹ",
+  "checkoutAddAtLeastOneLine": "تخمینہ دیکھنے کے لیے کم از کم ایک لائن آئٹم شامل کریں۔",
+  "checkoutMultiplePayment": "متعدد ادائیگی",
+  "checkoutPaymentStatus": "ادائیگی کی حیثیت",
+  "checkoutPaymentMethods": "ادائیگی کے طریقے",
+  "checkoutPaymentMethod": "ادائیگی کا طریقہ",
+  "checkoutTenderAmount": "ٹینڈر کی رقم",
+  "checkoutLoadingPaymentMethods": "ادائیگی کے طریقے لوڈ ہو رہے ہیں…",
+  "stocksTitle": "Stock reconciliation",
+  "stockUploadTooltip": "Opening stock",
+  "stockNoDataYet": "No opening stock yet",
+  "stockNoDataSubtitle": "Enter a physical count. With live tracking on, that count becomes In stock.",
+  "stockUploadAction": "Opening stock",
+  "stockSearchByDateHint": "تاریخ یا مہینے کے لحاظ سے تلاش کریں…",
+  "stockNoMatches": "کوئی میچ نہیں",
+  "stockTryDifferentSearch": "تلاش کی ایک مختلف اصطلاح آزمائیں۔",
+  "stockTryAnotherSearch": "دوسری تلاش کی کوشش کریں۔",
+  "stockQtyLabel": "مقدار {qty}",
+  "@stockQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "stockCardSummary": "{records} ریکارڈز · {items} آئٹمز · {locations} مقامات",
+  "@stockCardSummary": {
+    "placeholders": {
+      "records": {
+        "type": "String"
+      },
+      "items": {
+        "type": "String"
+      },
+      "locations": {
+        "type": "String"
+      }
+    }
+  },
+  "stockFilterTitle": "Filter stock reconciliation",
+  "stockBatchNumber": "بیچ نمبر",
+  "stockLocation": "مقام",
+  "stockOptionalHint": "اختیاری",
+  "stockApplyFilters": "فلٹرز لگائیں۔",
+  "stockClearFields": "فیلڈز صاف کریں۔",
+  "stockDeleteAllTooltip": "اس تاریخ کے لیے تمام اسٹاک کو حذف کریں۔",
+  "stockNoItemsFound": "کوئی اسٹاک آئٹمز نہیں ملے",
+  "stockNoItemsSubtitle": "مختلف فلٹرز یا رپورٹنگ کی دوسری تاریخ آزمائیں۔",
+  "stockAdjustFilters": "فلٹرز کو ایڈجسٹ کریں۔",
+  "stockSearchItemHint": "آئٹم، بیچ، مقام تلاش کریں…",
+  "stockEditQuantities": "مقدار میں ترمیم کریں۔",
+  "stockNoChangesDetected": "کوئی تبدیلی نہیں ملی",
+  "stockErrorPreparingChanges": "تبدیلیوں کی تیاری میں خرابی: {error}",
+  "@stockErrorPreparingChanges": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "stockUpdateSuccessful": "اپ ڈیٹ کامیاب!",
+  "stockSummary": "خلاصہ",
+  "stockTotalRequested": "کل درخواست کردہ",
+  "stockSuccessfullyUpdated": "کامیابی کے ساتھ اپ ڈیٹ ہو گیا۔",
+  "stockFailed": "ناکام",
+  "stockUpdateFailed": "اپ ڈیٹ ناکام ہو گیا۔",
+  "stockClearAllQuantitiesTitle": "تمام مقداریں صاف کریں؟",
+  "stockClearAllQuantitiesMessage": "یہ تمام مقداروں کو 0 پر دوبارہ ترتیب دے گا۔ کیا آپ کو یقین ہے؟",
+  "stockClearAll": "تمام صاف کریں۔",
+  "stockUpdatingQuantities": "اسٹاک کی مقدار کو اپ ڈیٹ کیا جا رہا ہے...",
+  "stockEditQuantitiesTitle": "اسٹاک کی مقدار میں ترمیم کریں۔",
+  "stockReportingDate": "رپورٹنگ کی تاریخ: {date}",
+  "@stockReportingDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "stockTotalItemsHint": "کل آئٹمز: {count} • ضرورت کے مطابق مقدار کو اپ ڈیٹ کریں۔",
+  "@stockTotalItemsHint": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "stockItemName": "آئٹم کا نام",
+  "stockBatchPrefix": "بیچ: {batch}",
+  "@stockBatchPrefix": {
+    "placeholders": {
+      "batch": {
+        "type": "String"
+      }
+    }
+  },
+  "stockDeleteConfirmTitle": "حذف کرنے کی تصدیق کریں۔",
+  "stockDeleteConfirmIntro": "آپ مندرجہ ذیل تاریخ کے لیے تمام اسٹاک آئٹمز کو مستقل طور پر حذف کرنے والے ہیں:",
+  "stockDeleteConfirmWarning": "اس کارروائی کو کالعدم نہیں کیا جا سکتا۔ اس تاریخ کے تمام سٹاک ریکارڈ مستقل طور پر حذف کر دیے جائیں گے۔",
+  "stockNoInternetRetry": "انٹرنیٹ کنکشن نہیں ہے۔ براہ کرم اپنا کنکشن چیک کریں اور دوبارہ کوشش کریں۔",
+  "itemsTitle": "اشیاء",
+  "itemAddSheetTitle": "آئٹم شامل کریں۔",
+  "itemSingleAdd": "سنگل ایڈ",
+  "itemBulkAdd": "بلک شامل کریں۔",
+  "itemBulkAddTitle": "بلک آئٹمز شامل کریں۔",
+  "itemEditTitle": "آئٹم میں ترمیم کریں۔",
+  "itemAddTitle": "آئٹم شامل کریں۔",
+  "itemCreateButton": "آئٹم بنائیں",
+  "itemUpdateButton": "آئٹم کو اپ ڈیٹ کریں۔",
+  "itemDeleteTitle": "آئٹم کو حذف کریں۔",
+  "itemDeleteConfirm": "کیا آپ واقعی \"{name}\" کو حذف کرنا چاہتے ہیں؟",
+  "itemDeletedSuccess": "آئٹم کو کامیابی سے حذف کر دیا گیا۔",
+  "itemCreatedSuccess": "آئٹم کامیابی کے ساتھ بن گیا۔",
+  "itemUpdatedSuccess": "آئٹم کامیابی کے ساتھ اپ ڈیٹ ہو گیا۔",
+  "itemLoading": "آئٹمز لوڈ ہو رہے ہیں...",
+  "itemErrorTitle": "افوہ! کچھ غلط ہو گیا۔",
+  "itemTryAgain": "دوبارہ کوشش کریں۔",
+  "itemSearchHint": "اشیاء تلاش کریں۔",
+  "itemNoItemsFound": "کوئی آئٹمز نہیں ملے",
+  "itemTryAdjustSearch": "اپنی تلاش کی اصطلاحات کو ایڈجسٹ کرنے کی کوشش کریں۔",
+  "itemNoItemsAvailable": "کوئی آئٹمز دستیاب نہیں ہیں۔",
+  "itemAddToGetStarted": "شروع کرنے کے لیے آئٹمز شامل کریں۔",
+  "itemNoMoreItems": "مزید اشیاء نہیں ہیں۔",
+  "itemPurposeBoth": "دونوں",
+  "itemPurposePurchases": "خریداریاں",
+  "itemTypeProduct": "پروڈکٹ",
+  "itemTypeService": "سروس",
+  "itemTypeInventory": "انوینٹری",
+  "itemPhotoTitle": "آئٹم کی تصویر",
+  "itemPhotoHint": "تصاویر کو منتخب کرنے یا اپ لوڈ کرنے کے لیے یہاں کلک کریں۔",
+  "itemPhotoFormats": "JPEG، PNG، GIF، یا WebP · زیادہ سے زیادہ 5MB",
+  "itemAddPhoto": "تصویر شامل کریں۔",
+  "itemPhotoLibrary": "فوٹو لائبریری",
+  "itemPhotoLibraryHint": "اپنی تصاویر میں سے انتخاب کریں۔",
+  "itemTakePhoto": "تصویر کھینچو",
+  "itemUploadGallery": "گیلری سے اپ لوڈ کریں۔",
+  "itemUploadGalleryHint": "اس ڈیوائس پر فائلیں براؤز کریں۔",
+  "itemTypeLabel": "قسم",
+  "itemTypeField": "آئٹم کی قسم",
+  "itemNameLabel": "آئٹم کا نام",
+  "itemNameHint": "آئٹم کا نام درج کریں۔",
+  "itemBarcodeLabel": "بارکوڈ / کیو آر کوڈ",
+  "itemBarcodeField": "بارکوڈ / کیو آر کوڈ",
+  "itemBarcodeHint": "ایپ بار سے اسکین کریں یا پیسٹ کریں۔",
+  "itemRateLabel": "شرح",
+  "itemUnitLabel": "یونٹ",
+  "itemPurposeLabel": "مقصد",
+  "itemSelectUnit": "یونٹ منتخب کریں۔",
+  "itemSelectPurpose": "مقصد منتخب کریں۔",
+  "itemSelectCategory": "زمرہ منتخب کریں۔",
+  "itemSelectType": "قسم منتخب کریں۔",
+  "itemSelectItemType": "آئٹم کی قسم منتخب کریں۔",
+  "itemSearchUnits": "تلاش یونٹس…",
+  "itemSearchPurpose": "تلاش کا مقصد…",
+  "itemSearchCategories": "زمرے تلاش کریں…",
+  "itemCreateCustomUnit": "اپنی مرضی کے مطابق یونٹ بنائیں",
+  "itemUnitName": "یونٹ کا نام",
+  "itemUnitNameHint": "جیسے، لیٹر، باکس، ٹکڑا",
+  "itemValidationName": "براہ کرم آئٹم کا نام درج کریں۔",
+  "itemValidationRate": "براہ کرم شرح درج کریں۔",
+  "itemValidationNumber": "براہ کرم درست نمبر درج کریں۔",
+  "itemSelectUnitRequired": "براہ کرم ایک یونٹ منتخب کریں۔",
+  "itemSelectPurposeRequired": "براہ کرم ایک مقصد منتخب کریں۔",
+  "itemImageMissing": "تصویری فائل غائب ہے۔",
+  "itemImageFormatError": "JPEG، PNG، GIF، یا WebP استعمال کریں۔",
+  "itemImageSizeError": "تصویر 5MB یا اس سے چھوٹی ہونی چاہیے۔",
+  "itemScanBarcode": "بارکوڈ اسکین کریں۔",
+  "itemNameFromCatalog": "کیٹلاگ سے بھرا ہوا نام: {name}",
+  "itemBarcodePasteHint": "پروڈکٹ کا کوئی نام نہیں ملا - کوڈ بطور نام چسپاں کیا گیا۔ اگر ضرورت ہو تو ترمیم کریں۔",
+  "itemBulkRefillTooltip": "پچھلے ان پٹ کو دوبارہ بھریں۔",
+  "itemBulkAddRow": "قطار شامل کریں۔",
+  "itemBulkRowLabel": "آئٹم {index}",
+  "itemBulkNameRequired": "نام درکار ہے۔",
+  "itemBulkInvalidNumber": "غلط نمبر",
+  "itemBulkCreating": "تخلیق ہو رہا ہے…",
+  "itemBulkCreateItems": "آئٹمز بنائیں",
+  "itemBulkCreatedCount": "{count} آئٹم بنائے گئے۔",
+  "itemBulkCreateFailed": "آئٹمز بنانے میں ناکام: {error}",
+  "itemBulkNoDraft": "کوئی محفوظ کردہ مسودہ نہیں ملا",
+  "itemBulkInvalidDraft": "محفوظ کردہ ڈرافٹ فارمیٹ غلط ہے۔",
+  "itemBulkDraftRestored": "پچھلا مسودہ بحال کر دیا گیا۔",
+  "itemBulkDraftRestoreFailed": "محفوظ کردہ مسودہ کو بحال نہیں کیا جا سکا",
+  "itemBulkAtLeastOne": "کم از کم ایک آئٹم شامل کریں۔",
+  "itemBulkCategoriesLoading": "زمرے لوڈ ہو رہے ہیں، براہ کرم دوبارہ کوشش کریں۔",
+  "itemBulkLoadingCategories": "زمرے لوڈ ہو رہے ہیں…",
+  "inventoryTitle": "انوینٹری تجزیات",
+  "inventorySubtitle": "ریئل ٹائم اسٹاک موومنٹ ٹریکنگ",
+  "inventorySearchHint": "آئٹمز تلاش کریں...",
+  "inventorySold": "فروخت",
+  "inventoryPurchased": "خریدا گیا۔",
+  "catNoCategories": "کوئی زمرہ جات نہیں۔ تخلیق کرنے کے لیے + کو تھپتھپائیں۔",
+  "catLoadCategories": "زمرے لوڈ کریں۔",
+  "catCreated": "زمرہ بنایا گیا۔",
+  "catRenamed": "زمرہ کا نام تبدیل کر دیا گیا۔",
+  "catDeleted": "زمرہ حذف کر دیا گیا۔",
+  "catNewTitle": "نیا زمرہ",
+  "catRenameTitle": "زمرہ کا نام تبدیل کریں۔",
+  "catNewName": "نیا نام",
+  "catRename": "نام تبدیل کریں۔",
+  "catDeleteTitle": "زمرہ حذف کریں۔",
+  "catDeleteConfirm": "\"{name}\" کو حذف کریں؟",
+  "catDeleteLinkedHint": "اشیاء منسلک ہیں۔ آپ ان کا لنک ختم کرنے کے لیے حذف کرنے پر مجبور کر سکتے ہیں۔",
+  "catForceDelete": "زبردستی حذف کریں۔",
+  "catItemsCount": "{count} آئٹمز",
+  "contactFavoritesOnly": "صرف پسندیدہ",
+  "contactShowAll": "تمام رابطے دکھائیں۔",
+  "contactSearchHint": "نام، فون، ای میل تلاش کریں…",
+  "contactNoConnection": "کوئی تعلق نہیں۔",
+  "contactCheckNetwork": "اپنا نیٹ ورک چیک کریں اور دوبارہ کوشش کریں۔",
+  "contactSomethingWrong": "کچھ غلط ہو گیا۔",
+  "contactNoContacts": "کوئی رابطے نہیں۔",
+  "contactNoFavorites": "کوئی پسندیدہ میچ نہیں ہے۔ اسٹار فلٹر کو بند کریں یا کسی رابطے میں پسندیدہ شامل کریں۔",
+  "contactTrySearchOrAdd": "کوئی مختلف تلاش کرنے کی کوشش کریں یا رابطہ شامل کرنے کے لیے + کو تھپتھپائیں۔",
+  "contactEndOfList": "فہرست کا اختتام",
+  "contactNewTooltip": "نیا رابطہ",
+  "contactLoading": "رابطے لوڈ ہو رہے ہیں…",
+  "contactUnknown": "نامعلوم",
+  "contactCallTooltip": "کال کریں۔",
+  "contactEditTitle": "رابطے میں ترمیم کریں۔",
+  "contactNewTitle": "نیا رابطہ",
+  "contactSelectTitle": "رابطہ منتخب کریں۔",
+  "contactDeleteTitle": "رابطہ حذف کریں؟",
+  "contactDeleteUndo": "اس کارروائی کو کالعدم نہیں کیا جا سکتا۔",
+  "contactNameRequired": "نام درکار ہے۔",
+  "contactNameLabel": "نام*",
+  "contactNameHint": "رابطہ کا نام",
+  "contactPhoneHint": "+977-9841234567",
+  "contactEmailHint": "email@example.com",
+  "contactCategoryHint": "جیسے کاروبار، جنرل، وی آئی پی",
+  "contactCompanyHint": "کمپنی کا نام",
+  "contactFavorite": "پسندیدہ",
+  "contactCannotCall": "اس ڈیوائس پر کال نہیں کی جا سکتی",
+  "contactPermissionDenied": "رابطہ کی اجازت مسترد کر دی گئی۔ آپ اسے ترتیبات میں فعال کر سکتے ہیں۔",
+  "contactPermissionRequired": "فون سے درآمد کرنے کے لیے رابطہ کی اجازت درکار ہے۔",
+  "contactImported": "رابطہ فون سے درآمد کیا گیا۔",
+  "contactCreated": "رابطہ بنایا گیا۔",
+  "contactUpdated": "رابطہ اپ ڈیٹ ہو گیا۔",
+  "contactDeleted": "رابطہ حذف کر دیا گیا۔",
+  "contactImportSearchHint": "نام، فون، ای میل، کمپنی کے ذریعہ تلاش کریں۔",
+  "contactImportNoResults": "کوئی رابطے نہیں ملے",
+  "@itemDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemNameFromCatalog": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkRowLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreatedCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@catDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@catItemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutMultiplePaymentHint": "اگر صارف متعدد ادائیگی کے موڈ کے ذریعے ادائیگی کرتا ہے تو اسے آن کریں۔",
+  "checkoutFillRemainingBalance": "بقیہ بیلنس بھریں۔",
+  "checkoutEnterAtLeastOnePayment": "کم از کم ایک ادائیگی کی رقم درج کریں۔",
+  "checkoutPaymentsExceedTotal": "کل ادائیگیاں عظیم کل سے زیادہ نہیں ہو سکتیں۔",
+  "checkoutSentAs": "بھیجا گیا بطور: {api}",
+  "@checkoutSentAs": {
+    "placeholders": {
+      "api": {
+        "type": "String"
+      }
+    }
+  },
+  "paymentCard": "کارڈ",
+  "paymentQr": "QR",
+  "paymentBank": "بینک",
+  "paymentTransfer": "منتقلی",
+  "paymentBankTransfer": "بینک ٹرانسفر",
+  "paymentSettlement": "تصفیہ",
+  "paymentCheque": "چیک کریں۔",
+  "paymentDigital": "ڈیجیٹل",
+  "paymentDigitalQr": "ڈیجیٹل (QR)",
+  "closeSummaryTitle": "اختتامی خلاصہ",
+  "closeTabDashboard": "ڈیش بورڈ",
+  "closeTabCredits": "کریڈٹس",
+  "closeWelcome": "اختتامی خلاصہ میں خوش آمدید",
+  "closeSelectDateHint": "ڈیٹا لوڈ کرنے کے لیے تاریخ منتخب کریں اور ریفریش ٹیپ کریں",
+  "closeLoadingDashboard": "ڈیش بورڈ ڈیٹا لوڈ ہو رہا ہے...",
+  "closeDataDeleted": "ڈیٹا حذف کر دیا گیا۔",
+  "closeErrorPrefix": "خرابی: {message}",
+  "@closeErrorPrefix": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExtraAmount": "اضافی رقم",
+  "closeExtraAmountDesc": "اس اختتامی دن کے لیے اضافی نقد رقم یا ایڈجسٹمنٹ ریکارڈ کی گئی ہیں۔",
+  "closeLostAmount": "کھوئی ہوئی رقم",
+  "closeLostAmountDesc": "اس مدت کے لیے نقدی کی کمی یا تغیر کو نشان زد کیا گیا ہے۔",
+  "closeTapForDetails": "تفصیلات کے لیے تھپتھپائیں۔",
+  "closeAmountLabel": "اختتام",
+  "closeAmountFormula": "اختتامی رقم کا فارمولا",
+  "closeFormulaExpression": "نقد فروخت - نقد اخراجات = اختتامی رقم",
+  "closeCashSales": "کیش سیلز",
+  "closeCashExpenses": "نقد اخراجات",
+  "closeClosingAmount": "اختتامی رقم",
+  "closeWhatThisMeans": "اس کا کیا مطلب ہے:",
+  "closeClosingMeaning": "یہ نقد رقم ہے جو دن کے اختتام پر آپ کے رجسٹر/دراز میں ہونی چاہیے۔ یہ تمام وصول شدہ نقدی کی نمائندگی کرتا ہے مائنس تمام نقد رقم ادا کی جاتی ہے۔",
+  "closeQuickStats": "فوری اعدادوشمار",
+  "closeTapCardHint": "مختصر تفصیل کے لیے کارڈ کو تھپتھپائیں۔",
+  "closeOpeningBalance": "اوپننگ بیلنس",
+  "closeTotalSales": "کل فروخت",
+  "closeQrAmount": "QR رقم",
+  "closeCashAmount": "نقد رقم",
+  "closeSalesDiscount": "سیلز ڈسکاؤنٹ",
+  "closeCreditQr": "کریڈٹ QR",
+  "closeCreditCash": "کریڈٹ کیش",
+  "closeCreditDiscount": "کریڈٹ ڈسکاؤنٹ",
+  "closePayCashGetQr": "نقد ادائیگی کریں → QR حاصل کریں",
+  "closePayQrGetCash": "Qr ادا کریں → نقد حاصل کریں",
+  "closePaymentMix": "ادائیگی کا مرکب",
+  "closePaymentMixHint": "تھپتھپائیں نقد یا ڈیجیٹل · بار فروخت کا حصہ دکھاتا ہے۔",
+  "closeCashVsDigitalTooltip": "نقد بمقابلہ فروخت کا ڈیجیٹل حصہ",
+  "closeSalesShareDesc": "{label} اس دن کی کل فروخت کا {percent}% بنتا ہے۔",
+  "@closeSalesShareDesc": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSalesLabel": "{label} فروخت",
+  "@closeSalesLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "closeNoTransactions": "کوئی لین دین دستیاب نہیں ہے۔",
+  "closeRecentTransactions": "حالیہ لین دین",
+  "closeViewAll": "سبھی دیکھیں",
+  "closeNoPurchases": "کوئی خریداری دستیاب نہیں ہے۔",
+  "closeRecentPurchases": "حالیہ خریداریاں",
+  "closeNoSalesDate": "اس تاریخ کے لیے کوئی فروخت نہیں۔",
+  "closeNoSalesHint": "سیلز ریکارڈ ہونے کے بعد یہاں دکھائی دیں گی۔",
+  "closeRoomSales": "کمرے کی فروخت",
+  "closeEmployeeSales": "ملازمین کی فروخت",
+  "closeOtherSales": "other فروخت",
+  "closeSectionCount": "{title} ({count})",
+  "@closeSectionCount": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "closeDiscountShort": "ڈسک: {amount}",
+  "@closeDiscountShort": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "closePercentOff": "{percent}% چھوٹ",
+  "@closePercentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closePending": "زیر التواء",
+  "closeNoCreditPayments": "کوئی کریڈٹ ادائیگی نہیں۔",
+  "closeNoCreditHint": "کریڈٹ ادائیگیاں یہاں ظاہر ہوں گی۔",
+  "closeViewStatistics": "اعدادوشمار دیکھیں",
+  "closeExportData": "ڈیٹا برآمد",
+  "closeExportComingSoon": "برآمد کی سہولت یہاں شامل کی جائے گی",
+  "closeHintOpeningBalance": "منتخب دن کے آغاز پر کیش پوزیشن۔",
+  "closeHintTotalSales": "اس تاریخ کے لیے ریکارڈ کردہ تمام سیلز کا مجموعہ۔",
+  "closeHintQrAmount": "ادائیگیاں QR یا ڈیجیٹل طریقوں سے موصول ہوتی ہیں۔",
+  "closeHintCashAmount": "دن کے لیے فروخت کا نقد حصہ۔",
+  "closeHintCashExpenses": "دن کے دوران اخراجات کے لیے نقد رقم ادا کی جاتی ہے۔",
+  "closeHintSalesDiscount": "فروخت پر لاگو چھوٹ۔",
+  "closeHintCreditQr": "کریڈٹ سے متعلق QR مجموعہ۔",
+  "closeHintCreditCash": "کریڈٹ سے متعلق نقدی کی نقل و حرکت۔",
+  "closeHintCreditDiscount": "کریڈٹ لین دین پر لاگو چھوٹ۔",
+  "closeHintPayCashGetQr": "تبادلہ جہاں نقد ادائیگی کی گئی اور QR کریڈٹ موصول ہوا۔",
+  "closeHintPayQrGetCash": "تبادلہ جہاں QR کی ادائیگی کی گئی تھی اور نقد وصول کیا گیا تھا۔",
+  "closeOpeningAmount": "کھلنے والی رقم",
+  "closeCurrentAmount": "موجودہ رقم",
+  "closeSaveReport": "رپورٹ محفوظ کریں۔",
+  "closeUpdateSummary": "اپ ڈیٹ کا خلاصہ",
+  "closeExists": "موجود ہے۔",
+  "closeExistingDataInfo": "آپ موجودہ ڈیٹا کو دیکھ یا تبدیل کر سکتے ہیں۔",
+  "closeEnterOpeningAmount": "براہ کرم ایک افتتاحی رقم درج کریں۔",
+  "closeEnterValidAmount": "براہ کرم ایک درست رقم درج کریں۔",
+  "languageSelectionSubtitle": "منتخب کریں کہ آپ {appName} کو کیسے استعمال کرنا چاہتے ہیں۔ آپ بعد میں ترتیبات سے اسے تبدیل کر سکتے ہیں۔",
+  "searchLanguages": "زبانیں تلاش کریں",
+  "languageSuggestedBadge": "تجویز کردہ",
+  "continueInLanguage": "{languageName} میں جاری رکھیں",
+  "noLanguageMatches": "کوئی مماثلت نہیں",
+  "noLanguageMatchesForQuery": "\"{query}\" سے کوئی زبان میل نہیں کھاتی",
+  "@languageSelectionSubtitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@continueInLanguage": {
+    "placeholders": {
+      "languageName": {
+        "type": "String"
+      }
+    }
+  },
+  "@noLanguageMatchesForQuery": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockSettingsSaved": "ایپ لاک کی ترتیبات محفوظ ہو گئیں",
+  "appLockSubtitle": "ایپ دوبارہ کھولنے پر PIN یا بایومیٹرکس درکار",
+  "appLockTitle": "ایپ لاک",
+  "appPin": "ایپ PIN",
+  "appPinIncorrect": "غلط PIN۔ دوبارہ کوشش کریں۔",
+  "appPinIncorrectWithAttempts": "غلط PIN۔ {remaining} کوششیں باقی ہیں۔",
+  "@appPinIncorrectWithAttempts": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      }
+    }
+  },
+  "appPinLockoutMessage": "بہت زیادہ غلط PIN کوششیں۔ PIN ری سیٹ کرنے کے لیے ای میل اور پاس ورڈ سے سائن ان کریں۔",
+  "appPinMismatch": "PIN مماثل نہیں۔ دوبارہ کوشش کریں۔",
+  "appPinRemoved": "ایپ PIN ہٹا دی گئی",
+  "appPinSetSuccess": "اس تنظیم کے لیے PIN محفوظ ہو گئی",
+  "appPinSubtitle": "{length}-ہندسوں والے PIN سے فوری انلاک",
+  "@appPinSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "appearance": "ظاہری شکل",
+  "backupAutoBackupHint": "وقت پر ایپ شروع ہونے پر خودکار بیک اپ",
+  "backupAutoBackupTitle": "خودکار بیک اپ",
+  "backupAutoDirectionBoth": "اپ لوڈ اور ڈاؤن لوڈ",
+  "backupAutoDirectionDownload": "کلاؤڈ سے ڈاؤن لوڈ",
+  "backupAutoDirectionUpload": "کلاؤڈ پر اپ لوڈ",
+  "backupAutoFrequencyDaily": "روزانہ",
+  "backupAutoFrequencyMonthly": "ماہانہ",
+  "backupAutoFrequencyOff": "بند",
+  "backupAutoFrequencyTitle": "بیک اپ کی تعدد",
+  "backupAutoFrequencyWeekly": "ہفتہ وار",
+  "backupAutoLastDownloaded": "آخری خودکار بحالی: {detail}",
+  "@backupAutoLastDownloaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastFailed": "آخری خودکار سنک ناکام: {detail}",
+  "@backupAutoLastFailed": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastSkipped": "آخری خودکار سنک چھوڑا گیا: {detail}",
+  "@backupAutoLastSkipped": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastUploaded": "آخری خودکار بیک اپ: {detail}",
+  "@backupAutoLastUploaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoSettingsTitle": "Google Drive ترتیبات",
+  "backupAutoSyncDirectionTitle": "خودکار سنک",
+  "backupSyncActiveOrganization": "موجودہ تنظیم",
+  "backupSyncActiveOrganizationHint": "بیک اپ آپ کی موجودہ تنظیم کا ڈیٹا اپ لوڈ کرتا ہے۔",
+  "backupSyncCompletedHint": "آپ کا ڈیٹا Google Drive پر محفوظ طریقے سے بیک اپ ہے۔",
+  "backupSyncConnected": "منسلک",
+  "backupSyncCurrentStep": "مرحلہ: {step}",
+  "@backupSyncCurrentStep": {
+    "placeholders": {
+      "step": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncGoogleAccount": "Google اکاؤنٹ",
+  "backupSyncInProgress": "سنک جاری ہے",
+  "backupSyncLastError": "آخری خرابی: {error}",
+  "@backupSyncLastError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncLastSyncDate": "تاریخ اور وقت",
+  "backupSyncLastSyncTitle": "آخری سنک",
+  "backupSyncNeverSynced": "ابھی تک کوئی بیک اپ اپ لوڈ نہیں ہوا۔",
+  "backupSyncOrganization": "تنظیم",
+  "backupSyncPageTitle": "بیک اپ اور سنک",
+  "backupSyncPhaseExport": "برآمد",
+  "backupSyncPhaseUpload": "اپ لوڈ",
+  "backupSyncProgressPercent": "{percent}%",
+  "@backupSyncProgressPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "backupSyncRecords": "بیک اپ ریکارڈز",
+  "backupSyncSignInHint": "تنظیم کا ڈیٹا بیک اپ کرنے کے لیے Google سے سائن ان کریں۔",
+  "backupSyncSignOutConfirm": "اس ڈیوائس پر Google Drive سے سائن آؤٹ کریں؟",
+  "backupSyncSignedInAs": "سائن ان بطور",
+  "backupSyncStatus": "حالت",
+  "backupSyncStatusSuccess": "مکمل",
+  "backupSyncStepExport": "مقامی ڈیٹا برآمد ہو رہا ہے",
+  "backupSyncStepUploadFile": "{file} اپ لوڈ ہو رہا ہے",
+  "@backupSyncStepUploadFile": {
+    "placeholders": {
+      "file": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncStepUploadTable": "{table} اپ لوڈ ہو رہا ہے",
+  "@backupSyncStepUploadTable": {
+    "placeholders": {
+      "table": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncTables": "بیک اپ ٹیبلز",
+  "backupSyncUnknownOrganization": "موجودہ تنظیم",
+  "backupWifiOnlyContinue": "موبائل ڈیٹا استعمال کریں",
+  "backupWifiOnlyHint": "خودکار بیک اپ Wi‑Fi کا انتظار کرتا ہے",
+  "backupWifiOnlyTitle": "صرف Wi‑Fi پر بیک اپ",
+  "biometricNotAvailable": "اس ڈیوائس پر بایومیٹرکس دستیاب نہیں",
+  "biometricRequiresPin": "بایومیٹرکس فعال کرنے سے پہلے ایپ PIN سیٹ کریں",
+  "biometricUnlockReason": "BizTrack انلاک کریں",
+  "changeAppPin": "PIN تبدیل کریں",
+  "confirmAppPin": "PIN کی تصدیق",
+  "confirmAppPinHint": "تصدیق کے لیے PIN دوبارہ درج کریں",
+  "confirmPasscodeHint": "تصدیق کے لیے پاس کوڈ دوبارہ درج کریں",
+  "contactUs": "رابطہ کریں",
+  "contactUsSubtitle": "مدد، رائے یا ایپ کے بارے میں سوالات کے لیے رابطہ کریں۔",
+  "createAppPinHint": "اس تنظیم کے لیے {length}-ہندسوں والا PIN منتخب کریں",
+  "@createAppPinHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "createPasscodeHint": "اس تنظیم کے لیے {length}-ہندسوں والا پاس کوڈ منتخب کریں",
+  "@createPasscodeHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "darkMode": "ڈارک موڈ",
+  "darkModeSubtitle": "پوری ایپ میں گہرا پس منظر",
+  "darkModeSystemSubtitle": "آپ کے ڈیوائس کے تھیم کی پیروی",
+  "dataAndBackup": "ڈیٹا اور بیک اپ",
+  "developerLabel": "ڈیولپر",
+  "disableAppPinMessage": "اس تنظیم کے لیے Face ID / بایومیٹرک انلاک بھی بند ہو جائے گا۔",
+  "disableAppPinTitle": "ایپ PIN ہٹائیں؟",
+  "displayPrecision": "ڈسپلے درستگی",
+  "displayPrecisionRange": "۰ سے ۵ کے درمیان نمبر درج کریں",
+  "emailCopiedToClipboard": "ای میل کلپ بورڈ پر کاپی ہو گئی",
+  "employeeManagementSubtitle": "ملازمین، تنخواہ اور حاضری",
+  "enableBiometricAfterPinMessage": "تیز سائن ان کے لیے PIN کے ساتھ ڈیوائس بایومیٹرکس استعمال کریں۔",
+  "enableBiometricTitle": "بایومیٹرکس فعال کریں؟",
+  "enableFaceIdTitle": "Face ID فعال کریں؟",
+  "enableFingerprintTitle": "فنگر پرنٹ فعال کریں؟",
+  "enableInvoiceReturns": "انوائس ریٹرن فعال کریں",
+  "enableInvoiceReturnsSubtitle": "ادا شدہ انوائسز سے ریٹرن بنانے کی اجازت دیں۔",
+  "enterAppPin": "اپنا PIN درج کریں",
+  "enterPasscode": "پاس کوڈ درج کریں",
+  "googleDriveBackupFailed": "بیک اپ ناکام: {error}",
+  "@googleDriveBackupFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupNow": "ابھی بیک اپ",
+  "googleDriveBackupPluginError": "بیک اپ کے لیے ایپ مکمل دوبارہ شروع ضروری۔ ایپ بند کریں، دوبارہ کھولیں اور دوبارہ کوشش کریں۔",
+  "googleDriveBackupSectionTitle": "بیک اپ اور سنک",
+  "googleDriveBackupStarting": "بیک اپ تیار ہو رہا ہے…",
+  "googleDriveBackupSubtitleSignedIn": "{email} کے طور پر سائن ان",
+  "@googleDriveBackupSubtitleSignedIn": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupSubtitleSignedOut": "Google Drive پر تنظیم کا ڈیٹا محفوظ بیک اپ کرنے کے لیے سائن ان کریں۔",
+  "googleDriveBackupSuccess": "بیک اپ اپ لوڈ ({tableCount} ٹیبلز، {recordCount} ریکارڈز)",
+  "@googleDriveBackupSuccess": {
+    "placeholders": {
+      "tableCount": {
+        "type": "int"
+      },
+      "recordCount": {
+        "type": "int"
+      }
+    }
+  },
+  "googleDriveBackupTitle": "Google Drive بیک اپ",
+  "googleDriveLastBackup": "آخری بیک اپ: {date}",
+  "@googleDriveLastBackup": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveSignIn": "Google سے سائن ان",
+  "googleDriveSignInCancelled": "Google سائن ان منسوخ",
+  "googleDriveSignInSuccess": "Google Drive میں سائن ان",
+  "googleDriveSignOut": "سائن آؤٹ",
+  "googleDriveSignOutSuccess": "Google Drive سے سائن آؤٹ",
+  "itemSelectCategoryRequired": "براہ کرم ایک زمرہ منتخب کریں",
+  "moreBackupSyncTileLastSync": "آخری سنک: {date}",
+  "@moreBackupSyncTileLastSync": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "moreBackupSyncTileNeverSynced": "Google Drive پر بیک اپ",
+  "moreBackupSyncTileSignedInNoSync": "سائن ان · ابھی بیک اپ نہیں",
+  "notNow": "ابھی نہیں",
+  "operationManagement": "آپریشن مینجمنٹ",
+  "operationManagementSubtitle": "Items, stock reconciliation, contacts, categories, and closing",
+  "orContinueWithPassword": "یا پاس ورڈ سے سائن ان",
+  "organizationAccountingSubtitle": "انوائس اور رقم ڈسپلے ترتیبات۔",
+  "organizationRegionalSubtitle": "ملک، رپورٹنگ کرنسی اور مالی سال کی تاریخیں۔",
+  "organizationTabAccounting": "اکاؤنٹنگ",
+  "organizationTabGeneral": "عام",
+  "organizationTabRegional": "علاقائی اور مالی",
+  "partyPickerAddNewRole": "نیا {role} شامل",
+  "@partyPickerAddNewRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSearchHint": "{role} تلاش...",
+  "@partyPickerSearchHint": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSelectedLabel": "منتخب",
+  "partyPickerSettled": "ادا شدہ",
+  "partyPickerSubtitle": "یہ فروخت کس کے لیے ہے؟",
+  "preferences": "ترجیحات",
+  "quickUnlockAsUser": "{email} کے طور پر فوری سائن ان",
+  "@quickUnlockAsUser": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSubtitle": "منافع و نقصان، بیانات اور تجزیات",
+  "restoreAction": "بحال کریں",
+  "restoreFromGoogleDrive": "Google Drive سے بحال کریں",
+  "restoreFromGoogleDriveConfirm": "\"{name}\" بحال کریں؟ اس سے اس تنظیم کا مقامی ڈیٹا بدل جائے گا۔",
+  "@restoreFromGoogleDriveConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveEmpty": "آپ کے Google Drive میں کوئی بیک اپ نہیں ملا۔",
+  "restoreFromGoogleDriveFailed": "بحالی ناکام: {error}",
+  "@restoreFromGoogleDriveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveHint": "سائن ان کریں اور اس ڈیوائس پر تنظیم بحال کرنے کے لیے بیک اپ منتخب کریں۔",
+  "restoreFromGoogleDriveStarting": "بحالی شروع…",
+  "restoreFromGoogleDriveSuccess": "{name} بحال ہو گیا۔ اب سائن ان کر سکتے ہیں۔",
+  "@restoreFromGoogleDriveSuccess": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreStepCreateDatabase": "ڈیٹا بیس بن رہا ہے",
+  "restoreStepDownload": "بیک اپ ڈاؤن لوڈ",
+  "restoreStepFinalize": "بحالی مکمل",
+  "restoreStepImport": "ڈیٹا درآمد",
+  "security": "سیکیورٹی",
+  "setUpAppPin": "PIN سیٹ کریں",
+  "setUpFaceIdOrPin": "Face ID یا PIN سیٹ کریں",
+  "setUpFingerprintOrPin": "فنگر پرنٹ یا PIN سیٹ کریں",
+  "setUpNow": "ابھی سیٹ کریں",
+  "setUpQuickUnlock": "PIN فوری سائن ان سیٹ کریں",
+  "setUpQuickUnlockAfterLoginMessage": "اگلی بار تیز سائن ان کے لیے Face ID، فنگر پرنٹ یا PIN سیٹ کریں۔ بعد میں ترتیبات سے تبدیل کر سکتے ہیں۔",
+  "setUpQuickUnlockAfterLoginTitle": "فوری سائن ان فعال کریں؟",
+  "setUpQuickUnlockSubtitle": "اس تنظیم کے لیے بایومیٹرکس یا PIN استعمال کریں",
+  "signInWithBiometric": "بایومیٹرکس سے سائن ان",
+  "signInWithFaceId": "Face ID سے سائن ان",
+  "signInWithFingerprint": "فنگر پرنٹ سے سائن ان",
+  "signInWithPin": "PIN سے سائن ان",
+  "statisticsCashflow": "نقد بہاؤ",
+  "statisticsQuickOperationInvoice": "انوائس",
+  "statisticsQuickOperationReports": "رپورٹس",
+  "statisticsQuickOperationsSeeAll": "سب دیکھیں",
+  "tapDigitsToUnlock": "انلاک کے لیے {length} ہندسے ٹیپ کریں۔",
+  "@tapDigitsToUnlock": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "unlockApp": "ایپ انلاک",
+  "useBiometricInstead": "بایومیٹرکس استعمال کریں",
+  "useBiometricUnlock": "Face ID / بایومیٹرکس استعمال کریں",
+  "useBiometricUnlockSubtitle": "PIN سیٹ کرنے کے بعد فنگر پرنٹ یا Face ID سے انلاک",
+  "useFaceIdUnlock": "Face ID استعمال کریں",
+  "useFingerprintUnlock": "فنگر پرنٹ استعمال کریں",
+  "usePinInstead": "اس کی بجائے PIN",
+  "verifyPinToRemoveSubtitle": "ایپ لاک ہٹانے کے لیے {length}-ہندسوں والا PIN تصدیق کریں",
+  "@verifyPinToRemoveSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "verifyPinToRemoveTitle": "اپنا PIN درج کریں",
+  "walkthroughBackupDescription": "ایک ٹیپ Google Drive بیک اپ کے ساتھ بینک سطح کی سیکیورٹی — آپ کے ریکارڈ محفوظ اور آسانی سے بحال۔",
+  "walkthroughBackupTitle": "آپ کا ڈیٹا، ہمیشہ محفوظ",
+  "walkthroughBillingDescription": "فروخت و خرید انوائس، کچن ٹکٹ والے ٹیبل آرڈر، اور لائیو انوینٹری — سب ایک ایپ میں۔",
+  "walkthroughBillingTitle": "سیکنڈوں میں بل اور فروخت",
+  "walkthroughDashboardDescription": "آج کی فروخت، آمدنی اور بقایا — ایپ کھولتے ہی ایک صاف ڈیش بورڈ پر۔",
+  "walkthroughDashboardTitle": "آپ کا پورا کاروبار، ایک نظر میں",
+  "walkthroughOfflineDescription": "مکمل آف لائن انوائس، اخراجات اور اسٹاک۔ آن لائن ہونے پر خودکار سنک۔",
+  "walkthroughOfflineTitle": "انٹرنیٹ کے بغیر بھی کام کرتا ہے",
+  "walkthroughReadyDescription": "منٹوں میں تنظیم سیٹ اپ کریں اور آج سے سمارٹ طریقے سے کاروبار چلائیں۔ شروع کریں۔",
+  "walkthroughReadyTitle": "جب آپ تیار ہوں",
+  "walkthroughStaffDescription": "حاضری اور تنخواہ چلائیں، P&L اور پے سلپ PDF برآمد — اضافی ٹولز نہیں۔",
+  "walkthroughStaffTitle": "ملازمین، تنخواہ اور رپورٹس",
+  "ok": "ٹھیک",
+  "reportPeriodYear": "سال",
+  "reportPeriodMonth": "مہینہ",
+  "reportPeriodRange": "حد",
+  "reportPeriodDay": "دن",
+  "reportPeriodFrom": "سے",
+  "reportPeriodTo": "تک",
+  "reportPeriod": "مدت",
+  "reportAllPurchases": "تمام خرید",
+  "reportBeforeTax": "ٹیکس سے پہلے",
+  "reportRevenueRetained": "باقی آمدنی",
+  "reportHideDetails": "تفصیلات چھپائیں",
+  "reportShowDetails": "تفصیلات دکھائیں",
+  "reportSalesRevenue": "فروخت آمدنی",
+  "reportDiscountsGiven": "دی گئی رعایت",
+  "reportNetRevenue": "خالص آمدنی",
+  "reportOperatingExpenses": "آپریٹنگ اخراجات",
+  "reportTotalExpenses": "کل اخراجات",
+  "reportGrossProfit": "مجموعی منافع",
+  "reportGrossProfitChart": "مجموعی منافع",
+  "reportOperatingPlDisclaimer": "ٹیکس، استھاپت اور تنخواہ واجبات ابھی شامل نہیں — آپریٹنگ P&L تخمینہ۔",
+  "reportContraLabel": "کنٹرا",
+  "reportNoDataForPeriod": "منتخب مدت کے لیے کوئی ڈیٹا نہیں",
+  "reportRevenueVsExpenses": "آمدنی بمقابلہ اخراجات",
+  "reportExpenseBreakdown": "اخراجات کی تفصیل",
+  "reportExpenseFallback": "خرچ",
+  "reportGrossMarginPercent": "مجموعی مارجن %",
+  "reportRoomVsFnB": "کمرہ بمقابلہ F&B",
+  "reportSegmentRoom": "کمرہ",
+  "reportSegmentFnB": "F&B",
+  "reportKeyMetrics": "اہم میٹرک",
+  "reportIncomeStatement": "آمدنی کا بیان",
+  "reportChartsSection": "چارٹ",
+  "reportSegmentSummary": "حصہ خلاصہ",
+  "reportFailedToLoad": "رپورٹ لوڈ ناکام",
+  "reportOverview": "جائزہ",
+  "reportOverviewCash": "نقد",
+  "reportOverviewBank": "بینک",
+  "reportMonthlyOpeningBalance": "ماہانہ ابتدائی بیلنس",
+  "reportOpeningBalanceHint": "ہر مہینے کی شروع میں نقد پوزیشن",
+  "reportCashInOut": "نقد وصولی / ادائیگی",
+  "reportCashIn": "نقد وصولی",
+  "reportCashOut": "نقد ادائیگی",
+  "reportBankReceiptsPayments": "بینک وصولی / ادائیگی",
+  "reportReceipts": "وصولیاں",
+  "reportPayments": "ادائیگیاں",
+  "reportDailyCashVsQr": "روزانہ نقد بمقابلہ QR",
+  "reportSummariesSection": "خلاصے",
+  "reportCashSummary": "نقد خلاصہ",
+  "reportBankSummary": "بینک خلاصہ",
+  "reportDailySummary": "روزانہ خلاصہ",
+  "reportTabPurchase": "خرید",
+  "reportTabSales": "فروخت",
+  "reportTabDashboard": "ڈیش بورڈ",
+  "reportSingleDayTrend": "ایک دن — روزانہ رجحان",
+  "reportFullYearTrend": "پورا سال — ماہانہ رجحان چارٹ",
+  "reportYearLabel": "سال {year}",
+  "@reportYearLabel": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportJanDec": "جن – دسم {year}",
+  "@reportJanDec": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportTotalPurchases": "کل خرید",
+  "reportTotalSales": "کل فروخت",
+  "reportTotalInvoices": "کل انوائس",
+  "reportUnpaidBalance": "ادا نہ شدہ بیلنس",
+  "reportAvgPerInvoice": "فی انوائس اوسط",
+  "reportPerTransaction": "فی لین دین",
+  "reportMonthlySpend": "ماہانہ خرچ ({symbol})",
+  "@reportMonthlySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportMonthlySalesChart": "ماہانہ فروخت ({symbol})",
+  "@reportMonthlySalesChart": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportInvoiceCountByMonth": "مہینے کے لحاظ سے انوائس",
+  "reportTopItemsBySpend": "خرچ کے لحاظ سے بہترین ({symbol})",
+  "@reportTopItemsBySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSpendByCategory": "زمرے کے لحاظ سے خرچ",
+  "reportOtherCategory": "دیگر",
+  "reportSuppliers": "سپلائرز",
+  "reportTableSupplier": "سپلائر",
+  "reportTableAmount": "رقم",
+  "reportTableBills": "بل",
+  "reportSalesTotal": "کل فروخت",
+  "reportPurchaseTotal": "کل خرید",
+  "reportPositiveMargin": "مثبت مارجن",
+  "reportNegativeMargin": "منفی مارجن",
+  "reportGrossMargin": "مجموعی مارجن",
+  "reportOfTotalSales": "کل فروخت کا",
+  "reportFailedToLoadAnalytics": "تجزیات لوڈ ناکام",
+  "reportMarginKpi": "مارجن",
+  "reportExpensesKpi": "اخراجات",
+  "partyPickerNoResultsFor": "\"{query}\" کے لیے کوئی نتیجہ نہیں",
+  "@partyPickerNoResultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerNoPartiesForRole": "کوئی {role} فریق نہیں ملا",
+  "@partyPickerNoPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerLoadParties": "فریق لوڈ",
+  "invoiceCashCustomer": "نقد گاہک",
+  "invoiceQuickAddItemsTitle": "فوری آئٹم شامل",
+  "invoiceQuickLoadingMenu": "مینو لوڈ ہو رہا ہے…",
+  "invoiceQuickInvoiceCreated": "انوائس بن گئی",
+  "invoiceQuickAddAtLeastOneItem": "کم از کم ایک آئٹم شامل کریں",
+  "invoiceQuickNoResults": "کوئی نتیجہ نہیں ملا!",
+  "invoiceQuickNoItemsInCategory": "اس زمرے میں کوئی آئٹم نہیں",
+  "invoiceQuickAddItem": "آئٹم شامل",
+  "invoiceQuickLoadMore": "مزید لوڈ",
+  "invoiceQuickScrollLoadMore": "مزید لوڈ کے لیے سکرول ({count} فی صفحہ)",
+  "invoiceQuickSupplierEmployee": "سپلائر / ملازم",
+  "invoiceQuickEditItem": "آئٹم ترمیم",
+  "closeSelectDateRange": "تاریخ کی حد منتخب کریں",
+  "closeStartDate": "شروع کی تاریخ",
+  "closeEndDate": "اختتامی تاریخ",
+  "closeSelectBothDates": "براہ کرم شروع اور اختتام دونوں تاریخیں منتخب کریں",
+  "closeDeleteSummary": "خلاصہ حذف کریں",
+  "closeDeleteSummaryConfirm": "کیا آپ واقعی یہ خلاصہ حذف کرنا چاہتے ہیں؟",
+  "closeSelectDate": "تاریخ منتخب کریں",
+  "closeNoDataToExport": "برآمد کے لیے کوئی ڈیٹا نہیں",
+  "closeNoDataToShare": "شیئر کے لیے کوئی ڈیٹا نہیں",
+  "closeNoDataToPrint": "پرنٹ کے لیے کوئی ڈیٹا نہیں",
+  "closePdfGenerateError": "PDF بنانے میں خرابی: {error}",
+  "@closePdfGenerateError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfShareError": "PDF شیئر میں خرابی: {error}",
+  "@closePdfShareError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfPrintError": "PDF پرنٹ میں خرابی: {error}",
+  "@closePdfPrintError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExportPdf": "PDF کے طور پر برآمد",
+  "closeSharePdf": "PDF شیئر",
+  "closePrint": "پرنٹ",
+  "closeExportOptions": "برآمد کے اختیارات",
+  "closeExportPdfSubtitle": "PDF دستاویز کے طور پر محفوظ یا دیکھیں",
+  "closeSharePdfSubtitle": "ایپ یا ای میل کے ذریعے شیئر کریں",
+  "closePrintSubtitle": "رپورٹ پرنٹ کریں",
+  "invoiceQuickShowingItems": "{total} میں سے {shown} دکھا رہے ہیں",
+  "invoiceQuickLoadedItems": "لوڈ: {count}",
+  "invoiceQuickRoomCabinEmployee": "کمرہ / کیبن / ملازم",
+  "reportPercentOfRevenue": "آمدنی کا {percent}%",
+  "@reportPercentOfRevenue": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "reportParties": "فریق",
+  "reportMonthYearDailyTrend": "{month} {year} — روزانہ رجحان چارٹ",
+  "@reportMonthYearDailyTrend": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceQuickCart": "ٹوکری",
+  "invoiceQuickCartWithCount": "ٹوکری ({count})",
+  "invoiceQuickClearSearch": "تلاش صاف",
+  "closeAllRecords": "تمام ریکارڈ",
+  "closeDailyCashSummaryReport": "روزانہ نقد خلاصہ رپورٹ",
+  "closeDailyCashSummaryTitle": "روزانہ نقد خلاصہ",
+  "closeDetails": "تفصیلات",
+  "closeGeneratedAt": "تخلیق: {date}",
+  "@closeGeneratedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "closePageN": "صفحہ {n}",
+  "@closePageN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "closePeriodRange": "مدت: {start} سے {end}",
+  "@closePeriodRange": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummaryOverview": "خلاصہ جائزہ",
+  "closeTotalRecords": "کل ریکارڈ",
+  "closeAddSummary": "خلاصہ شامل کریں",
+  "closeSalesAmount": "فروخت کی رقم",
+  "closeClosingBalance": "اختتامی بیلنس",
+  "closeLostMoney": "گم شدہ رقم",
+  "closeDiscount": "رعایت",
+  "closeExpenses": "اخراجات",
+  "closeUnpaid": "ادا نہیں",
+  "closeTotalOpeningBalance": "کل ابتدائی بیلنس",
+  "closeTotalSalesAmount": "کل فروخت کی رقم",
+  "closeTotalCashAmount": "کل نقد رقم",
+  "closeTotalQrAmount": "کل QR رقم",
+  "closeTotalDiscount": "کل رعایت",
+  "closeTotalExpenses": "کل اخراجات",
+  "closeTotalClosingBalance": "کل اختتامی بیلنس",
+  "closeTotalLostMoney": "کل گم شدہ رقم",
+  "closeTotalExtraAmount": "کل اضافی رقم",
+  "closeShowingCurrentMonth": "موجودہ مہینے کا ڈیٹا",
+  "closeNoSummariesFound": "کوئی خلاصہ نہیں ملا",
+  "closeNoSummariesAvailable": "کوئی خلاصہ دستیاب نہیں",
+  "closeTryAdjustingDateRange": "تاریخ کی حد ایڈجسٹ کریں",
+  "closeCreateFirstSummary": "شروع کرنے کے لیے پہلا خلاصہ بنائیں",
+  "closeClearFilter": "فلٹر صاف کریں",
+  "closeFiltered": "فلٹر شدہ",
+  "closeFilteredWithRange": "فلٹر: {range}",
+  "@closeFilteredWithRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummarySingular": "خلاصہ",
+  "closeSummariesPlural": "خلاصے",
+  "closeSummaryUpdatedSuccess": "خلاصہ کامیابی سے اپ ڈیٹ",
+  "closeSummaryDeletedSuccess": "خلاصہ کامیابی سے حذف",
+  "premiumUnlockTitle": "{appName} Premium ان لاک کریں",
+  "@premiumUnlockTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumTagline": "مکمل آف لائن POS، انوائسنگ، انوینٹری اور رپورٹس — آپ کے کاروبار کے لیے ایک سبسکرپشن۔",
+  "premiumFeatureUnlimitedInvoices": "لامحدود انوائسز اور رسیدیں",
+  "premiumFeatureInventoryStock": "انوینٹری اور اسٹاک ٹریکنگ",
+  "premiumFeatureReportsAnalytics": "سیلز رپورٹس اور تجزیہ",
+  "premiumFeatureOfflineLocal": "آف لائن کام کرتا ہے — آپ کا ڈیٹا مقامی رہتا ہے",
+  "premiumContinueWith": "{plan} کے ساتھ جاری رکھیں",
+  "@premiumContinueWith": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRestorePurchases": "خریداریاں بحال کریں",
+  "premiumSubscriptionLegal": "ادائیگی آپ کے Apple ID سے وصول ہوگی۔ مدت ختم ہونے سے کم از کم 24 گھنٹے پہلے منسوخ نہ کرنے پر سبسکرپشن خودکار تجدید ہوتی ہے۔",
+  "premiumPurchaseRestored": "خریداری بحال ہو گئی۔",
+  "premiumNoActiveSubscription": "کوئی فعال سبسکرپشن نہیں ملی۔",
+  "premiumPlanMonthly": "ماہانہ",
+  "premiumPlanMonthlySubtitle": "لچکدار — کسی بھی وقت منسوخ کریں",
+  "premiumPlanYearly": "سالانہ",
+  "premiumPlanYearlySubtitle": "بہترین قیمت — {percent}% بچت",
+  "@premiumPlanYearlySubtitle": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "premiumPlanLifetime": "تاحیات",
+  "premiumPlanLifetimeSubtitle": "ایک بار ادا کریں، ہمیشہ رکھیں",
+  "premiumPlanPopular": "مقبول",
+  "premiumOneTimePurchase": "یک بار کی خریداری",
+  "subscriptionSectionTitle": "سبسکرپشن",
+  "subscriptionPremiumLabel": "Premium",
+  "subscriptionUpgradeTitle": "Premium میں اپ گریڈ کریں",
+  "subscriptionPremiumPricing": "ماہانہ {monthly} · سالانہ {yearly}",
+  "@subscriptionPremiumPricing": {
+    "placeholders": {
+      "monthly": {
+        "type": "String"
+      },
+      "yearly": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActiveUntil": "{plan} {date} تک فعال",
+  "@subscriptionPremiumActiveUntil": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActive": "{plan} فعال",
+  "@subscriptionPremiumActive": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRequired": "Premium درکار",
+  "upgradeToPremiumContinue": "جاری رکھنے کے لیے Premium میں اپ گریڈ کریں۔",
+  "freemiumFreePlanLimit": "مفت پلان {limit} {label} تک اجازت دیتا ہے۔ لامحدود رسائی کے لیے Premium میں اپ گریڈ کریں۔",
+  "@freemiumFreePlanLimit": {
+    "placeholders": {
+      "limit": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "freemiumPartyRoleRequired": "پارٹی کا کردار درکار ہے۔",
+  "shiftReminderOpeningTitle": "کھولنے کی یاد دہانی",
+  "shiftReminderOpeningMessage": "کیا آپ نے آج کے لیے رجسٹر کھولا؟",
+  "shiftReminderOpeningProceed": "ہاں، ابھی کھولیں",
+  "shiftReminderClosingTitle": "بند کرنے کی یاد دہانی",
+  "shiftReminderClosingMessage": "کیا آپ نے آج کے لیے رجسٹر بند کیا؟",
+  "shiftReminderClosingProceed": "ہاں، ابھی بند کریں",
+  "shiftReminderSkipToday": "آج کے لیے چھوڑ دیں",
+  "shiftReminderOpeningNotificationTitle": "کھولنے کی یاد دہانی",
+  "shiftReminderOpeningNotificationBody": "کیا آپ نے آج کے لیے رجسٹر کھولا؟ ابھی کھولنا ہے تو یہاں ٹیپ کریں۔",
+  "shiftReminderClosingNotificationTitle": "بند کرنے کی یاد دہانی",
+  "shiftReminderClosingNotificationBody": "کیا آپ نے آج کے لیے رجسٹر بند کیا؟ ابھی بند کرنا ہے تو یہاں ٹیپ کریں۔",
+  "closeExchangePayQrGetCashHint": "{business} گاہک کو QR ادا کرتا ہے؛ گاہک نقد دیتا ہے۔",
+  "@closeExchangePayQrGetCashHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExchangePayCashGetQrHint": "{business} گاہک کو نقد ادا کرتا ہے؛ گاہک QR ادائیگی دیتا ہے۔",
+  "@closeExchangePayCashGetQrHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closePaymentExchange": "ادائیگی کا تبادلہ",
+  "closePayQrGetCashExchangeLabel": "QR ادا کریں → نقد تبادلہ",
+  "closePayCashGetQrExchangeLabel": "نقد ادا کریں → QR تبادلہ",
+  "closePayQrGetCashDetail": "QR دے کر نقد لیں",
+  "closePayCashGetQrDetail": "نقد دے کر QR لیں",
+  "faqSectionPremium": "Premium اور بلنگ",
+  "faqPremiumWhatsIncludedQuestion": "Premium میں کیا شامل ہے؟",
+  "faqPremiumWhatsIncludedAnswer": "Premium لامحدود انوائسز، مکمل رپورٹس (P&L، سٹیٹمنٹ، تجزیہ)، بیک اپ اور سنک، پے رول، حاضری، اسٹاک ٹولز، انوائس ایکسپورٹ/پرنٹ اور اضافی تنظیمیں unlock کرتا ہے۔ مفت ٹیئر میں بنیادی POS فیچرز مناسب حدود میں دستیاب ہیں۔",
+  "faqPremiumFreeTierQuestion": "مفت ٹیئر میں کیا شامل ہے؟",
+  "faqPremiumFreeTierAnswer": "آپ 10 سیلز اور 10 پرچیز انوائسز، 4 ملازم، 30 آئٹمز بنا سکتے ہیں اور حد پہنچنے پر دیگر حدود دکھائی جائیں گی۔ کھولنا، بند کرنا، کیلکولیٹر اور ڈیٹا براؤز مفت رہتا ہے۔",
+  "faqPremiumRestoreQuestion": "خریداری کیسے بحال کریں؟",
+  "faqPremiumRestoreAnswer": "مزید → Premium میں اپ گریڈ (یا paywall) کھولیں اور خریداریاں بحال کریں ٹیپ کریں۔ سبسکرائب کرنے والا Apple ID استعمال کریں۔",
+  "faqPremiumCancelQuestion": "سبسکرپشن کیسے منسوخ کریں؟",
+  "faqPremiumCancelAnswer": "iPhone Settings → Apple ID → Subscriptions میں منظم یا منسوخ کریں۔ ادا شدہ مدت ختم تک رسائی برقرار رہے گی۔",
+  "faqDarkModeQuestion": "ڈارک موڈ کیسے آن کریں؟",
+  "faqDarkModeAnswer": "مزید → ظاہری شکل کھولیں اور Dark mode فعال کریں۔ ڈیوائس سسٹم تھیم استعمال کرے تو ایپ خودکار پیروی کرتی ہے۔",
+  "faqOpeningClosingReminderQuestion": "کھولنے اور بند کرنے کی یاد دہانیاں کیا ہیں؟",
+  "faqOpeningClosingReminderAnswer": "{appName} روزانہ کیش رجسٹر کھولنے یا بند کرنے کی یاد دلا سکتا ہے۔ آپ جاری رکھ سکتے، آج چھوڑ سکتے یا یاد دہانی بند کر سکتے ہیں۔",
+  "faqPartyRolesQuestion": "پارٹی کے کردار کیا ہیں؟",
+  "faqPartyRolesAnswer": "پارٹی کے کردار گاہک، سپلائر، کمرے یا ملازمین جیسے رابطوں کو درجہ بندی کرتے ہیں۔ آپریشنز → Party roles میں حسب ضرورت بنائیں اور ٹیم کے لیے مختصر وضاحت شامل کریں۔",
+  "faqRateAppQuestion": "{appName} کو کیسے ریٹ کریں؟",
+  "faqRateAppAnswer": "App Store پر جائزہ دینے کے لیے مزید → Rate us کھولیں۔ آپ کی رائے آف لائن بلنگ بہتر بنانے میں مدد کرتی ہے۔",
+  "freemiumLabelSalesInvoices": "سیلز انوائسز",
+  "freemiumLabelPurchaseInvoices": "پرچیز انوائسز",
+  "freemiumLabelEmployees": "ملازم",
+  "freemiumLabelItems": "آئٹمز",
+  "freemiumLabelCategories": "زمرے",
+  "freemiumLabelPaymentMethods": "ادائیگی کے طریقے",
+  "freemiumLabelCustomPartyRoles": "حسب ضرورت پارٹی کردار",
+  "freemiumLabelPartiesForRole": "{role} کے لیے پارٹیاں",
+  "freemiumLabelOrganizations": "تنظیمیں",
+  "freemiumPremiumReports": "رپورٹس Premium کے ساتھ دستیاب ہیں۔",
+  "freemiumPremiumBackupSync": "بیک اپ اور سنک کے لیے Premium درکار۔",
+  "freemiumPremiumPayroll": "پے رول کے لیے Premium درکار۔",
+  "freemiumPremiumAttendance": "حاضری کے لیے Premium درکار۔",
+  "freemiumPremiumStock": "اسٹاک مینجمنٹ کے لیے Premium درکار۔",
+  "freemiumPremiumInvoiceExport": "ڈاؤن لوڈ اور پرنٹ کے لیے Premium درکار۔",
+  "@faqOpeningClosingReminderAnswer": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@faqRateAppQuestion": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@freemiumLabelPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  }
+}

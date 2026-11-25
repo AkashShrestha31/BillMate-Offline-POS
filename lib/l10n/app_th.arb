@@ -1,0 +1,2653 @@
+{
+  "@@locale": "th",
+  "noInternetConnection": "ไม่มีการเชื่อมต่ออินเทอร์เน็ต",
+  "formatException": "ข้อยกเว้นรูปแบบ",
+  "rememberMe": "จดจำฉัน",
+  "signIn": "เข้าสู่ระบบ",
+  "passwordHint": "ใส่รหัสผ่าน",
+  "forgetPassword": "ลืมข้อมูลการเข้าสู่ระบบ?",
+  "okay": "ตกลง",
+  "success": "สำเร็จ",
+  "hotel": "โรงแรม",
+  "errorEncountered": "พบข้อผิดพลาด",
+  "serverError": "ข้อผิดพลาดของเซิร์ฟเวอร์",
+  "requestFailed": "คำขอล้มเหลว",
+  "connectionTimedOut": "การเชื่อมต่อหมดเวลา",
+  "password": "รหัสผ่าน",
+  "keepSignIn": "คงสถานะเข้าสู่ระบบ",
+  "enterPassword": "ใส่รหัสผ่าน",
+  "enterValidPassword": "ใส่รหัสผ่านที่ถูกต้อง",
+  "skip": "ข้าม",
+  "pleaseWait": "กรุณารอสักครู่ ....",
+  "enterValidUserName": "ใส่ชื่อผู้ใช้ที่ถูกต้อง",
+  "userName": "ชื่อผู้ใช้",
+  "or": "หรือ",
+  "retry": "ลองอีกครั้ง",
+  "error": "ข้อผิดพลาด",
+  "supportMessage": "กรุณาติดต่อผู้ดูแลระบบ",
+  "responseMessage404": "ข้อผิดพลาด 404",
+  "appDisplayName": "BizTrack",
+  "appVersionLabel": "เวอร์ชัน {version}",
+  "@appVersionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "ยกเลิก",
+  "yes": "ใช่",
+  "no": "ไม่",
+  "close": "ปิด",
+  "save": "บันทึก",
+  "delete": "ลบ",
+  "confirm": "ยืนยัน",
+  "done": "เสร็จสิ้น",
+  "next": "ถัดไป",
+  "getStarted": "เริ่มต้น",
+  "back": "กลับ",
+  "submit": "ส่ง",
+  "continueAction": "ดำเนินการต่อ",
+  "tryAgain": "ลองอีกครั้ง",
+  "warning": "คำเตือน",
+  "loading": "กำลังโหลด…",
+  "comingSoon": "เร็วๆ นี้",
+  "required": "จำเป็น",
+  "search": "ค้นหา",
+  "add": "เพิ่ม",
+  "edit": "แก้ไข",
+  "remove": "ลบออก",
+  "view": "ดู",
+  "export": "ส่งออก",
+  "import": "นำเข้า",
+  "refresh": "รีเฟรช",
+  "select": "เลือก",
+  "upload": "อัปโหลด",
+  "download": "ดาวน์โหลด",
+  "share": "แชร์",
+  "filter": "กรอง",
+  "sort": "จัดเรียง",
+  "apply": "ใช้งาน",
+  "reset": "รีเซ็ต",
+  "clear": "ล้าง",
+  "all": "ทั้งหมด",
+  "none": "ไม่มี",
+  "total": "รวม",
+  "subtotal": "ยอดรวมย่อย",
+  "grandTotal": "ยอดรวมทั้งหมด",
+  "amount": "จำนวนเงิน",
+  "quantity": "จำนวน",
+  "rate": "ราคา",
+  "discount": "ส่วนลด",
+  "paid": "ชำระแล้ว",
+  "unpaid": "ยังไม่ชำระ",
+  "credit": "เครดิต",
+  "cash": "เงินสด",
+  "date": "วันที่",
+  "time": "เวลา",
+  "name": "ชื่อ",
+  "email": "อีเมล",
+  "phone": "โทรศัพท์",
+  "address": "ที่อยู่",
+  "notes": "บันทึก",
+  "description": "คำอธิบาย",
+  "status": "สถานะ",
+  "type": "ประเภท",
+  "category": "หมวดหมู่",
+  "party": "คู่ค้า",
+  "item": "รายการ",
+  "payment": "การชำระเงิน",
+  "settlement": "การชำระบัญชี",
+  "opening": "ยอดเปิด",
+  "closing": "ยอดปิด",
+  "stock": "Stock reconciliation",
+  "expense": "ค่าใช้จ่าย",
+  "revenue": "รายได้",
+  "profit": "กำไร",
+  "loss": "ขาดทุน",
+  "sales": "การขาย",
+  "purchase": "ซื้อ",
+  "monthJan": "ม.ค.",
+  "monthFeb": "ก.พ.",
+  "monthMar": "มี.ค.",
+  "monthApr": "เม.ย.",
+  "monthMay": "พ.ค.",
+  "monthJun": "มิ.ย.",
+  "monthJul": "ก.ค.",
+  "monthAug": "ส.ค.",
+  "monthSep": "ก.ย.",
+  "monthOct": "ต.ค.",
+  "monthNov": "พ.ย.",
+  "monthDec": "ธ.ค.",
+  "more": "เพิ่มเติม",
+  "profile": "โปรไฟล์",
+  "operations": "ปฏิบัติการ",
+  "employeeManagement": "การจัดการพนักงาน",
+  "report": "รายงาน",
+  "helpAndSupport": "ช่วยเหลือและสนับสนุน",
+  "privacyAndPolicies": "ความเป็นส่วนตัวและนโยบาย",
+  "faq": "คำถามที่พบบ่อย",
+  "contactSupport": "ติดต่อฝ่ายสนับสนุน",
+  "rateUs": "ให้คะแนนเรา",
+  "rateUsSubtitle": "ชอบ BizTrack ไหม? ฝากรีวิวไว้ใน Google Play",
+  "rateUsUnavailable": "ไม่สามารถเปิดร้านค้าได้ กรุณาลองใหม่ภายหลัง",
+  "reportProblem": "รายงานปัญหา",
+  "logout": "ออกจากระบบ",
+  "signOut": "ออกจากระบบ",
+  "settings": "การตั้งค่า",
+  "testData": "ข้อมูลทดสอบ",
+  "regionAndCurrency": "ภูมิภาคและสกุลเงิน",
+  "reportingCurrency": "สกุลเงินรายงาน",
+  "selectCurrency": "เลือกสกุลเงิน",
+  "currencySample": "{code} · {symbol} · ตัวอย่าง {sample}",
+  "@currencySample": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      },
+      "sample": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdated": "ตั้งค่าสกุลเงินเป็น {code} ({symbol})",
+  "@currencyUpdated": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdateFailed": "ไม่สามารถอัปเดตสกุลเงิน: {error}",
+  "@currencyUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "setupAppTitle": "ตั้งค่า {appName}",
+  "@setupAppTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "setupSubtitle": "กำหนดค่าองค์กรและการบัญชีของคุณ — เก็บไว้ในอุปกรณ์นี้สำหรับใช้งานออฟไลน์",
+  "regionAndCurrencySubtitle": "การตั้งค่าท้องถิ่นและสกุลเงินสำหรับรายงาน",
+  "country": "ประเทศ",
+  "currency": "สกุลเงิน",
+  "selectCountry": "เลือกประเทศ",
+  "language": "ภาษา",
+  "selectLanguage": "เลือกภาษา",
+  "languageUpdated": "ตั้งค่าภาษาเป็น {name}",
+  "@languageUpdated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "languageUpdateFailed": "ไม่สามารถอัปเดตภาษา: {error}",
+  "@languageUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToApp": "ยินดีต้อนรับสู่ {appName}",
+  "@welcomeToApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "forceUpdateMessage": "กรุณาติดตั้ง {appName} เวอร์ชันล่าสุดเพื่อดำเนินการต่อ",
+  "@forceUpdateMessage": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "generatedByApp": "สร้างโดย {appName}",
+  "@generatedByApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "whatIsApp": "{appName} คืออะไร?",
+  "@whatIsApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "appDescriptionFaq": "{appName} ช่วยให้คุณจัดการใบแจ้งหนี้การขายและการซื้อ คู่ค้า (ลูกค้าและซัพพลายเออร์) สินค้าคงคลัง การชำระเงิน พนักงาน และสรุปประจำวัน — จากโทรศัพท์หรือแท็บเล็ตของคุณ",
+  "@appDescriptionFaq": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "faqIntro": "คำตอบสำหรับคำถามทั่วไปเกี่ยวกับ {appName}",
+  "@faqIntro": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseFromGallery": "เลือกจากคลังภาพ",
+  "takePhoto": "ถ่ายภาพ",
+  "photoLibrary": "คลังรูปภาพ",
+  "addPhoto": "เพิ่มรูปภาพ",
+  "couldNotPickImage": "ไม่สามารถเลือกรูปภาพ: {error}",
+  "@couldNotPickImage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteOrganizationTitle": "ลบองค์กร?",
+  "deleteOrganizationMessage": "ลบ {name} ออกจากอุปกรณ์นี้ ข้อมูลในเครื่องทั้งหมดขององค์กรนี้จะถูกลบ",
+  "deleteOrganizationWarning": "ไม่สามารถยกเลิกการกระทำนี้ได้",
+  "organizationDeleted": "ลบองค์กรแล้ว",
+  "createAction": "สร้าง",
+  "connectOrganizationTitle": "เชื่อมต่อองค์กรของคุณ",
+  "connectOrganizationSubtitle": "เลือกองค์กรเพื่อเข้าสู่ระบบ",
+  "selectOrganization": "องค์กร",
+  "selectOrganizationHint": "แตะองค์กรเพื่อดำเนินการต่อ",
+  "noSavedOrganizationsYet": "ยังไม่มีองค์กร สร้างหนึ่งอย่างหรือใช้ข้อมูลทดสอบด้านล่าง",
+  "orgConnectOnceInfo": "เชื่อมต่อแอปกับบัญชีธุรกิจของคุณ คุณต้องตั้งค่าเพียงครั้งเดียวต่ออุปกรณ์",
+  "organizationCodeLabel": "รหัส: {code}",
+  "loginWithTestData": "เข้าสู่ระบบด้วยข้อมูลทดสอบ",
+  "loginWithTestDataSubtitle": "โหลดข้อมูลโรงแรมเดโมและเข้าสู่ระบบอัตโนมัติ",
+  "testDataLoginFailed": "ไม่สามารถโหลดข้อมูลทดสอบ: {error}",
+  "preparingTestData": "กำลังเตรียมข้อมูลเดโม…",
+  "setupOrganizationName": "ชื่อองค์กร",
+  "setupCompanyName": "ชื่อบริษัท",
+  "setupBusinessType": "ประเภทธุรกิจ",
+  "businessTypeHotel": "โรงแรม",
+  "businessTypeRestaurant": "ร้านอาหาร",
+  "businessTypeHotelRestaurant": "โรงแรมและร้านอาหาร",
+  "businessTypeRetail": "ค้าปลีก / ร้านค้า",
+  "businessTypeCafe": "คาเฟ่ / เบเกอรี่",
+  "businessTypeBar": "บาร์ / พับ",
+  "businessTypeOther": "อื่นๆ",
+  "organizationBusinessTypeLabel": "ประเภท: {type}",
+  "@organizationBusinessTypeLabel": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "organizationSettings": "องค์กร",
+  "editOrganizationInfo": "ข้อมูลองค์กร",
+  "editOrganizationInfoSubtitle": "อัปเดตวิธีที่ธุรกิจนี้แสดงในแอป รหัสองค์กรไม่สามารถเปลี่ยนได้",
+  "organizationCode": "รหัสองค์กร",
+  "organizationCodeReadOnly": "รหัสนี้จะถูกกำหนดหลังการตั้งค่า",
+  "organizationInfoUpdated": "บันทึกข้อมูลองค์กรแล้ว",
+  "organizationInfoLoadFailed": "ไม่สามารถโหลดข้อมูลองค์กรได้",
+  "organizationInfoSaveFailed": "ไม่สามารถบันทึกข้อมูลองค์กรได้: {error}",
+  "@organizationInfoSaveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "saveChanges": "บันทึกการเปลี่ยนแปลง",
+  "setupFullName": "ชื่อ-นามสกุล",
+  "setupConfirmPassword": "ยืนยันรหัสผ่าน",
+  "setupBankName": "ชื่อธนาคาร",
+  "setupRegionStepTitle": "ภูมิภาคและสกุลเงิน",
+  "setupOrganizationStepTitle": "องค์กร",
+  "setupOrganizationStepSubtitle": "ลักษณะธุรกิจของคุณในแอป",
+  "setupAdminStepTitle": "บัญชีผู้ดูแลระบบ",
+  "setupAdminStepSubtitle": "ผู้ใช้หลักสำหรับการติดตั้งนี้",
+  "setupAccountingStepTitle": "การบัญชี",
+  "setupAccountingStepSubtitle": "ธนาคาร แผนผังบัญชี และปีการเงิน",
+  "setupCompleteSetup": "ตั้งค่าให้เสร็จสิ้น",
+  "fieldRequired": "จำเป็นต้องระบุ {field}",
+  "invalidEmailAddress": "กรอกที่อยู่อีเมลที่ถูกต้อง",
+  "passwordMinLength": "รหัสผ่านต้องมีอย่างน้อย {min} ตัวอักษร",
+  "passwordsDoNotMatch": "รหัสผ่านไม่ตรงกัน",
+  "setupFixValidationErrors": "กรุณาแก้ไขข้อผิดพลาดด้านล่างเพื่อดำเนินการต่อ",
+  "setupCompleteSuccess": "ตั้งค่าเสร็จสมบูรณ์",
+  "setupCompleteWithPdfSuccess": "ตั้งค่าเสร็จสิ้น บันทึก PDF ไว้ในที่ปลอดภัย",
+  "setupPdfFailed": "ตั้งค่าเสร็จสิ้นแล้ว แต่ไม่สามารถบันทึก PDF ได้: {error}",
+  "setupFailed": "ไม่สามารถตั้งค่าให้เสร็จสิ้น กรุณาลองอีกครั้ง",
+  "setupFailedWithDetails": "การตั้งค่าล้มเหลว: {error}",
+  "languageChangeLaterHint": "คุณสามารถเปลี่ยนได้ภายหลังจากการตั้งค่า",
+  "unpaidAmount": "ยังไม่ชำระ จำนวนเงิน",
+  "unpaidBalance": "ยังไม่ชำระ",
+  "unpaidColonAmount": "ยังไม่ชำระ: {amount}",
+  "previousUnpaid": "ยังไม่ชำระ",
+  "partyUnpaid": "ยังไม่ชำระ",
+  "loadingUnpaid": "ยังไม่ชำระ…",
+  "totalUnpaid": "ยังไม่ชำระ",
+  "unpaidAmountNotYetCollected": "ยอดค้างชำระยังไม่ได้รับ",
+  "partyUnpaidTabHint": "เปิดพนักงาน เลือกบุคคล แล้วแตะยอดค้างของคู่สัญญาในโปรไฟล์ เซิร์ฟเวอร์ต้องการ ID พนักงานสำหรับการค้นหานี้",
+  "partySettlementUsesUnpaidTotal": "การชำระของคู่สัญญาใช้ยอดรวมที่ค้างชำระ",
+  "selectPartyWithUnpaidFirst": "ป้อนยอดการชำระก่อน (หรือเลือกคู่สัญญาที่มียอดค้าง)",
+  "@unpaidColonAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "partyRolesTitle": "บทบาทของคู่สัญญา",
+  "partyRolesMoreSubtitle": "ลูกค้า ผู้จัดหา ทั้งคู่ และอื่นๆ",
+  "searchRoles": "ค้นหาบทบาท",
+  "roleCount": "{count, plural, =1{1 บทบาท} other{{count} บทบาท}}",
+  "@roleCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noRolesYet": "ยังไม่มีบทบาท",
+  "noRolesYetHint": "เพิ่มบทบาทลูกค้า ผู้จัดหา ทั้งคู่ หรือกำหนดเองสำหรับผู้ติดต่อ",
+  "addRole": "เพิ่มบทบาท",
+  "deleteRoleTitle": "ลบบทบาท",
+  "deleteRoleConfirm": "ลบ \"{name}\"? ไม่สามารถยกเลิกได้",
+  "@deleteRoleConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteRoleHasPartiesMessage": "\"{name}\" ถูกใช้โดย {partyCount, plural, =1{1 คู่สัญญา} other{{partyCount} คู่สัญญา}} โอนคู่สัญญาเหล่านั้นไปยังบทบาทอื่น หรือบังคับลบ",
+  "@deleteRoleHasPartiesMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "transferParties": "โอนคู่สัญญา",
+  "hardDeleteLoseParties": "บังคับลบ (สูญเสียคู่สัญญา)",
+  "hardDeleteRoleTitle": "บังคับลบ?",
+  "hardDeleteRoleMessage": "การดำเนินการนี้จะลบ \"{name}\" และ {partyCount, plural, =1{1 คู่สัญญา} other{{partyCount} คู่สัญญา}} ที่กำหนดไว้ทั้งหมดอย่างถาวร ข้อมูลคู่สัญญาไม่สามารถกู้คืนได้\n\nคู่สัญญาที่เชื่อมโยงกับใบแจ้งหนี้หรือการชำระอาจไม่ถูกลบ — ใช้โอนแทน",
+  "@hardDeleteRoleMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteRoleAndParties": "ลบบทบาทและคู่สัญญา",
+  "addAnotherRoleBeforeDelete": "เพิ่มบทบาทอื่นก่อนลบบทบาทนี้",
+  "transferPartiesMoveMessage": "ย้าย {partyCount, plural, =1{1 คู่สัญญา} other{{partyCount} คู่สัญญา}} จาก \"{fromRole}\" ไปยัง:",
+  "@transferPartiesMoveMessage": {
+    "placeholders": {
+      "partyCount": {
+        "type": "int"
+      },
+      "fromRole": {
+        "type": "String"
+      }
+    }
+  },
+  "transferAndDeleteRole": "โอนและลบบทบาท",
+  "builtInRole": "ในตัว",
+  "rolePartyCount": "{count, plural, =1{1 คู่สัญญา} other{{count} คู่สัญญา}}",
+  "@rolePartyCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noPartiesYet": "ยังไม่มีคู่สัญญา",
+  "newRole": "บทบาทใหม่",
+  "editRole": "แก้ไขบทบาท",
+  "defaultRolesCannotEdit": "บทบาทเริ่มต้นไม่สามารถเปลี่ยนชื่อหรือลบได้",
+  "roleNameLabel": "ชื่อบทบาท *",
+  "roleNameHint": "เช่น ลูกค้า",
+  "roleDescriptionLabel": "คำอธิบาย",
+  "roleDescriptionHint": "บันทึกสั้นๆ สำหรับทีม",
+  "roleSortOrderLabel": "ลำดับการเรียง",
+  "roleSortOrderHint": "ค่าต่ำกว่าแสดงก่อนในรายการ",
+  "roleCreated": "สร้างบทบาทแล้ว",
+  "roleUpdated": "อัปเดตบทบาทแล้ว",
+  "roleDeleted": "ลบบทบาทแล้ว",
+  "roleDeletedPartiesTransferred": "ลบบทบาทแล้ว {count, plural, =1{1 คู่สัญญา} other{{count} คู่สัญญา}} ย้ายไปยัง {targetRole}",
+  "@roleDeletedPartiesTransferred": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "targetRole": {
+        "type": "String"
+      }
+    }
+  },
+  "roleAndPartiesDeleted": "ลบบทบาทและ {count, plural, =1{1 คู่สัญญา} other{{count} คู่สัญญา}} แล้ว",
+  "@roleAndPartiesDeleted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@deleteOrganizationMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@organizationCodeLabel": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "@testDataLoginFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@fieldRequired": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "@passwordMinLength": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "@setupPdfFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@setupFailedWithDetails": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "workspace": "พื้นที่ทำงาน",
+  "change": "เปลี่ยน",
+  "addMoreOrganization": "เพิ่มเติม +",
+  "connectAnotherOrganization": "เชื่อมต่อองค์กรอื่น",
+  "noSavedOrganizationsUseAddMore": "ยังไม่มีองค์กรที่บันทึกไว้ ใช้เพิ่มเติม + เพื่อเชื่อมต่อ",
+  "registerNewOrganizationTitleSignedIn": "ลงทะเบียนองค์กรใหม่?",
+  "registerNewOrganizationTitle": "ลงทะเบียนองค์กรใหม่?",
+  "registerNewOrganizationMessageSignedIn": "คุณจะออกจากระบบและวิซาร์ดการตั้งค่าจะเริ่มต้นใหม่เพื่อให้คุณลงทะเบียนธุรกิจใหม่บนอุปกรณ์นี้\n\nองค์กรที่บันทึกไว้แล้วจะยังคงอยู่ในรายการหลังการตั้งค่า",
+  "registerNewOrganizationMessageLogin": "วิซาร์ดการตั้งค่าจะเริ่มเพื่อให้คุณลงทะเบียนธุรกิจใหม่บนอุปกรณ์นี้ ทำการตั้งค่าให้เสร็จสิ้นเพื่อสร้าง; องค์กรที่บันทึกยังคงอยู่ในรายการ",
+  "startSetup": "เริ่มการตั้งค่า",
+  "enterOrganizationCode": "กรุณาป้อนรหัสองค์กรของคุณ",
+  "organizationNotFoundCheckCode": "ไม่พบองค์กร ตรวจสอบรหัสและลองอีกครั้ง",
+  "organizationNotFound": "ไม่พบองค์กร",
+  "couldNotVerifyOrganization": "ไม่สามารถยืนยันองค์กรได้",
+  "noLocalDataCompleteSetup": "ไม่มีข้อมูลในเครื่องสำหรับ {name} กรุณาทำการตั้งค่าองค์กรนี้ก่อน",
+  "@noLocalDataCompleteSetup": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeBack": "ยินดีต้อนรับกลับ",
+  "signInToContinue": "ลงชื่อเข้าใช้เพื่อดำเนินการต่อ",
+  "enterEmail": "ป้อนอีเมล",
+  "pleaseEnterEmail": "กรุณาป้อนอีเมลของคุณ",
+  "pleaseEnterValidEmail": "กรุณาป้อนอีเมลที่ถูกต้อง",
+  "enterEmailLocalPartOnly": "ป้อนเฉพาะส่วนก่อน @",
+  "pleaseEnterPassword": "กรุณาป้อนรหัสผ่านของคุณ",
+  "logIn": "เข้าสู่ระบบ",
+  "searchCountry": "ค้นหาประเทศ",
+  "searchCodeOrSymbol": "ค้นหารหัสหรือสัญลักษณ์",
+  "saveLoginDetailsTitle": "บันทึกข้อมูลเข้าสู่ระบบ?",
+  "saveLoginDetailsMessage": "คุณกำลังจะทำการตั้งค่าองค์กรนี้เสร็จสิ้น\n\nต้องการดาวน์โหลด PDF ที่ประกอบด้วยรหัสองค์กร ชื่อองค์กร อีเมล และรหัสผ่านอย่างปลอดภัยหรือไม่? เก็บไว้ในที่ปลอดภัย — ใครก็ตามที่มีไฟล์นี้สามารถเข้าสู่ระบบได้",
+  "downloadPdfAndContinue": "ดาวน์โหลด PDF และดำเนินการต่อ",
+  "continueWithoutPdf": "ดำเนินการต่อโดยไม่มี PDF",
+  "legalDisplayNameHint": "ชื่อทางกฎหมาย / ชื่อที่แสดง",
+  "chartOfAccounts": "ผังบัญชี",
+  "fiscalYearStart": "ต้นปีงบประมาณ",
+  "fiscalYearEnd": "สิ้นปีงบประมาณ",
+  "removeTestDataTitle": "ลบข้อมูลทดสอบ?",
+  "removeTestDataMessageDemoOrg": "ยอดขายสาธิต การซื้อ ผู้ติดต่อ คู่สัญญา รายการสินค้าคงคลัง เจ้าหน้าที่ ผลิตภัณฑ์เครื่องคิดเลขเครื่องดื่ม และองค์กรสาธิตเพิ่มเติมทั้งหมดจะถูกลบ\n\nคุณอยู่ในองค์กรสาธิต — หลังจากนี้คุณจะถูกเปลี่ยนกลับไปยังองค์กรแรกโดยอัตโนมัติ",
+  "removeTestDataMessageNormal": "ยอดขายสาธิต การซื้อ ผู้ติดต่อ คู่สัญญา รายการสินค้าคงคลัง เจ้าหน้าที่ และ 3 องค์กรสาธิตเพิ่มเติมทั้งหมดจะถูกลบ บัญชีผู้ดูแลระบบและข้อมูลการตั้งค่าจริงยังคงอยู่",
+  "removeTestDataWarning": "ไม่สามารถยกเลิกได้เว้นแต่จะโหลดข้อมูลทดสอบอีกครั้ง",
+  "removeTestData": "ลบข้อมูลทดสอบ",
+  "keepTestData": "เก็บข้อมูลทดสอบ",
+  "demoDataRemoved": "ลบข้อมูลสาธิตแล้ว",
+  "testDataRemovedSwitchedTo": "ลบข้อมูลทดสอบแล้ว เปลี่ยนเป็น {name}",
+  "@testDataRemovedSwitchedTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "testDataRemoved": "ลบข้อมูลทดสอบแล้ว",
+  "couldNotRemoveTestData": "ไม่สามารถลบข้อมูลทดสอบได้: {error}",
+  "@couldNotRemoveTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loadTestDataTitle": "โหลดข้อมูลทดสอบ?",
+  "loadTestDataMessage": "การดำเนินการนี้จะเพิ่มผู้ติดต่อสาธิตสูงสุด 50 ราย รายการสินค้าขายเท่านั้น 50 รายการ และซื้อเท่านั้น 50 รายการ พร้อมตัวอย่างยอดขาย การซื้อ การชำระ สต็อก สรุปการปิด เจ้าหน้าที่ เงินเดือน การเข้างาน 15 วันที่ผ่านมา และผลิตภัณฑ์เครื่องดื่มตัวอย่าง",
+  "loadTestData": "โหลดข้อมูลทดสอบ",
+  "testDataLoaded": "โหลดข้อมูลทดสอบแล้ว",
+  "couldNotLoadTestData": "ไม่สามารถโหลดข้อมูลทดสอบได้: {error}",
+  "@couldNotLoadTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "demoTestData": "ข้อมูลทดสอบสาธิต",
+  "importTestDataSubtitle": "นำเข้าข้อมูลทดสอบสำหรับทุกฟีเจอร์",
+  "hideTestDataTitle": "ซ่อนข้อมูลทดสอบสำหรับองค์กรนี้?",
+  "hideTestDataMessage": "หากดำเนินการต่อ ส่วนข้อมูลทดสอบจะถูกซ่อนในทุกที่ขององค์กรนี้ (รวมถึงการตั้งค่า) คุณสามารถเปิดใช้งานได้อีกครั้งโดยการติดตั้งใหม่หรือล้างข้อมูลแอปเท่านั้น",
+  "hideTestDataWarning": "ข้อมูลสาธิตที่โหลดไว้แล้วจะยังคงอยู่ในฐานข้อมูลจนกว่าคุณจะลบออกจากการตั้งค่า",
+  "okHideTestData": "ตกลง ซ่อนข้อมูลทดสอบ",
+  "testDataHiddenForOrg": "ซ่อนข้อมูลทดสอบสำหรับองค์กรนี้แล้ว",
+  "hideTestDataTooltip": "ซ่อนข้อมูลทดสอบสำหรับองค์กรนี้",
+  "privacyPolicyTitle": "นโยบายความเป็นส่วนตัว",
+  "termsAndConditions": "ข้อกำหนดและเงื่อนไข",
+  "logoutConfirmTitle": "ออกจากระบบ",
+  "logoutConfirmMessage": "คุณแน่ใจหรือไม่ว่าต้องการออกจากระบบ?",
+  "faqTapToExpand": "แตะคำถามเพื่อขยาย",
+  "faqSectionGettingStarted": "เริ่มต้นใช้งาน",
+  "faqSectionLogin": "เข้าสู่ระบบ",
+  "faqSectionNavigation": "การนำทาง",
+  "faqSectionInvoices": "ใบแจ้งหนี้",
+  "faqSectionPayments": "การชำระเงิน",
+  "faqSectionItemsStock": "รายการและสต็อก",
+  "faqSectionProfileEmployees": "โปรไฟล์และพนักงาน",
+  "faqSectionDashboardReports": "แดชบอร์ดและรายงาน",
+  "faqSectionSyncTroubleshooting": "การซิงค์และการแก้ปัญหา",
+  "faqNeedInternetQuestion": "ฉันต้องใช้อินเทอร์เน็ตหรือไม่?",
+  "faqNeedInternetAnswer": "หลังการตั้งค่าในเครื่องครั้งแรก คุณสามารถบันทึกใบแจ้งหนี้ รายการ และการชำระเงินโดยไม่ต้องใช้อินเทอร์เน็ต ข้อมูลยังคงอยู่บนอุปกรณ์ของคุณ การซิงค์กับเซิร์ฟเวอร์เป็นทางเลือก",
+  "faqFirstInstallQuestion": "เกิดอะไรขึ้นเมื่อติดตั้งครั้งแรก?",
+  "faqFirstInstallAnswer": "คุณอาจเห็นคำแนะนำสั้นๆ จากนั้นการตั้งค่าในเครื่อง (องค์กร บริษัท อีเมลและรหัสผ่าน สกุลเงิน ปีงบประมาณ) จากนั้นลงชื่อเข้าใช้ด้วยอีเมลและรหัสผ่านที่สร้าง",
+  "faqSignInCredentialsQuestion": "ใช้อะไรในการลงชื่อเข้าใช้?",
+  "faqSignInCredentialsAnswer": "อีเมลและรหัสผ่านจากการตั้งค่า แอปจะคงสถานะเข้าสู่ระบบจนกว่าคุณจะออกจากระบบผ่านเมนูเพิ่มเติม",
+  "faqLoggedOutQuestion": "ทำไมฉันถึงถูกออกจากระบบ?",
+  "faqLoggedOutAnswer": "คุณเลือกออกจากระบบ ล้างข้อมูลแอป หรือเซสชันหมดอายุ ลงชื่อเข้าใช้อีกครั้งด้วยข้อมูลเดิม",
+  "faqBottomTabsQuestion": "แท็บด้านล่างทำอะไร?",
+  "faqBottomTabsAnswer": "หน้าหลัก — แดชบอร์ดและภาพรวม\nยอดขาย — ใบแจ้งหนี้ขายตามวันที่\nค่าใช้จ่าย — ใบแจ้งหนี้ซื้อ/ค่าใช้จ่าย\nปุ่มกลาง — คู่สัญญา (ลูกค้า ผู้จัดหา)\nเพิ่มเติม — โปรไฟล์ รายงาน ซิงค์ ช่วยเหลือ ออกจากระบบ",
+  "faqCreateInvoiceQuestion": "สร้างใบแจ้งหนี้ขายหรือซื้ออย่างไร?",
+  "faqCreateInvoiceAnswer": "เปิดยอดขายหรือค่าใช้จ่าย เลือกวันที่ในปฏิทิน แตะปุ่ม + เพิ่มรายการและจำนวน เลือกคู่สัญญาหากจำเป็น จากนั้นบันทึกหรือส่ง",
+  "faqInvoiceDetailsQuestion": "ดูรายละเอียดใบแจ้งหนี้เต็มอย่างไร?",
+  "faqInvoiceDetailsAnswer": "แตะใบแจ้งหนี้ใดก็ได้ในรายการ รายละเอียดธุรกรรมแสดงรายการ ยอดรวม ส่วนลด และการชำระ คุณสามารถพิมพ์ แชร์ ทำสำเนา หรือชำระได้จากที่นั่น",
+  "faqZeroRateQuestion": "อัตราหรือจำนวนแสดงเป็นศูนย์ในรายละเอียด",
+  "faqZeroRateAnswer": "โดยปกติหมายความว่าข้อมูลรายการหรือการชำระหายไปในการบันทึกเก่า อัปเดตแอปและสร้างหรือชำระอีกครั้งหากจำเป็น",
+  "faqPartialPaymentQuestion": "บันทึกการชำระบางส่วนอย่างไร?",
+  "faqPartialPaymentAnswer": "เปิดใบแจ้งหนี้ → รายละเอียดธุรกรรม → ชำระเงิน ป้อนจำนวน วิธีการ และวันที่ จากนั้นประมวลผลการชำระ",
+  "faqMultiplePaymentQuestion": "การชำระหลายรายการทำงานอย่างไร?",
+  "faqMultiplePaymentAnswer": "เปิดการชำระหลายรายการ แตะแก้ไข และแบ่งยอดรวมเป็นเงินสด บัตร QR เป็นต้น แต่ละวิธีถูกบันทึกแยกกัน",
+  "faqSplitPaymentSavedQuestion": "บันทึกการชำระเพียงรายการเดียวจากการแยก",
+  "faqSplitPaymentSavedAnswer": "อัปเดตเป็นเวอร์ชันล่าสุดของแอป เวอร์ชันเก่าบางครั้งบันทึกเฉพาะบรรทัดแรก ชำระอีกครั้งหากยอดคงเหลือยังผิด",
+  "faqAddItemQuestion": "เพิ่มรายการอย่างไร?",
+  "faqAddItemAnswer": "ใช้เพิ่มรายการจากขั้นตอนการขายหรือเพิ่มด่วน ป้อนชื่อ อัตรา หน่วย วัตถุประสงค์ และรูปภาพเพิ่มเติม (JPEG/PNG/GIF/WebP สูงสุด 5 MB) จากนั้นสร้างรายการ",
+  "faqCustomUnitQuestion": "เพิ่มหน่วยกำหนดเองอย่างไร?",
+  "faqCustomUnitAnswer": "ในฟอร์มรายการ แตะหน่วย → สร้างหน่วยใหม่ที่ด้านล่างของรายการ ป้อนชื่อ (เช่น ลิตร กล่อง) และสร้าง",
+  "faqStockQuantitiesQuestion": "How do I enter stock quantities?",
+  "faqStockQuantitiesAnswer": "Live qty is In stock on each item. Set stock on an item to enter opening stock or a stock adjustment. Opening stock / stock reconciliation (upload or enter a count) also sets In stock when live tracking is on. Liquor prices is a pour-price list, not stock.",
+  "faqProfileNameQuestion": "ฉันเปลี่ยนชื่อแล้วแต่โปรไฟล์ยังแสดงชื่อเก่า",
+  "faqProfileNameAnswer": "แก้ไขบันทึกพนักงานของคุณ (อีเมลเดียวกับที่ใช้เข้าสู่ระบบ) และบันทึก แท็บเพิ่มเติมและแดชบอร์ดควรอัปเดต",
+  "faqRevenueDetailsQuestion": "รายละเอียดรายได้คืออะไร?",
+  "faqRevenueDetailsAnswer": "มุมมองรายเดือนพร้อมกราฟแนวโน้มรายวัน กำไรสุทธิ ลูกหนี้ค้างชำระ และการวิเคราะห์ยอดขายเทียบการซื้อรายวัน เปลี่ยนเดือนด้วยปฏิทินหรือชิปเดือน",
+  "faqOtherReportsQuestion": "รายงานอื่นๆ อยู่ที่ไหน?",
+  "faqOtherReportsAnswer": "เปิดเพิ่มเติมและดูภายใต้รายงาน (การวิเคราะห์ กำไรขาดทุน ใบแจ้งยอด ฯลฯ) หากบทบาทของคุณมีสิทธิ์เข้าถึง",
+  "faqWhenSyncQuestion": "ควรซิงค์เมื่อใด?",
+  "faqWhenSyncAnswer": "เฉพาะเมื่อผู้ดูแลระบบขอและมีการเชื่อมต่อที่เสถียร การซิงค์ส่งหรือรับข้อมูลระหว่างอุปกรณ์และเซิร์ฟเวอร์",
+  "faqFabPositionQuestion": "ปุ่ม + ดูสูงเกินไปในยอดขาย/ค่าใช้จ่าย",
+  "faqFabPositionAnswer": "อยู่เหนือแถบนำทางด้านล่าง เลื่อนรายการหรืออัปเดตแอปหากปุ่มทับเนื้อหาบนอุปกรณ์ของคุณ",
+  "faqHowLogoutQuestion": "ออกจากระบบอย่างไร?",
+  "faqHowLogoutAnswer": "เพิ่มเติม → ออกจากระบบที่ด้านล่างของรายการการตั้งค่า",
+  "statisticsGoodMorning": "สวัสดีตอนเช้า",
+  "statisticsGoodAfternoon": "สวัสดีตอนบ่าย",
+  "statisticsGoodEvening": "สวัสดีตอนเย็น",
+  "statisticsDefaultUser": "ผู้ใช้",
+  "statisticsCheckConnection": "โปรดตรวจสอบการเชื่อมต่อของคุณแล้วลองอีกครั้ง",
+  "statisticsCouldNotLoadProfile": "ไม่สามารถโหลดโปรไฟล์ได้",
+  "statisticsCouldNotLoadData": "ไม่สามารถโหลดข้อมูลได้",
+  "statisticsPeriodDay": "วัน",
+  "statisticsPeriodMonth": "เดือน",
+  "statisticsPeriodYear": "ปี",
+  "statisticsSelectedPeriod": "ระยะเวลาที่เลือก",
+  "statisticsSelectMonth": "เลือกเดือน",
+  "statisticsSelectMonthSubtitle": "เลือกเดือนเพื่อกรองข้อมูล",
+  "statisticsQuickOperations": "Quick Operations",
+  "statisticsAnnualRevenue": "รายได้ต่อปี",
+  "statisticsCashflowLast7Days": "กระแสเงินสด (7 วันล่าสุด)",
+  "statisticsCashflowLast12Months": "กระแสเงินสด (12 เดือนล่าสุด)",
+  "statisticsDaily": "รายวัน",
+  "statisticsMonthly": "รายเดือน",
+  "statisticsOverall": "โดยรวม",
+  "statisticsLast7Days": "Last 7 Days",
+  "statisticsLast12Months": "Last 12 Months",
+  "statisticsAllYears": "ทุกปี",
+  "statisticsNoDataAvailable": "ไม่มีข้อมูล",
+  "statisticsMoneyIn": "เงินเข้า",
+  "statisticsMoneyOut": "เงินออก",
+  "statisticsIncome": "รายได้",
+  "statisticsExpenses": "ค่าใช้จ่าย",
+  "statisticsSalesSummary": "สรุปการขาย",
+  "statisticsPurchaseSummary": "สรุปการซื้อ",
+  "statisticsTotalSales": "ยอดขายรวม",
+  "statisticsTotalIncome": "รายได้รวม",
+  "statisticsTotalUnpaid": "ยอดค้างชำระทั้งหมด",
+  "statisticsTotalPurchase": "ยอดซื้อรวม",
+  "statisticsPaidPurchase": "ชำระเงินซื้อ",
+  "statisticsUnpaidPurchase": "การซื้อที่ค้างชำระ",
+  "statisticsEmployeeDashboard": "แดชบอร์ดพนักงาน",
+  "statisticsDefaultEmployee": "พนักงาน",
+  "statisticsDefaultDepartment": "แผนก",
+  "statisticsDefaultPosition": "ตำแหน่ง",
+  "statisticsCurrentMonth": "เดือนปัจจุบัน",
+  "statisticsStatus": "สถานะ",
+  "statisticsActive": "คล่องแคล่ว",
+  "statisticsWelcome": "ยินดีต้อนรับ",
+  "statisticsEmployeeWelcomeMessage": "คุณเข้าสู่ระบบในฐานะพนักงาน ใช้เมนูนำทางเพื่อเข้าถึงคุณสมบัติที่มี",
+  "statisticsRevenueDetails": "รายละเอียดรายได้",
+  "statisticsEmployeeDetails": "รายละเอียดพนักงาน",
+  "statisticsChangeMonth": "เปลี่ยนเดือน",
+  "statisticsFilterChartsSubtitle": "กรองแผนภูมิและรายละเอียด",
+  "statisticsDailyTrend": "เทรนด์รายวัน",
+  "statisticsDailyActivity": "กิจกรรมประจำวัน",
+  "statisticsNoDataForMonth": "ไม่มีข้อมูลสำหรับเดือนนี้",
+  "statisticsNetProfit": "กำไรสุทธิ",
+  "statisticsMonthReceivables": "ลูกหนี้เดือน",
+  "statisticsNoDailyEntries": "ไม่มีรายการรายวันสำหรับเดือนนี้",
+  "statisticsDailySalesBreakdown": "สรุปยอดขายในแต่ละวัน",
+  "statisticsDailyBreakdown": "รายละเอียดรายวัน",
+  "statisticsAdvance": "ก้าวหน้า",
+  "statisticsExploreFeatures": "สำรวจคุณสมบัติ",
+  "statisticsShowOrHideFeatures": "แสดงหรือซ่อนคุณสมบัติ",
+  "statisticsAllFeaturesHidden": "คุณสมบัติการสำรวจทั้งหมดถูกซ่อนอยู่",
+  "statisticsNoFeaturesForOrg": "ไม่มีฟีเจอร์ที่พร้อมใช้งานสำหรับองค์กรของคุณ",
+  "statisticsTapTuneToShow": "แตะไอคอนปรับแต่งด้านบนเพื่อแสดงทางลัดอีกครั้ง",
+  "statisticsMenuCheck": "กระทบยอด",
+  "statisticsMenuEmployee": "พนักงาน",
+  "statisticsMenuOrder": "คำสั่ง",
+  "statisticsMenuInventory": "Items",
+  "statisticsMenuCustomers": "ลูกค้า",
+  "statisticsMenuCalculator": "Liquor prices",
+  "statisticsMenuQuickExpenses": "ด่วน\nค่าใช้จ่าย",
+  "statisticsMenuQuickSales": "ด่วน\nการขาย",
+  "statisticsMenuAddEmployee": "เพิ่ม\nลูกจ้าง",
+  "statisticsMenuAddParty": "เพิ่ม\nคู่ค้า",
+  "statisticsMenuAddEmployeeSingle": "เพิ่มพนักงาน",
+  "statisticsMenuAddPartySingle": "เพิ่มคู่ค้า",
+  "statisticsGreeting": "{greeting}, {name}",
+  "@statisticsGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsEmployeeGreeting": "{greeting}, {name}!",
+  "@statisticsEmployeeGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDepartmentPosition": "{department} • {position}",
+  "@statisticsDepartmentPosition": {
+    "placeholders": {
+      "department": {
+        "type": "String"
+      },
+      "position": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricCollected": "{amount} รวบรวมแล้ว",
+  "@statisticsMetricCollected": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricPaid": "{amount} จ่ายแล้ว",
+  "@statisticsMetricPaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyInAmount": "เงินเข้า: {amount}",
+  "@statisticsMoneyInAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyOutAmount": "เงินออก: {amount}",
+  "@statisticsMoneyOutAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDayTooltip": "วัน {day}\n{amount}",
+  "@statisticsDayTooltip": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsProfitMargin": "{percent}% มาร์จิ้น",
+  "@statisticsProfitMargin": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "selectBusinessType": "เลือกประเภทธุรกิจ",
+  "businessTypeHotelSubtitle": "ห้องพัก แขก และแผนกต้อนรับ",
+  "businessTypeRestaurantSubtitle": "สั่งอาหารในครัวและโต๊ะ",
+  "businessTypeHotelRestaurantSubtitle": "ห้องพักในโรงแรมและร้านอาหารด้วยกัน",
+  "businessTypeRetailSubtitle": "สินค้า สต๊อก และชำระเงิน",
+  "businessTypeCafeSubtitle": "กาแฟ ขนมอบ และอาหารว่าง",
+  "businessTypeBarSubtitle": "ขายเมนูเครื่องดื่ม แท็บ & บาร์",
+  "businessTypeOtherSubtitle": "การตั้งค่าแบบกำหนดเองสำหรับธุรกิจต่างๆ",
+  "@invoiceCommonSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonInvoiceLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCustomerLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSupplierLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchingFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchItemsHint": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonEmptyForDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDeleteInvoiceConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCancelReturnMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPartyLoadingError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceFoundSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceFoundPurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDatePurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateInvoiceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteMessage": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceReturnCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotPrint": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotSave": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotShare": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonItemReturnedQty": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      },
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonMultiplePaymentSummary": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptFilename": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReturnAgainst": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSavedPath": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonUnpaidWithAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonTodayAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyExportReceipts": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyNoItemsMatching": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceQuickShowingItems": {
+    "placeholders": {
+      "shown": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickLoadedItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickScrollLoadMore": {
+    "placeholders": {
+      "perPage": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickCartWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemActionsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditSelectedItem": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditRateLabel": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditItemLabel": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemsError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditPartiesError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditSaveError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonActions": "การดำเนินการ",
+  "invoiceCommonSearchItems": "ค้นหารายการ",
+  "invoiceCommonSearchItemsSubtitle": "ค้นหารายการที่เฉพาะเจาะจง",
+  "invoiceCommonAddNewInvoice": "เพิ่มใบแจ้งหนี้ใหม่",
+  "invoiceCommonAddSalesInvoiceSubtitle": "สร้างใบแจ้งหนี้การขายใหม่",
+  "invoiceCommonAddPurchaseInvoiceSubtitle": "สร้างใบแจ้งหนี้การซื้อใหม่",
+  "invoiceCommonSelectMonthYear": "เลือกเดือน/ปี",
+  "invoiceCommonSelectMonthYearSubtitle": "ข้ามไปยังเดือนที่ต้องการ",
+  "invoiceCommonSelectMonthAndYear": "เลือกเดือนและปี",
+  "invoiceCommonFilterByDate": "กรองตามวันที่",
+  "invoiceCommonFilterByDateRange": "กรองตามช่วงวันที่",
+  "invoiceCommonCloseSearch": "ปิดการค้นหา",
+  "invoiceCommonSelectAll": "เลือกทั้งหมด",
+  "invoiceCommonToday": "วันนี้",
+  "invoiceCommonTotalQuantity": "ปริมาณรวม",
+  "invoiceCommonTotalAmount": "จำนวนเงินทั้งหมด",
+  "invoiceCommonTotal": "ทั้งหมด",
+  "invoiceCommonSearchForItems": "ค้นหารายการ",
+  "invoiceCommonNoItemsFound": "ไม่พบรายการ",
+  "invoiceCommonUnknownItem": "รายการที่ไม่รู้จัก",
+  "invoiceCommonNotAvailable": "ไม่มี",
+  "invoiceSalesCouldNotLoad": "ไม่สามารถโหลดยอดขายได้",
+  "invoiceSalesNoFound": "ไม่พบยอดขาย",
+  "invoiceSalesSelectDate": "เลือกวันที่เพื่อดูยอดขาย",
+  "invoiceSalesNoInvoicesFound": "ไม่พบใบแจ้งหนี้",
+  "invoiceSalesSelectDateLegacy": "เลือกวันที่เพื่อดูใบแจ้งหนี้",
+  "invoicePurchaseCouldNotLoad": "ไม่สามารถโหลดค่าใช้จ่ายได้",
+  "invoicePurchaseNoFound": "ไม่พบการซื้อ",
+  "invoicePurchaseSelectDate": "เลือกวันที่เพื่อดูการซื้อ",
+  "invoiceWeekdaySun": "ดวงอาทิตย์",
+  "invoiceWeekdayMon": "จันทร์",
+  "invoiceWeekdayTue": "อ",
+  "invoiceWeekdayWed": "พ",
+  "invoiceWeekdayThu": "พฤ",
+  "invoiceWeekdayFri": "ศุกร์",
+  "invoiceWeekdaySat": "นั่ง",
+  "invoiceCommonSelectedCount": "{count} เลือกแล้ว",
+  "invoiceCommonQtyLabel": "จำนวน: {qty}",
+  "invoiceCommonInvoiceLabel": "ใบแจ้งหนี้: {number}",
+  "invoiceCommonCustomerLabel": "ลูกค้า: {name}",
+  "invoiceCommonSupplierLabel": "ผู้จัดจำหน่าย: {name}",
+  "invoiceCommonSearchingFor": "กำลังค้นหา \"{query}\"...",
+  "invoiceCommonSearchItemsHint": "ค้นหารายการใน {scope}...",
+  "invoiceCommonSalesSearchPrompt": "พิมพ์ชื่อรายการเพื่อค้นหายอดขายทั้งหมด\nใน {scope}",
+  "invoiceCommonPurchaseSearchPrompt": "พิมพ์ชื่อรายการเพื่อค้นหาการซื้อทั้งหมด\nใน {scope}",
+  "invoiceCommonSalesNoMatch": "ไม่มีการขาย \"{query}\"\nใน {scope}",
+  "invoiceCommonPurchaseNoMatch": "ไม่มีการซื้อ \"{query}\"\nใน {scope}",
+  "invoiceCommonEmptyForDate": "สำหรับ {date}",
+  "invoiceFoundSalesCount": "พบ {count, plural, =1{1 รายการขาย} other{{count} รายการขาย}}",
+  "invoiceFoundPurchaseCount": "พบ {count, plural, =1{1 รายการซื้อ} other{{count} รายการซื้อ}}",
+  "invoiceDateSalesCount": "{count, plural, =1{1 การขาย} other{{count} ยอดขาย}}",
+  "invoiceDatePurchaseCount": "{count, plural, =1{1 ซื้อ} other{{count} ซื้อ}}",
+  "invoiceDateInvoiceCount": "{count, plural, =1{1 ใบแจ้งหนี้} other{{count} ใบแจ้งหนี้}}",
+  "invoiceDeleteTitle": "ลบ {count, plural, =1{1 ใบแจ้งหนี้} other{{count} ใบแจ้งหนี้}}",
+  "invoiceDeleteMessage": "คุณแน่ใจหรือไม่ว่าต้องการลบ {count, plural, =1{1 ใบแจ้งหนี้ที่เลือก} other{{count} ใบแจ้งหนี้ที่เลือก}} การดำเนินการนี้ไม่สามารถยกเลิกได้",
+  "contacts": "รายชื่อผู้ติดต่อ",
+  "categories": "หมวดหมู่",
+  "manageStaff": "จัดการพนักงาน",
+  "payroll": "เงินเดือน",
+  "attendance": "การเข้าร่วม",
+  "profitAndLoss": "กำไรขาดทุน",
+  "statementReport": "งบ",
+  "analytics": "การวิเคราะห์",
+  "loggedOut": "ออกจากระบบแล้ว",
+  "organizationCodeDisplay": "รหัส: {code}",
+  "@organizationCodeDisplay": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "moreDataSynchronization": "การซิงโครไนซ์ข้อมูล",
+  "moreSendDataToClient": "ส่งข้อมูลไปยังลูกค้า",
+  "moreSendDataToClientSubtitle": "อัปโหลดข้อมูลเซิร์ฟเวอร์ไปยังไคลเอนต์",
+  "moreSendDataToClientWarning": "การดำเนินการนี้จะแทนที่ฐานข้อมูลไคลเอนต์ปัจจุบันด้วยข้อมูลจากเซิร์ฟเวอร์ การเปลี่ยนแปลงไคลเอนต์ล่าสุดทั้งหมดอาจสูญหาย",
+  "moreSendDataToClientConfirm": "คุณแน่ใจหรือไม่ว่าต้องการส่งข้อมูลไปยังไคลเอ็นต์",
+  "moreFetchDataFromClient": "ดึงข้อมูลจากไคลเอนต์",
+  "moreFetchDataFromClientSubtitle": "ดาวน์โหลดข้อมูลไคลเอนต์ไปยังเซิร์ฟเวอร์",
+  "moreFetchDataFromClientWarning": "การดำเนินการนี้จะแทนที่ฐานข้อมูลเซิร์ฟเวอร์ปัจจุบันด้วยข้อมูลจากไคลเอนต์ การเปลี่ยนแปลงเซิร์ฟเวอร์ล่าสุดทั้งหมดอาจสูญหาย",
+  "moreFetchDataFromClientConfirm": "คุณแน่ใจหรือไม่ว่าต้องการดึงข้อมูลจากไคลเอ็นต์",
+  "notifications": "การแจ้งเตือน",
+  "openingReminder": "กำลังเปิดการแจ้งเตือน",
+  "closingReminder": "การแจ้งเตือนการปิด",
+  "openingTime": "เวลาเปิดทำการ",
+  "closingTime": "เวลาปิด",
+  "notificationSettingsSaved": "บันทึกการตั้งค่าการแจ้งเตือนแล้ว",
+  "notificationPermissionHint": "อนุญาตการแจ้งเตือน (และการเตือนบน Android) เพื่อให้การแจ้งเตือนทำงานเมื่อปิดแอป",
+  "dailyAtTime": "ทุกวันเวลา {time}",
+  "@dailyAtTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonYesterday": "เมื่อวาน",
+  "invoiceCommonTodayAt": "วันนี้ {time}",
+  "invoiceCommonDaysAgo": "{count} วันที่ผ่านมา",
+  "invoiceReturnCount": "{count, plural, =1{1 รายการคืน} other{{count} รายการคืน}}",
+  "statisticsMonthRevenue": "รายได้เดือน",
+  "statisticsMonthExpenses": "ค่าใช้จ่ายเดือน",
+  "exploreCustomizeTitle": "ปรับแต่งคุณสมบัติ",
+  "exploreCustomizeSubtitle": "แสดงหรือซ่อนทางลัดบนหน้าจอหลักของคุณ มีเพียงฟีเจอร์ที่องค์กรของคุณสามารถเข้าถึงได้เท่านั้นที่แสดงอยู่ในรายการ",
+  "exploreVisibleOnDashboard": "มองเห็นได้บนแดชบอร์ด",
+  "exploreHiddenOnDashboard": "ซ่อนอยู่บนแดชบอร์ด",
+  "partiesTitle": "คู่ค้า",
+  "partySearchByName": "ค้นหาตามชื่อ…",
+  "partySortBy": "เรียงตาม:",
+  "partySortLatest": "ล่าสุด",
+  "partySortAmountHighLow": "จำนวน: สูงไปต่ำ",
+  "partySortAmountLowHigh": "จำนวน: ต่ำไปสูง",
+  "partySortNameAZ": "ชื่อ: A ถึง Z",
+  "partySortNameZA": "ชื่อ: Z ถึง A",
+  "partyAddNew": "เพิ่มคู่ค้าใหม่",
+  "partyEdit": "แก้ไขคู่ค้า",
+  "partyUpdate": "อัปเดตคู่ค้า",
+  "partyNameLabel": "ชื่อคู่ค้า*",
+  "partyNameHint": "กรอกชื่อคู่ค้า",
+  "partyNewNameLabel": "ชื่อคู่ค้าใหม่*",
+  "partyNewNameHint": "กรอกชื่อคู่ค้าใหม่",
+  "partyRoleLabel": "บทบาทคู่ค้า *",
+  "partyTapToSelect": "แตะเพื่อเลือก",
+  "partySelectRoleValidation": "กรุณาเลือกบทบาท",
+  "partyEnterNameValidation": "กรุณากรอกชื่อคู่ค้า",
+  "partyBasicInfo": "ข้อมูลพื้นฐาน",
+  "partyAdditionalInfo": "ข้อมูลเพิ่มเติม",
+  "partyEmail": "อีเมลคู่ค้า",
+  "partyEmailHint": "กรอกที่อยู่อีเมล",
+  "partyPhone": "หมายเลขโทรศัพท์",
+  "partyPhoneHint": "กรอกหมายเลขโทรศัพท์",
+  "partyAddress": "ที่อยู่คู่ค้า",
+  "partyAddressHint": "กรอกที่อยู่",
+  "partyRoleCustomer": "ลูกค้า",
+  "partyRoleSupplier": "ซัพพลายเออร์",
+  "partyRoleRoom": "ห้อง",
+  "partyRoleCabin": "ห้องพักเล็ก",
+  "partyRoleEmployee": "พนักงาน",
+  "partyRoleBoth": "ทั้งสอง",
+  "partyDefaultAccount": "บัญชีเริ่มต้น",
+  "partyLoyaltyProgram": "โปรแกรมสะสมคะแนน",
+  "partyLoyaltyPoints": "คะแนนสะสม",
+  "partySelectDefaultAccount": "เลือกบัญชีเริ่มต้น",
+  "partySelectLoyaltyProgram": "เลือกโปรแกรมสะสมคะแนน",
+  "partyCreateNewProgram": "สร้างโปรแกรมใหม่",
+  "partySelectPartyRole": "เลือกบทบาทคู่ค้า",
+  "partyAccountDebtors": "ลูกหนี้",
+  "partyAccountCreditors": "เจ้าหนี้",
+  "partyBothRoleHint": "“ทั้งสอง” หมายความว่าคู่ค้านี้จะปรากฏเฉพาะในลูกค้าและซัพพลายเออร์ — ไม่ใช่ห้อง ห้องพักเล็ก หรือพนักงาน",
+  "partyValidNumber": "กรุณากรอกหมายเลขที่ถูกต้อง",
+  "partyValidAmount": "กรุณากรอกจำนวนเงินที่ถูกต้อง",
+  "exportAsPdf": "ส่งออกเป็น PDF",
+  "sharePdf": "แบ่งปัน PDF",
+  "partyExportPdfTooltip": "ส่งออก PDF",
+  "checkoutSelectParty": "เลือกคู่ค้า",
+  "checkoutCartSummary": "สรุปรถเข็น",
+  "checkoutNoItemsInCart": "ไม่มีสินค้าในรถเข็น",
+  "checkoutSearchHere": "ค้นหาที่นี่",
+  "checkoutCreateInvoice": "สร้างใบแจ้งหนี้",
+  "checkoutEditInvoice": "แก้ไขใบแจ้งหนี้",
+  "checkoutSaveInvoice": "บันทึกใบแจ้งหนี้",
+  "checkoutInvoiceSummary": "สรุปใบแจ้งหนี้",
+  "checkoutEstimate": "ประมาณการ",
+  "checkoutBasicInformation": "ข้อมูลพื้นฐาน",
+  "checkoutAddItems": "เพิ่มรายการ",
+  "checkoutItemsSection": "รายการ",
+  "checkoutPartyRequired": "คู่ค้า *",
+  "checkoutPartyInformation": "ข้อมูลคู่ค้า",
+  "checkoutBillSummary": "สรุปบิล",
+  "checkoutBillSummaryHint": "แตะเพื่อทราบการคำนวณโดยละเอียดเพิ่มเติม",
+  "checkoutItemTotal": "รายการทั้งหมด",
+  "checkoutLoyaltyDiscount": "ส่วนลดความภักดี ({percent}%)",
+  "@checkoutLoyaltyDiscount": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutDiscountLine": "- ส่วนลด ({percent}%)",
+  "@checkoutDiscountLine": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutTapToEdit": "แตะเพื่อแก้ไข",
+  "checkoutTotalAmount": "จำนวนเงินทั้งหมด",
+  "checkoutPaymentMode": "Record payment",
+  "checkoutPaymentModeHint": "Turn on to take payment now. Leave off to submit the bill unpaid and collect later.",
+  "checkoutNetSalesAmount": "ยอดขายสุทธิ",
+  "checkoutConfirmCheckout": "ยืนยันการชำระเงิน",
+  "checkoutEditDiscount": "แก้ไขส่วนลด",
+  "checkoutPercentage": "เปอร์เซ็นต์",
+  "checkoutDiscard": "ทิ้ง",
+  "checkoutPartialPayment": "การชำระเงินบางส่วน",
+  "checkoutPartialPaymentBanner": "เมื่อเปิดใช้งานการชำระเงินบางส่วน ลูกค้าจะสามารถชำระเงินจำนวนที่น้อยกว่าจำนวนเงินที่เรียกเก็บทั้งหมด",
+  "checkoutPleaseEnterAmounts": "กรุณากรอกจำนวนเงินตามลำดับ:",
+  "checkoutPartialPaymentEqualHint": "เนื่องจากไม่มีการกำหนดผู้ใช้ จำนวนเงินทั้งหมดจึงควรเท่ากับจำนวนเงินที่เรียกเก็บทั้งหมด",
+  "checkoutOverGrandTotalBy": "เกินผลรวมทั้งหมดโดย: {amount}",
+  "@checkoutOverGrandTotalBy": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutRemainingUnpaid": "ส่วนที่เหลือ (ยังไม่ได้ชำระจากผลรวมทั้งหมด): {amount}",
+  "@checkoutRemainingUnpaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutConfirmPayment": "ยืนยันการชำระเงิน",
+  "checkoutUnpaidCredit": "ค้างชำระ / เครดิต",
+  "checkoutAddAtLeastOneLine": "เพิ่มรายการโฆษณาอย่างน้อยหนึ่งรายการเพื่อดูค่าประมาณ",
+  "checkoutMultiplePayment": "การชำระเงินหลายครั้ง",
+  "checkoutPaymentStatus": "สถานะการชำระเงิน",
+  "checkoutPaymentMethods": "วิธีการชำระเงิน",
+  "checkoutPaymentMethod": "วิธีการชำระเงิน",
+  "checkoutTenderAmount": "จำนวนเงินที่ประกวดราคา",
+  "checkoutLoadingPaymentMethods": "กำลังโหลดวิธีการชำระเงิน...",
+  "stocksTitle": "Stock reconciliation",
+  "stockUploadTooltip": "Opening stock",
+  "stockNoDataYet": "No opening stock yet",
+  "stockNoDataSubtitle": "Enter a physical count. With live tracking on, that count becomes In stock.",
+  "stockUploadAction": "Opening stock",
+  "stockSearchByDateHint": "ค้นหาตามวันที่หรือเดือน...",
+  "stockNoMatches": "ไม่มีการแข่งขัน",
+  "stockTryDifferentSearch": "ลองใช้คำค้นหาอื่น",
+  "stockTryAnotherSearch": "ลองค้นหาอีกครั้ง",
+  "stockQtyLabel": "จำนวน {qty}",
+  "@stockQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "stockCardSummary": "{records} บันทึก · {items} รายการ · {locations} ตำแหน่ง",
+  "@stockCardSummary": {
+    "placeholders": {
+      "records": {
+        "type": "String"
+      },
+      "items": {
+        "type": "String"
+      },
+      "locations": {
+        "type": "String"
+      }
+    }
+  },
+  "stockFilterTitle": "Filter stock reconciliation",
+  "stockBatchNumber": "หมายเลขแบทช์",
+  "stockLocation": "ที่ตั้ง",
+  "stockOptionalHint": "ไม่จำเป็น",
+  "stockApplyFilters": "ใช้ตัวกรอง",
+  "stockClearFields": "ล้างฟิลด์",
+  "stockDeleteAllTooltip": "ลบสต็อกทั้งหมดสำหรับวันที่นี้",
+  "stockNoItemsFound": "ไม่พบสินค้าในสต๊อก",
+  "stockNoItemsSubtitle": "ลองใช้ตัวกรองอื่นหรือวันที่รายงานอื่น",
+  "stockAdjustFilters": "ปรับตัวกรอง",
+  "stockSearchItemHint": "ค้นหารายการ ชุด สถานที่...",
+  "stockEditQuantities": "แก้ไขปริมาณ",
+  "stockNoChangesDetected": "ไม่พบการเปลี่ยนแปลง",
+  "stockErrorPreparingChanges": "เกิดข้อผิดพลาดในการเตรียมการเปลี่ยนแปลง: {error}",
+  "@stockErrorPreparingChanges": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "stockUpdateSuccessful": "อัปเดตสำเร็จ!",
+  "stockSummary": "สรุป",
+  "stockTotalRequested": "รวมที่ร้องขอ",
+  "stockSuccessfullyUpdated": "อัปเดตเรียบร้อยแล้ว",
+  "stockFailed": "ล้มเหลว",
+  "stockUpdateFailed": "การอัปเดตล้มเหลว",
+  "stockClearAllQuantitiesTitle": "ล้างปริมาณทั้งหมดใช่ไหม",
+  "stockClearAllQuantitiesMessage": "การดำเนินการนี้จะรีเซ็ตปริมาณทั้งหมดเป็น 0 คุณแน่ใจหรือไม่",
+  "stockClearAll": "ล้างทั้งหมด",
+  "stockUpdatingQuantities": "กำลังอัปเดตจำนวนสต็อก...",
+  "stockEditQuantitiesTitle": "แก้ไขปริมาณสต็อค",
+  "stockReportingDate": "วันที่รายงาน: {date}",
+  "@stockReportingDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "stockTotalItemsHint": "รายการทั้งหมด: {count} • อัปเดตปริมาณตามความจำเป็น",
+  "@stockTotalItemsHint": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "stockItemName": "ชื่อรายการ",
+  "stockBatchPrefix": "ชุด: {batch}",
+  "@stockBatchPrefix": {
+    "placeholders": {
+      "batch": {
+        "type": "String"
+      }
+    }
+  },
+  "stockDeleteConfirmTitle": "ยืนยันการลบ",
+  "stockDeleteConfirmIntro": "คุณกำลังจะลบสินค้าในสต็อกทั้งหมดอย่างถาวรสำหรับวันต่อไปนี้:",
+  "stockDeleteConfirmWarning": "การดำเนินการนี้ไม่สามารถยกเลิกได้ บันทึกสต็อกทั้งหมดสำหรับวันที่นี้จะถูกลบอย่างถาวร",
+  "stockNoInternetRetry": "ไม่มีการเชื่อมต่ออินเทอร์เน็ต โปรดตรวจสอบการเชื่อมต่อของคุณแล้วลองอีกครั้ง",
+  "itemsTitle": "รายการ",
+  "itemAddSheetTitle": "เพิ่มรายการ",
+  "itemSingleAdd": "เพิ่มเดี่ยว",
+  "itemBulkAdd": "เพิ่มเป็นกลุ่ม",
+  "itemBulkAddTitle": "เพิ่มรายการจำนวนมาก",
+  "itemEditTitle": "แก้ไขรายการ",
+  "itemAddTitle": "เพิ่มรายการ",
+  "itemCreateButton": "สร้างรายการ",
+  "itemUpdateButton": "อัปเดตรายการ",
+  "itemDeleteTitle": "ลบรายการ",
+  "itemDeleteConfirm": "คุณแน่ใจหรือไม่ว่าต้องการลบ \"{name}\"",
+  "itemDeletedSuccess": "ลบรายการเรียบร้อยแล้ว",
+  "itemCreatedSuccess": "สร้างรายการสำเร็จแล้ว",
+  "itemUpdatedSuccess": "อัปเดตรายการสำเร็จแล้ว",
+  "itemLoading": "กำลังโหลดรายการ...",
+  "itemErrorTitle": "อ๊ะ! มีบางอย่างผิดพลาด",
+  "itemTryAgain": "ลองอีกครั้ง",
+  "itemSearchHint": "ค้นหารายการ",
+  "itemNoItemsFound": "ไม่พบรายการ",
+  "itemTryAdjustSearch": "ลองปรับคำค้นหาของคุณ",
+  "itemNoItemsAvailable": "ไม่มีรายการที่มีอยู่",
+  "itemAddToGetStarted": "เพิ่มรายการเพื่อเริ่มต้น",
+  "itemNoMoreItems": "ไม่มีรายการอีกต่อไป",
+  "itemPurposeBoth": "ทั้งคู่",
+  "itemPurposePurchases": "การซื้อ",
+  "itemTypeProduct": "ผลิตภัณฑ์",
+  "itemTypeService": "บริการ",
+  "itemTypeInventory": "รายการสิ่งของ",
+  "itemPhotoTitle": "รูปสินค้า",
+  "itemPhotoHint": "คลิกที่นี่เพื่อเลือกหรืออัพโหลดรูปภาพ",
+  "itemPhotoFormats": "JPEG, PNG, GIF หรือ WebP · สูงสุด 5MB",
+  "itemAddPhoto": "เพิ่มรูปภาพ",
+  "itemPhotoLibrary": "ห้องสมุดรูปภาพ",
+  "itemPhotoLibraryHint": "เลือกจากรูปถ่ายของคุณ",
+  "itemTakePhoto": "ถ่ายรูป",
+  "itemUploadGallery": "อัปโหลดจากแกลเลอรี่",
+  "itemUploadGalleryHint": "เรียกดูไฟล์บนอุปกรณ์นี้",
+  "itemTypeLabel": "พิมพ์",
+  "itemTypeField": "ประเภทรายการ",
+  "itemNameLabel": "ชื่อรายการ",
+  "itemNameHint": "ป้อนชื่อรายการ",
+  "itemBarcodeLabel": "บาร์โค้ด/คิวอาร์โค้ด",
+  "itemBarcodeField": "บาร์โค้ด/คิวอาร์โค้ด",
+  "itemBarcodeHint": "สแกนจากแถบแอปหรือวาง",
+  "itemRateLabel": "ประเมิน",
+  "itemUnitLabel": "หน่วย",
+  "itemPurposeLabel": "วัตถุประสงค์",
+  "itemSelectUnit": "เลือกหน่วย",
+  "itemSelectPurpose": "เลือกวัตถุประสงค์",
+  "itemSelectCategory": "เลือกหมวดหมู่",
+  "itemSelectType": "เลือกประเภท",
+  "itemSelectItemType": "เลือกประเภทรายการ",
+  "itemSearchUnits": "ค้นหาหน่วย...",
+  "itemSearchPurpose": "วัตถุประสงค์ในการค้นหา...",
+  "itemSearchCategories": "ค้นหาหมวดหมู่...",
+  "itemCreateCustomUnit": "สร้างหน่วยที่กำหนดเอง",
+  "itemUnitName": "ชื่อหน่วย",
+  "itemUnitNameHint": "เช่น ลิตร กล่อง ชิ้น",
+  "itemValidationName": "กรุณากรอกชื่อรายการ",
+  "itemValidationRate": "กรุณากรอกอัตรา",
+  "itemValidationNumber": "กรุณากรอกหมายเลขที่ถูกต้อง",
+  "itemSelectUnitRequired": "กรุณาเลือกหน่วย",
+  "itemSelectPurposeRequired": "โปรดเลือกวัตถุประสงค์",
+  "itemImageMissing": "ไฟล์รูปภาพหายไป",
+  "itemImageFormatError": "ใช้ JPEG, PNG, GIF หรือ WebP",
+  "itemImageSizeError": "รูปภาพต้องมีขนาด 5MB หรือเล็กกว่า",
+  "itemScanBarcode": "สแกนบาร์โค้ด",
+  "itemNameFromCatalog": "ชื่อที่กรอกจากแค็ตตาล็อก: {name}",
+  "itemBarcodePasteHint": "ไม่พบชื่อผลิตภัณฑ์ — รหัสวางเป็นชื่อ แก้ไขหากจำเป็น",
+  "itemBulkRefillTooltip": "เติมอินพุตก่อนหน้า",
+  "itemBulkAddRow": "เพิ่มแถว",
+  "itemBulkRowLabel": "รายการ {index}",
+  "itemBulkNameRequired": "จำเป็นต้องระบุชื่อ",
+  "itemBulkInvalidNumber": "หมายเลขไม่ถูกต้อง",
+  "itemBulkCreating": "กำลังสร้าง...",
+  "itemBulkCreateItems": "สร้างรายการ",
+  "itemBulkCreatedCount": "{count} สร้างรายการแล้ว",
+  "itemBulkCreateFailed": "ไม่สามารถสร้างรายการ: {error}",
+  "itemBulkNoDraft": "ไม่พบฉบับร่างที่บันทึกไว้",
+  "itemBulkInvalidDraft": "รูปแบบร่างที่บันทึกไว้ไม่ถูกต้อง",
+  "itemBulkDraftRestored": "กู้คืนฉบับร่างก่อนหน้าแล้ว",
+  "itemBulkDraftRestoreFailed": "ไม่สามารถกู้คืนฉบับร่างที่บันทึกไว้ได้",
+  "itemBulkAtLeastOne": "เพิ่มอย่างน้อยหนึ่งรายการ",
+  "itemBulkCategoriesLoading": "กำลังโหลดหมวดหมู่ โปรดลองอีกครั้ง",
+  "itemBulkLoadingCategories": "กำลังโหลดหมวดหมู่...",
+  "inventoryTitle": "การวิเคราะห์สินค้าคงคลัง",
+  "inventorySubtitle": "การติดตามความเคลื่อนไหวของหุ้นแบบเรียลไทม์",
+  "inventorySearchHint": "ค้นหารายการ...",
+  "inventorySold": "ขายแล้ว",
+  "inventoryPurchased": "ซื้อแล้ว",
+  "catNoCategories": "ไม่มีหมวดหมู่ แตะ + เพื่อสร้าง",
+  "catLoadCategories": "โหลดหมวดหมู่",
+  "catCreated": "สร้างหมวดหมู่แล้ว",
+  "catRenamed": "เปลี่ยนชื่อหมวดหมู่แล้ว",
+  "catDeleted": "ลบหมวดหมู่แล้ว",
+  "catNewTitle": "หมวดหมู่ใหม่",
+  "catRenameTitle": "เปลี่ยนชื่อหมวดหมู่",
+  "catNewName": "ชื่อใหม่",
+  "catRename": "เปลี่ยนชื่อ",
+  "catDeleteTitle": "ลบหมวดหมู่",
+  "catDeleteConfirm": "ลบ \"{name}\" หรือไม่",
+  "catDeleteLinkedHint": "มีการเชื่อมโยงรายการต่างๆ คุณสามารถบังคับลบเพื่อยกเลิกการเชื่อมโยงได้",
+  "catForceDelete": "บังคับลบ",
+  "catItemsCount": "{count} รายการ",
+  "contactFavoritesOnly": "รายการโปรดเท่านั้น",
+  "contactShowAll": "แสดงผู้ติดต่อทั้งหมด",
+  "contactSearchHint": "ค้นหาชื่อ โทรศัพท์ อีเมล...",
+  "contactNoConnection": "ไม่มีการเชื่อมต่อ",
+  "contactCheckNetwork": "ตรวจสอบเครือข่ายของคุณแล้วลองอีกครั้ง",
+  "contactSomethingWrong": "มีบางอย่างผิดพลาด",
+  "contactNoContacts": "ไม่มีผู้ติดต่อ",
+  "contactNoFavorites": "ไม่มีรายการโปรดที่ตรงกัน ปิดตัวกรองดาวหรือเพิ่มรายการโปรดในผู้ติดต่อ",
+  "contactTrySearchOrAdd": "ลองค้นหาแบบอื่นหรือแตะ + เพื่อเพิ่มผู้ติดต่อ",
+  "contactEndOfList": "สิ้นสุดรายการ",
+  "contactNewTooltip": "ติดต่อใหม่",
+  "contactLoading": "กำลังโหลดรายชื่อติดต่อ...",
+  "contactUnknown": "ไม่ทราบ",
+  "contactCallTooltip": "เรียก",
+  "contactEditTitle": "แก้ไขผู้ติดต่อ",
+  "contactNewTitle": "ติดต่อใหม่",
+  "contactSelectTitle": "เลือกผู้ติดต่อ",
+  "contactDeleteTitle": "ลบผู้ติดต่อใช่ไหม",
+  "contactDeleteUndo": "การดำเนินการนี้ไม่สามารถยกเลิกได้",
+  "contactNameRequired": "ต้องระบุชื่อ",
+  "contactNameLabel": "ชื่อ *",
+  "contactNameHint": "ชื่อผู้ติดต่อ",
+  "contactPhoneHint": "+977-9841234567",
+  "contactEmailHint": "email@example.com",
+  "contactCategoryHint": "เช่น ธุรกิจทั่วไปวีไอพี",
+  "contactCompanyHint": "ชื่อบริษัท",
+  "contactFavorite": "ที่ชื่นชอบ",
+  "contactCannotCall": "ไม่สามารถโทรออกบนอุปกรณ์นี้ได้",
+  "contactPermissionDenied": "การอนุญาตการติดต่อถูกปฏิเสธ คุณสามารถเปิดใช้งานได้ในการตั้งค่า",
+  "contactPermissionRequired": "ต้องได้รับอนุญาตจากการติดต่อเพื่อนำเข้าจากโทรศัพท์",
+  "contactImported": "ติดต่อนำเข้าจากโทรศัพท์",
+  "contactCreated": "สร้างที่อยู่ติดต่อแล้ว",
+  "contactUpdated": "อัพเดทรายชื่อติดต่อแล้ว",
+  "contactDeleted": "ลบผู้ติดต่อแล้ว",
+  "contactImportSearchHint": "ค้นหาตามชื่อ โทรศัพท์ อีเมล บริษัท",
+  "contactImportNoResults": "ไม่พบผู้ติดต่อ",
+  "@itemDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemNameFromCatalog": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkRowLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreatedCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@catDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@catItemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutMultiplePaymentHint": "เปิดการตั้งค่านี้ หากลูกค้าชำระเงินผ่านโหมดการชำระเงินหลายรูปแบบ",
+  "checkoutFillRemainingBalance": "เติมยอดเงินคงเหลือ",
+  "checkoutEnterAtLeastOnePayment": "ป้อนจำนวนเงินที่ชำระอย่างน้อยหนึ่งรายการ",
+  "checkoutPaymentsExceedTotal": "การชำระเงินทั้งหมดต้องไม่เกินยอดรวมทั้งหมด",
+  "checkoutSentAs": "ส่งเป็น: {api}",
+  "@checkoutSentAs": {
+    "placeholders": {
+      "api": {
+        "type": "String"
+      }
+    }
+  },
+  "paymentCard": "การ์ด",
+  "paymentQr": "QR",
+  "paymentBank": "ธนาคาร",
+  "paymentTransfer": "โอนย้าย",
+  "paymentBankTransfer": "โอนเงินผ่านธนาคาร",
+  "paymentSettlement": "การตั้งถิ่นฐาน",
+  "paymentCheque": "ตรวจสอบ",
+  "paymentDigital": "ดิจิตอล",
+  "paymentDigitalQr": "ดิจิทัล (คิวอาร์)",
+  "closeSummaryTitle": "สรุปการปิด",
+  "closeTabDashboard": "แดชบอร์ด",
+  "closeTabCredits": "เครดิต",
+  "closeWelcome": "ยินดีต้อนรับสู่บทสรุปปิดท้าย",
+  "closeSelectDateHint": "เลือกวันที่และแตะรีเฟรชเพื่อโหลดข้อมูล",
+  "closeLoadingDashboard": "กำลังโหลดข้อมูลแดชบอร์ด...",
+  "closeDataDeleted": "ลบข้อมูลแล้ว",
+  "closeErrorPrefix": "ข้อผิดพลาด: {message}",
+  "@closeErrorPrefix": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExtraAmount": "จำนวนพิเศษ",
+  "closeExtraAmountDesc": "เงินสดเพิ่มเติมหรือการปรับค่าใช้จ่ายที่บันทึกไว้สำหรับวันปิดบัญชีนี้",
+  "closeLostAmount": "จำนวนเงินที่หายไป",
+  "closeLostAmountDesc": "การขาดแคลนเงินสดหรือผลต่างที่ทำเครื่องหมายไว้สำหรับงวดนี้",
+  "closeTapForDetails": "แตะเพื่อดูรายละเอียด",
+  "closeAmountLabel": "ปิดยอด",
+  "closeAmountFormula": "สูตรปิดยอด",
+  "closeFormulaExpression": "การขายเงินสด - ค่าใช้จ่ายเงินสด = จำนวนเงินที่ปิดบัญชี",
+  "closeCashSales": "ขายเงินสด",
+  "closeCashExpenses": "ค่าใช้จ่ายเงินสด",
+  "closeClosingAmount": "จำนวนเงินปิด",
+  "closeWhatThisMeans": "สิ่งนี้หมายถึงอะไร:",
+  "closeClosingMeaning": "นี่คือจำนวนเงินสดที่ควรอยู่ในทะเบียน/ลิ้นชักของคุณเมื่อสิ้นสุดวัน หมายถึงเงินสดทั้งหมดที่ได้รับลบด้วยเงินสดที่จ่ายออกไปทั้งหมด",
+  "closeQuickStats": "สถิติด่วน",
+  "closeTapCardHint": "แตะการ์ดเพื่อดูคำอธิบายสั้นๆ",
+  "closeOpeningBalance": "ยอดคงเหลือเปิด",
+  "closeTotalSales": "ยอดขายรวม",
+  "closeQrAmount": "จำนวนเงิน QR",
+  "closeCashAmount": "จำนวนเงินสด",
+  "closeSalesDiscount": "ส่วนลดการขาย",
+  "closeCreditQr": "เครดิต คิวอาร์",
+  "closeCreditCash": "เครดิตเงินสด",
+  "closeCreditDiscount": "ส่วนลดเครดิต",
+  "closePayCashGetQr": "จ่ายเงินสด → รับ QR",
+  "closePayQrGetCash": "จ่าย QR → รับเงินสด",
+  "closePaymentMix": "ส่วนผสมการชำระเงิน",
+  "closePaymentMixHint": "แตะเงินสดหรือดิจิทัล · บาร์แสดงส่วนแบ่งการขาย",
+  "closeCashVsDigitalTooltip": "เงินสดเทียบกับส่วนแบ่งการขายดิจิทัล",
+  "closeSalesShareDesc": "{label} คิดเป็น {percent}% ของยอดขายรวมสำหรับวันนี้",
+  "@closeSalesShareDesc": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSalesLabel": "{label} ยอดขาย",
+  "@closeSalesLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "closeNoTransactions": "ไม่มีการทำธุรกรรม",
+  "closeRecentTransactions": "การทำธุรกรรมล่าสุด",
+  "closeViewAll": "ดูทั้งหมด",
+  "closeNoPurchases": "ไม่มีการซื้อที่มีอยู่",
+  "closeRecentPurchases": "การซื้อล่าสุด",
+  "closeNoSalesDate": "ไม่มีการขายสำหรับวันที่นี้",
+  "closeNoSalesHint": "ยอดขายจะแสดงที่นี่หลังจากบันทึกแล้ว",
+  "closeRoomSales": "ขายห้อง",
+  "closeEmployeeSales": "การขายพนักงาน",
+  "closeOtherSales": "other ยอดขาย",
+  "closeSectionCount": "{title} ({count})",
+  "@closeSectionCount": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "closeDiscountShort": "แผ่นดิสก์: {amount}",
+  "@closeDiscountShort": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "closePercentOff": "ลด {percent}%",
+  "@closePercentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closePending": "รอดำเนินการ",
+  "closeNoCreditPayments": "ไม่มีการจ่ายเครดิต",
+  "closeNoCreditHint": "การชำระเครดิตจะปรากฏที่นี่",
+  "closeViewStatistics": "ดูสถิติ",
+  "closeExportData": "ส่งออกข้อมูล",
+  "closeExportComingSoon": "ฟีเจอร์ส่งออกจะถูกใช้งานที่นี่",
+  "closeHintOpeningBalance": "สถานะเงินสด ณ วันเริ่มต้นของวันที่เลือก",
+  "closeHintTotalSales": "ผลรวมยอดขายทั้งหมดที่บันทึกไว้สำหรับวันนี้",
+  "closeHintQrAmount": "การชำระเงินที่ได้รับผ่าน QR หรือวิธีดิจิทัล",
+  "closeHintCashAmount": "สัดส่วนเงินสดของการขายสำหรับวัน",
+  "closeHintCashExpenses": "เงินสดจ่ายเป็นค่าใช้จ่ายระหว่างวัน",
+  "closeHintSalesDiscount": "ส่วนลดนำไปใช้กับการขาย",
+  "closeHintCreditQr": "คอลเลกชัน QR ที่เกี่ยวข้องกับเครดิต",
+  "closeHintCreditCash": "การเคลื่อนไหวของเงินสดที่เกี่ยวข้องกับเครดิต",
+  "closeHintCreditDiscount": "ส่วนลดใช้กับธุรกรรมเครดิต",
+  "closeHintPayCashGetQr": "แลกเปลี่ยนที่จ่ายเงินสดและได้รับเครดิต QR",
+  "closeHintPayQrGetCash": "แลกเปลี่ยนที่จ่าย QR และรับเงินสด",
+  "closeOpeningAmount": "จำนวนการเปิด",
+  "closeCurrentAmount": "จำนวนเงินปัจจุบัน",
+  "closeSaveReport": "บันทึกรายงาน",
+  "closeUpdateSummary": "อัปเดตข้อมูลสรุป",
+  "closeExists": "มีอยู่",
+  "closeExistingDataInfo": "คุณสามารถดูหรือแก้ไขข้อมูลที่มีอยู่ได้",
+  "closeEnterOpeningAmount": "กรุณากรอกจำนวนเงินเปิดบัญชี",
+  "closeEnterValidAmount": "กรุณากรอกจำนวนเงินที่ถูกต้อง",
+  "languageSelectionSubtitle": "เลือกวิธีที่คุณต้องการใช้ {appName} คุณสามารถเปลี่ยนได้ภายหลังในการตั้งค่า",
+  "searchLanguages": "ค้นหาภาษา",
+  "languageSuggestedBadge": "แนะนำ",
+  "continueInLanguage": "ดำเนินการต่อใน {languageName}",
+  "noLanguageMatches": "ไม่พบรายการที่ตรงกัน",
+  "noLanguageMatchesForQuery": "ไม่มีภาษาที่ตรงกับ \"{query}\"",
+  "@languageSelectionSubtitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@continueInLanguage": {
+    "placeholders": {
+      "languageName": {
+        "type": "String"
+      }
+    }
+  },
+  "@noLanguageMatchesForQuery": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockSettingsSaved": "บันทึกการตั้งค่าการล็อกแอปแล้ว",
+  "appLockSubtitle": "ต้องใช้ PIN หรือไบโอเมตริกเมื่อเปิดแอปอีกครั้ง",
+  "appLockTitle": "ล็อกแอป",
+  "appPin": "PIN แอป",
+  "appPinIncorrect": "PIN ไม่ถูกต้อง ลองอีกครั้ง",
+  "appPinIncorrectWithAttempts": "PIN ไม่ถูกต้อง เหลืออีก {remaining} ครั้ง",
+  "@appPinIncorrectWithAttempts": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      }
+    }
+  },
+  "appPinLockoutMessage": "ใส่ PIN ผิดเกินไป ลงชื่อเข้าใช้ด้วยอีเมลและรหัสผ่านเพื่อรีเซ็ต PIN",
+  "appPinMismatch": "PIN ไม่ตรงกัน ลองอีกครั้ง",
+  "appPinRemoved": "ลบ PIN แอปแล้ว",
+  "appPinSetSuccess": "บันทึก PIN สำหรับองค์กรนี้แล้ว",
+  "appPinSubtitle": "ปลดล็อกด่วนด้วย PIN {length} หลัก",
+  "@appPinSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "appearance": "รูปลักษณ์",
+  "backupAutoBackupHint": "สำรองข้อมูลอัตโนมัติเมื่อเปิดแอปตามกำหนด",
+  "backupAutoBackupTitle": "สำรองข้อมูลอัตโนมัติ",
+  "backupAutoDirectionBoth": "อัปโหลดและดาวน์โหลด",
+  "backupAutoDirectionDownload": "ดาวน์โหลดจากคลาวด์",
+  "backupAutoDirectionUpload": "อัปโหลดไปคลาวด์",
+  "backupAutoFrequencyDaily": "รายวัน",
+  "backupAutoFrequencyMonthly": "รายเดือน",
+  "backupAutoFrequencyOff": "ปิด",
+  "backupAutoFrequencyTitle": "ความถี่การสำรอง",
+  "backupAutoFrequencyWeekly": "รายสัปดาห์",
+  "backupAutoLastDownloaded": "กู้คืนอัตโนมัติล่าสุด: {detail}",
+  "@backupAutoLastDownloaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastFailed": "ซิงค์อัตโนมัติล่าสุดล้มเหลว: {detail}",
+  "@backupAutoLastFailed": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastSkipped": "ซิงค์อัตโนมัติล่าสุดข้าม: {detail}",
+  "@backupAutoLastSkipped": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastUploaded": "สำรองอัตโนมัติล่าสุด: {detail}",
+  "@backupAutoLastUploaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoSettingsTitle": "การตั้งค่า Google Drive",
+  "backupAutoSyncDirectionTitle": "ซิงค์อัตโนมัติ",
+  "backupSyncActiveOrganization": "องค์กรปัจจุบัน",
+  "backupSyncActiveOrganizationHint": "การสำรองอัปโหลดข้อมูลขององค์กรที่คุณใช้อยู่",
+  "backupSyncCompletedHint": "ข้อมูลของคุณสำรองอย่างปลอดภัยใน Google Drive แล้ว",
+  "backupSyncConnected": "เชื่อมต่อแล้ว",
+  "backupSyncCurrentStep": "ขั้นตอน: {step}",
+  "@backupSyncCurrentStep": {
+    "placeholders": {
+      "step": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncGoogleAccount": "บัญชี Google",
+  "backupSyncInProgress": "กำลังซิงค์",
+  "backupSyncLastError": "ข้อผิดพลาดล่าสุด: {error}",
+  "@backupSyncLastError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncLastSyncDate": "วันที่และเวลา",
+  "backupSyncLastSyncTitle": "ซิงค์ล่าสุด",
+  "backupSyncNeverSynced": "ยังไม่มีการอัปโหลดสำรองข้อมูล",
+  "backupSyncOrganization": "องค์กร",
+  "backupSyncPageTitle": "สำรองและซิงค์",
+  "backupSyncPhaseExport": "ส่งออก",
+  "backupSyncPhaseUpload": "อัปโหลด",
+  "backupSyncProgressPercent": "{percent}%",
+  "@backupSyncProgressPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "backupSyncRecords": "เรคอร์ดที่สำรอง",
+  "backupSyncSignInHint": "ลงชื่อเข้าใช้ด้วย Google เพื่อสำรองข้อมูลองค์กร",
+  "backupSyncSignOutConfirm": "ออกจากระบบ Google Drive บนอุปกรณ์นี้?",
+  "backupSyncSignedInAs": "ลงชื่อเข้าใช้เป็น",
+  "backupSyncStatus": "สถานะ",
+  "backupSyncStatusSuccess": "เสร็จสมบูรณ์",
+  "backupSyncStepExport": "กำลังส่งออกข้อมูลในเครื่อง",
+  "backupSyncStepUploadFile": "กำลังอัปโหลด {file}",
+  "@backupSyncStepUploadFile": {
+    "placeholders": {
+      "file": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncStepUploadTable": "กำลังอัปโหลด {table}",
+  "@backupSyncStepUploadTable": {
+    "placeholders": {
+      "table": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncTables": "ตารางที่สำรอง",
+  "backupSyncUnknownOrganization": "องค์กรปัจจุบัน",
+  "backupWifiOnlyContinue": "ใช้ข้อมูลมือถือ",
+  "backupWifiOnlyHint": "สำรองอัตโนมัติรอ Wi‑Fi",
+  "backupWifiOnlyTitle": "สำรองผ่าน Wi‑Fi เท่านั้น",
+  "biometricNotAvailable": "ไบโอเมตริกไม่พร้อมใช้บนอุปกรณ์นี้",
+  "biometricRequiresPin": "ตั้ง PIN แอปก่อนเปิดไบโอเมตริก",
+  "biometricUnlockReason": "ปลดล็อก BizTrack",
+  "changeAppPin": "เปลี่ยน PIN",
+  "confirmAppPin": "ยืนยัน PIN",
+  "confirmAppPinHint": "ใส่ PIN อีกครั้งเพื่อยืนยัน",
+  "confirmPasscodeHint": "ใส่รหัสอีกครั้งเพื่อยืนยัน",
+  "contactUs": "ติดต่อเรา",
+  "contactUsSubtitle": "สนับสนุน ข้อเสนอแนะ หรือคำถามเกี่ยวกับแอป",
+  "createAppPinHint": "เลือก PIN {length} หลักสำหรับองค์กรนี้",
+  "@createAppPinHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "createPasscodeHint": "เลือกรหัส {length} หลักสำหรับองค์กรนี้",
+  "@createPasscodeHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "darkMode": "โหมดมืด",
+  "darkModeSubtitle": "ใช้พื้นหลังมืดทั่วแอป",
+  "darkModeSystemSubtitle": "ตามธีมของอุปกรณ์",
+  "dataAndBackup": "ข้อมูลและสำรอง",
+  "developerLabel": "นักพัฒนา",
+  "disableAppPinMessage": "Face ID / ปลดล็อกไบโอเมตริกจะปิดสำหรับองค์กรนี้ด้วย",
+  "disableAppPinTitle": "ลบ PIN แอป?",
+  "displayPrecision": "ความละเอียดการแสดงผล",
+  "displayPrecisionRange": "ใส่ตัวเลข 0 ถึง 5",
+  "emailCopiedToClipboard": "คัดลอกอีเมลไปคลิปบอร์ดแล้ว",
+  "employeeManagementSubtitle": "พนักงาน เงินเดือน และการเข้างาน",
+  "enableBiometricAfterPinMessage": "ใช้ไบโอเมตริกของอุปกรณ์ร่วมกับ PIN เพื่อลงชื่อเข้าใช้เร็วขึ้น",
+  "enableBiometricTitle": "เปิดไบโอเมตริก?",
+  "enableFaceIdTitle": "เปิด Face ID?",
+  "enableFingerprintTitle": "เปิดลายนิ้วมือ?",
+  "enableInvoiceReturns": "เปิดการคืนใบแจ้งหนี้",
+  "enableInvoiceReturnsSubtitle": "อนุญาตสร้างการคืนจากใบแจ้งหนี้ที่ชำระแล้ว",
+  "enterAppPin": "ใส่ PIN ของคุณ",
+  "enterPasscode": "ใส่รหัส",
+  "googleDriveBackupFailed": "สำรองล้มเหลว: {error}",
+  "@googleDriveBackupFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupNow": "สำรองตอนนี้",
+  "googleDriveBackupPluginError": "การสำรองต้องรีสตาร์ทแอปทั้งหมด ปิดแอป เปิดใหม่ แล้วลองอีกครั้ง",
+  "googleDriveBackupSectionTitle": "สำรองและซิงค์",
+  "googleDriveBackupStarting": "กำลังเตรียมสำรอง…",
+  "googleDriveBackupSubtitleSignedIn": "ลงชื่อเข้าใช้เป็น {email}",
+  "@googleDriveBackupSubtitleSignedIn": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupSubtitleSignedOut": "ลงชื่อเข้าใช้เพื่อสำรองข้อมูลองค์กรอย่างปลอดภัยใน Google Drive",
+  "googleDriveBackupSuccess": "อัปโหลดสำรองแล้ว ({tableCount} ตาราง, {recordCount} เรคอร์ด)",
+  "@googleDriveBackupSuccess": {
+    "placeholders": {
+      "tableCount": {
+        "type": "int"
+      },
+      "recordCount": {
+        "type": "int"
+      }
+    }
+  },
+  "googleDriveBackupTitle": "สำรอง Google Drive",
+  "googleDriveLastBackup": "สำรองล่าสุด: {date}",
+  "@googleDriveLastBackup": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveSignIn": "ลงชื่อเข้าใช้ด้วย Google",
+  "googleDriveSignInCancelled": "ยกเลิกการลงชื่อเข้าใช้ Google",
+  "googleDriveSignInSuccess": "ลงชื่อเข้าใช้ Google Drive แล้ว",
+  "googleDriveSignOut": "ออกจากระบบ",
+  "googleDriveSignOutSuccess": "ออกจาก Google Drive แล้ว",
+  "itemSelectCategoryRequired": "กรุณาเลือกหมวดหมู่",
+  "moreBackupSyncTileLastSync": "ซิงค์ล่าสุด: {date}",
+  "@moreBackupSyncTileLastSync": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "moreBackupSyncTileNeverSynced": "สำรองไป Google Drive",
+  "moreBackupSyncTileSignedInNoSync": "ลงชื่อเข้าใช้แล้ว · ยังไม่มีสำรอง",
+  "notNow": "ไม่ใช่ตอนนี้",
+  "operationManagement": "การจัดการปฏิบัติการ",
+  "operationManagementSubtitle": "Items, stock reconciliation, contacts, categories, and closing",
+  "orContinueWithPassword": "หรือลงชื่อเข้าใช้ด้วยรหัสผ่าน",
+  "organizationAccountingSubtitle": "การตั้งค่าใบแจ้งหนี้และการแสดงจำนวนเงิน",
+  "organizationRegionalSubtitle": "ประเทศ สกุลเงินรายงาน และวันที่ปีงบประมาณ",
+  "organizationTabAccounting": "บัญชี",
+  "organizationTabGeneral": "ทั่วไป",
+  "organizationTabRegional": "ภูมิภาคและงบประมาณ",
+  "partyPickerAddNewRole": "เพิ่ม{role}ใหม่",
+  "@partyPickerAddNewRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSearchHint": "ค้นหา{role}…",
+  "@partyPickerSearchHint": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSelectedLabel": "เลือกแล้ว",
+  "partyPickerSettled": "ชำระแล้ว",
+  "partyPickerSubtitle": "การขายนี้สำหรับใคร?",
+  "preferences": "การตั้งค่า",
+  "quickUnlockAsUser": "ลงชื่อเข้าใช้ด่วนเป็น {email}",
+  "@quickUnlockAsUser": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSubtitle": "กำไรขาดทุน งบ และการวิเคราะห์",
+  "restoreAction": "กู้คืน",
+  "restoreFromGoogleDrive": "กู้คืนจาก Google Drive",
+  "restoreFromGoogleDriveConfirm": "กู้คืน \"{name}\"? จะแทนที่ข้อมูลในเครื่องขององค์กรนั้น",
+  "@restoreFromGoogleDriveConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveEmpty": "ไม่พบการสำรองใน Google Drive ของคุณ",
+  "restoreFromGoogleDriveFailed": "กู้คืนล้มเหลว: {error}",
+  "@restoreFromGoogleDriveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveHint": "ลงชื่อเข้าใช้และเลือกการสำรองเพื่อกู้คืนองค์กรบนอุปกรณ์นี้",
+  "restoreFromGoogleDriveStarting": "กำลังเริ่มกู้คืน…",
+  "restoreFromGoogleDriveSuccess": "กู้คืน {name} แล้ว คุณสามารถลงชื่อเข้าใช้ได้",
+  "@restoreFromGoogleDriveSuccess": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreStepCreateDatabase": "กำลังสร้างฐานข้อมูล",
+  "restoreStepDownload": "กำลังดาวน์โหลดสำรอง",
+  "restoreStepFinalize": "กำลังเสร็จสิ้นการกู้คืน",
+  "restoreStepImport": "กำลังนำเข้าข้อมูล",
+  "security": "ความปลอดภัย",
+  "setUpAppPin": "ตั้ง PIN",
+  "setUpFaceIdOrPin": "ตั้ง Face ID หรือ PIN",
+  "setUpFingerprintOrPin": "ตั้งลายนิ้วมือหรือ PIN",
+  "setUpNow": "ตั้งตอนนี้",
+  "setUpQuickUnlock": "ตั้งลงชื่อเข้าใช้ด่วนด้วย PIN",
+  "setUpQuickUnlockAfterLoginMessage": "ตั้ง Face ID ลายนิ้วมือ หรือ PIN เพื่อลงชื่อเข้าใช้เร็วขึ้นครั้งหน้า เปลี่ยนได้ภายหลังในการตั้งค่า",
+  "setUpQuickUnlockAfterLoginTitle": "เปิดลงชื่อเข้าใช้ด่วน?",
+  "setUpQuickUnlockSubtitle": "ใช้ไบโอเมตริกหรือ PIN สำหรับองค์กรนี้",
+  "signInWithBiometric": "ลงชื่อเข้าใช้ด้วยไบโอเมตริก",
+  "signInWithFaceId": "ลงชื่อเข้าใช้ด้วย Face ID",
+  "signInWithFingerprint": "ลงชื่อเข้าใช้ด้วยลายนิ้วมือ",
+  "signInWithPin": "ลงชื่อเข้าใช้ด้วย PIN",
+  "statisticsCashflow": "กระแสเงินสด",
+  "statisticsQuickOperationInvoice": "ใบแจ้งหนี้",
+  "statisticsQuickOperationReports": "รายงาน",
+  "statisticsQuickOperationsSeeAll": "ดูทั้งหมด",
+  "tapDigitsToUnlock": "แตะตัวเลข {length} หลักใดก็ได้เพื่อปลดล็อก",
+  "@tapDigitsToUnlock": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "unlockApp": "ปลดล็อกแอป",
+  "useBiometricInstead": "ใช้ไบโอเมตริก",
+  "useBiometricUnlock": "ใช้ Face ID / ไบโอเมตริก",
+  "useBiometricUnlockSubtitle": "ปลดล็อกด้วยลายนิ้วมือหรือ Face ID หลังตั้ง PIN",
+  "useFaceIdUnlock": "ใช้ Face ID",
+  "useFingerprintUnlock": "ใช้ลายนิ้วมือ",
+  "usePinInstead": "ใช้ PIN แทน",
+  "verifyPinToRemoveSubtitle": "ยืนยัน PIN {length} หลักเพื่อลบการล็อกแอป",
+  "@verifyPinToRemoveSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "verifyPinToRemoveTitle": "ใส่ PIN ของคุณ",
+  "walkthroughBackupDescription": "ความปลอดภัยระดับธนาคารพร้อมสำรอง Google Drive แตะเดียว — ข้อมูลปลอดภัยและกู้คืนง่าย",
+  "walkthroughBackupTitle": "ข้อมูลของคุณ ปลอดภัยเสมอ",
+  "walkthroughBillingDescription": "ใบแจ้งหนี้ขายและซื้อ ออร์เดอร์โต๊ะพร้อมตั๋วครัว และสต็อกสด — ทั้งหมดในแอปเดียว",
+  "walkthroughBillingTitle": "ออกบิลและขายในไม่กี่วินาที",
+  "walkthroughDashboardDescription": "ยอดขายวันนี้ รายได้ และยอดค้าง — ทั้งหมดบนแดชบอร์ดชัดเจนเมื่อเปิดแอป",
+  "walkthroughDashboardTitle": "ธุรกิจทั้งหมดในภาพเดียว",
+  "walkthroughOfflineDescription": "สร้างใบแจ้งหนี้ บันทึกค่าใช้จ่าย และจัดการสต็อกออฟไลน์ ซิงค์อัตโนมัติเมื่อออนไลน์",
+  "walkthroughOfflineTitle": "ใช้งานได้แม้ไม่มีอินเทอร์เน็ต",
+  "walkthroughReadyDescription": "ตั้งองค์กรในไม่กี่นาทีและบริหารธุรกิจอย่างชาญฉลาดตั้งแต่วันนี้ เริ่มกันเลย",
+  "walkthroughReadyTitle": "พร้อมเมื่อคุณพร้อม",
+  "walkthroughStaffDescription": "จัดการการเข้างานและเงินเดือน ส่งออก P&L และสลิปเงินเดือนเป็น PDF — ไม่ต้องใช้เครื่องมือเพิ่ม",
+  "walkthroughStaffTitle": "พนักงาน เงินเดือน และรายงาน",
+  "ok": "ตกลง",
+  "reportPeriodYear": "ปี",
+  "reportPeriodMonth": "เดือน",
+  "reportPeriodRange": "ช่วง",
+  "reportPeriodDay": "วัน",
+  "reportPeriodFrom": "จาก",
+  "reportPeriodTo": "ถึง",
+  "reportPeriod": "ช่วงเวลา",
+  "reportAllPurchases": "การซื้อทั้งหมด",
+  "reportBeforeTax": "ก่อนหักภาษี",
+  "reportRevenueRetained": "รายได้คงเหลือ",
+  "reportHideDetails": "ซ่อนรายละเอียด",
+  "reportShowDetails": "แสดงรายละเอียด",
+  "reportSalesRevenue": "รายได้จากการขาย",
+  "reportDiscountsGiven": "ส่วนลดที่ให้",
+  "reportNetRevenue": "รายได้สุทธิ",
+  "reportOperatingExpenses": "ค่าใช้จ่ายในการดำเนินงาน",
+  "reportTotalExpenses": "ค่าใช้จ่ายรวม",
+  "reportGrossProfit": "กำไรขั้นต้น",
+  "reportGrossProfitChart": "กำไรขั้นต้น",
+  "reportOperatingPlDisclaimer": "ยังไม่รวมภาษี ค่าเสื่อมราคา และหนี้เงินเดือน — ประมาณการกำไรขาดทุนระดับปฏิบัติการ",
+  "reportContraLabel": "คู่กัน",
+  "reportNoDataForPeriod": "ไม่มีข้อมูลสำหรับช่วงที่เลือก",
+  "reportRevenueVsExpenses": "รายได้ vs ค่าใช้จ่าย",
+  "reportExpenseBreakdown": "รายละเอียดค่าใช้จ่าย",
+  "reportExpenseFallback": "ค่าใช้จ่าย",
+  "reportGrossMarginPercent": "อัตรากำไรขั้นต้น %",
+  "reportRoomVsFnB": "ห้อง vs F&B",
+  "reportSegmentRoom": "ห้อง",
+  "reportSegmentFnB": "F&B",
+  "reportKeyMetrics": "ตัวชี้วัดหลัก",
+  "reportIncomeStatement": "งบกำไรขาดทุน",
+  "reportChartsSection": "กราฟ",
+  "reportSegmentSummary": "สรุปตามกลุ่ม",
+  "reportFailedToLoad": "โหลดรายงานไม่สำเร็จ",
+  "reportOverview": "ภาพรวม",
+  "reportOverviewCash": "เงินสด",
+  "reportOverviewBank": "ธนาคาร",
+  "reportMonthlyOpeningBalance": "ยอดยกมาต้นเดือน",
+  "reportOpeningBalanceHint": "เงินสดต้นเดือนของแต่ละเดือน",
+  "reportCashInOut": "เงินสดเข้า / ออก",
+  "reportCashIn": "เงินสดเข้า",
+  "reportCashOut": "เงินสดออก",
+  "reportBankReceiptsPayments": "เงินรับ / จ่ายธนาคาร",
+  "reportReceipts": "เงินรับ",
+  "reportPayments": "การชำระเงิน",
+  "reportDailyCashVsQr": "เงินสดรายวัน vs QR",
+  "reportSummariesSection": "สรุป",
+  "reportCashSummary": "สรุปเงินสด",
+  "reportBankSummary": "สรุปธนาคาร",
+  "reportDailySummary": "สรุปรายวัน",
+  "reportTabPurchase": "ซื้อ",
+  "reportTabSales": "ขาย",
+  "reportTabDashboard": "แดชบอร์ด",
+  "reportSingleDayTrend": "วันเดียว — แนวโน้มรายวัน",
+  "reportFullYearTrend": "ทั้งปี — กราฟแนวโน้มรายเดือน",
+  "reportYearLabel": "ปี {year}",
+  "@reportYearLabel": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportJanDec": "ม.ค. – ธ.ค. {year}",
+  "@reportJanDec": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportTotalPurchases": "ยอดซื้อรวม",
+  "reportTotalSales": "ยอดขายรวม",
+  "reportTotalInvoices": "ใบแจ้งหนี้รวม",
+  "reportUnpaidBalance": "ยอดค้างชำระ",
+  "reportAvgPerInvoice": "เฉลี่ยต่อใบแจ้งหนี้",
+  "reportPerTransaction": "ต่อรายการ",
+  "reportMonthlySpend": "ค่าใช้จ่ายรายเดือน ({symbol})",
+  "@reportMonthlySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportMonthlySalesChart": "ยอดขายรายเดือน ({symbol})",
+  "@reportMonthlySalesChart": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportInvoiceCountByMonth": "จำนวนใบแจ้งหนี้ตามเดือน",
+  "reportTopItemsBySpend": "รายการยอดใช้จ่ายสูงสุด ({symbol})",
+  "@reportTopItemsBySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSpendByCategory": "ค่าใช้จ่ายตามหมวดหมู่",
+  "reportOtherCategory": "อื่นๆ",
+  "reportSuppliers": "ผู้จัดจำหน่าย",
+  "reportTableSupplier": "ผู้จัดจำหน่าย",
+  "reportTableAmount": "จำนวนเงิน",
+  "reportTableBills": "ใบแจ้งหนี้",
+  "reportSalesTotal": "ยอดขายรวม",
+  "reportPurchaseTotal": "ยอดซื้อรวม",
+  "reportPositiveMargin": "มาร์จินบวก",
+  "reportNegativeMargin": "มาร์จินติดลบ",
+  "reportGrossMargin": "อัตรากำไรขั้นต้น",
+  "reportOfTotalSales": "ของยอดขายรวม",
+  "reportFailedToLoadAnalytics": "โหลดการวิเคราะห์ไม่สำเร็จ",
+  "reportMarginKpi": "มาร์จิน",
+  "reportExpensesKpi": "ค่าใช้จ่าย",
+  "partyPickerNoResultsFor": "ไม่พบผลลัพธ์สำหรับ \"{query}\"",
+  "@partyPickerNoResultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerNoPartiesForRole": "ไม่พบคู่ค้า{role}",
+  "@partyPickerNoPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerLoadParties": "โหลดคู่ค้า",
+  "invoiceCashCustomer": "ลูกค้าเงินสด",
+  "invoiceQuickAddItemsTitle": "เพิ่มรายการด่วน",
+  "invoiceQuickLoadingMenu": "กำลังโหลดเมนู…",
+  "invoiceQuickInvoiceCreated": "สร้างใบแจ้งหนี้แล้ว",
+  "invoiceQuickAddAtLeastOneItem": "เพิ่มอย่างน้อยหนึ่งรายการ",
+  "invoiceQuickNoResults": "ไม่พบผลลัพธ์!",
+  "invoiceQuickNoItemsInCategory": "ไม่มีรายการในหมวดหมู่นี้",
+  "invoiceQuickAddItem": "เพิ่มรายการ",
+  "invoiceQuickLoadMore": "โหลดเพิ่ม",
+  "invoiceQuickScrollLoadMore": "เลื่อนเพื่อโหลดเพิ่ม ({count} ต่อหน้า)",
+  "invoiceQuickSupplierEmployee": "ผู้จัดจำหน่าย / พนักงาน",
+  "invoiceQuickEditItem": "แก้ไขรายการ",
+  "closeSelectDateRange": "เลือกช่วงวันที่",
+  "closeStartDate": "วันที่เริ่มต้น",
+  "closeEndDate": "วันที่สิ้นสุด",
+  "closeSelectBothDates": "กรุณาเลือกวันที่เริ่มต้นและสิ้นสุด",
+  "closeDeleteSummary": "ลบสรุป",
+  "closeDeleteSummaryConfirm": "คุณแน่ใจหรือไม่ว่าต้องการลบสรุปนี้?",
+  "closeSelectDate": "เลือกวันที่",
+  "closeNoDataToExport": "ไม่มีข้อมูลให้ส่งออก",
+  "closeNoDataToShare": "ไม่มีข้อมูลให้แชร์",
+  "closeNoDataToPrint": "ไม่มีข้อมูลให้พิมพ์",
+  "closePdfGenerateError": "ข้อผิดพลาดในการสร้าง PDF: {error}",
+  "@closePdfGenerateError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfShareError": "ข้อผิดพลาดในการแชร์ PDF: {error}",
+  "@closePdfShareError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfPrintError": "ข้อผิดพลาดในการพิมพ์ PDF: {error}",
+  "@closePdfPrintError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExportPdf": "ส่งออกเป็น PDF",
+  "closeSharePdf": "แชร์ PDF",
+  "closePrint": "พิมพ์",
+  "closeExportOptions": "ตัวเลือกการส่งออก",
+  "closeExportPdfSubtitle": "บันทึกหรือดูเป็นเอกสาร PDF",
+  "closeSharePdfSubtitle": "แชร์ผ่านแอปหรืออีเมล",
+  "closePrintSubtitle": "พิมพ์รายงาน",
+  "invoiceQuickShowingItems": "แสดง {shown} จาก {total}",
+  "invoiceQuickLoadedItems": "โหลดแล้ว: {count}",
+  "invoiceQuickRoomCabinEmployee": "ห้อง / กะเรือ / พนักงาน",
+  "reportPercentOfRevenue": "{percent}% ของรายได้",
+  "@reportPercentOfRevenue": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "reportParties": "คู่ค้า",
+  "reportMonthYearDailyTrend": "{month} {year} — กราฟแนวโน้มรายวัน",
+  "@reportMonthYearDailyTrend": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceQuickCart": "ตะกร้า",
+  "invoiceQuickCartWithCount": "ตะกร้า ({count})",
+  "invoiceQuickClearSearch": "ล้างการค้นหา",
+  "closeAllRecords": "บันทึกทั้งหมด",
+  "closeDailyCashSummaryReport": "รายงานสรุปเงินสดรายวัน",
+  "closeDailyCashSummaryTitle": "สรุปเงินสดรายวัน",
+  "closeDetails": "รายละเอียด",
+  "closeGeneratedAt": "สร้างเมื่อ: {date}",
+  "@closeGeneratedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "closePageN": "หน้า {n}",
+  "@closePageN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "closePeriodRange": "ช่วงเวลา: {start} ถึง {end}",
+  "@closePeriodRange": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummaryOverview": "ภาพรวมสรุป",
+  "closeTotalRecords": "จำนวนบันทึกทั้งหมด",
+  "closeAddSummary": "เพิ่มสรุป",
+  "closeSalesAmount": "ยอดขาย",
+  "closeClosingBalance": "ยอดคงเหลือปิด",
+  "closeLostMoney": "เงินสูญหาย",
+  "closeDiscount": "ส่วนลด",
+  "closeExpenses": "ค่าใช้จ่าย",
+  "closeUnpaid": "ค้างชำระ",
+  "closeTotalOpeningBalance": "ยอดเปิดรวม",
+  "closeTotalSalesAmount": "ยอดขายรวม",
+  "closeTotalCashAmount": "เงินสดรวม",
+  "closeTotalQrAmount": "QR รวม",
+  "closeTotalDiscount": "ส่วนลดรวม",
+  "closeTotalExpenses": "ค่าใช้จ่ายรวม",
+  "closeTotalClosingBalance": "ยอดปิดรวม",
+  "closeTotalLostMoney": "เงินสูญหายรวม",
+  "closeTotalExtraAmount": "จำนวนเพิ่มเติมรวม",
+  "closeShowingCurrentMonth": "แสดงข้อมูลเดือนนี้",
+  "closeNoSummariesFound": "ไม่พบสรุป",
+  "closeNoSummariesAvailable": "ไม่มีสรุป",
+  "closeTryAdjustingDateRange": "ลองปรับช่วงวันที่",
+  "closeCreateFirstSummary": "สร้างสรุปแรกเพื่อเริ่มต้น",
+  "closeClearFilter": "ล้างตัวกรอง",
+  "closeFiltered": "กรองแล้ว",
+  "closeFilteredWithRange": "กรองแล้ว: {range}",
+  "@closeFilteredWithRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummarySingular": "สรุป",
+  "closeSummariesPlural": "สรุป",
+  "closeSummaryUpdatedSuccess": "อัปเดตสรุปสำเร็จ",
+  "closeSummaryDeletedSuccess": "ลบสรุปสำเร็จ",
+  "premiumUnlockTitle": "ปลดล็อก {appName} Premium",
+  "@premiumUnlockTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumTagline": "POS ออฟไลน์ครบ ใบแจ้งหนี้ สต็อก และรายงาน — สมัครสมาชิกเดียวสำหรับธุรกิจของคุณ",
+  "premiumFeatureUnlimitedInvoices": "ใบแจ้งหนี้และใบเสร็จไม่จำกัด",
+  "premiumFeatureInventoryStock": "สินค้าคงคลังและติดตามสต็อก",
+  "premiumFeatureReportsAnalytics": "รายงานยอดขายและการวิเคราะห์",
+  "premiumFeatureOfflineLocal": "ใช้งานออฟไลน์ได้ — ข้อมูลอยู่ในเครื่อง",
+  "premiumContinueWith": "ดำเนินการต่อด้วย {plan}",
+  "@premiumContinueWith": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRestorePurchases": "กู้คืนการซื้อ",
+  "premiumSubscriptionLegal": "เรียกเก็บเงินผ่าน Apple ID ของคุณ สมาชิกต่ออายุอัตโนมัติ เว้นแต่ยกเลิกอย่างน้อย 24 ชม. ก่อนสิ้นสุดรอบ",
+  "premiumPurchaseRestored": "กู้คืนการซื้อแล้ว",
+  "premiumNoActiveSubscription": "ไม่พบสมาชิกที่ใช้งานอยู่",
+  "premiumPlanMonthly": "รายเดือน",
+  "premiumPlanMonthlySubtitle": "ยืดหยุ่น — ยกเลิกได้ทุกเมื่อ",
+  "premiumPlanYearly": "รายปี",
+  "premiumPlanYearlySubtitle": "คุ้มที่สุด — ประหยัด {percent}%",
+  "@premiumPlanYearlySubtitle": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "premiumPlanLifetime": "ตลอดชีพ",
+  "premiumPlanLifetimeSubtitle": "จ่ายครั้งเดียว ใช้ได้ตลอดไป",
+  "premiumPlanPopular": "ยอดนิยม",
+  "premiumOneTimePurchase": "ซื้อครั้งเดียว",
+  "subscriptionSectionTitle": "สมาชิก",
+  "subscriptionPremiumLabel": "Premium",
+  "subscriptionUpgradeTitle": "อัปเกรดเป็น Premium",
+  "subscriptionPremiumPricing": "รายเดือน {monthly} · รายปี {yearly}",
+  "@subscriptionPremiumPricing": {
+    "placeholders": {
+      "monthly": {
+        "type": "String"
+      },
+      "yearly": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActiveUntil": "{plan} ใช้งานได้ถึง {date}",
+  "@subscriptionPremiumActiveUntil": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActive": "{plan} ใช้งานอยู่",
+  "@subscriptionPremiumActive": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRequired": "ต้องใช้ Premium",
+  "upgradeToPremiumContinue": "อัปเกรดเป็น Premium เพื่อดำเนินการต่อ",
+  "freemiumFreePlanLimit": "แผนฟรีอนุญาตสูงสุด {limit} {label} อัปเกรดเป็น Premium เพื่อเข้าถึงไม่จำกัด",
+  "@freemiumFreePlanLimit": {
+    "placeholders": {
+      "limit": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "freemiumPartyRoleRequired": "ต้องระบุบทบาทคู่ค้า",
+  "shiftReminderOpeningTitle": "แจ้งเตือนเปิดร้าน",
+  "shiftReminderOpeningMessage": "คุณเปิดเครื่องบันทึกเงินสดวันนี้แล้วหรือยัง?",
+  "shiftReminderOpeningProceed": "ใช่ เปิดเลย",
+  "shiftReminderClosingTitle": "แจ้งเตือนปิดร้าน",
+  "shiftReminderClosingMessage": "คุณปิดเครื่องบันทึกเงินสดวันนี้แล้วหรือยัง?",
+  "shiftReminderClosingProceed": "ใช่ ปิดเลย",
+  "shiftReminderSkipToday": "ข้ามวันนี้",
+  "shiftReminderOpeningNotificationTitle": "แจ้งเตือนเปิดร้าน",
+  "shiftReminderOpeningNotificationBody": "คุณเปิดเครื่องบันทึกเงินสดวันนี้แล้วหรือยัง? แตะที่นี่หากยังต้องเปิด",
+  "shiftReminderClosingNotificationTitle": "แจ้งเตือนปิดร้าน",
+  "shiftReminderClosingNotificationBody": "คุณปิดเครื่องบันทึกเงินสดวันนี้แล้วหรือยัง? แตะที่นี่หากยังต้องปิด",
+  "closeExchangePayQrGetCashHint": "{business} จ่าย QR ให้ลูกค้า ลูกค้าให้เงินสด",
+  "@closeExchangePayQrGetCashHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExchangePayCashGetQrHint": "{business} จ่ายเงินสดให้ลูกค้า ลูกค้าจ่าย QR",
+  "@closeExchangePayCashGetQrHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closePaymentExchange": "แลกเปลี่ยนการชำระเงิน",
+  "closePayQrGetCashExchangeLabel": "จ่าย QR → รับเงินสด (แลกเปลี่ยน)",
+  "closePayCashGetQrExchangeLabel": "จ่ายเงินสด → รับ QR (แลกเปลี่ยน)",
+  "closePayQrGetCashDetail": "จ่าย QR รับเงินสด",
+  "closePayCashGetQrDetail": "จ่ายเงินสด รับ QR",
+  "faqSectionPremium": "Premium และการเรียกเก็บเงิน",
+  "faqPremiumWhatsIncludedQuestion": "Premium รวมอะไรบ้าง?",
+  "faqPremiumWhatsIncludedAnswer": "Premium ปลดล็อกใบแจ้งหนี้ไม่จำกัด รายงานครบ (P&L, งบ, การวิเคราะห์) สำรองและซิงค์ เงินเดือน การเข้างาน เครื่องมือสต็อก ส่งออก/พิมพ์ใบแจ้งหนี้ และองค์กรเพิ่มเติม ระดับฟรียังใช้ฟีเจอร์ POS หลักได้ภายในขีดจำกัดที่เหมาะสม",
+  "faqPremiumFreeTierQuestion": "ระดับฟรีรวมอะไรบ้าง?",
+  "faqPremiumFreeTierAnswer": "สร้างใบแจ้งหนี้ขายและซื้อได้อย่างละ 10 ใบ พนักงาน 4 คน สินค้า 30 รายการ และขีดจำกัดอื่นเมื่อถึง การเปิด ปิด เครื่องคิดเลข และดูข้อมูลยังฟรี",
+  "faqPremiumRestoreQuestion": "กู้คืนการซื้ออย่างไร?",
+  "faqPremiumRestoreAnswer": "เปิด เพิ่มเติม → อัปเกรดเป็น Premium (หรือหน้าจ่ายเงิน) แล้วแตะ กู้คืนการซื้อ ใช้ Apple ID เดียวกับตอนสมัคร",
+  "faqPremiumCancelQuestion": "ยกเลิกสมาชิกอย่างไร?",
+  "faqPremiumCancelAnswer": "จัดการหรือยกเลิกใน การตั้งค่า iPhone → Apple ID → การสมัครสมาชิก ยังเข้าใช้ได้จนสิ้นสุดรอบที่ชำระแล้ว",
+  "faqDarkModeQuestion": "เปิดโหมดมืดอย่างไร?",
+  "faqDarkModeAnswer": "เปิด เพิ่มเติม → รูปลักษณ์ แล้วเปิด โหมดมืด เมื่ออุปกรณ์ใช้ธีมระบบ แอปจะตามอัตโนมัติ",
+  "faqOpeningClosingReminderQuestion": "การแจ้งเตือนเปิดและปิดคืออะไร?",
+  "faqOpeningClosingReminderAnswer": "{appName} สามารถเตือนให้เปิดหรือปิดเครื่องบันทึกเงินสดรายวัน คุณดำเนินการต่อ ข้ามวันนี้ หรือปิดการแจ้งเตือนได้",
+  "faqPartyRolesQuestion": "บทบาทคู่ค้าคืออะไร?",
+  "faqPartyRolesAnswer": "บทบาทคู่ค้าจัดประเภทผู้ติดต่อ เช่น ลูกค้า ผู้จัดหา ห้อง หรือพนักงาน ปรับแต่งที่ การดำเนินงาน → บทบาทคู่ค้า และเพิ่มคำอธิบายสั้นๆ ให้ทีม",
+  "faqRateAppQuestion": "ให้คะแนน {appName} อย่างไร?",
+  "faqRateAppAnswer": "เปิด เพิ่มเติม → ให้คะแนนเรา เพื่อรีวิวบน App Store ความคิดเห็นของคุณช่วยปรับปรุงการเรียกเก็บเงินออฟไลน์",
+  "freemiumLabelSalesInvoices": "ใบแจ้งหนี้ขาย",
+  "freemiumLabelPurchaseInvoices": "ใบแจ้งหนี้ซื้อ",
+  "freemiumLabelEmployees": "พนักงาน",
+  "freemiumLabelItems": "สินค้า",
+  "freemiumLabelCategories": "หมวดหมู่",
+  "freemiumLabelPaymentMethods": "วิธีชำระเงิน",
+  "freemiumLabelCustomPartyRoles": "บทบาทคู่ค้าแบบกำหนดเอง",
+  "freemiumLabelPartiesForRole": "คู่ค้าสำหรับ {role}",
+  "freemiumLabelOrganizations": "องค์กร",
+  "freemiumPremiumReports": "รายงานใช้ได้กับ Premium",
+  "freemiumPremiumBackupSync": "สำรองและซิงค์ต้องใช้ Premium",
+  "freemiumPremiumPayroll": "เงินเดือนต้องใช้ Premium",
+  "freemiumPremiumAttendance": "การเข้างานต้องใช้ Premium",
+  "freemiumPremiumStock": "การจัดการสต็อกต้องใช้ Premium",
+  "freemiumPremiumInvoiceExport": "ดาวน์โหลดและพิมพ์ต้องใช้ Premium",
+  "@faqOpeningClosingReminderAnswer": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@faqRateAppQuestion": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@freemiumLabelPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+Billmate to offline’owy POS, kasa sklepowa i rozliczenia restauracji dla handlu, kawiarni, barów i małych firm.
+
+FAKTUROWANIE
+
+Twórz faktury sprzedaży i zakupu z pozycjami, rabatami i klientami — pełny program do faktur w kieszeni. Zapisuj wydatki według kategorii, śledź salda każdego klienta i dostawcy i rozliczaj płatność w całości, częściowo albo zbiorczo. Eksportuj każdą fakturę lub paragon do PDF. Bez internetu.
+
+POS DLA SKLEPÓW I HANDLU
+
+Szybka kasa dla sklepów i małych firm. Przyjmuj gotówkę, QR i kartę i drukuj paragony na dowolnej drukarce termicznej ESC/POS. Telefon staje się kasą.
+
+POS RESTAURACJI I BARU Z OBSŁUGĄ STOLIKÓW
+
+Pełny POS restauracji z wizualnym układem stolików. Przyjmuj zamówienia przy stoliku lub na wynos, wysyłaj je do kuchni (KOT) i śledź każde danie od zamówienia do wydania. Zawiera katalog alkoholi dla barów.
+
+MAGAZYN I STANY
+
+Śledź stany sklepu, magazynu lub restauracji. Porównuj spis z zapisami, poprawiaj różnice od razu, wgrywaj stany zbiorczo z CSV lub Excel i eksportuj raporty do PDF.
+
+PERSONEL, PŁACE I OBECNOŚĆ
+
+Prowadź karty pracowników, zapisuj dzienną obecność i twórz listę płac automatycznie z dni pracy i wynagrodzenia, z potrąceniem zaliczek. Eksportuj paski płac do PDF i obsługuj urlopy.
+
+RAPORTY, KSIĘGOWOŚĆ I ANALIZY
+
+Rachunek zysków i strat, zestawienia klientów i dostawców, podsumowania płatności oraz wykresy sprzedaży wobec wydatków według dnia, tygodnia, miesiąca lub własnego zakresu. Dzienne podsumowanie kasy pokazuje zamknięcie dnia.
+
+NAJPIERW OFFLINE — ZAWSZE DZIAŁA
+
+Sprzedaż, wydatki, magazyn, personel i kasa działają na urządzeniu i zostają po restarcie. Bez połączenia, bez przerwy.
+
+DOSTĘP WEDŁUG ROLI I BEZPIECZEŃSTWO
+
+Ustal uprawnienia według roli, od kasjera do kierownika, ze szczegółową kontrolą faktur, zwrotów i edycji. Dane firmy zostają na urządzeniu.
+
+WIELE WALUT, WIELE URZĄDZEŃ
+
+Rozliczenia w wielu walutach. Działa na telefonach i tabletach.
+
+GOTOWE OD PIERWSZEGO DNIA
+
+39 kategorii działalności jest już wczytanych — jedzenie, napoje, noclegi, zaopatrzenie i więcej. Bez konfiguracji. Otwórz aplikację i sprzedawaj.
+
+Od sklepu na rogu po schronisko w górach, od miejskiej kawiarni po pełny bar — Billmate to POS i rozliczenia, które działają także offline.
+
+Polityka prywatności: https://billmate-woad.vercel.app/

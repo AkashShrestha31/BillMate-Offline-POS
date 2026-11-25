@@ -1,0 +1,45 @@
+Billmate ialah POS luar talian, mesin tunai kedai dan pengebilan restoran untuk runcit, kafe, bar dan perniagaan kecil.
+
+PENGEBILAN
+
+Cipta invois jualan dan belian dengan item, diskaun dan pelanggan — pembuat invois lengkap dalam poket. Catat perbelanjaan mengikut kategori, jejak baki tertunggak setiap pelanggan dan pembekal, dan selesaikan bayaran penuh, separa atau sekali gus. Eksport sebarang invois atau resit ke PDF. Tanpa internet.
+
+POS UNTUK KEDAI DAN RUNCIT
+
+Bayaran pantas untuk kedai dan perniagaan kecil. Terima tunai, QR dan kad, dan cetak resit pada mana-mana pencetak terma ESC/POS. Telefon anda menjadi mesin tunai.
+
+POS RESTORAN DAN BAR DENGAN MEJA
+
+POS restoran lengkap dengan susun atur meja visual. Ambil pesanan di meja atau bungkus, hantar ke dapur (KOT), dan ikuti setiap hidangan dari pesanan hingga dihidang. Termasuk katalog minuman untuk bar.
+
+INVENTORI DAN STOK
+
+Jejak stok kedai, stor atau restoran. Selaraskan kiraan fizikal dengan rekod, betulkan perbezaan serta-merta, muat naik stok pukal melalui CSV atau Excel, dan eksport laporan stok ke PDF.
+
+KAKITANGAN, GAJI DAN KEHADIRAN
+
+Simpan profil kakitangan, catat kehadiran harian, dan jana gaji secara automatik daripada hari bekerja dan gaji, dengan potongan pendahuluan. Eksport slip gaji ke PDF dan urus kelulusan cuti.
+
+LAPORAN, PERAKAUNAN DAN ANALITIK
+
+Untung rugi, penyata pelanggan dan pembekal, ringkasan bayaran, serta carta jualan berbanding perbelanjaan mengikut hari, minggu, bulan atau julat sendiri. Ringkasan tunai harian menunjukkan tutup hari.
+
+LUAR TALIAN DAHULU — SENTIASA HIDUP
+
+Jualan, perbelanjaan, inventori, kakitangan dan tunai berjalan pada peranti anda dan kekal selepas mula semula. Tiada sambungan, tiada gangguan.
+
+AKSES MENGIKUT PERANAN DAN KESELAMATAN
+
+Tetapkan kebenaran mengikut peranan, dari juruwang hingga pengurus, dengan kawalan terperinci atas invois, pulangan dan suntingan. Data perniagaan kekal pada peranti.
+
+PELBAGAI MATA WANG, PELBAGAI PERANTI
+
+Pengebilan dalam pelbagai mata wang. Berfungsi pada telefon dan tablet.
+
+SEDIA DARI HARI PERTAMA
+
+39 kategori perniagaan sudah dimuatkan — makanan, minuman, penginapan, bekalan dan lagi. Tiada persediaan. Buka apl dan mula menjual.
+
+Dari kedai sudut ke rumah penginapan gunung, dari kafe bandar ke bar yang sibuk — Billmate ialah POS dan pengebilan yang terus berjalan, walaupun luar talian.
+
+Dasar privasi: https://billmate-woad.vercel.app/

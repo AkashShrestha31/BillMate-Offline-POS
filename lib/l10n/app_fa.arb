@@ -1,0 +1,2653 @@
+{
+  "@@locale": "fa",
+  "noInternetConnection": "اتصال اینترنت وجود ندارد.",
+  "formatException": "استثنای فرمت",
+  "rememberMe": "مرا به خاطر بسپار",
+  "signIn": "ورود",
+  "passwordHint": "رمز عبور را وارد کنید",
+  "forgetPassword": "اطلاعات ورود را فراموش کردید؟",
+  "okay": "باشه",
+  "success": "موفقیت",
+  "hotel": "هتل",
+  "errorEncountered": "خطایی رخ داد",
+  "serverError": "خطای سرور",
+  "requestFailed": "درخواست ناموفق بود",
+  "connectionTimedOut": "زمان اتصال به پایان رسید",
+  "password": "رمز عبور",
+  "keepSignIn": "وارد بمانید",
+  "enterPassword": "رمز عبور را وارد کنید",
+  "enterValidPassword": "رمز عبور معتبر وارد کنید",
+  "skip": "رد کردن",
+  "pleaseWait": "لطفاً صبر کنید ....",
+  "enterValidUserName": "نام کاربری معتبر وارد کنید.",
+  "userName": "نام کاربری",
+  "or": "یا",
+  "retry": "تلاش مجدد",
+  "error": "خطا",
+  "supportMessage": "لطفاً با مدیر تماس بگیرید.",
+  "responseMessage404": "خطای ۴۰۴",
+  "appDisplayName": "BizTrack",
+  "appVersionLabel": "نسخه {version}",
+  "@appVersionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "لغو",
+  "yes": "بله",
+  "no": "خیر",
+  "close": "بستن",
+  "save": "ذخیره",
+  "delete": "حذف",
+  "confirm": "تأیید",
+  "done": "انجام شد",
+  "next": "بعدی",
+  "getStarted": "شروع کنید",
+  "back": "بازگشت",
+  "submit": "ارسال",
+  "continueAction": "ادامه",
+  "tryAgain": "دوباره تلاش کنید",
+  "warning": "هشدار",
+  "loading": "در حال بارگذاری…",
+  "comingSoon": "به زودی",
+  "required": "الزامی",
+  "search": "جستجو",
+  "add": "افزودن",
+  "edit": "ویرایش",
+  "remove": "حذف",
+  "view": "مشاهده",
+  "export": "صدور",
+  "import": "ورودی",
+  "refresh": "بروزرسانی",
+  "select": "انتخاب",
+  "upload": "آپلود",
+  "download": "دانلود",
+  "share": "اشتراک‌گذاری",
+  "filter": "فیلتر",
+  "sort": "مرتب‌سازی",
+  "apply": "اعمال",
+  "reset": "بازنشانی",
+  "clear": "پاک کردن",
+  "all": "همه",
+  "none": "هیچ",
+  "total": "جمع",
+  "subtotal": "جمع جزء",
+  "grandTotal": "جمع کل نهایی",
+  "amount": "مبلغ",
+  "quantity": "مقدار",
+  "rate": "نرخ",
+  "discount": "تخفیف",
+  "paid": "پرداخت شده",
+  "unpaid": "پرداخت‌نشده",
+  "credit": "اعتبار",
+  "cash": "نقد",
+  "date": "تاریخ",
+  "time": "زمان",
+  "name": "نام",
+  "email": "ایمیل",
+  "phone": "تلفن",
+  "address": "آدرس",
+  "notes": "یادداشت‌ها",
+  "description": "توضیحات",
+  "status": "وضعیت",
+  "type": "نوع",
+  "category": "دسته‌بندی",
+  "party": "طرف",
+  "item": "مورد",
+  "payment": "پرداخت",
+  "settlement": "تسویه",
+  "opening": "افتتاحیه",
+  "closing": "اختتامیه",
+  "stock": "Stock reconciliation",
+  "expense": "هزینه",
+  "revenue": "درآمد",
+  "profit": "سود",
+  "loss": "ضرر",
+  "sales": "فروش",
+  "purchase": "خرید",
+  "monthJan": "ژانویه",
+  "monthFeb": "فوریه",
+  "monthMar": "مارس",
+  "monthApr": "آوریل",
+  "monthMay": "مه",
+  "monthJun": "ژوئن",
+  "monthJul": "ژوئیه",
+  "monthAug": "اوت",
+  "monthSep": "سپتامبر",
+  "monthOct": "اکتبر",
+  "monthNov": "نوامبر",
+  "monthDec": "دسامبر",
+  "more": "بیشتر",
+  "profile": "پروفایل",
+  "operations": "عملیات",
+  "employeeManagement": "مدیریت کارمندان",
+  "report": "گزارش",
+  "helpAndSupport": "راهنما و پشتیبانی",
+  "privacyAndPolicies": "حریم خصوصی و سیاست‌ها",
+  "faq": "سؤالات متداول",
+  "contactSupport": "تماس با پشتیبانی",
+  "rateUs": "به ما امتیاز دهید",
+  "rateUsSubtitle": "از BizTrack لذت می‌برید؟ در Google Play نظر بدهید",
+  "rateUsUnavailable": "فروشگاه باز نشد. بعداً دوباره امتحان کنید.",
+  "reportProblem": "گزارش مشکل",
+  "logout": "خروج",
+  "signOut": "خروج از حساب",
+  "settings": "تنظیمات",
+  "testData": "داده آزمایشی",
+  "regionAndCurrency": "منطقه و ارز",
+  "reportingCurrency": "ارز گزارش‌دهی",
+  "selectCurrency": "انتخاب ارز",
+  "currencySample": "{code} · {symbol} · نمونه {sample}",
+  "@currencySample": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      },
+      "sample": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdated": "ارز روی {code} ({symbol}) تنظیم شد",
+  "@currencyUpdated": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdateFailed": "به‌روزرسانی ارز ممکن نشد: {error}",
+  "@currencyUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "setupAppTitle": "راه‌اندازی {appName}",
+  "@setupAppTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "setupSubtitle": "سازمان و حسابداری خود را پیکربندی کنید — برای استفاده آفلاین روی این دستگاه ذخیره می‌شود.",
+  "regionAndCurrencySubtitle": "تنظیمات منطقه‌ای و ارز گزارش‌دهی.",
+  "country": "کشور",
+  "currency": "ارز",
+  "selectCountry": "انتخاب کشور",
+  "language": "زبان",
+  "selectLanguage": "انتخاب زبان",
+  "languageUpdated": "زبان روی {name} تنظیم شد",
+  "@languageUpdated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "languageUpdateFailed": "به‌روزرسانی زبان ممکن نشد: {error}",
+  "@languageUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToApp": "به {appName} خوش آمدید",
+  "@welcomeToApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "forceUpdateMessage": "برای ادامه لطفاً آخرین نسخه {appName} را نصب کنید.",
+  "@forceUpdateMessage": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "generatedByApp": "تولید شده توسط {appName}",
+  "@generatedByApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "whatIsApp": "{appName} چیست؟",
+  "@whatIsApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "appDescriptionFaq": "{appName} به شما کمک می‌کند فاکتورهای فروش و خرید، طرف‌ها (مشتریان و تأمین‌کنندگان)، موجودی، پرداخت‌ها، کارمندان و خلاصه‌های روزانه را از گوشی یا تبلت خود مدیریت کنید.",
+  "@appDescriptionFaq": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "faqIntro": "پاسخ به سؤالات متداول درباره {appName}.",
+  "@faqIntro": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseFromGallery": "انتخاب از گالری",
+  "takePhoto": "عکس بگیرید",
+  "photoLibrary": "کتابخانه عکس",
+  "addPhoto": "افزودن عکس",
+  "couldNotPickImage": "انتخاب تصویر ممکن نشد: {error}",
+  "@couldNotPickImage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteOrganizationTitle": "سازمان حذف شود؟",
+  "deleteOrganizationMessage": "{name} را از این دستگاه حذف کنید. تمام داده‌های محلی این سازمان حذف خواهد شد.",
+  "deleteOrganizationWarning": "این عملیات قابل بازگشت نیست.",
+  "organizationDeleted": "سازمان حذف شد",
+  "createAction": "ایجاد",
+  "connectOrganizationTitle": "سازمان خود را متصل کنید",
+  "connectOrganizationSubtitle": "برای ورود یک سازمان را انتخاب کنید.",
+  "selectOrganization": "سازمان‌ها",
+  "selectOrganizationHint": "برای ادامه روی یک سازمان ضربه بزنید",
+  "noSavedOrganizationsYet": "هنوز هیچ سازمانی وجود ندارد. یکی بسازید یا از داده‌های آزمایشی زیر استفاده کنید.",
+  "orgConnectOnceInfo": "این برنامه را به حساب کاری شما متصل می‌کند. فقط یک بار در هر دستگاه نیاز به تنظیم دارید.",
+  "organizationCodeLabel": "کد: {code}",
+  "loginWithTestData": "ورود با داده‌های آزمایشی",
+  "loginWithTestDataSubtitle": "داده‌های هتل نمایشی را بارگذاری کنید و به صورت خودکار وارد شوید",
+  "testDataLoginFailed": "بارگذاری داده‌های آزمایشی ممکن نشد: {error}",
+  "preparingTestData": "در حال آماده‌سازی داده‌های نمایشی…",
+  "setupOrganizationName": "نام سازمان",
+  "setupCompanyName": "نام شرکت",
+  "setupBusinessType": "نوع کسب‌وکار",
+  "businessTypeHotel": "هتل",
+  "businessTypeRestaurant": "رستوران",
+  "businessTypeHotelRestaurant": "هتل و رستوران",
+  "businessTypeRetail": "خرده‌فروشی / مغازه",
+  "businessTypeCafe": "کافه / نانوایی",
+  "businessTypeBar": "بار / پاب",
+  "businessTypeOther": "سایر",
+  "organizationBusinessTypeLabel": "نوع: {type}",
+  "@organizationBusinessTypeLabel": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "organizationSettings": "سازمان",
+  "editOrganizationInfo": "اطلاعات سازمان",
+  "editOrganizationInfoSubtitle": "نحوه نمایش این کسب‌وکار در برنامه را به‌روزرسانی کنید. کد سازمان قابل تغییر نیست.",
+  "organizationCode": "کد سازمان",
+  "organizationCodeReadOnly": "این کد پس از راه‌اندازی ثابت است.",
+  "organizationInfoUpdated": "اطلاعات سازمان ذخیره شد",
+  "organizationInfoLoadFailed": "اطلاعات سازمان بارگذاری نشد",
+  "organizationInfoSaveFailed": "اطلاعات سازمان ذخیره نشد: {error}",
+  "@organizationInfoSaveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "saveChanges": "ذخیره تغییرات",
+  "setupFullName": "نام کامل",
+  "setupConfirmPassword": "تأیید رمز عبور",
+  "setupBankName": "نام بانک",
+  "setupRegionStepTitle": "منطقه و ارز",
+  "setupOrganizationStepTitle": "سازمان",
+  "setupOrganizationStepSubtitle": "نحوه نمایش کسب‌وکار شما در برنامه",
+  "setupAdminStepTitle": "حساب مدیر",
+  "setupAdminStepSubtitle": "کاربر اصلی برای این نصب",
+  "setupAccountingStepTitle": "حسابداری",
+  "setupAccountingStepSubtitle": "بانک، نمودار حسابات و سال مالی",
+  "setupCompleteSetup": "تکمیل راه‌اندازی",
+  "fieldRequired": "{field} الزامی است",
+  "invalidEmailAddress": "یک آدرس ایمیل معتبر وارد کنید",
+  "passwordMinLength": "رمز عبور باید حداقل {min} کاراکتر باشد",
+  "passwordsDoNotMatch": "رمزهای عبور مطابقت ندارند",
+  "setupFixValidationErrors": "لطفاً خطاهای زیر را برای ادامه برطرف کنید",
+  "setupCompleteSuccess": "راه‌اندازی با موفقیت تکمیل شد",
+  "setupCompleteWithPdfSuccess": "راه‌اندازی کامل شد. PDF را در مکانی امن ذخیره کنید.",
+  "setupPdfFailed": "راه‌اندازی تمام شد، اما PDF ذخیره نشد: {error}",
+  "setupFailed": "راه‌اندازی تکمیل نشد. لطفاً دوباره امتحان کنید.",
+  "setupFailedWithDetails": "راه‌اندازی ناموفق بود: {error}",
+  "languageChangeLaterHint": "می‌توانید آن را بعداً از تنظیمات تغییر دهید",
+  "unpaidAmount": "پرداخت نشده مبلغ",
+  "unpaidBalance": "پرداخت نشده",
+  "unpaidColonAmount": "پرداخت نشده: {amount}",
+  "previousUnpaid": "پرداخت نشده",
+  "partyUnpaid": "پرداخت نشده",
+  "loadingUnpaid": "پرداخت نشده…",
+  "totalUnpaid": "پرداخت نشده",
+  "unpaidAmountNotYetCollected": "مبلغ پرداخت‌نشده هنوز دریافت نشده است.",
+  "partyUnpaidTabHint": "کارمندان را باز کنید، یک نفر را انتخاب کنید، سپس در پروفایل آن‌ها روی پرداخت‌نشده طرف ضربه بزنید. سرور برای این جستجو به شناسه کارمند نیاز دارد.",
+  "partySettlementUsesUnpaidTotal": "تسویه طرف از مجموع پرداخت‌نشده استفاده می‌کند.",
+  "selectPartyWithUnpaidFirst": "ابتدا مبلغ تسویه را وارد کنید (یا طرفی با پرداخت‌نشده انتخاب کنید).",
+  "@unpaidColonAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "partyRolesTitle": "نقش‌های طرف",
+  "partyRolesMoreSubtitle": "مشتری، تأمین‌کننده، هر دو و بیشتر",
+  "searchRoles": "جستجوی نقش‌ها",
+  "roleCount": "{count, plural, =1{۱ نقش} other{{count} نقش}}",
+  "@roleCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noRolesYet": "هنوز نقشی وجود ندارد",
+  "noRolesYetHint": "مشتری، تأمین‌کننده، هر دو یا نقش‌های سفارشی برای مخاطبان اضافه کنید.",
+  "addRole": "افزودن نقش",
+  "deleteRoleTitle": "حذف نقش",
+  "deleteRoleConfirm": "حذف \"{name}\"؟ این عمل قابل بازگشت نیست.",
+  "@deleteRoleConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteRoleHasPartiesMessage": "\"{name}\" توسط {partyCount, plural, =1{۱ طرف} other{{partyCount} طرف}} استفاده می‌شود. انتقال دهید یا حذف اجباری کنید.",
+  "@deleteRoleHasPartiesMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "transferParties": "انتقال طرف‌ها",
+  "hardDeleteLoseParties": "حذف اجباری (از دست دادن طرف‌ها)",
+  "hardDeleteRoleTitle": "حذف اجباری؟",
+  "hardDeleteRoleMessage": "این عمل \"{name}\" و {partyCount, plural, =1{۱ طرف} other{{partyCount} طرف}} مرتبط را به‌طور دائم حذف می‌کند.\n\nطرف‌های مرتبط با فاکتور ممکن است حذف نشوند — از انتقال استفاده کنید.",
+  "@hardDeleteRoleMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteRoleAndParties": "حذف نقش و طرف‌ها",
+  "addAnotherRoleBeforeDelete": "قبل از حذف این نقش، یکی دیگر اضافه کنید.",
+  "transferPartiesMoveMessage": "انتقال {partyCount, plural, =1{۱ طرف} other{{partyCount} طرف}} از \"{fromRole}\" به:",
+  "@transferPartiesMoveMessage": {
+    "placeholders": {
+      "partyCount": {
+        "type": "int"
+      },
+      "fromRole": {
+        "type": "String"
+      }
+    }
+  },
+  "transferAndDeleteRole": "انتقال و حذف نقش",
+  "builtInRole": "داخلی",
+  "rolePartyCount": "{count, plural, =1{۱ طرف} other{{count} طرف}}",
+  "@rolePartyCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noPartiesYet": "هنوز طرفی وجود ندارد",
+  "newRole": "نقش جدید",
+  "editRole": "ویرایش نقش",
+  "defaultRolesCannotEdit": "نقش‌های پیش‌فرض قابل تغییر نام یا حذف نیستند.",
+  "roleNameLabel": "نام نقش *",
+  "roleNameHint": "مثال: مشتری",
+  "roleDescriptionLabel": "توضیحات",
+  "roleDescriptionHint": "یادداشت کوتاه برای تیم شما",
+  "roleSortOrderLabel": "ترتیب مرتب‌سازی",
+  "roleSortOrderHint": "عدد کمتر اول در لیست نمایش داده می‌شود",
+  "roleCreated": "نقش ایجاد شد",
+  "roleUpdated": "نقش به‌روز شد",
+  "roleDeleted": "نقش حذف شد",
+  "roleDeletedPartiesTransferred": "نقش حذف شد. {count, plural, =1{۱ طرف} other{{count} طرف}} به {targetRole} منتقل شد.",
+  "@roleDeletedPartiesTransferred": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "targetRole": {
+        "type": "String"
+      }
+    }
+  },
+  "roleAndPartiesDeleted": "نقش و {count, plural, =1{۱ طرف} other{{count} طرف}} حذف شدند.",
+  "@roleAndPartiesDeleted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@deleteOrganizationMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@organizationCodeLabel": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "@testDataLoginFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@fieldRequired": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "@passwordMinLength": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "@setupPdfFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@setupFailedWithDetails": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "workspace": "فضای کاری",
+  "change": "تغییر",
+  "addMoreOrganization": "افزودن بیشتر +",
+  "connectAnotherOrganization": "اتصال سازمان دیگر",
+  "noSavedOrganizationsUseAddMore": "هنوز سازمانی ذخیره نشده. از افزودن بیشتر + برای اتصال استفاده کنید.",
+  "registerNewOrganizationTitleSignedIn": "ثبت سازمان جدید؟",
+  "registerNewOrganizationTitle": "ثبت سازمان جدید؟",
+  "registerNewOrganizationMessageSignedIn": "از حساب خارج می‌شوید و راه‌انداز از ابتدا شروع می‌کند.\n\nسازمان‌های ذخیره‌شده پس از راه‌اندازی در لیست باقی می‌مانند.",
+  "registerNewOrganizationMessageLogin": "راه‌انداز شروع می‌کند. راه‌اندازی را تکمیل کنید؛ سازمان‌های ذخیره‌شده در لیست باقی می‌مانند.",
+  "startSetup": "شروع راه‌اندازی",
+  "enterOrganizationCode": "لطفاً کد سازمان خود را وارد کنید",
+  "organizationNotFoundCheckCode": "سازمان یافت نشد. کد را بررسی کرده و دوباره امتحان کنید.",
+  "organizationNotFound": "سازمان یافت نشد",
+  "couldNotVerifyOrganization": "تأیید سازمان امکان‌پذیر نبود",
+  "noLocalDataCompleteSetup": "داده محلی برای {name} وجود ندارد. ابتدا راه‌اندازی این سازمان را تکمیل کنید.",
+  "@noLocalDataCompleteSetup": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeBack": "خوش برگشتید",
+  "signInToContinue": "برای ادامه وارد شوید",
+  "enterEmail": "ایمیل را وارد کنید",
+  "pleaseEnterEmail": "لطفاً ایمیل خود را وارد کنید",
+  "pleaseEnterValidEmail": "لطفاً یک ایمیل معتبر وارد کنید",
+  "enterEmailLocalPartOnly": "فقط بخش قبل از @ را وارد کنید",
+  "pleaseEnterPassword": "لطفاً رمز عبور خود را وارد کنید",
+  "logIn": "ورود",
+  "searchCountry": "جستجوی کشور",
+  "searchCodeOrSymbol": "جستجوی کد یا نماد",
+  "saveLoginDetailsTitle": "اطلاعات ورود را ذخیره کنید؟",
+  "saveLoginDetailsMessage": "در شرف تکمیل راه‌اندازی این سازمان هستید.\n\nآیا می‌خواهید یک PDF با کد، نام، ایمیل و رمز عبور دانلود کنید؟ آن را در مکانی امن نگهداری کنید.",
+  "downloadPdfAndContinue": "دانلود PDF و ادامه",
+  "continueWithoutPdf": "ادامه بدون PDF",
+  "legalDisplayNameHint": "نام قانونی / نمایشی",
+  "chartOfAccounts": "نمودار حسابات",
+  "fiscalYearStart": "شروع سال مالی",
+  "fiscalYearEnd": "پایان سال مالی",
+  "removeTestDataTitle": "حذف داده‌های آزمایشی؟",
+  "removeTestDataMessageDemoOrg": "تمام فروش‌ها، خریدها، مخاطبان، طرف‌ها، موجودی، کارمندان و سازمان‌های آزمایشی حذف می‌شوند.\n\nشما در یک سازمان آزمایشی هستید — پس از این به اولین سازمان شما برمی‌گردید.",
+  "removeTestDataMessageNormal": "تمام داده‌های آزمایشی و ۳ سازمان اضافی حذف می‌شوند. حساب مدیر شما دست‌نخورده باقی می‌ماند.",
+  "removeTestDataWarning": "این عمل قابل بازگشت نیست مگر با بارگذاری مجدد داده‌های آزمایشی.",
+  "removeTestData": "حذف داده‌های آزمایشی",
+  "keepTestData": "نگه‌داشتن داده‌های آزمایشی",
+  "demoDataRemoved": "داده‌های نمایشی حذف شدند",
+  "testDataRemovedSwitchedTo": "داده‌های آزمایشی حذف شدند. به {name} تغییر یافت.",
+  "@testDataRemovedSwitchedTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "testDataRemoved": "داده‌های آزمایشی حذف شدند",
+  "couldNotRemoveTestData": "حذف داده‌های آزمایشی ممکن نشد: {error}",
+  "@couldNotRemoveTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loadTestDataTitle": "بارگذاری داده‌های آزمایشی؟",
+  "loadTestDataMessage": "این مخاطبان، موجودی، فروش، خرید، پرداخت، کارمندان و حضور ۱۵ روز اخیر را اضافه می‌کند.",
+  "loadTestData": "بارگذاری داده‌های آزمایشی",
+  "testDataLoaded": "داده‌های آزمایشی بارگذاری شدند",
+  "couldNotLoadTestData": "بارگذاری داده‌های آزمایشی ممکن نشد: {error}",
+  "@couldNotLoadTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "demoTestData": "داده‌های آزمایشی نمایشی",
+  "importTestDataSubtitle": "وارد کردن داده‌های آزمایشی برای همه ویژگی‌ها",
+  "hideTestDataTitle": "پنهان‌سازی داده‌های آزمایشی برای این سازمان؟",
+  "hideTestDataMessage": "بخش داده‌های آزمایشی در همه جای این سازمان پنهان می‌شود.",
+  "hideTestDataWarning": "داده‌های نمایشی قبلاً بارگذاری‌شده تا زمانی که از تنظیمات حذف نشوند در پایگاه داده باقی می‌مانند.",
+  "okHideTestData": "باشه، داده‌های آزمایشی را پنهان کن",
+  "testDataHiddenForOrg": "داده‌های آزمایشی برای این سازمان پنهان شدند",
+  "hideTestDataTooltip": "پنهان‌سازی داده‌های آزمایشی برای این سازمان",
+  "privacyPolicyTitle": "سیاست حریم خصوصی",
+  "termsAndConditions": "شرایط و ضوابط",
+  "logoutConfirmTitle": "خروج",
+  "logoutConfirmMessage": "آیا مطمئن هستید که می‌خواهید از حساب خود خارج شوید؟",
+  "faqTapToExpand": "برای گسترش روی سؤال ضربه بزنید.",
+  "faqSectionGettingStarted": "شروع به کار",
+  "faqSectionLogin": "ورود",
+  "faqSectionNavigation": "ناوبری",
+  "faqSectionInvoices": "فاکتورها",
+  "faqSectionPayments": "پرداخت‌ها",
+  "faqSectionItemsStock": "اقلام و موجودی",
+  "faqSectionProfileEmployees": "پروفایل و کارمندان",
+  "faqSectionDashboardReports": "داشبورد و گزارش‌ها",
+  "faqSectionSyncTroubleshooting": "همگام‌سازی و عیب‌یابی",
+  "faqNeedInternetQuestion": "آیا به اینترنت نیاز دارم؟",
+  "faqNeedInternetAnswer": "پس از راه‌اندازی اولیه می‌توانید بدون اینترنت فاکتور، اقلام و پرداخت ثبت کنید.",
+  "faqFirstInstallQuestion": "در اولین نصب چه اتفاقی می‌افتد؟",
+  "faqFirstInstallAnswer": "یک آموزش کوتاه می‌بینید، سپس راه‌اندازی محلی (سازمان، شرکت، ایمیل، رمز، ارز، سال مالی). بعد وارد شوید.",
+  "faqSignInCredentialsQuestion": "برای ورود از چه استفاده کنم؟",
+  "faqSignInCredentialsAnswer": "ایمیل و رمز عبور از راه‌اندازی.",
+  "faqLoggedOutQuestion": "چرا خارج شدم؟",
+  "faqLoggedOutAnswer": "خروج انتخاب کردید یا جلسه منقضی شد. دوباره وارد شوید.",
+  "faqBottomTabsQuestion": "تب‌های پایین چه کاری می‌کنند؟",
+  "faqBottomTabsAnswer": "خانه — داشبورد.\nفروش — فاکتورهای فروش.\nهزینه‌ها — فاکتورهای خرید.\nدکمه وسط — طرف‌ها.\nبیشتر — پروفایل، گزارش‌ها، خروج.",
+  "faqCreateInvoiceQuestion": "چطور فاکتور ایجاد کنم؟",
+  "faqCreateInvoiceAnswer": "فروش یا هزینه را باز کنید، تاریخ انتخاب کنید، + بزنید، اقلام اضافه کنید، ذخیره کنید.",
+  "faqInvoiceDetailsQuestion": "چطور جزئیات فاکتور را ببینم؟",
+  "faqInvoiceDetailsAnswer": "روی هر فاکتور در لیست ضربه بزنید.",
+  "faqZeroRateQuestion": "نرخ یا مبلغ صفر نشان می‌دهد",
+  "faqZeroRateAnswer": "داده‌های خط در ذخیره‌های قدیمی وجود نداشت. برنامه را به‌روز کنید.",
+  "faqPartialPaymentQuestion": "چطور پرداخت جزئی ثبت کنم؟",
+  "faqPartialPaymentAnswer": "فاکتور → جزئیات معامله → انجام پرداخت.",
+  "faqMultiplePaymentQuestion": "پرداخت چندگانه چطور کار می‌کند؟",
+  "faqMultiplePaymentAnswer": "پرداخت چندگانه را روشن کنید و مبلغ را بین نقد، کارت، QR تقسیم کنید.",
+  "faqSplitPaymentSavedQuestion": "فقط یک پرداخت از تقسیم ذخیره شد",
+  "faqSplitPaymentSavedAnswer": "به آخرین نسخه برنامه به‌روز کنید.",
+  "faqAddItemQuestion": "چطور قلم اضافه کنم؟",
+  "faqAddItemAnswer": "از جریان فروش قلم اضافه کنید. نام، نرخ، واحد وارد کنید.",
+  "faqCustomUnitQuestion": "چطور واحد سفارشی اضافه کنم؟",
+  "faqCustomUnitAnswer": "قلم → واحد → ایجاد واحد جدید.",
+  "faqStockQuantitiesQuestion": "How do I enter stock quantities?",
+  "faqStockQuantitiesAnswer": "Live qty is In stock on each item. Set stock on an item to enter opening stock or a stock adjustment. Opening stock / stock reconciliation (upload or enter a count) also sets In stock when live tracking is on. Liquor prices is a pour-price list, not stock.",
+  "faqProfileNameQuestion": "پروفایل هنوز نام قدیمی را نشان می‌دهد",
+  "faqProfileNameAnswer": "رکورد کارمند خود را ویرایش و ذخیره کنید.",
+  "faqRevenueDetailsQuestion": "جزئیات درآمد چیست؟",
+  "faqRevenueDetailsAnswer": "نمای ماهانه با نمودار روزانه، سود خالص و تفکیک فروش در مقابل خرید.",
+  "faqOtherReportsQuestion": "گزارش‌های دیگر کجاست؟",
+  "faqOtherReportsAnswer": "بیشتر → گزارش‌ها، اگر نقش شما دسترسی دارد.",
+  "faqWhenSyncQuestion": "کِی باید همگام‌سازی کنم؟",
+  "faqWhenSyncAnswer": "فقط وقتی مدیر می‌خواهد و اتصال پایدار دارید.",
+  "faqFabPositionQuestion": "دکمه + خیلی بالا به نظر می‌رسد",
+  "faqFabPositionAnswer": "بالای نوار ناوبری است. لیست را اسکرول کنید یا برنامه را به‌روز کنید.",
+  "faqHowLogoutQuestion": "چطور خارج شوم؟",
+  "faqHowLogoutAnswer": "بیشتر → خروج در پایین لیست تنظیمات.",
+  "statisticsGoodMorning": "Good Morning",
+  "statisticsGoodAfternoon": "Good Afternoon",
+  "statisticsGoodEvening": "Good Evening",
+  "statisticsDefaultUser": "User",
+  "statisticsCheckConnection": "Please check your connection and try again.",
+  "statisticsCouldNotLoadProfile": "Could not load profile",
+  "statisticsCouldNotLoadData": "Could not load data",
+  "statisticsPeriodDay": "Day",
+  "statisticsPeriodMonth": "Month",
+  "statisticsPeriodYear": "Year",
+  "statisticsSelectedPeriod": "Selected Period",
+  "statisticsSelectMonth": "Select Month",
+  "statisticsSelectMonthSubtitle": "Choose a month to filter data",
+  "statisticsQuickOperations": "Quick Operations",
+  "statisticsAnnualRevenue": "Annual Revenue",
+  "statisticsCashflowLast7Days": "جریان نقدی (۷ روز گذشته)",
+  "statisticsCashflowLast12Months": "جریان نقدی (۱۲ ماه گذشته)",
+  "statisticsDaily": "Daily",
+  "statisticsMonthly": "Monthly",
+  "statisticsOverall": "Overall",
+  "statisticsLast7Days": "Last 7 Days",
+  "statisticsLast12Months": "Last 12 Months",
+  "statisticsAllYears": "All Years",
+  "statisticsNoDataAvailable": "No data available",
+  "statisticsMoneyIn": "Money In",
+  "statisticsMoneyOut": "Money Out",
+  "statisticsIncome": "Income",
+  "statisticsExpenses": "Expenses",
+  "statisticsSalesSummary": "Sales Summary",
+  "statisticsPurchaseSummary": "Purchase Summary",
+  "statisticsTotalSales": "Total Sales",
+  "statisticsTotalIncome": "Total Income",
+  "statisticsTotalUnpaid": "Total Unpaid",
+  "statisticsTotalPurchase": "Total Purchase",
+  "statisticsPaidPurchase": "Paid Purchase",
+  "statisticsUnpaidPurchase": "Unpaid Purchase",
+  "statisticsEmployeeDashboard": "Employee Dashboard",
+  "statisticsDefaultEmployee": "Employee",
+  "statisticsDefaultDepartment": "Department",
+  "statisticsDefaultPosition": "Position",
+  "statisticsCurrentMonth": "Current Month",
+  "statisticsStatus": "Status",
+  "statisticsActive": "Active",
+  "statisticsWelcome": "Welcome",
+  "statisticsEmployeeWelcomeMessage": "You are logged in as an employee. Use the navigation menu to access available features.",
+  "statisticsRevenueDetails": "Revenue Details",
+  "statisticsEmployeeDetails": "Employee Details",
+  "statisticsChangeMonth": "Change month",
+  "statisticsFilterChartsSubtitle": "Filter charts and breakdown",
+  "statisticsDailyTrend": "Daily trend",
+  "statisticsDailyActivity": "Daily activity",
+  "statisticsNoDataForMonth": "No data for this month",
+  "statisticsNetProfit": "Net profit",
+  "statisticsMonthReceivables": "Month receivables",
+  "statisticsNoDailyEntries": "No daily entries for this month",
+  "statisticsDailySalesBreakdown": "Daily sales breakdown",
+  "statisticsDailyBreakdown": "Daily breakdown",
+  "statisticsAdvance": "Advance",
+  "statisticsExploreFeatures": "Explore Features",
+  "statisticsShowOrHideFeatures": "Show or hide features",
+  "statisticsAllFeaturesHidden": "All explore features are hidden",
+  "statisticsNoFeaturesForOrg": "No features available for your organization",
+  "statisticsTapTuneToShow": "Tap the tune icon above to show shortcuts again.",
+  "statisticsMenuCheck": "Reconciliation",
+  "statisticsMenuEmployee": "Employee",
+  "statisticsMenuOrder": "Order",
+  "statisticsMenuInventory": "Items",
+  "statisticsMenuCustomers": "Customers",
+  "statisticsMenuCalculator": "Liquor prices",
+  "statisticsMenuQuickExpenses": "Quick\nExpenses",
+  "statisticsMenuQuickSales": "Quick\nSales",
+  "statisticsMenuAddEmployee": "Add\nEmployee",
+  "statisticsMenuAddParty": "Add\nParty",
+  "statisticsMenuAddEmployeeSingle": "Add Employee",
+  "statisticsMenuAddPartySingle": "Add Party",
+  "statisticsGreeting": "{greeting}, {name}",
+  "@statisticsGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsEmployeeGreeting": "{greeting}, {name}!",
+  "@statisticsEmployeeGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDepartmentPosition": "{department} • {position}",
+  "@statisticsDepartmentPosition": {
+    "placeholders": {
+      "department": {
+        "type": "String"
+      },
+      "position": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricCollected": "{amount} collected",
+  "@statisticsMetricCollected": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricPaid": "{amount} paid",
+  "@statisticsMetricPaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyInAmount": "Money In: {amount}",
+  "@statisticsMoneyInAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyOutAmount": "Money Out: {amount}",
+  "@statisticsMoneyOutAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDayTooltip": "Day {day}\n{amount}",
+  "@statisticsDayTooltip": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsProfitMargin": "{percent}% margin",
+  "@statisticsProfitMargin": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "selectBusinessType": "Select business type",
+  "businessTypeHotelSubtitle": "Rooms, guests & front desk",
+  "businessTypeRestaurantSubtitle": "Dine-in, kitchen & table orders",
+  "businessTypeHotelRestaurantSubtitle": "Hotel rooms and restaurant together",
+  "businessTypeRetailSubtitle": "Products, stock & checkout",
+  "businessTypeCafeSubtitle": "Coffee, pastries & light bites",
+  "businessTypeBarSubtitle": "Drinks menu, tabs & bar sales",
+  "businessTypeOtherSubtitle": "Custom setup for any business",
+  "@invoiceCommonSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonInvoiceLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCustomerLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSupplierLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchingFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchItemsHint": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonEmptyForDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDeleteInvoiceConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCancelReturnMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPartyLoadingError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceFoundSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceFoundPurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDatePurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateInvoiceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteMessage": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceReturnCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotPrint": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotSave": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotShare": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonItemReturnedQty": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      },
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonMultiplePaymentSummary": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptFilename": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReturnAgainst": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSavedPath": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonUnpaidWithAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonTodayAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyExportReceipts": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyNoItemsMatching": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceQuickShowingItems": {
+    "placeholders": {
+      "shown": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickLoadedItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickScrollLoadMore": {
+    "placeholders": {
+      "perPage": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickCartWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemActionsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditSelectedItem": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditRateLabel": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditItemLabel": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemsError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditPartiesError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditSaveError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonActions": "Actions",
+  "invoiceCommonSearchItems": "Search Items",
+  "invoiceCommonSearchItemsSubtitle": "Search for specific items",
+  "invoiceCommonAddNewInvoice": "Add New Invoice",
+  "invoiceCommonAddSalesInvoiceSubtitle": "Create a new sales invoice",
+  "invoiceCommonAddPurchaseInvoiceSubtitle": "Create a new purchase invoice",
+  "invoiceCommonSelectMonthYear": "Select Month/Year",
+  "invoiceCommonSelectMonthYearSubtitle": "Jump to a specific month",
+  "invoiceCommonSelectMonthAndYear": "Select Month & Year",
+  "invoiceCommonFilterByDate": "Filter by date",
+  "invoiceCommonFilterByDateRange": "Filter by date range",
+  "invoiceCommonCloseSearch": "Close search",
+  "invoiceCommonSelectAll": "Select All",
+  "invoiceCommonToday": "Today",
+  "invoiceCommonTotalQuantity": "Total Quantity",
+  "invoiceCommonTotalAmount": "Total Amount",
+  "invoiceCommonTotal": "Total",
+  "invoiceCommonSearchForItems": "Search for items",
+  "invoiceCommonNoItemsFound": "No items found",
+  "invoiceCommonUnknownItem": "Unknown Item",
+  "invoiceCommonNotAvailable": "N/A",
+  "invoiceSalesCouldNotLoad": "Could not load sales",
+  "invoiceSalesNoFound": "No Sales found",
+  "invoiceSalesSelectDate": "Select a date to view Sales",
+  "invoiceSalesNoInvoicesFound": "No invoices found",
+  "invoiceSalesSelectDateLegacy": "Select a date to view invoices",
+  "invoicePurchaseCouldNotLoad": "Could not load expenses",
+  "invoicePurchaseNoFound": "No purchases found",
+  "invoicePurchaseSelectDate": "Select a date to view purchases",
+  "invoiceWeekdaySun": "Sun",
+  "invoiceWeekdayMon": "Mon",
+  "invoiceWeekdayTue": "Tue",
+  "invoiceWeekdayWed": "Wed",
+  "invoiceWeekdayThu": "Thu",
+  "invoiceWeekdayFri": "Fri",
+  "invoiceWeekdaySat": "Sat",
+  "invoiceCommonSelectedCount": "{count} Selected",
+  "invoiceCommonQtyLabel": "Qty: {qty}",
+  "invoiceCommonInvoiceLabel": "Invoice: {number}",
+  "invoiceCommonCustomerLabel": "Customer: {name}",
+  "invoiceCommonSupplierLabel": "Supplier: {name}",
+  "invoiceCommonSearchingFor": "Searching for \"{query}\"...",
+  "invoiceCommonSearchItemsHint": "Search items in {scope}...",
+  "invoiceCommonSalesSearchPrompt": "Type an item name to find all sales\nin {scope}",
+  "invoiceCommonPurchaseSearchPrompt": "Type an item name to find all purchases\nin {scope}",
+  "invoiceCommonSalesNoMatch": "No sales of \"{query}\"\nin {scope}",
+  "invoiceCommonPurchaseNoMatch": "No purchases of \"{query}\"\nin {scope}",
+  "invoiceCommonEmptyForDate": "for {date}",
+  "invoiceFoundSalesCount": "Found {count, plural, =1{1 sale} other{{count} sales}}",
+  "invoiceFoundPurchaseCount": "Found {count, plural, =1{1 purchase} other{{count} purchases}}",
+  "invoiceDateSalesCount": "{count, plural, =1{1 sale} other{{count} sales}}",
+  "invoiceDatePurchaseCount": "{count, plural, =1{1 purchase} other{{count} purchases}}",
+  "invoiceDateInvoiceCount": "{count, plural, =1{1 invoice} other{{count} invoices}}",
+  "invoiceDeleteTitle": "Delete {count, plural, =1{1 invoice} other{{count} invoices}}",
+  "invoiceDeleteMessage": "Are you sure you want to delete {count, plural, =1{1 selected invoice} other{{count} selected invoices}}? This action cannot be undone.",
+  "contacts": "Contacts",
+  "categories": "Categories",
+  "manageStaff": "Manage staff",
+  "payroll": "Payroll",
+  "attendance": "Attendance",
+  "profitAndLoss": "سود و زیان",
+  "statementReport": "صورت‌حساب",
+  "analytics": "تحلیل‌ها",
+  "loggedOut": "Logged out",
+  "organizationCodeDisplay": "Code: {code}",
+  "@organizationCodeDisplay": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "moreDataSynchronization": "Data Synchronization",
+  "moreSendDataToClient": "Send Data to Client",
+  "moreSendDataToClientSubtitle": "Upload server data to client",
+  "moreSendDataToClientWarning": "This action will replace the current client database with data from the server. All recent client changes may be lost.",
+  "moreSendDataToClientConfirm": "Are you sure you want to send data to the client?",
+  "moreFetchDataFromClient": "Fetch Data from Client",
+  "moreFetchDataFromClientSubtitle": "Download client data to server",
+  "moreFetchDataFromClientWarning": "This action will replace the current server database with data from the client. All recent server changes may be lost.",
+  "moreFetchDataFromClientConfirm": "Are you sure you want to fetch data from the client?",
+  "notifications": "Notifications",
+  "openingReminder": "Opening reminder",
+  "closingReminder": "Closing reminder",
+  "openingTime": "Opening time",
+  "closingTime": "Closing time",
+  "notificationSettingsSaved": "Notification settings saved",
+  "notificationPermissionHint": "Allow notifications (and alarms on Android) so reminders work when the app is closed",
+  "dailyAtTime": "Daily at {time}",
+  "@dailyAtTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonYesterday": "Yesterday",
+  "invoiceCommonTodayAt": "Today, {time}",
+  "invoiceCommonDaysAgo": "{count} days ago",
+  "invoiceReturnCount": "{count, plural, =1{1 return} other{{count} returns}}",
+  "statisticsMonthRevenue": "Month Revenue",
+  "statisticsMonthExpenses": "Month Expenses",
+  "exploreCustomizeTitle": "Customize features",
+  "exploreCustomizeSubtitle": "Show or hide shortcuts on your home screen. Only features your organization can access are listed.",
+  "exploreVisibleOnDashboard": "Visible on dashboard",
+  "exploreHiddenOnDashboard": "Hidden on dashboard",
+  "partiesTitle": "Parties",
+  "partySearchByName": "Search by name…",
+  "partySortBy": "Sort By:",
+  "partySortLatest": "Latest",
+  "partySortAmountHighLow": "Amount: High to Low",
+  "partySortAmountLowHigh": "Amount: Low to High",
+  "partySortNameAZ": "Name: A to Z",
+  "partySortNameZA": "Name: Z to A",
+  "partyAddNew": "Add New Party",
+  "partyEdit": "Edit Party",
+  "partyUpdate": "Update Party",
+  "partyNameLabel": "Party Name*",
+  "partyNameHint": "Enter party name",
+  "partyNewNameLabel": "New Party Name*",
+  "partyNewNameHint": "Enter new party name",
+  "partyRoleLabel": "Party Role *",
+  "partyTapToSelect": "Tap to select",
+  "partySelectRoleValidation": "Please select role",
+  "partyEnterNameValidation": "Please enter party name",
+  "partyBasicInfo": "Basic Info",
+  "partyAdditionalInfo": "Additional Info",
+  "partyEmail": "Party Email",
+  "partyEmailHint": "Enter email address",
+  "partyPhone": "Phone Number",
+  "partyPhoneHint": "Enter phone number",
+  "partyAddress": "Party Address",
+  "partyAddressHint": "Enter address",
+  "partyRoleCustomer": "مشتری",
+  "partyRoleSupplier": "Supplier",
+  "partyRoleRoom": "Room",
+  "partyRoleCabin": "Cabin",
+  "partyRoleEmployee": "Employee",
+  "partyRoleBoth": "Both",
+  "partyDefaultAccount": "Default Account",
+  "partyLoyaltyProgram": "Loyalty Program",
+  "partyLoyaltyPoints": "Loyalty Points",
+  "partySelectDefaultAccount": "Select Default Account",
+  "partySelectLoyaltyProgram": "Select Loyalty Program",
+  "partyCreateNewProgram": "Create new program",
+  "partySelectPartyRole": "Select Party Role",
+  "partyAccountDebtors": "Debtors",
+  "partyAccountCreditors": "Creditors",
+  "partyBothRoleHint": "Both means this party appears under Customer and Supplier only — not Room, Cabin, or Employee.",
+  "partyValidNumber": "Please enter valid number",
+  "partyValidAmount": "Please enter valid amount",
+  "exportAsPdf": "Export as PDF",
+  "sharePdf": "Share PDF",
+  "partyExportPdfTooltip": "Export PDF",
+  "checkoutSelectParty": "Select Party",
+  "checkoutCartSummary": "Cart summary",
+  "checkoutNoItemsInCart": "No items in cart",
+  "checkoutSearchHere": "Search here",
+  "checkoutCreateInvoice": "Create Invoice",
+  "checkoutEditInvoice": "Edit Invoice",
+  "checkoutSaveInvoice": "Save Invoice",
+  "checkoutInvoiceSummary": "Invoice Summary",
+  "checkoutEstimate": "Estimate",
+  "checkoutBasicInformation": "Basic Information",
+  "checkoutAddItems": "Add Items",
+  "checkoutItemsSection": "Items",
+  "checkoutPartyRequired": "Party *",
+  "checkoutPartyInformation": "Party Information",
+  "checkoutBillSummary": "Bill Summary",
+  "checkoutBillSummaryHint": "Tap to know more detailed calculation.",
+  "checkoutItemTotal": "Item Total",
+  "checkoutLoyaltyDiscount": "Loyalty Discount ({percent}%)",
+  "@checkoutLoyaltyDiscount": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutDiscountLine": "- Discount ({percent}%)",
+  "@checkoutDiscountLine": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutTapToEdit": "Tap to Edit",
+  "checkoutTotalAmount": "Total Amount",
+  "checkoutPaymentMode": "Record payment",
+  "checkoutPaymentModeHint": "Turn on to take payment now. Leave off to submit the bill unpaid and collect later.",
+  "checkoutNetSalesAmount": "Net Sales Amount",
+  "checkoutConfirmCheckout": "Confirm Checkout",
+  "checkoutEditDiscount": "Edit Discount",
+  "checkoutPercentage": "Percentage",
+  "checkoutDiscard": "Discard",
+  "checkoutPartialPayment": "Partial Payment",
+  "checkoutPartialPaymentBanner": "By activating Partial Payment the customer will be able to pay the amount less than the Total Billed Amount.",
+  "checkoutPleaseEnterAmounts": "Please enter respective amounts:",
+  "checkoutPartialPaymentEqualHint": "Since no user is assigned, the total amount should be equal to the total billed amount.",
+  "checkoutOverGrandTotalBy": "Over Grand Total by: {amount}",
+  "@checkoutOverGrandTotalBy": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutRemainingUnpaid": "Remaining (unpaid from Grand Total): {amount}",
+  "@checkoutRemainingUnpaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutConfirmPayment": "Confirm Payment",
+  "checkoutUnpaidCredit": "Unpaid / Credit",
+  "checkoutAddAtLeastOneLine": "Add at least one line item to view estimate",
+  "checkoutMultiplePayment": "Multiple Payment",
+  "checkoutPaymentStatus": "Payment status",
+  "checkoutPaymentMethods": "Payment methods",
+  "checkoutPaymentMethod": "Payment method",
+  "checkoutTenderAmount": "Tender amount",
+  "checkoutLoadingPaymentMethods": "Loading payment methods…",
+  "stocksTitle": "Stock reconciliation",
+  "stockUploadTooltip": "Opening stock",
+  "stockNoDataYet": "No opening stock yet",
+  "stockNoDataSubtitle": "Enter a physical count. With live tracking on, that count becomes In stock.",
+  "stockUploadAction": "Opening stock",
+  "stockSearchByDateHint": "Search by date or month…",
+  "stockNoMatches": "No matches",
+  "stockTryDifferentSearch": "Try a different search term",
+  "stockTryAnotherSearch": "Try another search",
+  "stockQtyLabel": "Qty {qty}",
+  "@stockQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "stockCardSummary": "{records} records · {items} items · {locations} locations",
+  "@stockCardSummary": {
+    "placeholders": {
+      "records": {
+        "type": "String"
+      },
+      "items": {
+        "type": "String"
+      },
+      "locations": {
+        "type": "String"
+      }
+    }
+  },
+  "stockFilterTitle": "Filter stock reconciliation",
+  "stockBatchNumber": "Batch number",
+  "stockLocation": "Location",
+  "stockOptionalHint": "Optional",
+  "stockApplyFilters": "Apply filters",
+  "stockClearFields": "Clear fields",
+  "stockDeleteAllTooltip": "Delete all stock for this date",
+  "stockNoItemsFound": "No stock items found",
+  "stockNoItemsSubtitle": "Try different filters or another reporting date.",
+  "stockAdjustFilters": "Adjust filters",
+  "stockSearchItemHint": "Search item, batch, location…",
+  "stockEditQuantities": "Edit quantities",
+  "stockNoChangesDetected": "No changes detected",
+  "stockErrorPreparingChanges": "Error preparing changes: {error}",
+  "@stockErrorPreparingChanges": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "stockUpdateSuccessful": "Update Successful!",
+  "stockSummary": "Summary",
+  "stockTotalRequested": "Total Requested",
+  "stockSuccessfullyUpdated": "Successfully Updated",
+  "stockFailed": "Failed",
+  "stockUpdateFailed": "Update Failed",
+  "stockClearAllQuantitiesTitle": "Clear All Quantities?",
+  "stockClearAllQuantitiesMessage": "This will reset all quantities to 0. Are you sure?",
+  "stockClearAll": "Clear All",
+  "stockUpdatingQuantities": "Updating stock quantities...",
+  "stockEditQuantitiesTitle": "Edit Stock Quantities",
+  "stockReportingDate": "Reporting Date: {date}",
+  "@stockReportingDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "stockTotalItemsHint": "Total items: {count} • Update quantities as needed",
+  "@stockTotalItemsHint": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "stockItemName": "Item Name",
+  "stockBatchPrefix": "Batch: {batch}",
+  "@stockBatchPrefix": {
+    "placeholders": {
+      "batch": {
+        "type": "String"
+      }
+    }
+  },
+  "stockDeleteConfirmTitle": "Confirm Deletion",
+  "stockDeleteConfirmIntro": "You are about to permanently delete all stock items for the following date:",
+  "stockDeleteConfirmWarning": "This action cannot be undone. All stock records for this date will be permanently deleted.",
+  "stockNoInternetRetry": "No internet connection. Please check your connection and try again.",
+  "itemsTitle": "Items",
+  "itemAddSheetTitle": "Add item",
+  "itemSingleAdd": "Single add",
+  "itemBulkAdd": "Bulk add",
+  "itemBulkAddTitle": "Bulk add items",
+  "itemEditTitle": "Edit Item",
+  "itemAddTitle": "Add Item",
+  "itemCreateButton": "Create Item",
+  "itemUpdateButton": "Update Item",
+  "itemDeleteTitle": "Delete Item",
+  "itemDeleteConfirm": "Are you sure you want to delete \"{name}\"?",
+  "itemDeletedSuccess": "Item deleted successfully",
+  "itemCreatedSuccess": "Item created successfully",
+  "itemUpdatedSuccess": "Item updated successfully",
+  "itemLoading": "Loading items...",
+  "itemErrorTitle": "Oops! Something went wrong",
+  "itemTryAgain": "Try Again",
+  "itemSearchHint": "Search items",
+  "itemNoItemsFound": "No items found",
+  "itemTryAdjustSearch": "Try adjusting your search terms",
+  "itemNoItemsAvailable": "No items available",
+  "itemAddToGetStarted": "Add items to get started",
+  "itemNoMoreItems": "No more items",
+  "itemPurposeBoth": "Both",
+  "itemPurposePurchases": "Purchases",
+  "itemTypeProduct": "Product",
+  "itemTypeService": "Service",
+  "itemTypeInventory": "Inventory",
+  "itemPhotoTitle": "Item photo",
+  "itemPhotoHint": "Click here to select or upload photos",
+  "itemPhotoFormats": "JPEG, PNG, GIF, or WebP · max 5MB",
+  "itemAddPhoto": "Add photo",
+  "itemPhotoLibrary": "Photo library",
+  "itemPhotoLibraryHint": "Choose from your photos",
+  "itemTakePhoto": "Take a photo",
+  "itemUploadGallery": "Upload from gallery",
+  "itemUploadGalleryHint": "Browse files on this device",
+  "itemTypeLabel": "Type",
+  "itemTypeField": "Item type",
+  "itemNameLabel": "Item name",
+  "itemNameHint": "Enter item name",
+  "itemBarcodeLabel": "Barcode / QR Code",
+  "itemBarcodeField": "Barcode / QR code",
+  "itemBarcodeHint": "Scan from app bar or paste",
+  "itemRateLabel": "Rate",
+  "itemUnitLabel": "Unit",
+  "itemPurposeLabel": "Purpose",
+  "itemSelectUnit": "Select unit",
+  "itemSelectPurpose": "Select purpose",
+  "itemSelectCategory": "Select category",
+  "itemSelectType": "Select type",
+  "itemSelectItemType": "Select item type",
+  "itemSearchUnits": "Search units…",
+  "itemSearchPurpose": "Search purpose…",
+  "itemSearchCategories": "Search categories…",
+  "itemCreateCustomUnit": "Create custom unit",
+  "itemUnitName": "Unit name",
+  "itemUnitNameHint": "e.g., Litre, Box, Piece",
+  "itemValidationName": "Please enter item name",
+  "itemValidationRate": "Please enter rate",
+  "itemValidationNumber": "Please enter valid number",
+  "itemSelectUnitRequired": "Please select a unit",
+  "itemSelectPurposeRequired": "Please select a purpose",
+  "itemImageMissing": "Image file is missing",
+  "itemImageFormatError": "Use JPEG, PNG, GIF, or WebP",
+  "itemImageSizeError": "Image must be 5MB or smaller",
+  "itemScanBarcode": "Scan barcode",
+  "itemNameFromCatalog": "Name filled from catalog: {name}",
+  "itemBarcodePasteHint": "No product name found — code pasted as name. Edit if needed.",
+  "itemBulkRefillTooltip": "Refill previous input",
+  "itemBulkAddRow": "Add row",
+  "itemBulkRowLabel": "Item {index}",
+  "itemBulkNameRequired": "Name required",
+  "itemBulkInvalidNumber": "Invalid number",
+  "itemBulkCreating": "Creating…",
+  "itemBulkCreateItems": "Create items",
+  "itemBulkCreatedCount": "{count} item(s) created",
+  "itemBulkCreateFailed": "Failed to create items: {error}",
+  "itemBulkNoDraft": "No saved draft found",
+  "itemBulkInvalidDraft": "Saved draft format is invalid",
+  "itemBulkDraftRestored": "Previous draft restored",
+  "itemBulkDraftRestoreFailed": "Could not restore saved draft",
+  "itemBulkAtLeastOne": "Add at least one item",
+  "itemBulkCategoriesLoading": "Categories are loading, please try again",
+  "itemBulkLoadingCategories": "Loading categories…",
+  "inventoryTitle": "Inventory Analytics",
+  "inventorySubtitle": "Real-time stock movement tracking",
+  "inventorySearchHint": "Search items...",
+  "inventorySold": "Sold",
+  "inventoryPurchased": "Purchased",
+  "catNoCategories": "No categories. Tap + to create.",
+  "catLoadCategories": "Load categories",
+  "catCreated": "Category created",
+  "catRenamed": "Category renamed",
+  "catDeleted": "Category deleted",
+  "catNewTitle": "New category",
+  "catRenameTitle": "Rename category",
+  "catNewName": "New name",
+  "catRename": "Rename",
+  "catDeleteTitle": "Delete category",
+  "catDeleteConfirm": "Delete \"{name}\"?",
+  "catDeleteLinkedHint": "Items are linked. You can force delete to unlink them.",
+  "catForceDelete": "Force delete",
+  "catItemsCount": "{count} items",
+  "contactFavoritesOnly": "Favorites only",
+  "contactShowAll": "Show all contacts",
+  "contactSearchHint": "Search name, phone, email…",
+  "contactNoConnection": "No connection",
+  "contactCheckNetwork": "Check your network and try again.",
+  "contactSomethingWrong": "Something went wrong",
+  "contactNoContacts": "No contacts",
+  "contactNoFavorites": "No favorites match. Turn off the star filter or add favorites in a contact.",
+  "contactTrySearchOrAdd": "Try a different search or tap + to add a contact.",
+  "contactEndOfList": "End of list",
+  "contactNewTooltip": "New contact",
+  "contactLoading": "Loading contacts…",
+  "contactUnknown": "Unknown",
+  "contactCallTooltip": "Call",
+  "contactEditTitle": "Edit contact",
+  "contactNewTitle": "New contact",
+  "contactSelectTitle": "Select contact",
+  "contactDeleteTitle": "Delete contact?",
+  "contactDeleteUndo": "This action cannot be undone.",
+  "contactNameRequired": "Name is required",
+  "contactNameLabel": "Name *",
+  "contactNameHint": "Contact name",
+  "contactPhoneHint": "+977-9841234567",
+  "contactEmailHint": "email@example.com",
+  "contactCategoryHint": "e.g. business, general, vip",
+  "contactCompanyHint": "Company name",
+  "contactFavorite": "Favorite",
+  "contactCannotCall": "Cannot make calls on this device",
+  "contactPermissionDenied": "Contact permission was denied. You can enable it in Settings.",
+  "contactPermissionRequired": "Contact permission is required to import from phone",
+  "contactImported": "Contact imported from phone",
+  "contactCreated": "Contact created",
+  "contactUpdated": "Contact updated",
+  "contactDeleted": "Contact deleted",
+  "contactImportSearchHint": "Search by name, phone, email, company",
+  "contactImportNoResults": "No contacts found",
+  "@itemDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemNameFromCatalog": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkRowLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreatedCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@catDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@catItemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutMultiplePaymentHint": "Turn this ON, if customer pays via multiple payment mode.",
+  "checkoutFillRemainingBalance": "Fill remaining balance",
+  "checkoutEnterAtLeastOnePayment": "Enter at least one payment amount",
+  "checkoutPaymentsExceedTotal": "Total payments cannot exceed the grand total",
+  "checkoutSentAs": "Sent as: {api}",
+  "@checkoutSentAs": {
+    "placeholders": {
+      "api": {
+        "type": "String"
+      }
+    }
+  },
+  "paymentCard": "Card",
+  "paymentQr": "QR",
+  "paymentBank": "Bank",
+  "paymentTransfer": "Transfer",
+  "paymentBankTransfer": "Bank Transfer",
+  "paymentSettlement": "Settlement",
+  "paymentCheque": "Cheque",
+  "paymentDigital": "Digital",
+  "paymentDigitalQr": "Digital (QR)",
+  "closeSummaryTitle": "خلاصه بستن",
+  "closeTabDashboard": "Dashboard",
+  "closeTabCredits": "Credits",
+  "closeWelcome": "Welcome to Closing Summary",
+  "closeSelectDateHint": "تاریخ را انتخاب و برای بارگذاری داده، به‌روزرسانی را بزنید",
+  "closeLoadingDashboard": "Loading dashboard data...",
+  "closeDataDeleted": "Data deleted",
+  "closeErrorPrefix": "Error: {message}",
+  "@closeErrorPrefix": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExtraAmount": "Extra amount",
+  "closeExtraAmountDesc": "Additional cash or adjustments recorded for this closing day.",
+  "closeLostAmount": "Lost amount",
+  "closeLostAmountDesc": "Cash shortage or variance flagged for this period.",
+  "closeTapForDetails": "Tap for details",
+  "closeAmountLabel": "Closing",
+  "closeAmountFormula": "Closing Amount Formula",
+  "closeFormulaExpression": "Cash Sales - Cash Expenses = Closing Amount",
+  "closeCashSales": "Cash Sales",
+  "closeCashExpenses": "Cash Expenses",
+  "closeClosingAmount": "Closing Amount",
+  "closeWhatThisMeans": "What this means:",
+  "closeClosingMeaning": "This is the amount of cash that should be in your register/drawer at the end of the day. It represents all cash received minus all cash paid out.",
+  "closeQuickStats": "Quick Stats",
+  "closeTapCardHint": "Tap a card for a short description",
+  "closeOpeningBalance": "Opening Balance",
+  "closeTotalSales": "کل فروش",
+  "closeQrAmount": "QR Amount",
+  "closeCashAmount": "Cash Amount",
+  "closeSalesDiscount": "Sales Discount",
+  "closeCreditQr": "Credit QR",
+  "closeCreditCash": "Credit Cash",
+  "closeCreditDiscount": "Credit Discount",
+  "closePayCashGetQr": "پرداخت نقد ← دریافت QR",
+  "closePayQrGetCash": "پرداخت QR ← دریافت نقد",
+  "closePaymentMix": "Payment mix",
+  "closePaymentMixHint": "Tap cash or digital · bar shows share of sales",
+  "closeCashVsDigitalTooltip": "Cash vs digital share of sales",
+  "closeSalesShareDesc": "{label} made up {percent}% of total sales for this day.",
+  "@closeSalesShareDesc": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSalesLabel": "{label} sales",
+  "@closeSalesLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "closeNoTransactions": "No transactions available",
+  "closeRecentTransactions": "Recent Transactions",
+  "closeViewAll": "View All",
+  "closeNoPurchases": "No purchases available",
+  "closeRecentPurchases": "Recent Purchases",
+  "closeNoSalesDate": "No sales for this date",
+  "closeNoSalesHint": "Sales will show here after they are recorded.",
+  "closeRoomSales": "Room sales",
+  "closeEmployeeSales": "Employee sales",
+  "closeOtherSales": "Other sales",
+  "closeSectionCount": "{title} ({count})",
+  "@closeSectionCount": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "closeDiscountShort": "Disc: {amount}",
+  "@closeDiscountShort": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "closePercentOff": "{percent}% off",
+  "@closePercentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closePending": "Pending",
+  "closeNoCreditPayments": "No Credit Payments",
+  "closeNoCreditHint": "Credit payments will appear here",
+  "closeViewStatistics": "View Statistics",
+  "closeExportData": "صدور داده",
+  "closeExportComingSoon": "قابلیت صادرات اینجا پیاده‌سازی خواهد شد",
+  "closeHintOpeningBalance": "Cash position at the start of the selected day.",
+  "closeHintTotalSales": "Sum of all sales recorded for this date.",
+  "closeHintQrAmount": "Payments received via QR or digital methods.",
+  "closeHintCashAmount": "Cash portion of sales for the day.",
+  "closeHintCashExpenses": "Cash paid out for expenses during the day.",
+  "closeHintSalesDiscount": "Discounts applied to sales.",
+  "closeHintCreditQr": "Credit-related QR collections.",
+  "closeHintCreditCash": "Credit-related cash movements.",
+  "closeHintCreditDiscount": "Discounts applied on credit transactions.",
+  "closeHintPayCashGetQr": "Exchange where cash was paid and QR credit received.",
+  "closeHintPayQrGetCash": "Exchange where QR was paid and cash was received.",
+  "closeOpeningAmount": "Opening Amount",
+  "closeCurrentAmount": "Current Amount",
+  "closeSaveReport": "Save Report",
+  "closeUpdateSummary": "Update Summary",
+  "closeExists": "Exists",
+  "closeExistingDataInfo": "You can view or modify existing data",
+  "closeEnterOpeningAmount": "Please enter an opening amount",
+  "closeEnterValidAmount": "Please enter a valid amount",
+  "languageSelectionSubtitle": "انتخاب کنید چگونه می‌خواهید از {appName} استفاده کنید. می‌توانید بعداً در تنظیمات تغییر دهید.",
+  "searchLanguages": "جستجوی زبان‌ها",
+  "languageSuggestedBadge": "پیشنهادی",
+  "continueInLanguage": "ادامه به {languageName}",
+  "noLanguageMatches": "موردی یافت نشد",
+  "noLanguageMatchesForQuery": "زبانی با \"{query}\" مطابقت ندارد",
+  "@languageSelectionSubtitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@continueInLanguage": {
+    "placeholders": {
+      "languageName": {
+        "type": "String"
+      }
+    }
+  },
+  "@noLanguageMatchesForQuery": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockSettingsSaved": "تنظیمات قفل برنامه ذخیره شد",
+  "appLockSubtitle": "هنگام باز کردن مجدد برنامه، PIN یا بیومتریک لازم است",
+  "appLockTitle": "قفل برنامه",
+  "appPin": "PIN برنامه",
+  "appPinIncorrect": "PIN نادرست است. دوباره تلاش کنید.",
+  "appPinIncorrectWithAttempts": "PIN نادرست است. {remaining} تلاش باقی مانده.",
+  "@appPinIncorrectWithAttempts": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      }
+    }
+  },
+  "appPinLockoutMessage": "تلاش‌های PIN نادرست بیش از حد بود. برای بازنشانی PIN با ایمیل و رمز عبور وارد شوید.",
+  "appPinMismatch": "PINها مطابقت ندارند. دوباره تلاش کنید.",
+  "appPinRemoved": "PIN برنامه حذف شد",
+  "appPinSetSuccess": "PIN برای این سازمان ذخیره شد",
+  "appPinSubtitle": "باز کردن سریع با PIN {length} رقمی",
+  "@appPinSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "appearance": "ظاهر",
+  "backupAutoBackupHint": "در زمان مقرر هنگام شروع برنامه، پشتیبان‌گیری خودکار",
+  "backupAutoBackupTitle": "پشتیبان‌گیری خودکار",
+  "backupAutoDirectionBoth": "بارگذاری و دانلود",
+  "backupAutoDirectionDownload": "دانلود از فضای ابری",
+  "backupAutoDirectionUpload": "بارگذاری در فضای ابری",
+  "backupAutoFrequencyDaily": "روزانه",
+  "backupAutoFrequencyMonthly": "ماهانه",
+  "backupAutoFrequencyOff": "خاموش",
+  "backupAutoFrequencyTitle": "تناوب پشتیبان‌گیری",
+  "backupAutoFrequencyWeekly": "هفتگی",
+  "backupAutoLastDownloaded": "آخرین بازیابی خودکار: {detail}",
+  "@backupAutoLastDownloaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastFailed": "آخرین همگام‌سازی خودکار ناموفق: {detail}",
+  "@backupAutoLastFailed": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastSkipped": "آخرین همگام‌سازی خودکار رد شد: {detail}",
+  "@backupAutoLastSkipped": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastUploaded": "آخرین پشتیبان خودکار: {detail}",
+  "@backupAutoLastUploaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoSettingsTitle": "تنظیمات Google Drive",
+  "backupAutoSyncDirectionTitle": "همگام‌سازی خودکار",
+  "backupSyncActiveOrganization": "سازمان فعلی",
+  "backupSyncActiveOrganizationHint": "پشتیبان‌گیری داده‌های سازمانی را که اکنون استفاده می‌کنید بارگذاری می‌کند.",
+  "backupSyncCompletedHint": "داده‌های شما با امنیت در Google Drive پشتیبان‌گیری شده‌اند.",
+  "backupSyncConnected": "متصل",
+  "backupSyncCurrentStep": "مرحله: {step}",
+  "@backupSyncCurrentStep": {
+    "placeholders": {
+      "step": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncGoogleAccount": "حساب Google",
+  "backupSyncInProgress": "همگام‌سازی در حال انجام",
+  "backupSyncLastError": "آخرین خطا: {error}",
+  "@backupSyncLastError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncLastSyncDate": "تاریخ و زمان",
+  "backupSyncLastSyncTitle": "آخرین همگام‌سازی",
+  "backupSyncNeverSynced": "هنوز پشتیبانی بارگذاری نشده است.",
+  "backupSyncOrganization": "سازمان",
+  "backupSyncPageTitle": "پشتیبان‌گیری و همگام‌سازی",
+  "backupSyncPhaseExport": "خروجی",
+  "backupSyncPhaseUpload": "بارگذاری",
+  "backupSyncProgressPercent": "{percent}٪",
+  "@backupSyncProgressPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "backupSyncRecords": "رکوردهای پشتیبان‌شده",
+  "backupSyncSignInHint": "برای پشتیبان‌گیری داده‌های سازمان با Google وارد شوید.",
+  "backupSyncSignOutConfirm": "از Google Drive در این دستگاه خارج شوید؟",
+  "backupSyncSignedInAs": "وارد شده به عنوان",
+  "backupSyncStatus": "وضعیت",
+  "backupSyncStatusSuccess": "تکمیل شد",
+  "backupSyncStepExport": "در حال خروجی گرفتن از داده‌های محلی",
+  "backupSyncStepUploadFile": "در حال بارگذاری {file}",
+  "@backupSyncStepUploadFile": {
+    "placeholders": {
+      "file": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncStepUploadTable": "در حال بارگذاری {table}",
+  "@backupSyncStepUploadTable": {
+    "placeholders": {
+      "table": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncTables": "جدول‌های پشتیبان‌شده",
+  "backupSyncUnknownOrganization": "سازمان فعلی",
+  "backupWifiOnlyContinue": "استفاده از داده موبایل",
+  "backupWifiOnlyHint": "پشتیبان خودکار منتظر Wi‑Fi می‌ماند",
+  "backupWifiOnlyTitle": "فقط از Wi‑Fi پشتیبان بگیر",
+  "biometricNotAvailable": "بیومتریک در این دستگاه در دسترس نیست",
+  "biometricRequiresPin": "قبل از فعال‌سازی بیومتریک، PIN برنامه را تنظیم کنید",
+  "biometricUnlockReason": "باز کردن BizTrack",
+  "changeAppPin": "تغییر PIN",
+  "confirmAppPin": "تأیید PIN",
+  "confirmAppPinHint": "برای تأیید PIN را دوباره وارد کنید",
+  "confirmPasscodeHint": "برای تأیید رمز عبور را دوباره وارد کنید",
+  "contactUs": "تماس با ما",
+  "contactUsSubtitle": "برای پشتیبانی، بازخورد یا سؤالات درباره برنامه تماس بگیرید.",
+  "createAppPinHint": "یک PIN {length} رقمی برای این سازمان انتخاب کنید",
+  "@createAppPinHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "createPasscodeHint": "یک رمز {length} رقمی برای این سازمان انتخاب کنید",
+  "@createPasscodeHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "darkMode": "حالت تاریک",
+  "darkModeSubtitle": "استفاده از پس‌زمینه تیره در سراسر برنامه",
+  "darkModeSystemSubtitle": "از تم دستگاه شما پیروی می‌کند",
+  "dataAndBackup": "داده و پشتیبان",
+  "developerLabel": "توسعه‌دهنده",
+  "disableAppPinMessage": "Face ID / باز کردن بیومتریک نیز برای این سازمان غیرفعال می‌شود.",
+  "disableAppPinTitle": "PIN برنامه حذف شود؟",
+  "displayPrecision": "دقت نمایش",
+  "displayPrecisionRange": "عددی بین ۰ تا ۵ وارد کنید",
+  "emailCopiedToClipboard": "ایمیل در کلیپ‌بورد کپی شد",
+  "employeeManagementSubtitle": "کارکنان، حقوق و حضور",
+  "enableBiometricAfterPinMessage": "برای ورود سریع‌تر از بیومتریک دستگاه همراه با PIN استفاده کنید.",
+  "enableBiometricTitle": "بیومتریک فعال شود؟",
+  "enableFaceIdTitle": "Face ID فعال شود؟",
+  "enableFingerprintTitle": "اثر انگشت فعال شود؟",
+  "enableInvoiceReturns": "فعال‌سازی مرجوعی فاکتور",
+  "enableInvoiceReturnsSubtitle": "ایجاد مرجوعی از فاکتورهای پرداخت‌شده مجاز باشد.",
+  "enterAppPin": "PIN خود را وارد کنید",
+  "enterPasscode": "رمز عبور را وارد کنید",
+  "googleDriveBackupFailed": "پشتیبان‌گیری ناموفق: {error}",
+  "@googleDriveBackupFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupNow": "همین حالا پشتیبان بگیر",
+  "googleDriveBackupPluginError": "پشتیبان‌گیری نیاز به راه‌اندازی مجدد کامل برنامه دارد. برنامه را ببندید، دوباره باز کنید و تلاش کنید.",
+  "googleDriveBackupSectionTitle": "پشتیبان‌گیری و همگام‌سازی",
+  "googleDriveBackupStarting": "در حال آماده‌سازی پشتیبان…",
+  "googleDriveBackupSubtitleSignedIn": "وارد شده به عنوان {email}",
+  "@googleDriveBackupSubtitleSignedIn": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupSubtitleSignedOut": "برای پشتیبان‌گیری امن داده‌های سازمان در Google Drive وارد شوید.",
+  "googleDriveBackupSuccess": "پشتیبان بارگذاری شد ({tableCount} جدول، {recordCount} رکورد)",
+  "@googleDriveBackupSuccess": {
+    "placeholders": {
+      "tableCount": {
+        "type": "int"
+      },
+      "recordCount": {
+        "type": "int"
+      }
+    }
+  },
+  "googleDriveBackupTitle": "پشتیبان Google Drive",
+  "googleDriveLastBackup": "آخرین پشتیبان: {date}",
+  "@googleDriveLastBackup": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveSignIn": "ورود با Google",
+  "googleDriveSignInCancelled": "ورود Google لغو شد",
+  "googleDriveSignInSuccess": "در Google Drive وارد شدید",
+  "googleDriveSignOut": "خروج",
+  "googleDriveSignOutSuccess": "از Google Drive خارج شدید",
+  "itemSelectCategoryRequired": "لطفاً یک دسته انتخاب کنید",
+  "moreBackupSyncTileLastSync": "آخرین همگام‌سازی: {date}",
+  "@moreBackupSyncTileLastSync": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "moreBackupSyncTileNeverSynced": "پشتیبان در Google Drive",
+  "moreBackupSyncTileSignedInNoSync": "وارد شده · هنوز پشتیبان نیست",
+  "notNow": "الان نه",
+  "operationManagement": "مدیریت عملیات",
+  "operationManagementSubtitle": "Items, stock reconciliation, contacts, categories, and closing",
+  "orContinueWithPassword": "یا ورود با رمز عبور",
+  "organizationAccountingSubtitle": "تنظیمات فاکتور و نمایش مبلغ.",
+  "organizationRegionalSubtitle": "کشور، ارز گزارش‌دهی و تاریخ‌های سال مالی.",
+  "organizationTabAccounting": "حسابداری",
+  "organizationTabGeneral": "عمومی",
+  "organizationTabRegional": "منطقه‌ای و مالی",
+  "partyPickerAddNewRole": "افزودن {role} جدید",
+  "@partyPickerAddNewRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSearchHint": "جستجوی {role}...",
+  "@partyPickerSearchHint": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSelectedLabel": "انتخاب‌شده",
+  "partyPickerSettled": "تسویه‌شده",
+  "partyPickerSubtitle": "این فروش برای چه کسی است؟",
+  "preferences": "ترجیحات",
+  "quickUnlockAsUser": "ورود سریع به عنوان {email}",
+  "@quickUnlockAsUser": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSubtitle": "سود و زیان، صورت‌ها و تحلیل‌ها",
+  "restoreAction": "بازیابی",
+  "restoreFromGoogleDrive": "بازیابی از Google Drive",
+  "restoreFromGoogleDriveConfirm": "\"{name}\" بازیابی شود؟ این داده‌های محلی آن سازمان را جایگزین می‌کند.",
+  "@restoreFromGoogleDriveConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveEmpty": "پشتیبانی در Google Drive شما یافت نشد.",
+  "restoreFromGoogleDriveFailed": "بازیابی ناموفق: {error}",
+  "@restoreFromGoogleDriveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveHint": "وارد شوید و یک پشتیبان برای بازیابی سازمان در این دستگاه انتخاب کنید.",
+  "restoreFromGoogleDriveStarting": "در حال شروع بازیابی…",
+  "restoreFromGoogleDriveSuccess": "{name} بازیابی شد. اکنون می‌توانید وارد شوید.",
+  "@restoreFromGoogleDriveSuccess": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreStepCreateDatabase": "در حال ایجاد پایگاه داده",
+  "restoreStepDownload": "در حال دانلود پشتیبان",
+  "restoreStepFinalize": "در حال تکمیل بازیابی",
+  "restoreStepImport": "در حال وارد کردن داده",
+  "security": "امنیت",
+  "setUpAppPin": "تنظیم PIN",
+  "setUpFaceIdOrPin": "تنظیم Face ID یا PIN",
+  "setUpFingerprintOrPin": "تنظیم اثر انگشت یا PIN",
+  "setUpNow": "همین حالا تنظیم کن",
+  "setUpQuickUnlock": "تنظیم ورود سریع با PIN",
+  "setUpQuickUnlockAfterLoginMessage": "برای ورود سریع‌تر دفعه بعد Face ID، اثر انگشت یا PIN تنظیم کنید. بعداً در تنظیمات هم می‌توانید تغییر دهید.",
+  "setUpQuickUnlockAfterLoginTitle": "ورود سریع فعال شود؟",
+  "setUpQuickUnlockSubtitle": "از بیومتریک یا PIN برای این سازمان استفاده کنید",
+  "signInWithBiometric": "ورود با بیومتریک",
+  "signInWithFaceId": "ورود با Face ID",
+  "signInWithFingerprint": "ورود با اثر انگشت",
+  "signInWithPin": "ورود با PIN",
+  "statisticsCashflow": "جریان نقدی",
+  "statisticsQuickOperationInvoice": "فاکتور",
+  "statisticsQuickOperationReports": "گزارش‌ها",
+  "statisticsQuickOperationsSeeAll": "مشاهده همه",
+  "tapDigitsToUnlock": "برای باز کردن هر {length} رقم را لمس کنید.",
+  "@tapDigitsToUnlock": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "unlockApp": "باز کردن برنامه",
+  "useBiometricInstead": "استفاده از بیومتریک",
+  "useBiometricUnlock": "استفاده از Face ID / بیومتریک",
+  "useBiometricUnlockSubtitle": "پس از تنظیم PIN با اثر انگشت یا Face ID باز کنید",
+  "useFaceIdUnlock": "استفاده از Face ID",
+  "useFingerprintUnlock": "استفاده از اثر انگشت",
+  "usePinInstead": "در عوض از PIN استفاده کن",
+  "verifyPinToRemoveSubtitle": "برای حذف قفل برنامه، PIN {length} رقمی خود را تأیید کنید",
+  "@verifyPinToRemoveSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "verifyPinToRemoveTitle": "PIN خود را وارد کنید",
+  "walkthroughBackupDescription": "امنیت در سطح بانکی با پشتیبان Google Drive یک‌لمسی — سوابق شما محافظت و بازیابی آسان است.",
+  "walkthroughBackupTitle": "داده‌های شما، همیشه امن",
+  "walkthroughBillingDescription": "فاکتور فروش و خرید، سفارش میز با رسید آشپزخانه و موجودی زنده — همه در یک برنامه.",
+  "walkthroughBillingTitle": "صورتحساب و فروش در چند ثانیه",
+  "walkthroughDashboardDescription": "فروش امروز، درآمد و مانده‌های معوق — همه در یک داشبورد واضح با باز کردن برنامه.",
+  "walkthroughDashboardTitle": "کل کسب‌وکار شما در یک نگاه",
+  "walkthroughOfflineDescription": "فاکتور بسازید، هزینه ثبت کنید و موجودی را کاملاً آفلاین مدیریت کنید. با آنلاین شدن همه چیز خودکار همگام می‌شود.",
+  "walkthroughOfflineTitle": "بدون اینترنت هم کار می‌کند",
+  "walkthroughReadyDescription": "سازمان خود را در چند دقیقه راه‌اندازی کنید و از امروز هوشمندتر کار کنید. بیایید شروع کنیم.",
+  "walkthroughReadyTitle": "وقتی شما آماده‌اید",
+  "walkthroughStaffDescription": "حضور و حقوق را مدیریت کنید، سپس صورت سود و زیان و فیش حقوق را PDF export کنید — بدون ابزار اضافی.",
+  "walkthroughStaffTitle": "کارکنان، حقوق و گزارش‌ها",
+  "ok": "تأیید",
+  "reportPeriodYear": "سال",
+  "reportPeriodMonth": "ماه",
+  "reportPeriodRange": "بازه",
+  "reportPeriodDay": "روز",
+  "reportPeriodFrom": "از",
+  "reportPeriodTo": "تا",
+  "reportPeriod": "دوره",
+  "reportAllPurchases": "همه خریدها",
+  "reportBeforeTax": "قبل از مالیات",
+  "reportRevenueRetained": "درآمد باقی‌مانده",
+  "reportHideDetails": "پنهان کردن جزئیات",
+  "reportShowDetails": "نمایش جزئیات",
+  "reportSalesRevenue": "درآمد فروش",
+  "reportDiscountsGiven": "تخفیف‌های اعمال‌شده",
+  "reportNetRevenue": "درآمد خالص",
+  "reportOperatingExpenses": "هزینه‌های عملیاتی",
+  "reportTotalExpenses": "کل هزینه‌ها",
+  "reportGrossProfit": "سود ناخالص",
+  "reportGrossProfitChart": "سود ناخالص",
+  "reportOperatingPlDisclaimer": "مالیات، استهلاک و بدهی حقوق هنوز لحاظ نشده — تقریب P&L عملیاتی.",
+  "reportContraLabel": "کنترا",
+  "reportNoDataForPeriod": "داده‌ای برای دوره انتخاب‌شده نیست",
+  "reportRevenueVsExpenses": "درآمد در برابر هزینه",
+  "reportExpenseBreakdown": "تفکیک هزینه",
+  "reportExpenseFallback": "هزینه",
+  "reportGrossMarginPercent": "حاشیه ناخالص %",
+  "reportRoomVsFnB": "اتاق در برابر F&B",
+  "reportSegmentRoom": "اتاق",
+  "reportSegmentFnB": "F&B",
+  "reportKeyMetrics": "شاخص‌های کلیدی",
+  "reportIncomeStatement": "صورت سود و زیان",
+  "reportChartsSection": "نمودارها",
+  "reportSegmentSummary": "خلاصه بخش",
+  "reportFailedToLoad": "بارگذاری گزارش ناموفق",
+  "reportOverview": "نمای کلی",
+  "reportOverviewCash": "نقد",
+  "reportOverviewBank": "بانک",
+  "reportMonthlyOpeningBalance": "مانده افتتاحیه ماهانه",
+  "reportOpeningBalanceHint": "وضعیت نقد در ابتدای هر ماه",
+  "reportCashInOut": "ورود / خروج نقد",
+  "reportCashIn": "ورود نقد",
+  "reportCashOut": "خروج نقد",
+  "reportBankReceiptsPayments": "دریافت / پرداخت بانکی",
+  "reportReceipts": "دریافت‌ها",
+  "reportPayments": "پرداخت‌ها",
+  "reportDailyCashVsQr": "نقد روزانه در برابر QR",
+  "reportSummariesSection": "خلاصه‌ها",
+  "reportCashSummary": "خلاصه نقد",
+  "reportBankSummary": "خلاصه بانک",
+  "reportDailySummary": "خلاصه روزانه",
+  "reportTabPurchase": "خرید",
+  "reportTabSales": "فروش",
+  "reportTabDashboard": "داشبورد",
+  "reportSingleDayTrend": "یک روز — روند روزانه",
+  "reportFullYearTrend": "کل سال — نمودار روند ماهانه",
+  "reportYearLabel": "سال {year}",
+  "@reportYearLabel": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportJanDec": "ژان – دس {year}",
+  "@reportJanDec": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportTotalPurchases": "کل خریدها",
+  "reportTotalSales": "کل فروش",
+  "reportTotalInvoices": "کل فاکتورها",
+  "reportUnpaidBalance": "مانده پرداخت‌نشده",
+  "reportAvgPerInvoice": "میانگین هر فاکتور",
+  "reportPerTransaction": "به ازای هر تراکنش",
+  "reportMonthlySpend": "هزینه ماهانه ({symbol})",
+  "@reportMonthlySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportMonthlySalesChart": "فروش ماهانه ({symbol})",
+  "@reportMonthlySalesChart": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportInvoiceCountByMonth": "تعداد فاکتور به تفکیک ماه",
+  "reportTopItemsBySpend": "برترین اقلام بر اساس هزینه ({symbol})",
+  "@reportTopItemsBySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSpendByCategory": "هزینه به تفکیک دسته",
+  "reportOtherCategory": "سایر",
+  "reportSuppliers": "تأمین‌کنندگان",
+  "reportTableSupplier": "تأمین‌کننده",
+  "reportTableAmount": "مبلغ",
+  "reportTableBills": "صورتحساب‌ها",
+  "reportSalesTotal": "کل فروش",
+  "reportPurchaseTotal": "کل خرید",
+  "reportPositiveMargin": "حاشیه مثبت",
+  "reportNegativeMargin": "حاشیه منفی",
+  "reportGrossMargin": "حاشیه ناخالص",
+  "reportOfTotalSales": "از کل فروش",
+  "reportFailedToLoadAnalytics": "بارگذاری تحلیل ناموفق",
+  "reportMarginKpi": "حاشیه",
+  "reportExpensesKpi": "هزینه‌ها",
+  "partyPickerNoResultsFor": "نتیجه‌ای برای \"{query}\" نیست",
+  "@partyPickerNoResultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerNoPartiesForRole": "هیچ طرف {role} یافت نشد",
+  "@partyPickerNoPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerLoadParties": "بارگذاری طرف‌ها",
+  "invoiceCashCustomer": "مشتری نقدی",
+  "invoiceQuickAddItemsTitle": "افزودن سریع اقلام",
+  "invoiceQuickLoadingMenu": "در حال بارگذاری منو…",
+  "invoiceQuickInvoiceCreated": "فاکتور ایجاد شد",
+  "invoiceQuickAddAtLeastOneItem": "حداقل یک قلم اضافه کنید",
+  "invoiceQuickNoResults": "نتیجه‌ای یافت نشد!",
+  "invoiceQuickNoItemsInCategory": "قلمی در این دسته نیست",
+  "invoiceQuickAddItem": "افزودن قلم",
+  "invoiceQuickLoadMore": "بارگذاری بیشتر",
+  "invoiceQuickScrollLoadMore": "برای بارگذاری بیشتر اسکرول ({count} در صفحه)",
+  "invoiceQuickSupplierEmployee": "تأمین‌کننده / کارمند",
+  "invoiceQuickEditItem": "ویرایش قلم",
+  "closeSelectDateRange": "انتخاب بازه تاریخ",
+  "closeStartDate": "تاریخ شروع",
+  "closeEndDate": "تاریخ پایان",
+  "closeSelectBothDates": "لطفاً تاریخ شروع و پایان را انتخاب کنید",
+  "closeDeleteSummary": "حذف خلاصه",
+  "closeDeleteSummaryConfirm": "آیا مطمئن هستید که می‌خواهید این خلاصه را حذف کنید؟",
+  "closeSelectDate": "انتخاب تاریخ",
+  "closeNoDataToExport": "داده‌ای برای صادرات نیست",
+  "closeNoDataToShare": "داده‌ای برای اشتراک‌گذاری نیست",
+  "closeNoDataToPrint": "داده‌ای برای چاپ نیست",
+  "closePdfGenerateError": "خطا در ایجاد PDF: {error}",
+  "@closePdfGenerateError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfShareError": "خطا در اشتراک PDF: {error}",
+  "@closePdfShareError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfPrintError": "خطا در چاپ PDF: {error}",
+  "@closePdfPrintError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExportPdf": "صدور به PDF",
+  "closeSharePdf": "اشتراک PDF",
+  "closePrint": "چاپ",
+  "closeExportOptions": "گزینه‌های صادرات",
+  "closeExportPdfSubtitle": "ذخیره یا مشاهده به‌صورت PDF",
+  "closeSharePdfSubtitle": "اشتراک از طریق برنامه یا ایمیل",
+  "closePrintSubtitle": "چاپ گزارش",
+  "invoiceQuickShowingItems": "نمایش {shown} از {total}",
+  "invoiceQuickLoadedItems": "بارگذاری: {count}",
+  "invoiceQuickRoomCabinEmployee": "اتاق / کابین / کارمند",
+  "reportPercentOfRevenue": "{percent}% از درآمد",
+  "@reportPercentOfRevenue": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "reportParties": "طرف‌ها",
+  "reportMonthYearDailyTrend": "{month} {year} — نمودار روند روزانه",
+  "@reportMonthYearDailyTrend": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceQuickCart": "سبد",
+  "invoiceQuickCartWithCount": "سبد ({count})",
+  "invoiceQuickClearSearch": "پاک کردن جستجو",
+  "closeAllRecords": "همه رکوردها",
+  "closeDailyCashSummaryReport": "گزارش خلاصه نقد روزانه",
+  "closeDailyCashSummaryTitle": "خلاصه نقد روزانه",
+  "closeDetails": "جزئیات",
+  "closeGeneratedAt": "ایجاد: {date}",
+  "@closeGeneratedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "closePageN": "صفحه {n}",
+  "@closePageN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "closePeriodRange": "دوره: از {start} تا {end}",
+  "@closePeriodRange": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummaryOverview": "نمای کلی خلاصه",
+  "closeTotalRecords": "کل رکوردها",
+  "closeAddSummary": "افزودن خلاصه",
+  "closeSalesAmount": "مبلغ فروش",
+  "closeClosingBalance": "مانده پایانی",
+  "closeLostMoney": "پول گم‌شده",
+  "closeDiscount": "تخفیف",
+  "closeExpenses": "هزینه‌ها",
+  "closeUnpaid": "پرداخت‌نشده",
+  "closeTotalOpeningBalance": "مجموع مانده اولیه",
+  "closeTotalSalesAmount": "مجموع مبلغ فروش",
+  "closeTotalCashAmount": "مجموع نقد",
+  "closeTotalQrAmount": "مجموع QR",
+  "closeTotalDiscount": "مجموع تخفیف",
+  "closeTotalExpenses": "مجموع هزینه‌ها",
+  "closeTotalClosingBalance": "مجموع مانده پایانی",
+  "closeTotalLostMoney": "مجموع پول گم‌شده",
+  "closeTotalExtraAmount": "مجموع مبلغ اضافی",
+  "closeShowingCurrentMonth": "نمایش داده‌های ماه جاری",
+  "closeNoSummariesFound": "خلاصه‌ای یافت نشد",
+  "closeNoSummariesAvailable": "خلاصه‌ای موجود نیست",
+  "closeTryAdjustingDateRange": "بازه تاریخ را تنظیم کنید",
+  "closeCreateFirstSummary": "اولین خلاصه را برای شروع بسازید",
+  "closeClearFilter": "پاک کردن فیلتر",
+  "closeFiltered": "فیلتر شده",
+  "closeFilteredWithRange": "فیلتر: {range}",
+  "@closeFilteredWithRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummarySingular": "خلاصه",
+  "closeSummariesPlural": "خلاصه‌ها",
+  "closeSummaryUpdatedSuccess": "خلاصه با موفقیت به‌روزرسانی شد",
+  "closeSummaryDeletedSuccess": "خلاصه با موفقیت حذف شد",
+  "premiumUnlockTitle": "باز کردن {appName} Premium",
+  "@premiumUnlockTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumTagline": "صندوق فروش آفلاین کامل، فاکتور، موجودی و گزارش — یک اشتراک برای کسب‌وکار شما.",
+  "premiumFeatureUnlimitedInvoices": "فاکتور و رسید نامحدود",
+  "premiumFeatureInventoryStock": "ردیابی موجودی و انبار",
+  "premiumFeatureReportsAnalytics": "گزارش فروش و تحلیل",
+  "premiumFeatureOfflineLocal": "آفلاین کار می‌کند — داده‌های شما محلی می‌ماند",
+  "premiumContinueWith": "ادامه با {plan}",
+  "@premiumContinueWith": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRestorePurchases": "بازیابی خریدها",
+  "premiumSubscriptionLegal": "پرداخت از Apple ID شما کسر می‌شود. اشتراک‌ها خودکار تمدید می‌شوند مگر حداقل ۲۴ ساعت قبل از پایان دوره لغو شوند.",
+  "premiumPurchaseRestored": "خرید بازیابی شد.",
+  "premiumNoActiveSubscription": "اشتراک فعالی یافت نشد.",
+  "premiumPlanMonthly": "ماهانه",
+  "premiumPlanMonthlySubtitle": "انعطاف‌پذیر — هر زمان لغو کنید",
+  "premiumPlanYearly": "سالانه",
+  "premiumPlanYearlySubtitle": "بهترین ارزش — {percent}٪ صرفه‌جویی",
+  "@premiumPlanYearlySubtitle": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "premiumPlanLifetime": "مادام‌العمر",
+  "premiumPlanLifetimeSubtitle": "یک‌بار پرداخت، برای همیشه",
+  "premiumPlanPopular": "محبوب",
+  "premiumOneTimePurchase": "خرید یک‌باره",
+  "subscriptionSectionTitle": "اشتراک",
+  "subscriptionPremiumLabel": "Premium",
+  "subscriptionUpgradeTitle": "ارتقا به Premium",
+  "subscriptionPremiumPricing": "ماهانه {monthly} · سالانه {yearly}",
+  "@subscriptionPremiumPricing": {
+    "placeholders": {
+      "monthly": {
+        "type": "String"
+      },
+      "yearly": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActiveUntil": "{plan} فعال تا {date}",
+  "@subscriptionPremiumActiveUntil": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActive": "{plan} فعال",
+  "@subscriptionPremiumActive": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRequired": "Premium لازم است",
+  "upgradeToPremiumContinue": "برای ادامه به Premium ارتقا دهید.",
+  "freemiumFreePlanLimit": "طرح رایگان تا {limit} {label} مجاز است. برای دسترسی نامحدود به Premium ارتقا دهید.",
+  "@freemiumFreePlanLimit": {
+    "placeholders": {
+      "limit": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "freemiumPartyRoleRequired": "نقش طرف الزامی است.",
+  "shiftReminderOpeningTitle": "یادآور باز کردن",
+  "shiftReminderOpeningMessage": "آیا صندوق امروز را باز کردید؟",
+  "shiftReminderOpeningProceed": "بله، الان باز کن",
+  "shiftReminderClosingTitle": "یادآور بستن",
+  "shiftReminderClosingMessage": "آیا صندوق امروز را بستید؟",
+  "shiftReminderClosingProceed": "بله، الان ببند",
+  "shiftReminderSkipToday": "امروز رد شود",
+  "shiftReminderOpeningNotificationTitle": "یادآور باز کردن",
+  "shiftReminderOpeningNotificationBody": "آیا صندوق امروز را باز کردید؟ اگر هنوز باید باز کنید اینجا بزنید.",
+  "shiftReminderClosingNotificationTitle": "یادآور بستن",
+  "shiftReminderClosingNotificationBody": "آیا صندوق امروز را بستید؟ اگر هنوز باید ببندید اینجا بزنید.",
+  "closeExchangePayQrGetCashHint": "{business} به مشتری QR می‌پردازد؛ مشتری نقد می‌دهد.",
+  "@closeExchangePayQrGetCashHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExchangePayCashGetQrHint": "{business} به مشتری نقد می‌پردازد؛ مشتری QR پرداخت می‌کند.",
+  "@closeExchangePayCashGetQrHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closePaymentExchange": "تبادل پرداخت",
+  "closePayQrGetCashExchangeLabel": "پرداخت QR ← دریافت نقد (تبادل)",
+  "closePayCashGetQrExchangeLabel": "پرداخت نقد ← دریافت QR (تبادل)",
+  "closePayQrGetCashDetail": "QR بده، نقد بگیر",
+  "closePayCashGetQrDetail": "نقد بده، QR بگیر",
+  "faqSectionPremium": "Premium و صورتحساب",
+  "faqPremiumWhatsIncludedQuestion": "Premium چه شامل می‌شود؟",
+  "faqPremiumWhatsIncludedAnswer": "Premium فاکتور نامحدود، گزارش کامل (سود و زیان، صورت‌حساب، تحلیل)، پشتیبان‌گیری و همگام‌سازی، حقوق، حضور، ابزار موجودی، خروجی/چاپ فاکتور و سازمان‌های اضافی را باز می‌کند. سطح رایگان همچنان امکان استفاده از POS اصلی در محدودیت‌های منصفانه را می‌دهد.",
+  "faqPremiumFreeTierQuestion": "سطح رایگان چه شامل می‌شود؟",
+  "faqPremiumFreeTierAnswer": "می‌توانید تا ۱۰ فاکتور فروش و ۱۰ فاکتور خرید، ۴ کارمند، ۳۰ قلم و محدودیت‌های دیگر ایجاد کنید. باز کردن، بستن، ماشین‌حساب و مرور داده رایگان می‌ماند.",
+  "faqPremiumRestoreQuestion": "چگونه خرید را بازیابی کنم؟",
+  "faqPremiumRestoreAnswer": "بیشتر ← ارتقا به Premium (یا صفحه پرداخت) را باز کنید و بازیابی خریدها را بزنید. همان Apple ID اشتراک را استفاده کنید.",
+  "faqPremiumCancelQuestion": "چگونه اشتراک را لغو کنم؟",
+  "faqPremiumCancelAnswer": "در تنظیمات iPhone ← Apple ID ← اشتراک‌ها مدیریت یا لغو کنید. تا پایان دوره پرداخت‌شده دسترسی دارید.",
+  "faqDarkModeQuestion": "چگونه حالت تاریک را روشن کنم؟",
+  "faqDarkModeAnswer": "بیشتر ← ظاهر را باز کنید و حالت تاریک را فعال کنید. وقتی دستگاه از تم سیستم استفاده می‌کند، برنامه خودکار پیروی می‌کند.",
+  "faqOpeningClosingReminderQuestion": "یادآورهای باز و بسته کردن چیست؟",
+  "faqOpeningClosingReminderAnswer": "{appName} می‌تواند باز یا بستن صندوق روزانه را یادآوری کند. می‌توانید ادامه دهید، امروز رد کنید یا یادآور را ببندید.",
+  "faqPartyRolesQuestion": "نقش‌های طرف چیست؟",
+  "faqPartyRolesAnswer": "نقش‌های طرف مخاطبانی مانند مشتری، تأمین‌کننده، اتاق یا کارمند را دسته‌بندی می‌کنند. در عملیات ← نقش‌های طرف سفارشی کنید و توضیح کوتاه برای تیم اضافه کنید.",
+  "faqRateAppQuestion": "چگونه {appName} را امتیاز دهم؟",
+  "faqRateAppAnswer": "بیشتر ← به ما امتیاز دهید را باز کنید تا در App Store نظر بگذارید. بازخورد شما به بهبود صورتحساب آفلاین کمک می‌کند.",
+  "freemiumLabelSalesInvoices": "فاکتور فروش",
+  "freemiumLabelPurchaseInvoices": "فاکتور خرید",
+  "freemiumLabelEmployees": "کارمند",
+  "freemiumLabelItems": "قلم",
+  "freemiumLabelCategories": "دسته",
+  "freemiumLabelPaymentMethods": "روش پرداخت",
+  "freemiumLabelCustomPartyRoles": "نقش طرف سفارشی",
+  "freemiumLabelPartiesForRole": "طرف برای {role}",
+  "freemiumLabelOrganizations": "سازمان",
+  "freemiumPremiumReports": "گزارش‌ها با Premium در دسترس است.",
+  "freemiumPremiumBackupSync": "پشتیبان‌گیری و همگام‌سازی Premium می‌خواهد.",
+  "freemiumPremiumPayroll": "حقوق Premium می‌خواهد.",
+  "freemiumPremiumAttendance": "حضور Premium می‌خواهد.",
+  "freemiumPremiumStock": "مدیریت موجودی Premium می‌خواهد.",
+  "freemiumPremiumInvoiceExport": "دانلود و چاپ Premium می‌خواهد.",
+  "@faqOpeningClosingReminderAnswer": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@faqRateAppQuestion": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@freemiumLabelPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  }
+}

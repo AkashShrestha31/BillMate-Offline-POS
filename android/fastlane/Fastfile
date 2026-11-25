@@ -1,0 +1,369 @@
+# frozen_string_literal: true
+
+def flutter_binary
+  @flutter_binary ||= begin
+    load_play_store_env unless ENV["FLUTTER_ROOT"] || ENV["FLUTTER_BIN"]
+
+    candidates = [
+      ENV["FLUTTER_BIN"],
+      ENV["FLUTTER_ROOT"]&.then { |root| File.join(root, "bin", "flutter") },
+      "/Users/akashshrestha/Downloads/flutter3.32.8/bin/flutter",
+      `which flutter 2>/dev/null`.strip
+    ].compact.reject(&:empty?)
+
+    found = candidates.find { |path| File.executable?(path) }
+    unless found
+      UI.user_error!(
+        "Flutter not found. Set FLUTTER_BIN or FLUTTER_ROOT in fastlane/.env.playstore\n" \
+        "Example: FLUTTER_ROOT=/Users/akashshrestha/Downloads/flutter3.32.8"
+      )
+    end
+
+    found
+  end
+end
+
+def flutter_project_root
+  File.expand_path("../..", __dir__)
+end
+
+def flutter_sh(*args)
+  Dir.chdir(flutter_project_root) do
+    sh("#{flutter_binary} #{args.join(' ')}")
+  end
+end
+
+def pubspec_path
+  File.expand_path("../../pubspec.yaml", __dir__)
+end
+
+def pubspec_version_parts
+  version_line = File.read(pubspec_path)[/^version:\s*(.+)$/, 1]
+  UI.user_error!("Could not read version from pubspec.yaml") if version_line.nil?
+
+  name, number = version_line.split("+", 2)
+  [name.strip, number.to_i]
+end
+
+def update_pubspec_build_number(build_number)
+  version_name, = pubspec_version_parts
+  content = File.read(pubspec_path)
+  updated = content.sub(/^version:\s*.+$/, "version: #{version_name}+#{build_number}")
+  File.write(pubspec_path, updated)
+  UI.success("Updated pubspec.yaml → #{version_name}+#{build_number}")
+end
+
+def load_play_store_env
+  playstore_env = File.join(__dir__, ".env.playstore")
+  production_env = File.join(__dir__, ".env.production")
+
+  Dotenv.load playstore_env if File.exist?(playstore_env)
+  Dotenv.load production_env if File.exist?(production_env)
+end
+
+def play_store_json_key_path
+  configured = ENV.fetch("PLAY_STORE_JSON_KEY_FILE", "keys/play-store-key.json")
+  android_dir = File.expand_path("..", __dir__)
+
+  candidates = [
+    configured,
+    File.expand_path(configured, android_dir),
+    File.expand_path(configured, __dir__),
+    File.join(__dir__, "keys", "play-store-key.json"),
+    File.join(__dir__, "play-store-service-account.json")
+  ].map { |path| File.expand_path(path) }.uniq
+
+  candidates.find { |path| File.exist?(path) } || candidates.first
+end
+
+def ensure_play_store_credentials!
+  load_play_store_env
+
+  json_path = play_store_json_key_path
+  return if File.exist?(json_path)
+
+  UI.user_error!(
+    "Play Console service account JSON not found at #{json_path}.\n" \
+    "Save your service account key to:\n" \
+    "  android/fastlane/keys/play-store-key.json\n" \
+    "Then invite that service account under Play Console → Users and permissions."
+  )
+end
+
+def play_store_json_key
+  play_store_json_key_path
+end
+
+def play_store_package_name
+  ENV.fetch("PACKAGE_NAME", "ai.biztrack")
+end
+
+def production_aab_path
+  default = File.join(
+    flutter_project_root,
+    "build/app/outputs/bundle/productionRelease/app-production-release.aab"
+  )
+
+  configured = ENV["ANDROID_ARTIFACT_PATH"]
+  return default if configured.nil? || configured.strip.empty?
+
+  candidates = [
+    configured,
+    File.expand_path(configured, flutter_project_root),
+    File.expand_path(configured, File.expand_path("..", __dir__)),
+    File.expand_path(configured, __dir__),
+    default
+  ].map { |path| File.expand_path(path) }.uniq
+
+  candidates.find { |path| File.exist?(path) } || default
+end
+
+def play_store_version_tracks
+  %w[production internal alpha beta]
+end
+
+def version_codes_on_track(track)
+  codes = google_play_track_version_codes(
+    track: track,
+    json_key: play_store_json_key,
+    package_name: play_store_package_name
+  )
+  Array(codes).compact.map(&:to_i)
+rescue StandardError => e
+  UI.important("Skipping #{track} track version lookup: #{e.message}")
+  []
+end
+
+def latest_play_store_version_code
+  codes = play_store_version_tracks.flat_map { |track| version_codes_on_track(track) }
+  codes.max || 0
+end
+
+def next_build_number(_track)
+  _version_name, pubspec_build_number = pubspec_version_parts
+  play_store_max = latest_play_store_version_code
+  next_code = [play_store_max, pubspec_build_number].max + 1
+
+  UI.message(
+    "Version code: Play Console max=#{play_store_max}, pubspec=#{pubspec_build_number} → using #{next_code}"
+  )
+  next_code
+end
+
+def ensure_disk_space!(minimum_gb: 6)
+  output = `df -g "#{flutter_project_root}" 2>/dev/null | tail -1`.strip
+  return if output.empty?
+
+  available_gb = output.split(/\s+/)[3].to_i
+  return if available_gb >= minimum_gb
+
+  UI.user_error!(
+    "Not enough disk space (#{available_gb} GB free, need ~#{minimum_gb} GB).\n" \
+    "Free space then retry. Quick cleanup:\n" \
+    "  flutter clean\n" \
+    "  rm -rf ~/.gradle/caches/*\n" \
+    "  rm -rf android/.gradle build"
+  )
+end
+
+def release_notes_text
+  return ENV["RELEASE_NOTES"] if ENV["RELEASE_NOTES"] && !ENV["RELEASE_NOTES"].strip.empty?
+
+  notes_path = File.expand_path("release-notes.txt", __dir__)
+  return File.read(notes_path).strip if File.exist?(notes_path)
+
+  "Bug fixes and improvements"
+end
+
+default_platform(:android)
+
+METADATA_PATH = File.expand_path("metadata/android", __dir__)
+
+desc "Validate Play Store listing metadata character limits"
+lane :validate do
+  sh("bash #{File.expand_path('validate_metadata.sh', __dir__)}")
+end
+
+desc "Download existing store listing metadata from Play Console"
+lane :download_metadata do
+  ensure_play_store_credentials!
+  download_from_play_store(
+    json_key: play_store_json_key,
+    package_name: play_store_package_name,
+    metadata_path: METADATA_PATH
+  )
+  UI.success("Downloaded metadata to #{METADATA_PATH}")
+end
+
+desc "Upload store listing metadata only (title, short & full descriptions)"
+lane :upload_metadata do
+  ensure_play_store_credentials!
+  validate
+  supply(
+    json_key: play_store_json_key,
+    package_name: play_store_package_name,
+    metadata_path: METADATA_PATH,
+    skip_upload_apk: true,
+    skip_upload_aab: true,
+    skip_upload_images: true,
+    skip_upload_screenshots: true,
+    skip_upload_changelogs: true,
+    sync_image_upload: false
+  )
+  UI.success("Uploaded store listing metadata")
+end
+
+platform :android do
+  desc "Build production AAB and publish directly to Play Console (production track)"
+  lane :deploy do
+    playstore_deploy(track: "production")
+  end
+
+  desc "Build production AAB and upload to Google Play"
+  lane :playstore_deploy do |options|
+    ensure_play_store_credentials!
+
+    track = (options[:track] || ENV.fetch("PLAY_STORE_TRACK", "production")).to_s
+    version_name, = pubspec_version_parts
+    build_number = next_build_number(track)
+
+    UI.header("Publishing #{play_store_package_name} #{version_name} (#{build_number}) → Play Console (#{track})")
+
+    ensure_disk_space!
+
+    flutter_sh(
+      "build appbundle",
+      "--release",
+      "--flavor production",
+      "--target lib/main_production.dart",
+      "--build-number=#{build_number}",
+      "--build-name=#{version_name}"
+    )
+
+    aab_path = production_aab_path
+    UI.user_error!("AAB not found at #{aab_path}") unless File.exist?(aab_path)
+
+    begin
+      upload_to_play_store(
+        track: track,
+        aab: aab_path,
+        json_key: play_store_json_key,
+        package_name: play_store_package_name,
+        skip_upload_apk: true,
+        skip_upload_metadata: true,
+        skip_upload_changelogs: true,
+        skip_upload_images: true,
+        skip_upload_screenshots: true,
+        release_status: ENV.fetch("PLAY_STORE_RELEASE_STATUS", "completed"),
+        version_name: version_name,
+        version_code: build_number
+      )
+    rescue FastlaneCore::Interface::FastlaneError => e
+      if e.message.include?("exact alarm permissions")
+        UI.user_error!(
+          "Play Console requires an exact-alarm declaration before API uploads succeed.\n" \
+          "Play Console → Policy → App content → Alarms and reminders → declare shift reminders.\n" \
+          "See fastlane/.env.playstore.example for details, then re-run: bundle exec fastlane deploy"
+        )
+      end
+      raise
+    end
+
+    update_pubspec_build_number(build_number)
+    UI.success("Published #{version_name} (#{build_number}) to Play Console → #{track}")
+  end
+
+  desc "Deploy to Play Store internal testing"
+  lane :playstore_internal do
+    playstore_deploy(track: "internal")
+  end
+
+  desc "Deploy to Play Store closed testing (alpha)"
+  lane :playstore_alpha do
+    playstore_deploy(track: "alpha")
+  end
+
+  desc "Deploy to Play Store open testing (beta)"
+  lane :playstore_beta do
+    playstore_deploy(track: "beta")
+  end
+
+  desc "Deploy to Play Store production"
+  lane :playstore_production do
+    playstore_deploy(track: "production")
+  end
+
+  desc "Build and distribute development APK via Firebase App Distribution"
+  lane :alpha do
+    Dotenv.load ".env.development"
+
+    latest_release = firebase_app_distribution_get_latest_release(
+      app: ENV["APP_ID"],
+      service_credentials_file: ENV["SERVICE_CREDENTIALS_FILE"]
+    )
+
+    latest_version_name = latest_release[:displayVersion]
+    latest_build_number = latest_release[:buildVersion].to_i + 1
+
+    flutter_sh(
+      "build apk",
+      "--release",
+      "--target-platform android-arm64",
+      "--build-number=#{latest_build_number}",
+      "--build-name=#{latest_version_name}",
+      "--flavor development",
+      "--target lib/main_development.dart"
+    )
+
+    firebase_app_distribution(
+      app: ENV["APP_ID"],
+      groups: "qa",
+      android_artifact_type: "APK",
+      android_artifact_path: ENV["ANDROID_ARTIFACT_PATH"],
+      service_credentials_file: ENV["SERVICE_CREDENTIALS_FILE"]
+    )
+  end
+end
+
+desc "Clean, get dependencies, fix issues, and format Flutter project"
+lane :flutter_prepare do
+  UI.important("Preparing Flutter project...\n".green)
+
+  start_time = Time.now
+  UI.message("Cleaning Flutter project...".yellow)
+  flutter_sh("clean")
+  UI.success("  Cleaning done in #{(Time.now - start_time).round(2)}s".green)
+
+  start_time = Time.now
+  UI.message("Getting Flutter dependencies...".yellow)
+  flutter_sh("pub get")
+  UI.success("  pub get done in #{(Time.now - start_time).round(2)}s".green)
+
+  start_time = Time.now
+  UI.message("Fixing Dart issues...".yellow)
+  sh("dart fix --apply --code=unused_import")
+  UI.success("  dart fix done in #{(Time.now - start_time).round(2)}s".green)
+
+  start_time = Time.now
+  UI.message("Formatting Dart code...".yellow)
+  sh("dart format lib")
+  UI.success("  dart format done in #{(Time.now - start_time).round(2)}s".green)
+
+  UI.success("Flutter project preparation complete.".green)
+rescue StandardError => e
+  UI.user_error!("Flutter project preparation failed: #{e.message}", e)
+end
+
+desc "Get release notes from user input and store in ENV['RELEASE_NOTES']"
+lane :get_release_notes_from_user do
+  release_notes = ""
+  while release_notes.strip.empty?
+    release_notes = UI.input("Enter release notes (required):")
+    UI.important("Release notes cannot be empty. Please try again.") if release_notes.strip.empty?
+  end
+
+  ENV["RELEASE_NOTES"] = release_notes
+  UI.success("Release notes captured:\n#{release_notes}")
+rescue StandardError => e
+  UI.user_error!("Error: #{e.message}")
+end

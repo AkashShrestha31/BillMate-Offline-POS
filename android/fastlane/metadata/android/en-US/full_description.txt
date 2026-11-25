@@ -1,0 +1,45 @@
+Billmate is an offline POS, shop cash register, and restaurant billing app built for retail stores, cafés, bars, and small businesses.
+
+INVOICING & BILLING
+
+Create sales and purchase invoices with line items, discounts, and customer tracking — a full invoice maker in your pocket. Record expenses by category, track outstanding balances (credit / udhar / khata) for every customer and supplier, and settle payments in full, partially, or in bulk. Export any invoice, bill, or receipt as PDF. No internet required.
+
+POS FOR SHOPS & RETAIL
+
+Fast checkout for retail shops and small businesses. Accept cash, QR, and card payments, and print receipts to any ESC/POS thermal printer. Your phone becomes a cash register.
+
+RESTAURANT & BAR POS WITH TABLE MANAGEMENT
+
+A complete restaurant POS with visual table layout. Take orders by table or takeaway, send them to the kitchen (KOT), and follow every dish from order to delivery. Includes a dedicated liquor catalogue built for bars.
+
+INVENTORY & STOCK MANAGEMENT
+
+Track stock across your shop, store, or restaurant. Reconcile physical counts against records, fix discrepancies on the spot, bulk-upload stock via CSV or Excel, and export stock reports as PDF.
+
+STAFF, PAYROLL & ATTENDANCE
+
+Keep staff profiles, record daily attendance, and generate payroll automatically from working days and salary, with advance deductions handled for you. Export payslips as PDF and manage leave approvals.
+
+REPORTS, ACCOUNTING & ANALYTICS
+
+Profit and loss statements, customer and supplier account statements, payment summaries, and sales-versus-expense charts by day, week, month, or custom range. A daily cash summary gives you a clear end-of-day picture.
+
+OFFLINE FIRST — ALWAYS ON
+
+Sales, expenses, inventory, staff, and cash tracking all run on your device and survive restarts. No connection, no interruption.
+
+ROLE-BASED ACCESS & SECURITY
+
+Set permissions per role, from cashier to manager, with granular control over invoices, returns, and edits. Your business data stays on your device.
+
+MULTI-CURRENCY, MULTI-DEVICE
+
+Multi-currency billing. Works on phones and tablets.
+
+READY ON DAY ONE
+
+Pre-loaded with 39 business categories — food, beverages, accommodation, supplies, and more. No setup. Open the app and start selling.
+
+From a corner shop to a mountain lodge, a city café to a busy bar — Billmate is the POS and billing app that keeps running, even offline.
+
+Privacy Policy: https://billmate-woad.vercel.app/

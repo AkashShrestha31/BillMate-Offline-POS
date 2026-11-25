@@ -1,0 +1,21 @@
+# Run: dart run flutter_launcher_icons -f flutter_launcher_icons.yaml
+# (Config is also in pubspec.yaml — keep both in sync.)
+flutter_launcher_icons:
+  image_path: "assets/images/android_app_icon.png"
+
+  android: "launcher_icon"
+  min_sdk_android: 21
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/images/splash_ios.png"
+
+  ios: false
+  remove_alpha_ios: true
+
+  web:
+    generate: false
+
+  windows:
+    generate: false
+
+  macos:
+    generate: false

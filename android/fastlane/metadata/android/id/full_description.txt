@@ -1,0 +1,45 @@
+Billmate adalah POS offline, kasir toko, dan penagihan restoran untuk ritel, kafe, bar, dan usaha kecil.
+
+PENAGIHAN
+
+Buat faktur penjualan dan pembelian dengan item, diskon, dan pelanggan — pembuat faktur lengkap di saku. Catat pengeluaran menurut kategori, lacak saldo tertunggak setiap pelanggan dan pemasok, lalu lunasi pembayaran penuh, sebagian, atau sekaligus. Ekspor faktur atau struk apa pun ke PDF. Tanpa internet.
+
+POS UNTUK TOKO DAN RITEL
+
+Kasir cepat untuk toko dan usaha kecil. Terima tunai, QR, dan kartu, lalu cetak struk di printer termal ESC/POS mana pun. Ponsel Anda menjadi kasir.
+
+POS RESTORAN DAN BAR DENGAN MEJA
+
+POS restoran lengkap dengan denah meja visual. Ambil pesanan di meja atau bungkus, kirim ke dapur (KOT), dan ikuti setiap hidangan dari pesanan sampai disajikan. Termasuk katalog minuman untuk bar.
+
+PERSEDIAAN
+
+Lacak stok toko, gudang, atau restoran. Cocokkan hitungan fisik dengan catatan, perbaiki selisih di tempat, unggah stok massal lewat CSV atau Excel, dan ekspor laporan stok ke PDF.
+
+STAF, GAJI, DAN KEHADIRAN
+
+Simpan profil staf, catat kehadiran harian, dan buat penggajian otomatis dari hari kerja dan gaji, dengan potongan uang muka. Ekspor slip gaji ke PDF dan kelola persetujuan cuti.
+
+LAPORAN, AKUNTANSI, DAN ANALITIK
+
+Laba rugi, laporan akun pelanggan dan pemasok, ringkasan pembayaran, serta grafik penjualan dibanding pengeluaran menurut hari, minggu, bulan, atau rentang sendiri. Ringkasan kas harian menunjukkan tutup hari.
+
+OFFLINE DAHULU — SELALU NYALA
+
+Penjualan, pengeluaran, persediaan, staf, dan kas berjalan di perangkat Anda dan tetap ada setelah mulai ulang. Tanpa koneksi, tanpa henti.
+
+AKSES BERDASARKAN PERAN DAN KEAMANAN
+
+Atur izin per peran, dari kasir sampai manajer, dengan kendali rinci atas faktur, retur, dan suntingan. Data usaha tetap di perangkat.
+
+MULTI-MATA UANG, MULTI-PERANGKAT
+
+Penagihan dalam banyak mata uang. Berjalan di ponsel dan tablet.
+
+SIAP SEJAK HARI PERTAMA
+
+39 kategori usaha sudah dimuat — makanan, minuman, penginapan, perlengkapan, dan lainnya. Tanpa pengaturan. Buka aplikasi dan mulai menjual.
+
+Dari warung pojok ke penginapan gunung, dari kafe kota ke bar yang ramai — Billmate adalah POS dan penagihan yang tetap jalan, bahkan offline.
+
+Kebijakan privasi: https://billmate-woad.vercel.app/

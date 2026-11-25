@@ -1,0 +1,21 @@
+/// Features that can be limited on the free tier (iOS billing enabled, not premium).
+enum FreemiumFeature {
+  salesInvoice,
+  purchaseInvoice,
+  reportProfitLoss,
+  reportStatement,
+  reportAnalytics,
+  backupSync,
+  employee,
+  payroll,
+  attendance,
+  stock,
+  inventory,
+  item,
+  category,
+  paymentMethod,
+  partyRole,
+  party,
+  invoiceExport,
+  organization,
+}

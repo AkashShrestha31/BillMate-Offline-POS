@@ -1,0 +1,2653 @@
+{
+  "@@locale": "zh",
+  "noInternetConnection": "无网络连接。",
+  "formatException": "格式异常",
+  "rememberMe": "记住我",
+  "signIn": "登录",
+  "passwordHint": "请输入密码",
+  "forgetPassword": "忘记登录信息？",
+  "okay": "好的",
+  "success": "成功",
+  "hotel": "酒店",
+  "errorEncountered": "遇到错误",
+  "serverError": "服务器错误",
+  "requestFailed": "请求失败",
+  "connectionTimedOut": "连接超时",
+  "password": "密码",
+  "keepSignIn": "保持登录",
+  "enterPassword": "请输入密码",
+  "enterValidPassword": "请输入有效密码",
+  "skip": "跳过",
+  "pleaseWait": "请稍候 ....",
+  "enterValidUserName": "请输入有效的用户名。",
+  "userName": "用户名",
+  "or": "或",
+  "retry": "重试",
+  "error": "错误",
+  "supportMessage": "请联系管理员。",
+  "responseMessage404": "404错误",
+  "appDisplayName": "BizTrack",
+  "appVersionLabel": "版本 {version}",
+  "@appVersionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "取消",
+  "yes": "是",
+  "no": "否",
+  "close": "关闭",
+  "save": "保存",
+  "delete": "删除",
+  "confirm": "确认",
+  "done": "完成",
+  "next": "下一步",
+  "getStarted": "开始使用",
+  "back": "返回",
+  "submit": "提交",
+  "continueAction": "继续",
+  "tryAgain": "重试",
+  "warning": "警告",
+  "loading": "加载中…",
+  "comingSoon": "即将推出",
+  "required": "必填",
+  "search": "搜索",
+  "add": "添加",
+  "edit": "编辑",
+  "remove": "移除",
+  "view": "查看",
+  "export": "导出",
+  "import": "导入",
+  "refresh": "刷新",
+  "select": "选择",
+  "upload": "上传",
+  "download": "下载",
+  "share": "分享",
+  "filter": "筛选",
+  "sort": "排序",
+  "apply": "应用",
+  "reset": "重置",
+  "clear": "清除",
+  "all": "全部",
+  "none": "无",
+  "total": "合计",
+  "subtotal": "小计",
+  "grandTotal": "总计",
+  "amount": "金额",
+  "quantity": "数量",
+  "rate": "单价",
+  "discount": "折扣",
+  "paid": "已付",
+  "unpaid": "未付",
+  "credit": "信用",
+  "cash": "现金",
+  "date": "日期",
+  "time": "时间",
+  "name": "名称",
+  "email": "电子邮件",
+  "phone": "电话",
+  "address": "地址",
+  "notes": "备注",
+  "description": "描述",
+  "status": "状态",
+  "type": "类型",
+  "category": "类别",
+  "party": "往来方",
+  "item": "项目",
+  "payment": "付款",
+  "settlement": "结算",
+  "opening": "期初",
+  "closing": "期末",
+  "stock": "Stock reconciliation",
+  "expense": "支出",
+  "revenue": "收入",
+  "profit": "利润",
+  "loss": "亏损",
+  "sales": "销售",
+  "purchase": "采购",
+  "monthJan": "1月",
+  "monthFeb": "2月",
+  "monthMar": "3月",
+  "monthApr": "4月",
+  "monthMay": "5月",
+  "monthJun": "6月",
+  "monthJul": "7月",
+  "monthAug": "8月",
+  "monthSep": "9月",
+  "monthOct": "10月",
+  "monthNov": "11月",
+  "monthDec": "12月",
+  "more": "更多",
+  "profile": "个人资料",
+  "operations": "运营",
+  "employeeManagement": "员工管理",
+  "report": "报告",
+  "helpAndSupport": "帮助与支持",
+  "privacyAndPolicies": "隐私与政策",
+  "faq": "常见问题",
+  "contactSupport": "联系支持",
+  "rateUs": "给我们评分",
+  "rateUsSubtitle": "喜欢 BizTrack 吗？在 Google Play 留下评论",
+  "rateUsUnavailable": "无法打开商店。请稍后重试。",
+  "reportProblem": "报告问题",
+  "logout": "退出登录",
+  "signOut": "退出",
+  "settings": "设置",
+  "testData": "测试数据",
+  "regionAndCurrency": "地区与货币",
+  "reportingCurrency": "报告货币",
+  "selectCurrency": "选择货币",
+  "currencySample": "{code} · {symbol} · 示例 {sample}",
+  "@currencySample": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      },
+      "sample": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdated": "货币已设为 {code} ({symbol})",
+  "@currencyUpdated": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdateFailed": "无法更新货币：{error}",
+  "@currencyUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "setupAppTitle": "设置 {appName}",
+  "@setupAppTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "setupSubtitle": "配置您的组织和账务 — 存储在此设备上以供离线使用。",
+  "regionAndCurrencySubtitle": "区域设置和报告货币。",
+  "country": "国家",
+  "currency": "货币",
+  "selectCountry": "选择国家",
+  "language": "语言",
+  "selectLanguage": "选择语言",
+  "languageUpdated": "语言已设为 {name}",
+  "@languageUpdated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "languageUpdateFailed": "无法更新语言：{error}",
+  "@languageUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToApp": "欢迎使用 {appName}",
+  "@welcomeToApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "forceUpdateMessage": "请安装最新版本的 {appName} 以继续使用。",
+  "@forceUpdateMessage": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "generatedByApp": "由 {appName} 生成",
+  "@generatedByApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "whatIsApp": "{appName} 是什么？",
+  "@whatIsApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "appDescriptionFaq": "{appName} 帮助您管理销售和采购发票、往来方（客户和供应商）、库存、付款、员工及每日汇总 — 通过您的手机或平板电脑。",
+  "@appDescriptionFaq": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "faqIntro": "关于 {appName} 常见问题的解答。",
+  "@faqIntro": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseFromGallery": "从相册选择",
+  "takePhoto": "拍照",
+  "photoLibrary": "照片库",
+  "addPhoto": "添加照片",
+  "couldNotPickImage": "无法选择图片：{error}",
+  "@couldNotPickImage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteOrganizationTitle": "删除组织？",
+  "deleteOrganizationMessage": "从此设备移除 {name}。该组织的所有本地数据将被删除。",
+  "deleteOrganizationWarning": "此操作无法撤销。",
+  "organizationDeleted": "组织已移除",
+  "createAction": "创建",
+  "connectOrganizationTitle": "连接您的组织",
+  "connectOrganizationSubtitle": "选择一个组织以登录。",
+  "selectOrganization": "组织",
+  "selectOrganizationHint": "点击组织以继续",
+  "noSavedOrganizationsYet": "暂无组织。请创建一个或使用下方的测试数据。",
+  "orgConnectOnceInfo": "这将应用程序与您的业务账户关联。每台设备只需设置一次。",
+  "organizationCodeLabel": "代码：{code}",
+  "loginWithTestData": "使用测试数据登录",
+  "loginWithTestDataSubtitle": "加载演示酒店数据并自动登录",
+  "testDataLoginFailed": "无法加载测试数据：{error}",
+  "preparingTestData": "正在准备演示数据…",
+  "setupOrganizationName": "组织名称",
+  "setupCompanyName": "公司名称",
+  "setupBusinessType": "业务类型",
+  "businessTypeHotel": "酒店",
+  "businessTypeRestaurant": "餐厅",
+  "businessTypeHotelRestaurant": "酒店 & 餐厅",
+  "businessTypeRetail": "零售 / 商店",
+  "businessTypeCafe": "咖啡馆 / 烘焙店",
+  "businessTypeBar": "酒吧 / 酒馆",
+  "businessTypeOther": "其他",
+  "organizationBusinessTypeLabel": "类型：{type}",
+  "@organizationBusinessTypeLabel": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "organizationSettings": "组织",
+  "editOrganizationInfo": "组织信息",
+  "editOrganizationInfoSubtitle": "更新此业务在应用中的显示方式。组织代码不可更改。",
+  "organizationCode": "组织代码",
+  "organizationCodeReadOnly": "此代码在设置后固定。",
+  "organizationInfoUpdated": "组织信息已保存",
+  "organizationInfoLoadFailed": "无法加载组织信息",
+  "organizationInfoSaveFailed": "无法保存组织信息：{error}",
+  "@organizationInfoSaveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "saveChanges": "保存更改",
+  "setupFullName": "全名",
+  "setupConfirmPassword": "确认密码",
+  "setupBankName": "银行名称",
+  "setupRegionStepTitle": "地区与货币",
+  "setupOrganizationStepTitle": "组织",
+  "setupOrganizationStepSubtitle": "您的业务在应用中的显示方式",
+  "setupAdminStepTitle": "管理员账户",
+  "setupAdminStepSubtitle": "此安装的主要用户",
+  "setupAccountingStepTitle": "账务",
+  "setupAccountingStepSubtitle": "银行、会计科目表和财年",
+  "setupCompleteSetup": "完成设置",
+  "fieldRequired": "{field} 为必填项",
+  "invalidEmailAddress": "请输入有效的电子邮件地址",
+  "passwordMinLength": "密码至少需要 {min} 个字符",
+  "passwordsDoNotMatch": "密码不匹配",
+  "setupFixValidationErrors": "请修正以下错误后继续",
+  "setupCompleteSuccess": "设置成功完成",
+  "setupCompleteWithPdfSuccess": "设置完成。请将PDF保存在安全位置。",
+  "setupPdfFailed": "设置已完成，但无法保存PDF：{error}",
+  "setupFailed": "无法完成设置。请重试。",
+  "setupFailedWithDetails": "设置失败：{error}",
+  "languageChangeLaterHint": "您可以稍后在设置中更改",
+  "unpaidAmount": "未付金额",
+  "unpaidBalance": "未付",
+  "unpaidColonAmount": "未付: {amount}",
+  "previousUnpaid": "未付",
+  "partyUnpaid": "未付",
+  "loadingUnpaid": "未付…",
+  "totalUnpaid": "未付",
+  "unpaidAmountNotYetCollected": "未付金额尚未收取。",
+  "partyUnpaidTabHint": "打开员工，选择一个人，然后点击其个人资料中的往来方未付款。服务器需要员工 ID 进行此搜索。",
+  "partySettlementUsesUnpaidTotal": "往来方结算使用未付总额。",
+  "selectPartyWithUnpaidFirst": "请先输入结算金额（或选择有未付款的往来方）。",
+  "@unpaidColonAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "partyRolesTitle": "往来方角色",
+  "partyRolesMoreSubtitle": "客户、供应商、两者及更多",
+  "searchRoles": "搜索角色",
+  "roleCount": "{count, plural, =1{1 个角色} other{{count} 个角色}}",
+  "@roleCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noRolesYet": "暂无角色",
+  "noRolesYetHint": "为联系人添加客户、供应商、两者或自定义角色。",
+  "addRole": "添加角色",
+  "deleteRoleTitle": "删除角色",
+  "deleteRoleConfirm": "删除“{name}”？此操作无法撤销。",
+  "@deleteRoleConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteRoleHasPartiesMessage": "“{name}”被{partyCount, plural, =1{1 个往来方} other{{partyCount} 个往来方}}使用。将这些往来方转移到另一个角色，或强制删除并丢失它们。",
+  "@deleteRoleHasPartiesMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "transferParties": "转移往来方",
+  "hardDeleteLoseParties": "强制删除（丢失往来方）",
+  "hardDeleteRoleTitle": "强制删除？",
+  "hardDeleteRoleMessage": "这将永久删除“{name}”及其分配的所有{partyCount, plural, =1{1 个往来方} other{{partyCount} 个往来方}}。往来方数据无法恢复。\n\n与发票或付款关联的往来方可能无法删除 — 请改用转移。",
+  "@hardDeleteRoleMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteRoleAndParties": "删除角色和往来方",
+  "addAnotherRoleBeforeDelete": "删除此角色前请先添加另一个角色。",
+  "transferPartiesMoveMessage": "将{partyCount, plural, =1{1 个往来方} other{{partyCount} 个往来方}}从“{fromRole}”移至：",
+  "@transferPartiesMoveMessage": {
+    "placeholders": {
+      "partyCount": {
+        "type": "int"
+      },
+      "fromRole": {
+        "type": "String"
+      }
+    }
+  },
+  "transferAndDeleteRole": "转移并删除角色",
+  "builtInRole": "内置",
+  "rolePartyCount": "{count, plural, =1{1 个往来方} other{{count} 个往来方}}",
+  "@rolePartyCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noPartiesYet": "暂无往来方",
+  "newRole": "新角色",
+  "editRole": "编辑角色",
+  "defaultRolesCannotEdit": "默认角色不能重命名或删除。",
+  "roleNameLabel": "角色名称 *",
+  "roleNameHint": "例：客户",
+  "roleDescriptionLabel": "描述",
+  "roleDescriptionHint": "给团队的简短备注",
+  "roleSortOrderLabel": "排序顺序",
+  "roleSortOrderHint": "较小的值在列表中排在前面",
+  "roleCreated": "角色已创建",
+  "roleUpdated": "角色已更新",
+  "roleDeleted": "角色已删除",
+  "roleDeletedPartiesTransferred": "角色已删除。{count, plural, =1{1 个往来方} other{{count} 个往来方}}已移至 {targetRole}。",
+  "@roleDeletedPartiesTransferred": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "targetRole": {
+        "type": "String"
+      }
+    }
+  },
+  "roleAndPartiesDeleted": "角色和{count, plural, =1{1 个往来方} other{{count} 个往来方}}已删除。",
+  "@roleAndPartiesDeleted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@deleteOrganizationMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@organizationCodeLabel": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "@testDataLoginFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@fieldRequired": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "@passwordMinLength": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "@setupPdfFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@setupFailedWithDetails": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "workspace": "工作区",
+  "change": "更改",
+  "addMoreOrganization": "添加更多 +",
+  "connectAnotherOrganization": "连接另一个组织",
+  "noSavedOrganizationsUseAddMore": "暂无保存的组织。使用添加更多 + 连接一个。",
+  "registerNewOrganizationTitleSignedIn": "注册新组织？",
+  "registerNewOrganizationTitle": "注册新组织？",
+  "registerNewOrganizationMessageSignedIn": "您将退出登录，设置向导将从头开始，以便您在此设备上注册新业务。\n\n您已保存的组织在设置后将保留在列表中。",
+  "registerNewOrganizationMessageLogin": "设置向导将启动，以便您在此设备上注册新业务。完成设置以创建它；您保存的组织将保留在列表中。",
+  "startSetup": "开始设置",
+  "enterOrganizationCode": "请输入您的组织代码",
+  "organizationNotFoundCheckCode": "未找到组织。请检查代码后重试。",
+  "organizationNotFound": "未找到组织",
+  "couldNotVerifyOrganization": "无法验证组织",
+  "noLocalDataCompleteSetup": "{name} 没有本地数据。请先完成此组织的设置。",
+  "@noLocalDataCompleteSetup": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeBack": "欢迎回来",
+  "signInToContinue": "登录以继续",
+  "enterEmail": "输入电子邮件",
+  "pleaseEnterEmail": "请输入您的电子邮件",
+  "pleaseEnterValidEmail": "请输入有效的电子邮件",
+  "enterEmailLocalPartOnly": "仅输入 @ 之前的部分",
+  "pleaseEnterPassword": "请输入您的密码",
+  "logIn": "登录",
+  "searchCountry": "搜索国家",
+  "searchCodeOrSymbol": "搜索代码或符号",
+  "saveLoginDetailsTitle": "保存登录详情？",
+  "saveLoginDetailsMessage": "您即将完成此组织的设置。\n\n是否安全下载包含您的组织代码、组织名称、登录电子邮件和密码的 PDF？请存放在安全的地方 — 任何拥有此文件的人都可以登录。",
+  "downloadPdfAndContinue": "下载 PDF 并继续",
+  "continueWithoutPdf": "不下载 PDF 继续",
+  "legalDisplayNameHint": "法定 / 显示名称",
+  "chartOfAccounts": "会计科目表",
+  "fiscalYearStart": "财政年度开始",
+  "fiscalYearEnd": "财政年度结束",
+  "removeTestDataTitle": "删除测试数据？",
+  "removeTestDataMessageDemoOrg": "所有演示销售、采购、联系人、往来方、库存项目、员工、酒类计算器产品和额外演示组织将被删除。\n\n您在演示组织上 — 此后将自动切换回您的第一个组织。",
+  "removeTestDataMessageNormal": "所有演示销售、采购、联系人、往来方、库存项目、员工和 3 个额外演示组织将被删除。您的管理员帐户和实际设置数据保持不变。",
+  "removeTestDataWarning": "除非重新加载测试数据，否则无法撤销。",
+  "removeTestData": "删除测试数据",
+  "keepTestData": "保留测试数据",
+  "demoDataRemoved": "演示数据已删除",
+  "testDataRemovedSwitchedTo": "测试数据已删除。已切换到 {name}。",
+  "@testDataRemovedSwitchedTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "testDataRemoved": "测试数据已删除",
+  "couldNotRemoveTestData": "无法删除测试数据：{error}",
+  "@couldNotRemoveTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loadTestDataTitle": "加载测试数据？",
+  "loadTestDataMessage": "这将添加最多 50 个演示联系人、50 个仅销售和 50 个仅采购库存项目，以及示例销售、采购、付款、库存、期末摘要、员工、薪资、过去 15 天的考勤和计算器的示例酒类产品。",
+  "loadTestData": "加载测试数据",
+  "testDataLoaded": "测试数据已加载",
+  "couldNotLoadTestData": "无法加载测试数据：{error}",
+  "@couldNotLoadTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "demoTestData": "演示测试数据",
+  "importTestDataSubtitle": "导入所有功能的测试数据",
+  "hideTestDataTitle": "隐藏此组织的测试数据？",
+  "hideTestDataMessage": "如果继续，测试数据部分将在此组织的所有地方隐藏（包括设置）。只能通过重新安装或清除此组织的应用数据来重新启用。",
+  "hideTestDataWarning": "已加载的演示数据将保留在数据库中，直到您从设置中删除它。",
+  "okHideTestData": "确定，隐藏测试数据",
+  "testDataHiddenForOrg": "此组织的测试数据已隐藏",
+  "hideTestDataTooltip": "隐藏此组织的测试数据",
+  "privacyPolicyTitle": "隐私政策",
+  "termsAndConditions": "条款和条件",
+  "logoutConfirmTitle": "登出",
+  "logoutConfirmMessage": "确定要从您的帐户退出吗？",
+  "faqTapToExpand": "点击问题展开。",
+  "faqSectionGettingStarted": "入门",
+  "faqSectionLogin": "登录",
+  "faqSectionNavigation": "导航",
+  "faqSectionInvoices": "发票",
+  "faqSectionPayments": "付款",
+  "faqSectionItemsStock": "项目和库存",
+  "faqSectionProfileEmployees": "个人资料和员工",
+  "faqSectionDashboardReports": "仪表板和报告",
+  "faqSectionSyncTroubleshooting": "同步和故障排除",
+  "faqNeedInternetQuestion": "我需要互联网吗？",
+  "faqNeedInternetAnswer": "首次本地设置后，您可以在没有互联网的情况下记录发票、项目和付款。数据保留在您的设备上。与服务器同步是可选的。",
+  "faqFirstInstallQuestion": "首次安装时会发生什么？",
+  "faqFirstInstallAnswer": "您可能会看到简短的引导，然后是本地设置（组织、公司、登录电子邮件和密码、货币、财政年度）。之后，使用您创建的电子邮件和密码登录。",
+  "faqSignInCredentialsQuestion": "我用什么登录？",
+  "faqSignInCredentialsAnswer": "设置中的电子邮件地址和密码。应用将保持您的登录状态，直到您从更多退出。",
+  "faqLoggedOutQuestion": "为什么我被退出了？",
+  "faqLoggedOutAnswer": "您选择了退出，清除了应用数据，或会话已过期。使用相同的凭据重新登录。",
+  "faqBottomTabsQuestion": "底部标签页有什么功能？",
+  "faqBottomTabsAnswer": "主页 — 仪表板和概览。\n销售 — 按日期的销售发票。\n支出 — 采购 / 支出发票。\n中央按钮 — 往来方（客户、供应商）。\n更多 — 个人资料、报告、同步、帮助、退出。",
+  "faqCreateInvoiceQuestion": "如何创建销售或采购发票？",
+  "faqCreateInvoiceAnswer": "打开销售或支出，在日历上选择日期，点击 + 按钮，添加项目和金额，如需要选择往来方，然后保存或提交。",
+  "faqInvoiceDetailsQuestion": "如何查看完整的发票详情？",
+  "faqInvoiceDetailsAnswer": "点击列表中的任意发票。交易详情显示行项目、总计、折扣和付款。您可以从那里打印、共享、复制或付款。",
+  "faqZeroRateQuestion": "详情中费率或金额显示为零",
+  "faqZeroRateAnswer": "这通常意味着旧保存中行或付款数据丢失。更新应用并根据需要重新创建或结算。",
+  "faqPartialPaymentQuestion": "如何记录部分付款？",
+  "faqPartialPaymentAnswer": "打开发票 → 交易详情 → 进行付款。输入金额、方式和日期，然后处理结算。",
+  "faqMultiplePaymentQuestion": "多重付款如何运作？",
+  "faqMultiplePaymentAnswer": "开启多重付款，点击编辑，将总额分配给现金、卡、二维码等。每种方式单独记录。",
+  "faqSplitPaymentSavedQuestion": "分割中只保存了一笔付款",
+  "faqSplitPaymentSavedAnswer": "更新到最新应用版本。旧版本有时只保存第一个分割行。如果未付余额仍然错误，请再次结算。",
+  "faqAddItemQuestion": "如何添加项目？",
+  "faqAddItemAnswer": "使用销售流程或快速添加中的添加项目。输入名称、费率、单位、用途和可选照片（JPEG/PNG/GIF/WebP，最大 5MB），然后创建项目。",
+  "faqCustomUnitQuestion": "如何添加自定义单位？",
+  "faqCustomUnitAnswer": "在项目表单上，点击单位 → 列表底部的创建新单位，输入名称（例如：升、箱），然后创建。",
+  "faqStockQuantitiesQuestion": "How do I enter stock quantities?",
+  "faqStockQuantitiesAnswer": "Live qty is In stock on each item. Set stock on an item to enter opening stock or a stock adjustment. Opening stock / stock reconciliation (upload or enter a count) also sets In stock when live tracking is on. Liquor prices is a pour-price list, not stock.",
+  "faqProfileNameQuestion": "我更改了名称，但个人资料仍显示旧名称",
+  "faqProfileNameAnswer": "编辑您的员工记录（与登录相同的电子邮件）并保存。更多标签页和仪表板应该会更新。",
+  "faqRevenueDetailsQuestion": "收入详情是什么？",
+  "faqRevenueDetailsAnswer": "包含每日趋势图、净利润、未收应收款和逐日销售对采购分析的月度视图。用日历或月份筹码更改月份。",
+  "faqOtherReportsQuestion": "其他报告在哪里？",
+  "faqOtherReportsAnswer": "打开更多，在报告（分析、损益、报表等）下查找，如果您的角色有访问权限。",
+  "faqWhenSyncQuestion": "我应该什么时候同步？",
+  "faqWhenSyncAnswer": "只有在管理员要求并且有稳定连接时。同步在设备和服务器之间发送或接收数据。",
+  "faqFabPositionQuestion": "+ 按钮在销售 / 支出中看起来太高",
+  "faqFabPositionAnswer": "它位于底部导航栏上方。如果按钮与设备上的内容重叠，请滚动列表或更新应用。",
+  "faqHowLogoutQuestion": "如何退出？",
+  "faqHowLogoutAnswer": "更多 → 设置列表底部的退出。",
+  "statisticsGoodMorning": "早上好",
+  "statisticsGoodAfternoon": "下午好",
+  "statisticsGoodEvening": "晚上好",
+  "statisticsDefaultUser": "用户",
+  "statisticsCheckConnection": "请检查您的连接并重试。",
+  "statisticsCouldNotLoadProfile": "无法加载配置文件",
+  "statisticsCouldNotLoadData": "无法加载数据",
+  "statisticsPeriodDay": "天",
+  "statisticsPeriodMonth": "月",
+  "statisticsPeriodYear": "年",
+  "statisticsSelectedPeriod": "选定期间",
+  "statisticsSelectMonth": "选择月份",
+  "statisticsSelectMonthSubtitle": "选择一个月来过滤数据",
+  "statisticsQuickOperations": "Quick Operations",
+  "statisticsAnnualRevenue": "年收入",
+  "statisticsCashflowLast7Days": "现金流（近7天）",
+  "statisticsCashflowLast12Months": "现金流（近12个月）",
+  "statisticsDaily": "日常的",
+  "statisticsMonthly": "每月",
+  "statisticsOverall": "全面的",
+  "statisticsLast7Days": "Last 7 Days",
+  "statisticsLast12Months": "Last 12 Months",
+  "statisticsAllYears": "所有年份",
+  "statisticsNoDataAvailable": "无可用数据",
+  "statisticsMoneyIn": "资金投入",
+  "statisticsMoneyOut": "钱出",
+  "statisticsIncome": "收入",
+  "statisticsExpenses": "开支",
+  "statisticsSalesSummary": "销售总结",
+  "statisticsPurchaseSummary": "购买总结",
+  "statisticsTotalSales": "总销售额",
+  "statisticsTotalIncome": "总收入",
+  "statisticsTotalUnpaid": "未付总额",
+  "statisticsTotalPurchase": "购买总额",
+  "statisticsPaidPurchase": "付费购买",
+  "statisticsUnpaidPurchase": "未付款购买",
+  "statisticsEmployeeDashboard": "员工仪表板",
+  "statisticsDefaultEmployee": "员工",
+  "statisticsDefaultDepartment": "部门",
+  "statisticsDefaultPosition": "位置",
+  "statisticsCurrentMonth": "本月",
+  "statisticsStatus": "地位",
+  "statisticsActive": "积极的",
+  "statisticsWelcome": "欢迎",
+  "statisticsEmployeeWelcomeMessage": "您以员工身份登录。使用导航菜单访问可用功能。",
+  "statisticsRevenueDetails": "收入详情",
+  "statisticsEmployeeDetails": "员工详情",
+  "statisticsChangeMonth": "更改月份",
+  "statisticsFilterChartsSubtitle": "过滤图表和细分",
+  "statisticsDailyTrend": "每日趋势",
+  "statisticsDailyActivity": "日常活动",
+  "statisticsNoDataForMonth": "本月无数据",
+  "statisticsNetProfit": "纯利",
+  "statisticsMonthReceivables": "月应收账款",
+  "statisticsNoDailyEntries": "本月没有每日条目",
+  "statisticsDailySalesBreakdown": "每日销售明细",
+  "statisticsDailyBreakdown": "每日细分",
+  "statisticsAdvance": "进步",
+  "statisticsExploreFeatures": "探索功能",
+  "statisticsShowOrHideFeatures": "显示或隐藏功能",
+  "statisticsAllFeaturesHidden": "所有探索功能均已隐藏",
+  "statisticsNoFeaturesForOrg": "没有适合您的组织的功能",
+  "statisticsTapTuneToShow": "点击上面的调谐图标即可再次显示快捷方式。",
+  "statisticsMenuCheck": "对账",
+  "statisticsMenuEmployee": "员工",
+  "statisticsMenuOrder": "命令",
+  "statisticsMenuInventory": "Items",
+  "statisticsMenuCustomers": "顾客",
+  "statisticsMenuCalculator": "Liquor prices",
+  "statisticsMenuQuickExpenses": "快\n费用",
+  "statisticsMenuQuickSales": "快\n销售",
+  "statisticsMenuAddEmployee": "添加\n员工",
+  "statisticsMenuAddParty": "添加\n往来方",
+  "statisticsMenuAddEmployeeSingle": "添加员工",
+  "statisticsMenuAddPartySingle": "添加往来方",
+  "statisticsGreeting": "{greeting}，{name}",
+  "@statisticsGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsEmployeeGreeting": "{greeting}，{name}！",
+  "@statisticsEmployeeGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDepartmentPosition": "{department} • {position}",
+  "@statisticsDepartmentPosition": {
+    "placeholders": {
+      "department": {
+        "type": "String"
+      },
+      "position": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricCollected": "{amount} 已收集",
+  "@statisticsMetricCollected": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricPaid": "{amount} 已付款",
+  "@statisticsMetricPaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyInAmount": "资金投入：{amount}",
+  "@statisticsMoneyInAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyOutAmount": "钱出：{amount}",
+  "@statisticsMoneyOutAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDayTooltip": "日 {day}\n{amount}",
+  "@statisticsDayTooltip": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsProfitMargin": "{percent}% 保证金",
+  "@statisticsProfitMargin": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "selectBusinessType": "选择业务类型",
+  "businessTypeHotelSubtitle": "客房、宾客和前台",
+  "businessTypeRestaurantSubtitle": "堂食、厨房和餐桌订单",
+  "businessTypeHotelRestaurantSubtitle": "酒店房间和餐厅在一起",
+  "businessTypeRetailSubtitle": "产品、库存和结账",
+  "businessTypeCafeSubtitle": "咖啡、糕点和小吃",
+  "businessTypeBarSubtitle": "饮品菜单、标签和酒吧销售",
+  "businessTypeOtherSubtitle": "适合任何企业的自定义设置",
+  "@invoiceCommonSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonInvoiceLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCustomerLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSupplierLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchingFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchItemsHint": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonEmptyForDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDeleteInvoiceConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCancelReturnMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPartyLoadingError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceFoundSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceFoundPurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDatePurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateInvoiceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteMessage": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceReturnCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotPrint": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotSave": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotShare": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonItemReturnedQty": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      },
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonMultiplePaymentSummary": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptFilename": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReturnAgainst": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSavedPath": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonUnpaidWithAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonTodayAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyExportReceipts": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyNoItemsMatching": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceQuickShowingItems": {
+    "placeholders": {
+      "shown": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickLoadedItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickScrollLoadMore": {
+    "placeholders": {
+      "perPage": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickCartWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemActionsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditSelectedItem": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditRateLabel": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditItemLabel": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemsError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditPartiesError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditSaveError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonActions": "行动",
+  "invoiceCommonSearchItems": "搜索项目",
+  "invoiceCommonSearchItemsSubtitle": "搜索特定项目",
+  "invoiceCommonAddNewInvoice": "添加新发票",
+  "invoiceCommonAddSalesInvoiceSubtitle": "创建新的销售发票",
+  "invoiceCommonAddPurchaseInvoiceSubtitle": "创建新的采购发票",
+  "invoiceCommonSelectMonthYear": "选择月/年",
+  "invoiceCommonSelectMonthYearSubtitle": "跳转到特定月份",
+  "invoiceCommonSelectMonthAndYear": "选择月份和年份",
+  "invoiceCommonFilterByDate": "按日期过滤",
+  "invoiceCommonFilterByDateRange": "按日期范围过滤",
+  "invoiceCommonCloseSearch": "关闭搜索",
+  "invoiceCommonSelectAll": "选择全部",
+  "invoiceCommonToday": "今天",
+  "invoiceCommonTotalQuantity": "总量",
+  "invoiceCommonTotalAmount": "总金额",
+  "invoiceCommonTotal": "全部的",
+  "invoiceCommonSearchForItems": "搜索项目",
+  "invoiceCommonNoItemsFound": "没有找到物品",
+  "invoiceCommonUnknownItem": "未知物品",
+  "invoiceCommonNotAvailable": "不适用",
+  "invoiceSalesCouldNotLoad": "无法加载销售",
+  "invoiceSalesNoFound": "没有找到销售",
+  "invoiceSalesSelectDate": "选择日期查看销售情况",
+  "invoiceSalesNoInvoicesFound": "没有找到发票",
+  "invoiceSalesSelectDateLegacy": "选择查看发票的日期",
+  "invoicePurchaseCouldNotLoad": "无法加载费用",
+  "invoicePurchaseNoFound": "没有找到购买的商品",
+  "invoicePurchaseSelectDate": "选择日期查看购买情况",
+  "invoiceWeekdaySun": "太阳",
+  "invoiceWeekdayMon": "周一",
+  "invoiceWeekdayTue": "星期二",
+  "invoiceWeekdayWed": "周三",
+  "invoiceWeekdayThu": "星期四",
+  "invoiceWeekdayFri": "周五",
+  "invoiceWeekdaySat": "星期六",
+  "invoiceCommonSelectedCount": "{count} 已选择",
+  "invoiceCommonQtyLabel": "数量：{qty}",
+  "invoiceCommonInvoiceLabel": "发票：{number}",
+  "invoiceCommonCustomerLabel": "客户：{name}",
+  "invoiceCommonSupplierLabel": "供应商：{name}",
+  "invoiceCommonSearchingFor": "正在搜索“{query}”...",
+  "invoiceCommonSearchItemsHint": "搜索 {scope} 中的项目...",
+  "invoiceCommonSalesSearchPrompt": "输入商品名称即可查找所有销售\n在 {scope}",
+  "invoiceCommonPurchaseSearchPrompt": "输入商品名称即可查找所有购买的商品\n在 {scope}",
+  "invoiceCommonSalesNoMatch": "没有销售“{query}”\n在 {scope}",
+  "invoiceCommonPurchaseNoMatch": "没有购买“{query}”\n在 {scope}",
+  "invoiceCommonEmptyForDate": "对于 {date}",
+  "invoiceFoundSalesCount": "找到 {count, plural, =1{1 笔销售} other{{count} 笔销售}}",
+  "invoiceFoundPurchaseCount": "找到 {count, plural, =1{1 笔采购} other{{count} 笔采购}}",
+  "invoiceDateSalesCount": "{count, plural, =1{1 笔销售} other{{count} 笔销售}}",
+  "invoiceDatePurchaseCount": "{count, plural, =1{1 笔采购} other{{count} 笔采购}}",
+  "invoiceDateInvoiceCount": "{count, plural, =1{1 张发票} other{{count} 张发票}}",
+  "invoiceDeleteTitle": "删除 {count, plural, =1{1 张发票} other{{count} 张发票}}",
+  "invoiceDeleteMessage": "确定要删除 {count, plural, =1{1 张选中的发票} other{{count} 张选中的发票}}吗？此操作无法撤销。",
+  "contacts": "联系方式",
+  "categories": "类别",
+  "manageStaff": "管理员工",
+  "payroll": "工资单",
+  "attendance": "出席率",
+  "profitAndLoss": "损益",
+  "statementReport": "报表",
+  "analytics": "分析",
+  "loggedOut": "已注销",
+  "organizationCodeDisplay": "代码：{code}",
+  "@organizationCodeDisplay": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "moreDataSynchronization": "数据同步",
+  "moreSendDataToClient": "发送数据给客户端",
+  "moreSendDataToClientSubtitle": "将服务器数据上传到客户端",
+  "moreSendDataToClientWarning": "此操作将用服务器中的数据替换当前客户端数据库。所有最近的客户端更改都可能会丢失。",
+  "moreSendDataToClientConfirm": "您确定要向客户端发送数据吗？",
+  "moreFetchDataFromClient": "从客户端获取数据",
+  "moreFetchDataFromClientSubtitle": "下载客户端数据到服务器",
+  "moreFetchDataFromClientWarning": "此操作将用来自客户端的数据替换当前服务器数据库。所有最近的服务器更改可能会丢失。",
+  "moreFetchDataFromClientConfirm": "您确定要从客户端获取数据吗？",
+  "notifications": "通知",
+  "openingReminder": "开仓提醒",
+  "closingReminder": "关闭提醒",
+  "openingTime": "开放时间",
+  "closingTime": "关门时间",
+  "notificationSettingsSaved": "通知设置已保存",
+  "notificationPermissionHint": "允许通知（以及 Android 上的闹钟），以便在应用程序关闭时提醒起作用",
+  "dailyAtTime": "每日 {time}",
+  "@dailyAtTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonYesterday": "昨天",
+  "invoiceCommonTodayAt": "今天，{time}",
+  "invoiceCommonDaysAgo": "{count} 天前",
+  "invoiceReturnCount": "{count, plural, =1{1 笔退货} other{{count} 笔退货}}",
+  "statisticsMonthRevenue": "月收入",
+  "statisticsMonthExpenses": "每月费用",
+  "exploreCustomizeTitle": "定制功能",
+  "exploreCustomizeSubtitle": "在主屏幕上显示或隐藏快捷方式。仅列出您的组织可以访问的功能。",
+  "exploreVisibleOnDashboard": "在仪表板上可见",
+  "exploreHiddenOnDashboard": "在仪表板上隐藏",
+  "partiesTitle": "往来方",
+  "partySearchByName": "按名称搜索…",
+  "partySortBy": "排序：",
+  "partySortLatest": "最新",
+  "partySortAmountHighLow": "金额：从高到低",
+  "partySortAmountLowHigh": "金额：从低到高",
+  "partySortNameAZ": "名称：A 到 Z",
+  "partySortNameZA": "名称：Z 到 A",
+  "partyAddNew": "添加新往来方",
+  "partyEdit": "编辑往来方",
+  "partyUpdate": "更新往来方",
+  "partyNameLabel": "往来方名称*",
+  "partyNameHint": "输入往来方名称",
+  "partyNewNameLabel": "新往来方名称*",
+  "partyNewNameHint": "输入新往来方名称",
+  "partyRoleLabel": "往来方角色 *",
+  "partyTapToSelect": "点击选择",
+  "partySelectRoleValidation": "请选择角色",
+  "partyEnterNameValidation": "请输入往来方名称",
+  "partyBasicInfo": "基本信息",
+  "partyAdditionalInfo": "附加信息",
+  "partyEmail": "往来方邮箱",
+  "partyEmailHint": "输入邮箱地址",
+  "partyPhone": "电话号码",
+  "partyPhoneHint": "输入电话号码",
+  "partyAddress": "往来方地址",
+  "partyAddressHint": "输入地址",
+  "partyRoleCustomer": "客户",
+  "partyRoleSupplier": "供应商",
+  "partyRoleRoom": "房间",
+  "partyRoleCabin": "包间",
+  "partyRoleEmployee": "员工",
+  "partyRoleBoth": "两者",
+  "partyDefaultAccount": "默认账户",
+  "partyLoyaltyProgram": "忠诚度计划",
+  "partyLoyaltyPoints": "忠诚度积分",
+  "partySelectDefaultAccount": "选择默认账户",
+  "partySelectLoyaltyProgram": "选择忠诚度计划",
+  "partyCreateNewProgram": "创建新计划",
+  "partySelectPartyRole": "选择往来方角色",
+  "partyAccountDebtors": "应收",
+  "partyAccountCreditors": "应付",
+  "partyBothRoleHint": "“两者”表示该往来方仅出现在客户和供应商下，不会出现在房间、包间或员工下。",
+  "partyValidNumber": "请输入有效号码",
+  "partyValidAmount": "请输入有效金额",
+  "exportAsPdf": "导出为 PDF",
+  "sharePdf": "分享 PDF",
+  "partyExportPdfTooltip": "导出PDF",
+  "checkoutSelectParty": "选择往来方",
+  "checkoutCartSummary": "购物车摘要",
+  "checkoutNoItemsInCart": "购物车中没有商品",
+  "checkoutSearchHere": "在这里搜索",
+  "checkoutCreateInvoice": "创建发票",
+  "checkoutEditInvoice": "编辑发票",
+  "checkoutSaveInvoice": "保存发票",
+  "checkoutInvoiceSummary": "发票摘要",
+  "checkoutEstimate": "估计",
+  "checkoutBasicInformation": "基本信息",
+  "checkoutAddItems": "添加项目",
+  "checkoutItemsSection": "项目",
+  "checkoutPartyRequired": "往来方 *",
+  "checkoutPartyInformation": "往来方信息",
+  "checkoutBillSummary": "法案摘要",
+  "checkoutBillSummaryHint": "点击了解更详细的计算。",
+  "checkoutItemTotal": "项目总计",
+  "checkoutLoyaltyDiscount": "忠诚度折扣 ({percent}%)",
+  "@checkoutLoyaltyDiscount": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutDiscountLine": "- 折扣 ({percent}%)",
+  "@checkoutDiscountLine": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutTapToEdit": "点击进行编辑",
+  "checkoutTotalAmount": "总金额",
+  "checkoutPaymentMode": "Record payment",
+  "checkoutPaymentModeHint": "Turn on to take payment now. Leave off to submit the bill unpaid and collect later.",
+  "checkoutNetSalesAmount": "净销售额",
+  "checkoutConfirmCheckout": "确认结账",
+  "checkoutEditDiscount": "编辑折扣",
+  "checkoutPercentage": "百分比",
+  "checkoutDiscard": "丢弃",
+  "checkoutPartialPayment": "部分付款",
+  "checkoutPartialPaymentBanner": "通过激活部分付款，客户将能够支付少于总账单金额的金额。",
+  "checkoutPleaseEnterAmounts": "请输入相应金额：",
+  "checkoutPartialPaymentEqualHint": "由于未分配用户，因此总金额应等于总计费金额。",
+  "checkoutOverGrandTotalBy": "总计超过：{amount}",
+  "@checkoutOverGrandTotalBy": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutRemainingUnpaid": "剩余金额（总计中未支付）：{amount}",
+  "@checkoutRemainingUnpaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutConfirmPayment": "确认付款",
+  "checkoutUnpaidCredit": "未付款/贷方",
+  "checkoutAddAtLeastOneLine": "添加至少一项订单项以查看估算",
+  "checkoutMultiplePayment": "多次付款",
+  "checkoutPaymentStatus": "付款状态",
+  "checkoutPaymentMethods": "付款方式",
+  "checkoutPaymentMethod": "付款方式",
+  "checkoutTenderAmount": "投标金额",
+  "checkoutLoadingPaymentMethods": "正在加载付款方式...",
+  "stocksTitle": "Stock reconciliation",
+  "stockUploadTooltip": "Opening stock",
+  "stockNoDataYet": "No opening stock yet",
+  "stockNoDataSubtitle": "Enter a physical count. With live tracking on, that count becomes In stock.",
+  "stockUploadAction": "Opening stock",
+  "stockSearchByDateHint": "按日期或月份搜索...",
+  "stockNoMatches": "没有匹配项",
+  "stockTryDifferentSearch": "尝试不同的搜索词",
+  "stockTryAnotherSearch": "尝试其他搜索",
+  "stockQtyLabel": "数量 {qty}",
+  "@stockQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "stockCardSummary": "{records} 记录 · {items} 项目 · {locations} 位置",
+  "@stockCardSummary": {
+    "placeholders": {
+      "records": {
+        "type": "String"
+      },
+      "items": {
+        "type": "String"
+      },
+      "locations": {
+        "type": "String"
+      }
+    }
+  },
+  "stockFilterTitle": "Filter stock reconciliation",
+  "stockBatchNumber": "批号",
+  "stockLocation": "地点",
+  "stockOptionalHint": "选修的",
+  "stockApplyFilters": "应用过滤器",
+  "stockClearFields": "清除字段",
+  "stockDeleteAllTooltip": "删除该日期的所有库存",
+  "stockNoItemsFound": "没有找到库存商品",
+  "stockNoItemsSubtitle": "尝试不同的过滤器或其他报告日期。",
+  "stockAdjustFilters": "调整过滤器",
+  "stockSearchItemHint": "搜索项目、批次、位置...",
+  "stockEditQuantities": "编辑数量",
+  "stockNoChangesDetected": "未检测到任何变化",
+  "stockErrorPreparingChanges": "准备更改时出错：{error}",
+  "@stockErrorPreparingChanges": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "stockUpdateSuccessful": "更新成功！",
+  "stockSummary": "概括",
+  "stockTotalRequested": "请求总数",
+  "stockSuccessfullyUpdated": "更新成功",
+  "stockFailed": "失败的",
+  "stockUpdateFailed": "更新失败",
+  "stockClearAllQuantitiesTitle": "清除所有数量？",
+  "stockClearAllQuantitiesMessage": "这会将所有数量重置为 0。您确定吗？",
+  "stockClearAll": "全部清除",
+  "stockUpdatingQuantities": "正在更新库存数量...",
+  "stockEditQuantitiesTitle": "编辑库存数量",
+  "stockReportingDate": "报告日期：{date}",
+  "@stockReportingDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "stockTotalItemsHint": "商品总数：{count} • 根据需要更新数量",
+  "@stockTotalItemsHint": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "stockItemName": "商品名称",
+  "stockBatchPrefix": "批次：{batch}",
+  "@stockBatchPrefix": {
+    "placeholders": {
+      "batch": {
+        "type": "String"
+      }
+    }
+  },
+  "stockDeleteConfirmTitle": "确认删除",
+  "stockDeleteConfirmIntro": "您将永久删除以下日期的所有库存商品：",
+  "stockDeleteConfirmWarning": "此操作无法撤消。该日期的所有库存记录将被永久删除。",
+  "stockNoInternetRetry": "没有互联网连接。请检查您的连接并重试。",
+  "itemsTitle": "项目",
+  "itemAddSheetTitle": "添加项目",
+  "itemSingleAdd": "单次添加",
+  "itemBulkAdd": "批量添加",
+  "itemBulkAddTitle": "批量添加项目",
+  "itemEditTitle": "编辑项目",
+  "itemAddTitle": "添加项目",
+  "itemCreateButton": "创建项目",
+  "itemUpdateButton": "更新项目",
+  "itemDeleteTitle": "删除项目",
+  "itemDeleteConfirm": "您确定要删除“{name}”吗？",
+  "itemDeletedSuccess": "项目删除成功",
+  "itemCreatedSuccess": "项目创建成功",
+  "itemUpdatedSuccess": "项目更新成功",
+  "itemLoading": "正在加载项目...",
+  "itemErrorTitle": "哎呀！出了点问题",
+  "itemTryAgain": "再试一次",
+  "itemSearchHint": "搜索项目",
+  "itemNoItemsFound": "没有找到物品",
+  "itemTryAdjustSearch": "尝试调整您的搜索词",
+  "itemNoItemsAvailable": "没有可用的项目",
+  "itemAddToGetStarted": "添加项目以开始使用",
+  "itemNoMoreItems": "没有更多物品",
+  "itemPurposeBoth": "两个都",
+  "itemPurposePurchases": "购买",
+  "itemTypeProduct": "产品",
+  "itemTypeService": "服务",
+  "itemTypeInventory": "存货",
+  "itemPhotoTitle": "物品照片",
+  "itemPhotoHint": "单击此处选择或上传照片",
+  "itemPhotoFormats": "JPEG、PNG、GIF 或 WebP · 最大 5MB",
+  "itemAddPhoto": "添加照片",
+  "itemPhotoLibrary": "图片库",
+  "itemPhotoLibraryHint": "从您的照片中选择",
+  "itemTakePhoto": "拍张照片",
+  "itemUploadGallery": "从图库上传",
+  "itemUploadGalleryHint": "浏览此设备上的文件",
+  "itemTypeLabel": "类型",
+  "itemTypeField": "物品类型",
+  "itemNameLabel": "商品名称",
+  "itemNameHint": "输入商品名称",
+  "itemBarcodeLabel": "条形码/二维码",
+  "itemBarcodeField": "条形码/二维码",
+  "itemBarcodeHint": "从应用栏扫描或粘贴",
+  "itemRateLabel": "速度",
+  "itemUnitLabel": "单元",
+  "itemPurposeLabel": "目的",
+  "itemSelectUnit": "选择单位",
+  "itemSelectPurpose": "选择目的",
+  "itemSelectCategory": "选择类别",
+  "itemSelectType": "选择类型",
+  "itemSelectItemType": "选择项目类型",
+  "itemSearchUnits": "搜索单位...",
+  "itemSearchPurpose": "搜索目的...",
+  "itemSearchCategories": "搜索类别...",
+  "itemCreateCustomUnit": "创建自定义单位",
+  "itemUnitName": "单位名称",
+  "itemUnitNameHint": "例如，升、盒、件",
+  "itemValidationName": "请输入商品名称",
+  "itemValidationRate": "请输入费率",
+  "itemValidationNumber": "请输入有效号码",
+  "itemSelectUnitRequired": "请选择单位",
+  "itemSelectPurposeRequired": "请选择目的",
+  "itemImageMissing": "图像文件丢失",
+  "itemImageFormatError": "使用 JPEG、PNG、GIF 或 WebP",
+  "itemImageSizeError": "图片必须为 5MB 或更小",
+  "itemScanBarcode": "扫描条码",
+  "itemNameFromCatalog": "名称从目录中填写：{name}",
+  "itemBarcodePasteHint": "未找到产品名称 - 代码已粘贴为名称。如果需要的话进行编辑。",
+  "itemBulkRefillTooltip": "重新填写之前的输入",
+  "itemBulkAddRow": "添加行",
+  "itemBulkRowLabel": "项目 {index}",
+  "itemBulkNameRequired": "姓名必填",
+  "itemBulkInvalidNumber": "号码无效",
+  "itemBulkCreating": "创造……",
+  "itemBulkCreateItems": "创建项目",
+  "itemBulkCreatedCount": "已创建 {count} 项",
+  "itemBulkCreateFailed": "无法创建项目：{error}",
+  "itemBulkNoDraft": "未找到已保存的草稿",
+  "itemBulkInvalidDraft": "保存的草稿格式无效",
+  "itemBulkDraftRestored": "恢复之前的草稿",
+  "itemBulkDraftRestoreFailed": "无法恢复保存的草稿",
+  "itemBulkAtLeastOne": "添加至少一项",
+  "itemBulkCategoriesLoading": "类别正在加载，请重试",
+  "itemBulkLoadingCategories": "正在加载类别...",
+  "inventoryTitle": "库存分析",
+  "inventorySubtitle": "实时股票走势跟踪",
+  "inventorySearchHint": "搜索项目...",
+  "inventorySold": "卖",
+  "inventoryPurchased": "已购买",
+  "catNoCategories": "没有类别。点击 + 进行创建。",
+  "catLoadCategories": "负载类别",
+  "catCreated": "类别已创建",
+  "catRenamed": "类别已重命名",
+  "catDeleted": "类别已删除",
+  "catNewTitle": "新类别",
+  "catRenameTitle": "重命名类别",
+  "catNewName": "新名称",
+  "catRename": "重命名",
+  "catDeleteTitle": "删除类别",
+  "catDeleteConfirm": "删除“{name}”？",
+  "catDeleteLinkedHint": "项目已链接。您可以强制删除以取消它们的链接。",
+  "catForceDelete": "强制删除",
+  "catItemsCount": "{count} 项目",
+  "contactFavoritesOnly": "仅限收藏夹",
+  "contactShowAll": "显示所有联系人",
+  "contactSearchHint": "搜索姓名、电话、电子邮件...",
+  "contactNoConnection": "无连接",
+  "contactCheckNetwork": "检查您的网络并重试。",
+  "contactSomethingWrong": "出了点问题",
+  "contactNoContacts": "没有联系人",
+  "contactNoFavorites": "没有最喜欢的比赛。关闭明星过滤器或在联系人中添加收藏夹。",
+  "contactTrySearchOrAdd": "尝试不同的搜索或点击 + 添加联系人。",
+  "contactEndOfList": "列表末尾",
+  "contactNewTooltip": "新联系人",
+  "contactLoading": "正在加载联系人...",
+  "contactUnknown": "未知",
+  "contactCallTooltip": "称呼",
+  "contactEditTitle": "编辑联系人",
+  "contactNewTitle": "新联系人",
+  "contactSelectTitle": "选择联系人",
+  "contactDeleteTitle": "删除联系方式？",
+  "contactDeleteUndo": "此操作无法撤消。",
+  "contactNameRequired": "姓名为必填项",
+  "contactNameLabel": "姓名 *",
+  "contactNameHint": "联系人姓名",
+  "contactPhoneHint": "+977-9841234567",
+  "contactEmailHint": "电子邮件@example.com",
+  "contactCategoryHint": "例如商务、普通、vip",
+  "contactCompanyHint": "公司名称",
+  "contactFavorite": "最喜欢的",
+  "contactCannotCall": "无法在此设备上拨打电话",
+  "contactPermissionDenied": "联系权限被拒绝。您可以在“设置”中启用它。",
+  "contactPermissionRequired": "从手机导入需要联系人权限",
+  "contactImported": "从手机导入的联系人",
+  "contactCreated": "已创建联系人",
+  "contactUpdated": "联系方式已更新",
+  "contactDeleted": "联系方式已删除",
+  "contactImportSearchHint": "按姓名、电话、电子邮件、公司搜索",
+  "contactImportNoResults": "未找到联系人",
+  "@itemDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemNameFromCatalog": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkRowLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreatedCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@catDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@catItemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutMultiplePaymentHint": "如果客户通过多种付款方式付款，请打开此选项。",
+  "checkoutFillRemainingBalance": "填写剩余余额",
+  "checkoutEnterAtLeastOnePayment": "输入至少一笔付款金额",
+  "checkoutPaymentsExceedTotal": "付款总额不能超过总金额",
+  "checkoutSentAs": "发送为：{api}",
+  "@checkoutSentAs": {
+    "placeholders": {
+      "api": {
+        "type": "String"
+      }
+    }
+  },
+  "paymentCard": "卡片",
+  "paymentQr": "QR",
+  "paymentBank": "银行",
+  "paymentTransfer": "转移",
+  "paymentBankTransfer": "银行转账",
+  "paymentSettlement": "沉降",
+  "paymentCheque": "查看",
+  "paymentDigital": "数字的",
+  "paymentDigitalQr": "数字（二维码）",
+  "closeSummaryTitle": "结账汇总",
+  "closeTabDashboard": "仪表板",
+  "closeTabCredits": "制作人员",
+  "closeWelcome": "欢迎来到总结总结",
+  "closeSelectDateHint": "选择日期并点击刷新以加载数据",
+  "closeLoadingDashboard": "正在加载仪表板数据...",
+  "closeDataDeleted": "数据已删除",
+  "closeErrorPrefix": "错误：{message}",
+  "@closeErrorPrefix": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExtraAmount": "额外金额",
+  "closeExtraAmountDesc": "该截止日记录的额外现金或调整。",
+  "closeLostAmount": "丢失金额",
+  "closeLostAmountDesc": "此期间标记有现金短缺或差异。",
+  "closeTapForDetails": "点击查看详情",
+  "closeAmountLabel": "日结",
+  "closeAmountFormula": "日结金额公式",
+  "closeFormulaExpression": "现金销售 - 现金支出 = 日结金额",
+  "closeCashSales": "现金销售",
+  "closeCashExpenses": "现金支出",
+  "closeClosingAmount": "日结金额",
+  "closeWhatThisMeans": "这意味着什么：",
+  "closeClosingMeaning": "这是一天结束时您的收银机/抽屉中应有的现金金额。它代表所有收到的现金减去所有支付的现金。",
+  "closeQuickStats": "快速统计",
+  "closeTapCardHint": "点击卡片即可查看简短说明",
+  "closeOpeningBalance": "期初余额",
+  "closeTotalSales": "销售总额",
+  "closeQrAmount": "二维码金额",
+  "closeCashAmount": "现金金额",
+  "closeSalesDiscount": "销售折扣",
+  "closeCreditQr": "信用二维码",
+  "closeCreditCash": "信用现金",
+  "closeCreditDiscount": "信用折扣",
+  "closePayCashGetQr": "支付现金 → 收取二维码",
+  "closePayQrGetCash": "二维码支付 → 收取现金",
+  "closePaymentMix": "支付组合",
+  "closePaymentMixHint": "点击现金或数字·条形图显示销售份额",
+  "closeCashVsDigitalTooltip": "现金与数字销售份额",
+  "closeSalesShareDesc": "{label} 占当天总销售额的 {percent}%。",
+  "@closeSalesShareDesc": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSalesLabel": "{label} 销售",
+  "@closeSalesLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "closeNoTransactions": "没有可用的交易",
+  "closeRecentTransactions": "最近交易",
+  "closeViewAll": "查看全部",
+  "closeNoPurchases": "没有可用的购买",
+  "closeRecentPurchases": "最近购买的商品",
+  "closeNoSalesDate": "该日期没有销售",
+  "closeNoSalesHint": "销售记录后将显示在此处。",
+  "closeRoomSales": "客房销售",
+  "closeEmployeeSales": "员工销售",
+  "closeOtherSales": "其他销售",
+  "closeSectionCount": "{title} ({count})",
+  "@closeSectionCount": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "closeDiscountShort": "光盘：{amount}",
+  "@closeDiscountShort": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "closePercentOff": "{percent}% 折扣",
+  "@closePercentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closePending": "待办的",
+  "closeNoCreditPayments": "无信用付款",
+  "closeNoCreditHint": "信用付款将出现在这里",
+  "closeViewStatistics": "查看统计数据",
+  "closeExportData": "导出数据",
+  "closeExportComingSoon": "导出功能将在此处实现",
+  "closeHintOpeningBalance": "所选日期开始时的现金头寸。",
+  "closeHintTotalSales": "该日期记录的所有销售额的总和。",
+  "closeHintQrAmount": "通过二维码或数字方式收到的付款。",
+  "closeHintCashAmount": "当日销售额的现金部分。",
+  "closeHintCashExpenses": "白天支出的现金支付。",
+  "closeHintSalesDiscount": "折扣适用于销售。",
+  "closeHintCreditQr": "信用相关的二维码收款。",
+  "closeHintCreditCash": "与信贷相关的现金流动。",
+  "closeHintCreditDiscount": "信用交易适用折扣。",
+  "closeHintPayCashGetQr": "支付现金并收到二维码信用的兑换。",
+  "closeHintPayQrGetCash": "支付 QR 并收到现金的交易所。",
+  "closeOpeningAmount": "开仓金额",
+  "closeCurrentAmount": "当前金额",
+  "closeSaveReport": "保存报告",
+  "closeUpdateSummary": "更新摘要",
+  "closeExists": "存在",
+  "closeExistingDataInfo": "您可以查看或修改现有数据",
+  "closeEnterOpeningAmount": "请输入开仓金额",
+  "closeEnterValidAmount": "请输入有效金额",
+  "languageSelectionSubtitle": "选择您希望如何使用 {appName}。您稍后可以在设置中更改。",
+  "searchLanguages": "搜索语言",
+  "languageSuggestedBadge": "推荐",
+  "continueInLanguage": "继续使用 {languageName}",
+  "noLanguageMatches": "无匹配项",
+  "noLanguageMatchesForQuery": "没有与 \"{query}\" 匹配的语言",
+  "@languageSelectionSubtitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@continueInLanguage": {
+    "placeholders": {
+      "languageName": {
+        "type": "String"
+      }
+    }
+  },
+  "@noLanguageMatchesForQuery": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockSettingsSaved": "已保存应用锁定设置",
+  "appLockSubtitle": "重新打开应用时需要 PIN 或生物识别",
+  "appLockTitle": "应用锁定",
+  "appPin": "应用 PIN",
+  "appPinIncorrect": "PIN 不正确，请重试。",
+  "appPinIncorrectWithAttempts": "PIN 不正确，还剩 {remaining} 次尝试。",
+  "@appPinIncorrectWithAttempts": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      }
+    }
+  },
+  "appPinLockoutMessage": "PIN 错误次数过多。请使用邮箱和密码登录以重置 PIN。",
+  "appPinMismatch": "PIN 不匹配，请重试。",
+  "appPinRemoved": "已移除应用 PIN",
+  "appPinSetSuccess": "已为此组织保存 PIN",
+  "appPinSubtitle": "使用 {length} 位 PIN 快速解锁",
+  "@appPinSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "appearance": "外观",
+  "backupAutoBackupHint": "到期时在应用启动时自动备份",
+  "backupAutoBackupTitle": "自动备份",
+  "backupAutoDirectionBoth": "上传和下载",
+  "backupAutoDirectionDownload": "从云端下载",
+  "backupAutoDirectionUpload": "上传到云端",
+  "backupAutoFrequencyDaily": "每天",
+  "backupAutoFrequencyMonthly": "每月",
+  "backupAutoFrequencyOff": "关闭",
+  "backupAutoFrequencyTitle": "备份频率",
+  "backupAutoFrequencyWeekly": "每周",
+  "backupAutoLastDownloaded": "上次自动恢复：{detail}",
+  "@backupAutoLastDownloaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastFailed": "上次自动同步失败：{detail}",
+  "@backupAutoLastFailed": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastSkipped": "上次自动同步已跳过：{detail}",
+  "@backupAutoLastSkipped": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastUploaded": "上次自动备份：{detail}",
+  "@backupAutoLastUploaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoSettingsTitle": "Google Drive 设置",
+  "backupAutoSyncDirectionTitle": "自动同步",
+  "backupSyncActiveOrganization": "当前组织",
+  "backupSyncActiveOrganizationHint": "备份会上传您当前使用的组织数据。",
+  "backupSyncCompletedHint": "您的数据已安全备份到 Google Drive。",
+  "backupSyncConnected": "已连接",
+  "backupSyncCurrentStep": "步骤：{step}",
+  "@backupSyncCurrentStep": {
+    "placeholders": {
+      "step": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncGoogleAccount": "Google 账号",
+  "backupSyncInProgress": "同步进行中",
+  "backupSyncLastError": "上次错误：{error}",
+  "@backupSyncLastError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncLastSyncDate": "日期和时间",
+  "backupSyncLastSyncTitle": "上次同步",
+  "backupSyncNeverSynced": "尚未上传备份。",
+  "backupSyncOrganization": "组织",
+  "backupSyncPageTitle": "备份与同步",
+  "backupSyncPhaseExport": "导出",
+  "backupSyncPhaseUpload": "上传",
+  "backupSyncProgressPercent": "{percent}%",
+  "@backupSyncProgressPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "backupSyncRecords": "已备份记录",
+  "backupSyncSignInHint": "使用 Google 登录以备份组织数据。",
+  "backupSyncSignOutConfirm": "在此设备上退出 Google Drive？",
+  "backupSyncSignedInAs": "登录为",
+  "backupSyncStatus": "状态",
+  "backupSyncStatusSuccess": "已完成",
+  "backupSyncStepExport": "正在导出本地数据",
+  "backupSyncStepUploadFile": "正在上传 {file}",
+  "@backupSyncStepUploadFile": {
+    "placeholders": {
+      "file": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncStepUploadTable": "正在上传 {table}",
+  "@backupSyncStepUploadTable": {
+    "placeholders": {
+      "table": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncTables": "已备份表",
+  "backupSyncUnknownOrganization": "当前组织",
+  "backupWifiOnlyContinue": "使用移动数据",
+  "backupWifiOnlyHint": "自动备份等待 Wi‑Fi",
+  "backupWifiOnlyTitle": "仅通过 Wi‑Fi 备份",
+  "biometricNotAvailable": "此设备不支持生物识别",
+  "biometricRequiresPin": "启用生物识别前请先设置应用 PIN",
+  "biometricUnlockReason": "解锁 BizTrack",
+  "changeAppPin": "更改 PIN",
+  "confirmAppPin": "确认 PIN",
+  "confirmAppPinHint": "再次输入 PIN 以确认",
+  "confirmPasscodeHint": "再次输入密码以确认",
+  "contactUs": "联系我们",
+  "contactUsSubtitle": "如需支持、反馈或咨询应用相关问题，请联系我们。",
+  "createAppPinHint": "为此组织选择 {length} 位 PIN",
+  "@createAppPinHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "createPasscodeHint": "为此组织选择 {length} 位密码",
+  "@createPasscodeHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "darkMode": "深色模式",
+  "darkModeSubtitle": "在整个应用中使用深色背景",
+  "darkModeSystemSubtitle": "跟随设备主题",
+  "dataAndBackup": "数据与备份",
+  "developerLabel": "开发者",
+  "disableAppPinMessage": "此组织的 Face ID / 生物识别解锁也将关闭。",
+  "disableAppPinTitle": "移除应用 PIN？",
+  "displayPrecision": "显示精度",
+  "displayPrecisionRange": "输入 0 到 5 之间的数字",
+  "emailCopiedToClipboard": "邮箱已复制到剪贴板",
+  "employeeManagementSubtitle": "员工、工资和考勤",
+  "enableBiometricAfterPinMessage": "将设备生物识别与 PIN 一起使用，以便更快登录。",
+  "enableBiometricTitle": "启用生物识别？",
+  "enableFaceIdTitle": "启用 Face ID？",
+  "enableFingerprintTitle": "启用指纹？",
+  "enableInvoiceReturns": "启用发票退货",
+  "enableInvoiceReturnsSubtitle": "允许从已付发票创建退货。",
+  "enterAppPin": "输入 PIN",
+  "enterPasscode": "输入密码",
+  "googleDriveBackupFailed": "备份失败：{error}",
+  "@googleDriveBackupFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupNow": "立即备份",
+  "googleDriveBackupPluginError": "备份需要完全重启应用。请关闭应用，重新打开后再试。",
+  "googleDriveBackupSectionTitle": "备份与同步",
+  "googleDriveBackupStarting": "正在准备备份…",
+  "googleDriveBackupSubtitleSignedIn": "已登录为 {email}",
+  "@googleDriveBackupSubtitleSignedIn": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupSubtitleSignedOut": "登录以在 Google Drive 安全备份组织数据。",
+  "googleDriveBackupSuccess": "已上传备份（{tableCount} 个表，{recordCount} 条记录）",
+  "@googleDriveBackupSuccess": {
+    "placeholders": {
+      "tableCount": {
+        "type": "int"
+      },
+      "recordCount": {
+        "type": "int"
+      }
+    }
+  },
+  "googleDriveBackupTitle": "Google Drive 备份",
+  "googleDriveLastBackup": "上次备份：{date}",
+  "@googleDriveLastBackup": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveSignIn": "使用 Google 登录",
+  "googleDriveSignInCancelled": "已取消 Google 登录",
+  "googleDriveSignInSuccess": "已登录 Google Drive",
+  "googleDriveSignOut": "退出登录",
+  "googleDriveSignOutSuccess": "已退出 Google Drive",
+  "itemSelectCategoryRequired": "请选择类别",
+  "moreBackupSyncTileLastSync": "上次同步：{date}",
+  "@moreBackupSyncTileLastSync": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "moreBackupSyncTileNeverSynced": "备份到 Google Drive",
+  "moreBackupSyncTileSignedInNoSync": "已登录 · 尚无备份",
+  "notNow": "以后再说",
+  "operationManagement": "运营管理",
+  "operationManagementSubtitle": "Items, stock reconciliation, contacts, categories, and closing",
+  "orContinueWithPassword": "或使用密码登录",
+  "organizationAccountingSubtitle": "发票和金额显示设置。",
+  "organizationRegionalSubtitle": "国家、报告货币和财年日期。",
+  "organizationTabAccounting": "会计",
+  "organizationTabGeneral": "常规",
+  "organizationTabRegional": "区域与财务",
+  "partyPickerAddNewRole": "添加新{role}",
+  "@partyPickerAddNewRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSearchHint": "搜索{role}…",
+  "@partyPickerSearchHint": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSelectedLabel": "已选",
+  "partyPickerSettled": "已结清",
+  "partyPickerSubtitle": "此销售属于谁？",
+  "preferences": "偏好设置",
+  "quickUnlockAsUser": "以 {email} 快速登录",
+  "@quickUnlockAsUser": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSubtitle": "损益、报表和分析",
+  "restoreAction": "恢复",
+  "restoreFromGoogleDrive": "从 Google Drive 恢复",
+  "restoreFromGoogleDriveConfirm": "恢复「{name}」？这将替换该组织的本地数据。",
+  "@restoreFromGoogleDriveConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveEmpty": "在 Google Drive 中未找到备份。",
+  "restoreFromGoogleDriveFailed": "恢复失败：{error}",
+  "@restoreFromGoogleDriveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveHint": "登录并选择备份以在此设备上恢复组织。",
+  "restoreFromGoogleDriveStarting": "正在开始恢复…",
+  "restoreFromGoogleDriveSuccess": "已恢复 {name}。您现在可以登录。",
+  "@restoreFromGoogleDriveSuccess": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreStepCreateDatabase": "正在创建数据库",
+  "restoreStepDownload": "正在下载备份",
+  "restoreStepFinalize": "正在完成恢复",
+  "restoreStepImport": "正在导入数据",
+  "security": "安全",
+  "setUpAppPin": "设置 PIN",
+  "setUpFaceIdOrPin": "设置 Face ID 或 PIN",
+  "setUpFingerprintOrPin": "设置指纹或 PIN",
+  "setUpNow": "立即设置",
+  "setUpQuickUnlock": "设置 PIN 快速登录",
+  "setUpQuickUnlockAfterLoginMessage": "设置 Face ID、指纹或 PIN，以便下次更快登录。可在设置中稍后更改。",
+  "setUpQuickUnlockAfterLoginTitle": "启用快速登录？",
+  "setUpQuickUnlockSubtitle": "为此组织使用生物识别或 PIN",
+  "signInWithBiometric": "使用生物识别登录",
+  "signInWithFaceId": "使用 Face ID 登录",
+  "signInWithFingerprint": "使用指纹登录",
+  "signInWithPin": "使用 PIN 登录",
+  "statisticsCashflow": "现金流",
+  "statisticsQuickOperationInvoice": "发票",
+  "statisticsQuickOperationReports": "报表",
+  "statisticsQuickOperationsSeeAll": "查看全部",
+  "tapDigitsToUnlock": "点击任意 {length} 位数字解锁。",
+  "@tapDigitsToUnlock": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "unlockApp": "解锁应用",
+  "useBiometricInstead": "使用生物识别",
+  "useBiometricUnlock": "使用 Face ID / 生物识别",
+  "useBiometricUnlockSubtitle": "设置 PIN 后使用指纹或 Face ID 解锁",
+  "useFaceIdUnlock": "使用 Face ID",
+  "useFingerprintUnlock": "使用指纹",
+  "usePinInstead": "改用 PIN",
+  "verifyPinToRemoveSubtitle": "确认 {length} 位 PIN 以移除应用锁定",
+  "@verifyPinToRemoveSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "verifyPinToRemoveTitle": "输入 PIN",
+  "walkthroughBackupDescription": "一键 Google Drive 备份，银行级安全——数据受保护且易于恢复。",
+  "walkthroughBackupTitle": "您的数据，始终安全",
+  "walkthroughBillingDescription": "销售和采购发票、带厨房小票的桌台订单和实时库存——尽在一个应用中。",
+  "walkthroughBillingTitle": "数秒内开票和销售",
+  "walkthroughDashboardDescription": "今日销售、收入和未结余额——打开应用即可一目了然。",
+  "walkthroughDashboardTitle": "一览整个业务",
+  "walkthroughOfflineDescription": "完全离线创建发票、记录支出和管理库存。上线后自动同步。",
+  "walkthroughOfflineTitle": "无网络也能用",
+  "walkthroughReadyDescription": "几分钟内完成组织设置，从今天开始更智能地经营。让我们开始吧。",
+  "walkthroughReadyTitle": "您准备好了就开始",
+  "walkthroughStaffDescription": "管理考勤和工资，导出损益表和工资单 PDF——无需额外工具。",
+  "walkthroughStaffTitle": "员工、工资与报表",
+  "ok": "确定",
+  "reportPeriodYear": "年",
+  "reportPeriodMonth": "月",
+  "reportPeriodRange": "范围",
+  "reportPeriodDay": "日",
+  "reportPeriodFrom": "从",
+  "reportPeriodTo": "至",
+  "reportPeriod": "期间",
+  "reportAllPurchases": "全部采购",
+  "reportBeforeTax": "税前",
+  "reportRevenueRetained": "留存收入",
+  "reportHideDetails": "隐藏详情",
+  "reportShowDetails": "显示详情",
+  "reportSalesRevenue": "销售收入",
+  "reportDiscountsGiven": "已给折扣",
+  "reportNetRevenue": "净收入",
+  "reportOperatingExpenses": "营业费用",
+  "reportTotalExpenses": "费用合计",
+  "reportGrossProfit": "毛利润",
+  "reportGrossProfitChart": "毛利润",
+  "reportOperatingPlDisclaimer": "尚未计入税费、折旧及薪酬负债 — 营业层面损益估算。",
+  "reportContraLabel": "对冲",
+  "reportNoDataForPeriod": "所选期间无数据",
+  "reportRevenueVsExpenses": "收入 vs 费用",
+  "reportExpenseBreakdown": "费用明细",
+  "reportExpenseFallback": "费用",
+  "reportGrossMarginPercent": "毛利率 %",
+  "reportRoomVsFnB": "客房 vs 餐饮",
+  "reportSegmentRoom": "客房",
+  "reportSegmentFnB": "餐饮",
+  "reportKeyMetrics": "关键指标",
+  "reportIncomeStatement": "损益表",
+  "reportChartsSection": "图表",
+  "reportSegmentSummary": "分部汇总",
+  "reportFailedToLoad": "加载报告失败",
+  "reportOverview": "概览",
+  "reportOverviewCash": "现金",
+  "reportOverviewBank": "银行",
+  "reportMonthlyOpeningBalance": "月初余额",
+  "reportOpeningBalanceHint": "每月月初现金状况",
+  "reportCashInOut": "现金收支",
+  "reportCashIn": "现金收入",
+  "reportCashOut": "现金支出",
+  "reportBankReceiptsPayments": "银行收付",
+  "reportReceipts": "收款",
+  "reportPayments": "付款",
+  "reportDailyCashVsQr": "每日现金 vs QR",
+  "reportSummariesSection": "汇总",
+  "reportCashSummary": "现金汇总",
+  "reportBankSummary": "银行汇总",
+  "reportDailySummary": "每日汇总",
+  "reportTabPurchase": "采购",
+  "reportTabSales": "销售",
+  "reportTabDashboard": "仪表盘",
+  "reportSingleDayTrend": "单日 — 每日趋势",
+  "reportFullYearTrend": "全年 — 月度趋势图",
+  "reportYearLabel": "{year}年",
+  "@reportYearLabel": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportJanDec": "1月 – 12月 {year}",
+  "@reportJanDec": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportTotalPurchases": "采购合计",
+  "reportTotalSales": "销售合计",
+  "reportTotalInvoices": "发票合计",
+  "reportUnpaidBalance": "未付余额",
+  "reportAvgPerInvoice": "每张发票平均",
+  "reportPerTransaction": "每笔交易",
+  "reportMonthlySpend": "月支出 ({symbol})",
+  "@reportMonthlySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportMonthlySalesChart": "月销售额 ({symbol})",
+  "@reportMonthlySalesChart": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportInvoiceCountByMonth": "按月发票数量",
+  "reportTopItemsBySpend": "支出排名项目 ({symbol})",
+  "@reportTopItemsBySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSpendByCategory": "按类别支出",
+  "reportOtherCategory": "其他",
+  "reportSuppliers": "供应商",
+  "reportTableSupplier": "供应商",
+  "reportTableAmount": "金额",
+  "reportTableBills": "账单",
+  "reportSalesTotal": "销售合计",
+  "reportPurchaseTotal": "采购合计",
+  "reportPositiveMargin": "正利润率",
+  "reportNegativeMargin": "负利润率",
+  "reportGrossMargin": "毛利率",
+  "reportOfTotalSales": "占销售总额",
+  "reportFailedToLoadAnalytics": "加载分析失败",
+  "reportMarginKpi": "利润率",
+  "reportExpensesKpi": "费用",
+  "partyPickerNoResultsFor": "未找到“{query}”的结果",
+  "@partyPickerNoResultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerNoPartiesForRole": "未找到{role}往来单位",
+  "@partyPickerNoPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerLoadParties": "加载往来单位",
+  "invoiceCashCustomer": "现金客户",
+  "invoiceQuickAddItemsTitle": "快速添加项目",
+  "invoiceQuickLoadingMenu": "正在加载菜单…",
+  "invoiceQuickInvoiceCreated": "发票已创建",
+  "invoiceQuickAddAtLeastOneItem": "请至少添加一项",
+  "invoiceQuickNoResults": "未找到结果！",
+  "invoiceQuickNoItemsInCategory": "该分类下无项目",
+  "invoiceQuickAddItem": "添加项目",
+  "invoiceQuickLoadMore": "加载更多",
+  "invoiceQuickScrollLoadMore": "滚动加载更多（每页 {count} 项）",
+  "invoiceQuickSupplierEmployee": "供应商 / 员工",
+  "invoiceQuickEditItem": "编辑项目",
+  "closeSelectDateRange": "选择日期范围",
+  "closeStartDate": "开始日期",
+  "closeEndDate": "结束日期",
+  "closeSelectBothDates": "请选择开始和结束日期",
+  "closeDeleteSummary": "删除汇总",
+  "closeDeleteSummaryConfirm": "确定要删除此汇总吗？",
+  "closeSelectDate": "选择日期",
+  "closeNoDataToExport": "没有可导出的数据",
+  "closeNoDataToShare": "没有可分享的数据",
+  "closeNoDataToPrint": "没有可打印的数据",
+  "closePdfGenerateError": "生成 PDF 出错：{error}",
+  "@closePdfGenerateError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfShareError": "分享 PDF 出错：{error}",
+  "@closePdfShareError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfPrintError": "打印 PDF 出错：{error}",
+  "@closePdfPrintError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExportPdf": "导出为 PDF",
+  "closeSharePdf": "分享 PDF",
+  "closePrint": "打印",
+  "closeExportOptions": "导出选项",
+  "closeExportPdfSubtitle": "保存或查看 PDF 文档",
+  "closeSharePdfSubtitle": "通过应用或电子邮件分享",
+  "closePrintSubtitle": "打印报告",
+  "invoiceQuickShowingItems": "显示 {shown} / {total}",
+  "invoiceQuickLoadedItems": "已加载：{count}",
+  "invoiceQuickRoomCabinEmployee": "客房 / 舱位 / 员工",
+  "reportPercentOfRevenue": "占收入 {percent}%",
+  "@reportPercentOfRevenue": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "reportParties": "往来单位",
+  "reportMonthYearDailyTrend": "{month} {year} — 每日趋势图",
+  "@reportMonthYearDailyTrend": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceQuickCart": "购物车",
+  "invoiceQuickCartWithCount": "购物车 ({count})",
+  "invoiceQuickClearSearch": "清除搜索",
+  "closeAllRecords": "全部记录",
+  "closeDailyCashSummaryReport": "每日现金汇总报告",
+  "closeDailyCashSummaryTitle": "每日现金汇总",
+  "closeDetails": "详情",
+  "closeGeneratedAt": "生成时间：{date}",
+  "@closeGeneratedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "closePageN": "第{n}页",
+  "@closePageN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "closePeriodRange": "期间：{start} 至 {end}",
+  "@closePeriodRange": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummaryOverview": "汇总概览",
+  "closeTotalRecords": "记录总数",
+  "closeAddSummary": "添加摘要",
+  "closeSalesAmount": "销售额",
+  "closeClosingBalance": "期末余额",
+  "closeLostMoney": "丢失金额",
+  "closeDiscount": "折扣",
+  "closeExpenses": "支出",
+  "closeUnpaid": "未付",
+  "closeTotalOpeningBalance": "期初余额合计",
+  "closeTotalSalesAmount": "销售总额",
+  "closeTotalCashAmount": "现金总额",
+  "closeTotalQrAmount": "QR总额",
+  "closeTotalDiscount": "折扣合计",
+  "closeTotalExpenses": "支出合计",
+  "closeTotalClosingBalance": "期末余额合计",
+  "closeTotalLostMoney": "丢失金额合计",
+  "closeTotalExtraAmount": "额外金额合计",
+  "closeShowingCurrentMonth": "显示本月数据",
+  "closeNoSummariesFound": "未找到摘要",
+  "closeNoSummariesAvailable": "暂无摘要",
+  "closeTryAdjustingDateRange": "请尝试调整日期范围",
+  "closeCreateFirstSummary": "创建第一个摘要以开始",
+  "closeClearFilter": "清除筛选",
+  "closeFiltered": "已筛选",
+  "closeFilteredWithRange": "已筛选：{range}",
+  "@closeFilteredWithRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummarySingular": "摘要",
+  "closeSummariesPlural": "摘要",
+  "closeSummaryUpdatedSuccess": "摘要更新成功",
+  "closeSummaryDeletedSuccess": "摘要删除成功",
+  "premiumUnlockTitle": "解锁 {appName} Premium",
+  "@premiumUnlockTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumTagline": "完整离线 POS、开票、库存和报表 — 一项订阅满足您的业务需求。",
+  "premiumFeatureUnlimitedInvoices": "无限发票和收据",
+  "premiumFeatureInventoryStock": "库存与进销存跟踪",
+  "premiumFeatureReportsAnalytics": "销售报表与分析",
+  "premiumFeatureOfflineLocal": "离线可用 — 数据保存在本地",
+  "premiumContinueWith": "继续使用 {plan}",
+  "@premiumContinueWith": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRestorePurchases": "恢复购买",
+  "premiumSubscriptionLegal": "费用将从您的 Apple ID 扣款。除非在周期结束前至少 24 小时取消，否则订阅将自动续订。",
+  "premiumPurchaseRestored": "购买已恢复。",
+  "premiumNoActiveSubscription": "未找到有效订阅。",
+  "premiumPlanMonthly": "月付",
+  "premiumPlanMonthlySubtitle": "灵活 — 随时取消",
+  "premiumPlanYearly": "年付",
+  "premiumPlanYearlySubtitle": "最划算 — 节省 {percent}%",
+  "@premiumPlanYearlySubtitle": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "premiumPlanLifetime": "终身",
+  "premiumPlanLifetimeSubtitle": "一次付费，永久使用",
+  "premiumPlanPopular": "热门",
+  "premiumOneTimePurchase": "一次性购买",
+  "subscriptionSectionTitle": "订阅",
+  "subscriptionPremiumLabel": "Premium",
+  "subscriptionUpgradeTitle": "升级到 Premium",
+  "subscriptionPremiumPricing": "月付 {monthly} · 年付 {yearly}",
+  "@subscriptionPremiumPricing": {
+    "placeholders": {
+      "monthly": {
+        "type": "String"
+      },
+      "yearly": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActiveUntil": "{plan} 有效至 {date}",
+  "@subscriptionPremiumActiveUntil": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActive": "{plan} 已激活",
+  "@subscriptionPremiumActive": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRequired": "需要 Premium",
+  "upgradeToPremiumContinue": "升级到 Premium 以继续。",
+  "freemiumFreePlanLimit": "免费版最多允许 {limit} {label}。升级到 Premium 可无限制使用。",
+  "@freemiumFreePlanLimit": {
+    "placeholders": {
+      "limit": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "freemiumPartyRoleRequired": "必须选择往来方角色。",
+  "shiftReminderOpeningTitle": "开店提醒",
+  "shiftReminderOpeningMessage": "今天的收银台开了吗？",
+  "shiftReminderOpeningProceed": "是，现在开店",
+  "shiftReminderClosingTitle": "关店提醒",
+  "shiftReminderClosingMessage": "今天的收银台关了吗？",
+  "shiftReminderClosingProceed": "是，现在关店",
+  "shiftReminderSkipToday": "今天跳过",
+  "shiftReminderOpeningNotificationTitle": "开店提醒",
+  "shiftReminderOpeningNotificationBody": "今天的收银台开了吗？若仍需开店，请点按此处。",
+  "shiftReminderClosingNotificationTitle": "关店提醒",
+  "shiftReminderClosingNotificationBody": "今天的收银台关了吗？若仍需关店，请点按此处。",
+  "closeExchangePayQrGetCashHint": "{business} 向客户支付二维码；客户提供现金。",
+  "@closeExchangePayQrGetCashHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExchangePayCashGetQrHint": "{business} 向客户支付现金；客户提供二维码付款。",
+  "@closeExchangePayCashGetQrHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closePaymentExchange": "支付互换",
+  "closePayQrGetCashExchangeLabel": "二维码支付 → 收取现金（互换）",
+  "closePayCashGetQrExchangeLabel": "支付现金 → 收取二维码（互换）",
+  "closePayQrGetCashDetail": "二维码支付收现金",
+  "closePayCashGetQrDetail": "现金支付收二维码",
+  "faqSectionPremium": "Premium 与账单",
+  "faqPremiumWhatsIncludedQuestion": "Premium 包含哪些内容？",
+  "faqPremiumWhatsIncludedAnswer": "Premium 解锁无限发票、完整报表（损益、对账单、分析）、备份与同步、工资、考勤、库存工具、发票导出/打印以及额外组织。免费版仍可在合理限制内使用核心 POS 功能。",
+  "faqPremiumFreeTierQuestion": "免费版包含什么？",
+  "faqPremiumFreeTierAnswer": "最多可创建 10 张销售和 10 张采购发票、4 名员工、30 个商品，达到上限时会显示其他限制。开店、关店、计算器和浏览数据仍免费。",
+  "faqPremiumRestoreQuestion": "如何恢复购买？",
+  "faqPremiumRestoreAnswer": "打开更多 → 升级到 Premium（或付费墙），点按恢复购买。请使用订阅时的同一 Apple ID。",
+  "faqPremiumCancelQuestion": "如何取消订阅？",
+  "faqPremiumCancelAnswer": "在 iPhone 设置 → Apple ID → 订阅 中管理或取消。付费周期结束前仍可访问。",
+  "faqDarkModeQuestion": "如何开启深色模式？",
+  "faqDarkModeAnswer": "打开更多 → 外观，启用深色模式。设备使用系统主题时，应用会自动跟随。",
+  "faqOpeningClosingReminderQuestion": "什么是开店和关店提醒？",
+  "faqOpeningClosingReminderAnswer": "{appName} 可提醒您开启或关闭每日收银台。您可以继续、今天跳过或关闭提醒。",
+  "faqPartyRolesQuestion": "什么是往来方角色？",
+  "faqPartyRolesAnswer": "往来方角色用于分类客户、供应商、房间或员工等联系人。可在运营 → 往来方角色 中自定义，并为团队添加简短说明。",
+  "faqRateAppQuestion": "如何评价 {appName}？",
+  "faqRateAppAnswer": "打开更多 → 为我们评分，在 App Store 留下评价。您的反馈有助于我们改进离线开票体验。",
+  "freemiumLabelSalesInvoices": "销售发票",
+  "freemiumLabelPurchaseInvoices": "采购发票",
+  "freemiumLabelEmployees": "员工",
+  "freemiumLabelItems": "商品",
+  "freemiumLabelCategories": "分类",
+  "freemiumLabelPaymentMethods": "支付方式",
+  "freemiumLabelCustomPartyRoles": "自定义往来方角色",
+  "freemiumLabelPartiesForRole": "{role} 的往来方",
+  "freemiumLabelOrganizations": "组织",
+  "freemiumPremiumReports": "报表需 Premium 才能使用。",
+  "freemiumPremiumBackupSync": "备份与同步需要 Premium。",
+  "freemiumPremiumPayroll": "工资功能需要 Premium。",
+  "freemiumPremiumAttendance": "考勤需要 Premium。",
+  "freemiumPremiumStock": "库存管理需要 Premium。",
+  "freemiumPremiumInvoiceExport": "下载和打印需要 Premium。",
+  "@faqOpeningClosingReminderAnswer": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@faqRateAppQuestion": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@freemiumLabelPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  }
+}

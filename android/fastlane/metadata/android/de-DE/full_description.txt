@@ -1,0 +1,45 @@
+Billmate ist eine Offline-POS, Ladenkasse und Restaurantabrechnung für Einzelhandel, Cafés, Bars und kleine Betriebe.
+
+RECHNUNGEN UND ABRECHNUNG
+
+Erstellen Sie Verkaufs- und Einkaufsrechnungen mit Positionen, Rabatten und Kundenverfolgung — ein vollständiger Rechnungsersteller in der Tasche. Erfassen Sie Ausgaben nach Kategorie, verfolgen Sie offene Beträge für jeden Kunden und Lieferanten, und begleichen Sie Zahlungen ganz, teilweise oder gesammelt. Exportieren Sie jede Rechnung oder jeden Beleg als PDF. Kein Internet nötig.
+
+POS FÜR LÄDEN UND EINZELHANDEL
+
+Schneller Checkout für Läden und kleine Betriebe. Nehmen Sie Bar-, QR- und Kartenzahlungen an und drucken Sie Belege auf jedem ESC/POS-Thermodrucker. Ihr Telefon wird zur Kasse.
+
+RESTAURANT- UND BAR-POS MIT TISCHVERWALTUNG
+
+Eine vollständige Restaurant-POS mit visueller Tischansicht. Nehmen Sie Bestellungen am Tisch oder zum Mitnehmen auf, senden Sie sie in die Küche (KOT) und verfolgen Sie jedes Gericht von der Bestellung bis zur Ausgabe. Enthält einen eigenen Getränkekatalog für Bars.
+
+LAGER UND BESTAND
+
+Verfolgen Sie den Bestand in Laden, Lager oder Restaurant. Gleichen Sie Zählungen mit den Aufzeichnungen ab, korrigieren Sie Abweichungen sofort, laden Sie Bestand per CSV oder Excel hoch und exportieren Sie Berichte als PDF.
+
+PERSONAL, LOHN UND ANWESENHEIT
+
+Führen Sie Mitarbeiterprofile, erfassen Sie die tägliche Anwesenheit und erstellen Sie die Lohnabrechnung automatisch aus Arbeitstagen und Gehalt, inklusive Vorschussabzügen. Exportieren Sie Lohnzettel als PDF und verwalten Sie Urlaubsgenehmigungen.
+
+BERICHTE, BUCHHALTUNG UND ANALYSEN
+
+Gewinn und Verlust, Kontoauszüge von Kunden und Lieferanten, Zahlungsübersichten und Diagramme von Umsatz gegen Ausgaben nach Tag, Woche, Monat oder eigenem Zeitraum. Eine tägliche Kassenübersicht zeigt den Tagesabschluss.
+
+OFFLINE ZUERST — IMMER BEREIT
+
+Verkäufe, Ausgaben, Lager, Personal und Kasse laufen auf Ihrem Gerät und bleiben nach einem Neustart erhalten. Keine Verbindung, keine Unterbrechung.
+
+ROLLEN UND SICHERHEIT
+
+Legen Sie Rechte je Rolle fest, vom Kassierer bis zur Leitung, mit genauer Kontrolle über Rechnungen, Rückgaben und Änderungen. Ihre Geschäftsdaten bleiben auf dem Gerät.
+
+MEHRWÄHRUNG, MEHRERE GERÄTE
+
+Abrechnung in mehreren Währungen. Für Telefone und Tablets.
+
+VOM ERSTEN TAG AN
+
+39 Geschäftskategorien sind bereits geladen — Essen, Getränke, Unterkunft, Bedarf und mehr. Keine Einrichtung. App öffnen und verkaufen.
+
+Vom Eckladen bis zur Berghütte, vom Stadtcafé bis zur vollen Bar — Billmate ist die POS- und Abrechnungs-App, die auch offline weiterläuft.
+
+Datenschutz: https://billmate-woad.vercel.app/

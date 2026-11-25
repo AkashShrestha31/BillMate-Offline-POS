@@ -1,0 +1,2653 @@
+{
+  "@@locale": "sw",
+  "noInternetConnection": "Hakuna muunganisho wa intaneti.",
+  "formatException": "Hitilafu ya muundo",
+  "rememberMe": "Nikumbuke",
+  "signIn": "Ingia",
+  "passwordHint": "Weka nywila",
+  "forgetPassword": "Umesahau taarifa za kuingia?",
+  "okay": "Sawa",
+  "success": "Mafanikio",
+  "hotel": "hoteli",
+  "errorEncountered": "Hitilafu imetokea",
+  "serverError": "Hitilafu ya seva",
+  "requestFailed": "Ombi limeshindwa",
+  "connectionTimedOut": "Muda wa muunganisho umekwisha",
+  "password": "Nywila",
+  "keepSignIn": "Endelea kuingia",
+  "enterPassword": "Weka nywila",
+  "enterValidPassword": "Weka nywila sahihi",
+  "skip": "RUKA",
+  "pleaseWait": "Tafadhali subiri ....",
+  "enterValidUserName": "Weka jina sahihi la mtumiaji.",
+  "userName": "Jina la mtumiaji",
+  "or": "Au",
+  "retry": "Jaribu tena",
+  "error": "Hitilafu",
+  "supportMessage": "Tafadhali wasiliana na msimamizi.",
+  "responseMessage404": "Hitilafu 404",
+  "appDisplayName": "BizTrack",
+  "appVersionLabel": "Toleo {version}",
+  "@appVersionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "Ghairi",
+  "yes": "Ndio",
+  "no": "Hapana",
+  "close": "Funga",
+  "save": "Hifadhi",
+  "delete": "Futa",
+  "confirm": "Thibitisha",
+  "done": "Imekamilika",
+  "next": "Inayofuata",
+  "getStarted": "Anza",
+  "back": "Rudi",
+  "submit": "Wasilisha",
+  "continueAction": "Endelea",
+  "tryAgain": "Jaribu tena",
+  "warning": "ONYO",
+  "loading": "Inapakia…",
+  "comingSoon": "Inakuja hivi karibuni",
+  "required": "Inahitajika",
+  "search": "Tafuta",
+  "add": "Ongeza",
+  "edit": "Hariri",
+  "remove": "Ondoa",
+  "view": "Angalia",
+  "export": "Hamisha",
+  "import": "Ingiza",
+  "refresh": "Onyesha upya",
+  "select": "Chagua",
+  "upload": "Pakia",
+  "download": "Pakua",
+  "share": "Shiriki",
+  "filter": "Chuja",
+  "sort": "Panga",
+  "apply": "Tumia",
+  "reset": "Weka upya",
+  "clear": "Futa",
+  "all": "Yote",
+  "none": "Hakuna",
+  "total": "Jumla",
+  "subtotal": "Jumla ndogo",
+  "grandTotal": "Jumla Kuu",
+  "amount": "Kiasi",
+  "quantity": "Wingi",
+  "rate": "Kiwango",
+  "discount": "Punguzo",
+  "paid": "Imelipwa",
+  "unpaid": "Haijalipwa",
+  "credit": "Mkopo",
+  "cash": "Pesa taslimu",
+  "date": "Tarehe",
+  "time": "Wakati",
+  "name": "Jina",
+  "email": "Barua pepe",
+  "phone": "Simu",
+  "address": "Anwani",
+  "notes": "Maelezo",
+  "description": "Maelezo",
+  "status": "Hali",
+  "type": "Aina",
+  "category": "Kategoria",
+  "party": "Upande",
+  "item": "Bidhaa",
+  "payment": "Malipo",
+  "settlement": "Utatuzi",
+  "opening": "Ufunguzi",
+  "closing": "Kufunga",
+  "stock": "Stock reconciliation",
+  "expense": "Gharama",
+  "revenue": "Mapato",
+  "profit": "Faida",
+  "loss": "Hasara",
+  "sales": "Mauzo",
+  "purchase": "Ununuzi",
+  "monthJan": "Jan",
+  "monthFeb": "Feb",
+  "monthMar": "Machi",
+  "monthApr": "Apr",
+  "monthMay": "Mei",
+  "monthJun": "Juni",
+  "monthJul": "Julai",
+  "monthAug": "Ago",
+  "monthSep": "Sep",
+  "monthOct": "Okt",
+  "monthNov": "Nov",
+  "monthDec": "Des",
+  "more": "Zaidi",
+  "profile": "Wasifu",
+  "operations": "Uendeshaji",
+  "employeeManagement": "Usimamizi wa wafanyakazi",
+  "report": "Ripoti",
+  "helpAndSupport": "Msaada na usaidizi",
+  "privacyAndPolicies": "Faragha na sera",
+  "faq": "Maswali yanayoulizwa mara kwa mara",
+  "contactSupport": "Wasiliana na usaidizi",
+  "rateUs": "Tutathmini",
+  "rateUsSubtitle": "Unafurahia BizTrack? Acha hakiki kwenye Google Play",
+  "rateUsUnavailable": "Haikuweza kufungua duka. Jaribu tena baadaye.",
+  "reportProblem": "Ripoti tatizo",
+  "logout": "Toka",
+  "signOut": "Toka",
+  "settings": "Mipangilio",
+  "testData": "Data ya majaribio",
+  "regionAndCurrency": "Eneo na sarafu",
+  "reportingCurrency": "Sarafu ya ripoti",
+  "selectCurrency": "Chagua sarafu",
+  "currencySample": "{code} · {symbol} · mfano {sample}",
+  "@currencySample": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      },
+      "sample": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdated": "Sarafu imewekwa kwa {code} ({symbol})",
+  "@currencyUpdated": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdateFailed": "Haikuweza kusasisha sarafu: {error}",
+  "@currencyUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "setupAppTitle": "Sanidi {appName}",
+  "@setupAppTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "setupSubtitle": "Sanidi shirika lako na uhasibu — imehifadhiwa kwenye kifaa hiki kwa matumizi bila mtandao.",
+  "regionAndCurrencySubtitle": "Maeneo ya ndani na sarafu ya ripoti.",
+  "country": "Nchi",
+  "currency": "Sarafu",
+  "selectCountry": "Chagua nchi",
+  "language": "Lugha",
+  "selectLanguage": "Chagua lugha",
+  "languageUpdated": "Lugha imewekwa kwa {name}",
+  "@languageUpdated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "languageUpdateFailed": "Haikuweza kusasisha lugha: {error}",
+  "@languageUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToApp": "Karibu kwenye {appName}",
+  "@welcomeToApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "forceUpdateMessage": "Tafadhali sakinisha toleo jipya zaidi la {appName} ili kuendelea.",
+  "@forceUpdateMessage": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "generatedByApp": "Imezalishwa na {appName}",
+  "@generatedByApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "whatIsApp": "{appName} ni nini?",
+  "@whatIsApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "appDescriptionFaq": "{appName} inakusaidia kusimamia ankara za mauzo na ununuzi, pande (wateja na wasambazaji), hisa, malipo, wafanyakazi, na muhtasari wa kila siku — kutoka kwa simu yako au kompyuta yako kibao.",
+  "@appDescriptionFaq": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "faqIntro": "Majibu ya maswali ya kawaida kuhusu {appName}.",
+  "@faqIntro": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseFromGallery": "Chagua kutoka Matunzio",
+  "takePhoto": "Piga picha",
+  "photoLibrary": "Maktaba ya picha",
+  "addPhoto": "Ongeza picha",
+  "couldNotPickImage": "Haikuweza kuchagua picha: {error}",
+  "@couldNotPickImage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteOrganizationTitle": "Futa shirika?",
+  "deleteOrganizationMessage": "Ondoa {name} kutoka kwa kifaa hiki. Data yote ya ndani ya shirika hili itafutwa.",
+  "deleteOrganizationWarning": "Hii haiwezi kutendwa upya.",
+  "organizationDeleted": "Shirika limeondolewa",
+  "createAction": "Unda",
+  "connectOrganizationTitle": "Unganisha shirika lako",
+  "connectOrganizationSubtitle": "Chagua shirika ili kuingia.",
+  "selectOrganization": "Mashirika",
+  "selectOrganizationHint": "Gusa shirika ili kuendelea",
+  "noSavedOrganizationsYet": "Hakuna mashirika bado. Unda moja au tumia data ya majaribio hapa chini.",
+  "orgConnectOnceInfo": "Hii inaunganisha programu na akaunti yako ya biashara. Unahitaji kuisanidi mara moja tu kwa kila kifaa.",
+  "organizationCodeLabel": "Msimbo: {code}",
+  "loginWithTestData": "Ingia na data ya majaribio",
+  "loginWithTestDataSubtitle": "Pakia data ya hoteli ya maonyesho na uingie moja kwa moja",
+  "testDataLoginFailed": "Haikuweza kupakia data ya majaribio: {error}",
+  "preparingTestData": "Inaandaa data ya maonyesho…",
+  "setupOrganizationName": "Jina la shirika",
+  "setupCompanyName": "Jina la kampuni",
+  "setupBusinessType": "Aina ya biashara",
+  "businessTypeHotel": "Hoteli",
+  "businessTypeRestaurant": "Mkahawa",
+  "businessTypeHotelRestaurant": "Hoteli na Mkahawa",
+  "businessTypeRetail": "Rejareja / Duka",
+  "businessTypeCafe": "Cafe / Bakari",
+  "businessTypeBar": "Baa / Pub",
+  "businessTypeOther": "Nyingine",
+  "organizationBusinessTypeLabel": "Aina: {type}",
+  "@organizationBusinessTypeLabel": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "organizationSettings": "Shirika",
+  "editOrganizationInfo": "Maelezo ya shirika",
+  "editOrganizationInfoSubtitle": "Sasisha jinsi biashara hii inavyoonekana kwenye programu. Nambari ya shirika haiwezi kubadilishwa.",
+  "organizationCode": "Nambari ya shirika",
+  "organizationCodeReadOnly": "Nambari hii imewekwa baada ya usanidi.",
+  "organizationInfoUpdated": "Maelezo ya shirika yamehifadhiwa",
+  "organizationInfoLoadFailed": "Haikuweza kupakia maelezo ya shirika",
+  "organizationInfoSaveFailed": "Haikuweza kuhifadhi maelezo ya shirika: {error}",
+  "@organizationInfoSaveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "saveChanges": "Hifadhi mabadiliko",
+  "setupFullName": "Jina kamili",
+  "setupConfirmPassword": "Thibitisha nywila",
+  "setupBankName": "Jina la benki",
+  "setupRegionStepTitle": "Eneo na sarafu",
+  "setupOrganizationStepTitle": "Shirika",
+  "setupOrganizationStepSubtitle": "Jinsi biashara yako inavyoonekana kwenye programu",
+  "setupAdminStepTitle": "Akaunti ya msimamizi",
+  "setupAdminStepSubtitle": "Mtumiaji mkuu wa usakinishaji huu",
+  "setupAccountingStepTitle": "Uhasibu",
+  "setupAccountingStepSubtitle": "Benki, chati ya akaunti, na mwaka wa fedha",
+  "setupCompleteSetup": "Kamilisha usanidi",
+  "fieldRequired": "{field} inahitajika",
+  "invalidEmailAddress": "Weka anwani sahihi ya barua pepe",
+  "passwordMinLength": "Nywila lazima iwe na angalau herufi {min}",
+  "passwordsDoNotMatch": "Nywila hazifanani",
+  "setupFixValidationErrors": "Tafadhali rekebisha makosa hapa chini ili kuendelea",
+  "setupCompleteSuccess": "Usanidi umekamilika kwa mafanikio",
+  "setupCompleteWithPdfSuccess": "Usanidi umekamilika. Hifadhi PDF mahali salama.",
+  "setupPdfFailed": "Usanidi umekamilika, lakini PDF haikuweza kuhifadhiwa: {error}",
+  "setupFailed": "Usanidi haukukamilika. Tafadhali jaribu tena.",
+  "setupFailedWithDetails": "Usanidi umeshindwa: {error}",
+  "languageChangeLaterHint": "Unaweza kuibadilisha baadaye kutoka mipangilio",
+  "unpaidAmount": "Haijalipiwa Kiasi",
+  "unpaidBalance": "Haijalipiwa",
+  "unpaidColonAmount": "Haijalipiwa: {amount}",
+  "previousUnpaid": "Haijalipiwa",
+  "partyUnpaid": "Haijalipiwa",
+  "loadingUnpaid": "Haijalipiwa…",
+  "totalUnpaid": "Haijalipiwa",
+  "unpaidAmountNotYetCollected": "Kiasi ambacho hakijalipwa bado hakijakusanywa.",
+  "partyUnpaidTabHint": "Fungua Wafanyakazi, chagua mtu, kisha gusa Deni la mhusika kwenye wasifu wao. Seva inahitaji kitambulisho cha mfanyakazi kwa utafutaji huu.",
+  "partySettlementUsesUnpaidTotal": "Makubaliano ya mhusika hutumia jumla isiyolipwa.",
+  "selectPartyWithUnpaidFirst": "Ingiza kiasi cha makubaliano kwanza (au chagua mhusika mwenye deni).",
+  "@unpaidColonAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "partyRolesTitle": "Majukumu ya wahusika",
+  "partyRolesMoreSubtitle": "Mteja, msambazaji, wote wawili na zaidi",
+  "searchRoles": "Tafuta majukumu",
+  "roleCount": "{count, plural, =1{jukumu 1} other{majukumu {count}}}",
+  "@roleCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noRolesYet": "Hakuna majukumu bado",
+  "noRolesYetHint": "Ongeza Mteja, Msambazaji, Wote Wawili, au majukumu maalum kwa anwani.",
+  "addRole": "Ongeza jukumu",
+  "deleteRoleTitle": "Futa jukumu",
+  "deleteRoleConfirm": "Futa \"{name}\"? Hii haiwezi kutendwa upya.",
+  "@deleteRoleConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteRoleHasPartiesMessage": "\"{name}\" inatumika na {partyCount, plural, =1{mhusika 1} other{wahusika {partyCount}}}. Hamisha wahusika hao kwenda jukumu lingine, au futa kwa nguvu na uwapoteze.",
+  "@deleteRoleHasPartiesMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "transferParties": "Hamisha wahusika",
+  "hardDeleteLoseParties": "Futa kwa nguvu (kupoteza wahusika)",
+  "hardDeleteRoleTitle": "Futa kwa nguvu?",
+  "hardDeleteRoleMessage": "Hii itafuta kabisa \"{name}\" na {partyCount, plural, =1{mhusika 1} other{wahusika {partyCount}}} wote waliowekwa. Data ya wahusika haiwezi kurejeshwa.\n\nWahusika waliounganishwa na ankara au malipo huenda wasifutwe — tumia Hamisha badala yake.",
+  "@hardDeleteRoleMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteRoleAndParties": "Futa jukumu na wahusika",
+  "addAnotherRoleBeforeDelete": "Ongeza jukumu lingine kabla ya kufuta hili.",
+  "transferPartiesMoveMessage": "Hamisha {partyCount, plural, =1{mhusika 1} other{wahusika {partyCount}}} kutoka \"{fromRole}\" kwenda:",
+  "@transferPartiesMoveMessage": {
+    "placeholders": {
+      "partyCount": {
+        "type": "int"
+      },
+      "fromRole": {
+        "type": "String"
+      }
+    }
+  },
+  "transferAndDeleteRole": "Hamisha na ufute jukumu",
+  "builtInRole": "Iliyojengwa ndani",
+  "rolePartyCount": "{count, plural, =1{mhusika 1} other{wahusika {count}}}",
+  "@rolePartyCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noPartiesYet": "Hakuna wahusika bado",
+  "newRole": "Jukumu jipya",
+  "editRole": "Hariri jukumu",
+  "defaultRolesCannotEdit": "Majukumu ya msingi hayawezi kubadilishwa jina au kufutwa.",
+  "roleNameLabel": "Jina la jukumu *",
+  "roleNameHint": "mf. Mteja",
+  "roleDescriptionLabel": "Maelezo",
+  "roleDescriptionHint": "Kumbuka fupi kwa timu yako",
+  "roleSortOrderLabel": "Mpangilio wa kupanga",
+  "roleSortOrderHint": "Nambari ndogo zinaonekana kwanza katika orodha",
+  "roleCreated": "Jukumu limeundwa",
+  "roleUpdated": "Jukumu limesasishwa",
+  "roleDeleted": "Jukumu limefutwa",
+  "roleDeletedPartiesTransferred": "Jukumu limefutwa. {count, plural, =1{mhusika 1} other{wahusika {count}}} wamehamishiwa {targetRole}.",
+  "@roleDeletedPartiesTransferred": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "targetRole": {
+        "type": "String"
+      }
+    }
+  },
+  "roleAndPartiesDeleted": "Jukumu na {count, plural, =1{mhusika 1} other{wahusika {count}}} wamefutwa.",
+  "@roleAndPartiesDeleted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@deleteOrganizationMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@organizationCodeLabel": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "@testDataLoginFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@fieldRequired": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "@passwordMinLength": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "@setupPdfFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@setupFailedWithDetails": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "workspace": "Eneo la kazi",
+  "change": "Badilisha",
+  "addMoreOrganization": "Ongeza zaidi +",
+  "connectAnotherOrganization": "Unganisha shirika lingine",
+  "noSavedOrganizationsUseAddMore": "Hakuna mashirika yaliyohifadhiwa bado. Tumia Ongeza zaidi + kuunganisha moja.",
+  "registerNewOrganizationTitleSignedIn": "Sajili shirika jipya?",
+  "registerNewOrganizationTitle": "Sajili shirika jipya?",
+  "registerNewOrganizationMessageSignedIn": "Utaondoka na msaidizi wa usanidi utaanza upya ili uweze kusajili biashara mpya kwenye kifaa hiki.\n\nMashirika uliyoyahifadhi tayari yatabaki katika orodha baada ya usanidi.",
+  "registerNewOrganizationMessageLogin": "Msaidizi wa usanidi utaanza ili uweze kusajili biashara mpya kwenye kifaa hiki. Kamilisha usanidi kuiunda; mashirika yako yaliyohifadhiwa yanabaki katika orodha.",
+  "startSetup": "Anza usanidi",
+  "enterOrganizationCode": "Tafadhali ingiza nambari ya shirika lako",
+  "organizationNotFoundCheckCode": "Shirika halijapatikana. Angalia nambari na ujaribu tena.",
+  "organizationNotFound": "Shirika halijapatikana",
+  "couldNotVerifyOrganization": "Haikuweza kuthibitisha shirika",
+  "noLocalDataCompleteSetup": "Hakuna data ya ndani kwa {name}. Kamilisha usanidi wa shirika hili kwanza.",
+  "@noLocalDataCompleteSetup": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeBack": "Karibu tena",
+  "signInToContinue": "Ingia ili uendelee",
+  "enterEmail": "Ingiza barua pepe",
+  "pleaseEnterEmail": "Tafadhali ingiza barua pepe yako",
+  "pleaseEnterValidEmail": "Tafadhali ingiza barua pepe halali",
+  "enterEmailLocalPartOnly": "Ingiza sehemu kabla ya @ peke yake",
+  "pleaseEnterPassword": "Tafadhali ingiza nenosiri lako",
+  "logIn": "INGIA",
+  "searchCountry": "Tafuta nchi",
+  "searchCodeOrSymbol": "Tafuta msimbo au alama",
+  "saveLoginDetailsTitle": "Hifadhi maelezo ya kuingia?",
+  "saveLoginDetailsMessage": "Uko karibu kukamilisha usanidi wa shirika hili.\n\nUngependa kupakua PDF kwa usalama yenye nambari ya shirika, jina la shirika, barua pepe ya kuingia, na nenosiri? Hifadhi mahali salama — mtu yeyote mwenye faili hili anaweza kuingia.",
+  "downloadPdfAndContinue": "Pakua PDF na uendelee",
+  "continueWithoutPdf": "Endelea bila PDF",
+  "legalDisplayNameHint": "Jina la kisheria / la kuonyesha",
+  "chartOfAccounts": "Mpango wa akaunti",
+  "fiscalYearStart": "Mwanzo wa mwaka wa fedha",
+  "fiscalYearEnd": "Mwisho wa mwaka wa fedha",
+  "removeTestDataTitle": "Ondoa data ya majaribio?",
+  "removeTestDataMessageDemoOrg": "Mauzo yote ya maonyesho, manunuzi, anwani, wahusika, bidhaa za ghala, wafanyakazi, bidhaa za kikokotoo cha vinywaji, na mashirika ya ziada ya maonyesho yataondolewa.\n\nUko kwenye shirika la maonyesho — baada ya hili utabadilishwa moja kwa moja kwenye shirika lako la kwanza.",
+  "removeTestDataMessageNormal": "Mauzo yote ya maonyesho, manunuzi, anwani, wahusika, bidhaa za ghala, wafanyakazi, na mashirika 3 ya ziada ya maonyesho yataondolewa. Akaunti ya msimamizi na data halisi za usanidi zinabaki.",
+  "removeTestDataWarning": "Hii haiwezi kutendwa upya isipokuwa kwa kupakia data ya majaribio tena.",
+  "removeTestData": "Ondoa data ya majaribio",
+  "keepTestData": "Hifadhi data ya majaribio",
+  "demoDataRemoved": "Data ya maonyesho imeondolewa",
+  "testDataRemovedSwitchedTo": "Data ya majaribio imeondolewa. Imebadilishwa kwenda {name}.",
+  "@testDataRemovedSwitchedTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "testDataRemoved": "Data ya majaribio imeondolewa",
+  "couldNotRemoveTestData": "Haikuweza kuondoa data ya majaribio: {error}",
+  "@couldNotRemoveTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loadTestDataTitle": "Pakia data ya majaribio?",
+  "loadTestDataMessage": "Hii itaongeza hadi anwani 50 za maonyesho, bidhaa 50 za mauzo tu na 50 za manunuzi tu, pamoja na mauzo, manunuzi, malipo, ghala, muhtasari wa kufunga, wafanyakazi, mishahara, mahudhurio ya siku 15 zilizopita, na bidhaa za mfano za vinywaji kwa kikokotoo.",
+  "loadTestData": "Pakia data ya majaribio",
+  "testDataLoaded": "Data ya majaribio imepakiwa",
+  "couldNotLoadTestData": "Haikuweza kupakia data ya majaribio: {error}",
+  "@couldNotLoadTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "demoTestData": "Data ya maonyesho ya majaribio",
+  "importTestDataSubtitle": "Ingiza data ya majaribio kwa vipengele vyote",
+  "hideTestDataTitle": "Ficha data ya majaribio kwa shirika hili?",
+  "hideTestDataMessage": "Ukiendelea, sehemu ya Data ya Majaribio itafichwa kila mahali katika shirika hili (ikiwemo usanidi). Unaweza kuiwezesha tena tu kwa kusakinisha upya au kufuta data ya programu kwa shirika hili.",
+  "hideTestDataWarning": "Data ya maonyesho iliyopakiwa tayari itabaki katika hifadhidata hadi uiondoe kutoka mipangilio.",
+  "okHideTestData": "Sawa, ficha data ya majaribio",
+  "testDataHiddenForOrg": "Data ya Majaribio imefichwa kwa shirika hili",
+  "hideTestDataTooltip": "Ficha data ya majaribio kwa shirika hili",
+  "privacyPolicyTitle": "Sera ya Faragha",
+  "termsAndConditions": "Masharti na Hali",
+  "logoutConfirmTitle": "Ondoka",
+  "logoutConfirmMessage": "Je, una uhakika wa kutaka kutoka kwenye akaunti yako?",
+  "faqTapToExpand": "Gusa swali ili kupanua.",
+  "faqSectionGettingStarted": "Kuanza",
+  "faqSectionLogin": "Kuingia",
+  "faqSectionNavigation": "Urambazaji",
+  "faqSectionInvoices": "Ankara",
+  "faqSectionPayments": "Malipo",
+  "faqSectionItemsStock": "Bidhaa na ghala",
+  "faqSectionProfileEmployees": "Wasifu na wafanyakazi",
+  "faqSectionDashboardReports": "Dashibodi na ripoti",
+  "faqSectionSyncTroubleshooting": "Usawazishaji na utatuzi wa matatizo",
+  "faqNeedInternetQuestion": "Je, ninahitaji intaneti?",
+  "faqNeedInternetAnswer": "Baada ya usanidi wa kwanza wa ndani, unaweza kurekodi ankara, bidhaa na malipo bila intaneti. Data inabaki kwenye kifaa chako. Usawazishaji na seva ni wa hiari.",
+  "faqFirstInstallQuestion": "Nini kinatokea wakati wa usakinishaji wa kwanza?",
+  "faqFirstInstallAnswer": "Huenda ukaona mwongozo mfupi, kisha usanidi wa ndani (shirika, kampuni, barua pepe na nenosiri, sarafu, mwaka wa fedha). Kisha ingia na barua pepe na nenosiri ulilounda.",
+  "faqSignInCredentialsQuestion": "Ninatumia nini kuingia?",
+  "faqSignInCredentialsAnswer": "Anwani yako ya barua pepe na nenosiri kutoka usanidi. Programu inakuweka umeingia hadi utakapotoka kupitia Zaidi.",
+  "faqLoggedOutQuestion": "Kwa nini nilitolewa nje?",
+  "faqLoggedOutAnswer": "Ulichagua Ondoka, ulifuta data ya programu, au kipindi kiliisha muda. Ingia tena na vitambulisho sawa.",
+  "faqBottomTabsQuestion": "Vichupo vya chini vinafanya nini?",
+  "faqBottomTabsAnswer": "Nyumbani — dashibodi na muhtasari.\nMauzo — ankara za mauzo kwa tarehe.\nMatumizi — ankara za manunuzi / matumizi.\nKitufe cha katikati — Wahusika (wateja, wasambazaji).\nZaidi — wasifu, ripoti, usawazishaji, msaada, toka.",
+  "faqCreateInvoiceQuestion": "Ninaundaje ankara ya mauzo au manunuzi?",
+  "faqCreateInvoiceAnswer": "Fungua Mauzo au Matumizi, chagua tarehe kwenye kalenda, gusa kitufe cha +, ongeza bidhaa na kiasi, chagua mhusika ikiwa inahitajika, kisha hifadhi au tuma.",
+  "faqInvoiceDetailsQuestion": "Ninaonje vipi maelezo kamili ya ankara?",
+  "faqInvoiceDetailsAnswer": "Gusa ankara yoyote katika orodha. Maelezo ya muamala yanaonyesha vipengele, jumla, punguzo na malipo. Unaweza kuchapisha, kushiriki, kunakili au kulipa kutoka hapo.",
+  "faqZeroRateQuestion": "Kiwango au kiasi kinaonyesha sifuri katika maelezo",
+  "faqZeroRateAnswer": "Hii kawaida inamaanisha data ya mstari au malipo ilikosekana katika uokoaji wa zamani. Sasisha programu na uunde au ufanye makubaliano tena ikiwa inahitajika.",
+  "faqPartialPaymentQuestion": "Ninarekodiaje malipo ya sehemu?",
+  "faqPartialPaymentAnswer": "Fungua ankara → Maelezo ya muamala → Fanya Malipo. Ingiza kiasi, njia na tarehe, kisha Fanya Makubaliano.",
+  "faqMultiplePaymentQuestion": "Malipo Mengi yanafanya kazi vipi?",
+  "faqMultiplePaymentAnswer": "Washa Malipo Mengi, gusa hariri, na gawanya jumla kati ya Taslimu, Kadi, QR, n.k. Kila njia inarekodiwa kwa kujitegemea.",
+  "faqSplitPaymentSavedQuestion": "Malipo moja tu yamehifadhiwa kutoka kwa mgawanyiko",
+  "faqSplitPaymentSavedAnswer": "Sasisha toleo jipya zaidi la programu. Matoleo ya zamani wakati mwingine yalihifadhi mstari wa kwanza tu. Fanya makubaliano tena ikiwa salio bado si sahihi.",
+  "faqAddItemQuestion": "Ninongezaje bidhaa?",
+  "faqAddItemAnswer": "Tumia Ongeza bidhaa kutoka kwenye mtiririko wa mauzo au kuongeza kwa haraka. Ingiza jina, kiwango, kitengo, kusudi na picha ya hiari (JPEG/PNG/GIF/WebP, upeo wa 5 MB), kisha Unda bidhaa.",
+  "faqCustomUnitQuestion": "Ninongezaje kitengo maalum?",
+  "faqCustomUnitAnswer": "Kwenye fomu ya bidhaa, gusa Kitengo → Unda kitengo kipya chini ya orodha, ingiza jina (mf. Lita, Sanduku) na Unda.",
+  "faqStockQuantitiesQuestion": "How do I enter stock quantities?",
+  "faqStockQuantitiesAnswer": "Live qty is In stock on each item. Set stock on an item to enter opening stock or a stock adjustment. Opening stock / stock reconciliation (upload or enter a count) also sets In stock when live tracking is on. Liquor prices is a pour-price list, not stock.",
+  "faqProfileNameQuestion": "Nilibadilisha jina langu lakini wasifu bado unaonyesha jina la zamani",
+  "faqProfileNameAnswer": "Hariri rekodi yako ya mfanyakazi (barua pepe sawa na kuingia) na uhifadhi. Kichupo cha Zaidi na dashibodi zinapaswa kusasishwa.",
+  "faqRevenueDetailsQuestion": "Maelezo ya Mapato ni nini?",
+  "faqRevenueDetailsAnswer": "Mtazamo wa kila mwezi na chati ya mwelekeo wa kila siku, faida halisi, madeni yasiyolipwa, na uchanganuzi wa mauzo dhidi ya manunuzi siku kwa siku. Badilisha mwezi na kalenda au chip ya mwezi.",
+  "faqOtherReportsQuestion": "Ripoti zingine ziko wapi?",
+  "faqOtherReportsAnswer": "Fungua Zaidi na utazame chini ya Ripoti (Uchanganuzi, Faida na Hasara, Taarifa, n.k.) ikiwa jukumu lako lina ufikiaji.",
+  "faqWhenSyncQuestion": "Ninapaswa kusawazisha lini?",
+  "faqWhenSyncAnswer": "Tu wakati msimamizi wako atakapoomba na unapolingana na muunganiko thabiti. Usawazishaji unatuma au kupokea data kati ya kifaa na seva.",
+  "faqFabPositionQuestion": "Kitufe cha + kinaonekana juu sana kwenye Mauzo / Matumizi",
+  "faqFabPositionAnswer": "Kiko juu ya upau wa urambazaji wa chini. Sogeza orodha au sasisha programu ikiwa kitufe kinafunika maudhui kwenye kifaa chako.",
+  "faqHowLogoutQuestion": "Ninatokaje?",
+  "faqHowLogoutAnswer": "Zaidi → Ondoka chini ya orodha ya mipangilio.",
+  "statisticsGoodMorning": "Habari za Asubuhi",
+  "statisticsGoodAfternoon": "Mchana Mwema",
+  "statisticsGoodEvening": "Jioni Njema",
+  "statisticsDefaultUser": "Mtumiaji",
+  "statisticsCheckConnection": "Tafadhali angalia muunganisho wako na ujaribu tena.",
+  "statisticsCouldNotLoadProfile": "Haikuweza kupakia wasifu",
+  "statisticsCouldNotLoadData": "Haikuweza kupakia data",
+  "statisticsPeriodDay": "Siku",
+  "statisticsPeriodMonth": "Mwezi",
+  "statisticsPeriodYear": "Mwaka",
+  "statisticsSelectedPeriod": "Kipindi Kilichochaguliwa",
+  "statisticsSelectMonth": "Chagua Mwezi",
+  "statisticsSelectMonthSubtitle": "Chagua mwezi wa kuchuja data",
+  "statisticsQuickOperations": "Quick Operations",
+  "statisticsAnnualRevenue": "Mapato ya Mwaka",
+  "statisticsCashflowLast7Days": "Mtiririko wa pesa (Siku 7 zilizopita)",
+  "statisticsCashflowLast12Months": "Mtiririko wa pesa (Miezi 12 iliyopita)",
+  "statisticsDaily": "Kila siku",
+  "statisticsMonthly": "Kila mwezi",
+  "statisticsOverall": "Kwa ujumla",
+  "statisticsLast7Days": "Last 7 Days",
+  "statisticsLast12Months": "Last 12 Months",
+  "statisticsAllYears": "Miaka Yote",
+  "statisticsNoDataAvailable": "Hakuna data inayopatikana",
+  "statisticsMoneyIn": "Pesa Ndani",
+  "statisticsMoneyOut": "Pesa nje",
+  "statisticsIncome": "Mapato",
+  "statisticsExpenses": "Gharama",
+  "statisticsSalesSummary": "Muhtasari wa Mauzo",
+  "statisticsPurchaseSummary": "Muhtasari wa Ununuzi",
+  "statisticsTotalSales": "Jumla ya Mauzo",
+  "statisticsTotalIncome": "Jumla ya Mapato",
+  "statisticsTotalUnpaid": "Jumla Isiyolipwa",
+  "statisticsTotalPurchase": "Jumla ya Ununuzi",
+  "statisticsPaidPurchase": "Ununuzi Unaolipwa",
+  "statisticsUnpaidPurchase": "Ununuzi Usiolipwa",
+  "statisticsEmployeeDashboard": "Dashibodi ya Wafanyikazi",
+  "statisticsDefaultEmployee": "Mfanyakazi",
+  "statisticsDefaultDepartment": "Idara",
+  "statisticsDefaultPosition": "Nafasi",
+  "statisticsCurrentMonth": "Mwezi wa Sasa",
+  "statisticsStatus": "Hali",
+  "statisticsActive": "Inayotumika",
+  "statisticsWelcome": "Karibu",
+  "statisticsEmployeeWelcomeMessage": "Umeingia kama mfanyakazi. Tumia menyu ya kusogeza ili kufikia vipengele vinavyopatikana.",
+  "statisticsRevenueDetails": "Maelezo ya Mapato",
+  "statisticsEmployeeDetails": "Maelezo ya Mfanyakazi",
+  "statisticsChangeMonth": "Badilisha mwezi",
+  "statisticsFilterChartsSubtitle": "Chuja chati na uchanganuzi",
+  "statisticsDailyTrend": "Mwenendo wa kila siku",
+  "statisticsDailyActivity": "Shughuli ya kila siku",
+  "statisticsNoDataForMonth": "Hakuna data ya mwezi huu",
+  "statisticsNetProfit": "Faida halisi",
+  "statisticsMonthReceivables": "Mapokezi ya mwezi",
+  "statisticsNoDailyEntries": "Hakuna maingizo ya kila siku kwa mwezi huu",
+  "statisticsDailySalesBreakdown": "Uchanganuzi wa mauzo ya kila siku",
+  "statisticsDailyBreakdown": "Uchanganuzi wa kila siku",
+  "statisticsAdvance": "Mapema",
+  "statisticsExploreFeatures": "Chunguza Vipengele",
+  "statisticsShowOrHideFeatures": "Onyesha au ufiche vipengele",
+  "statisticsAllFeaturesHidden": "Vipengele vyote vya kuchunguza vimefichwa",
+  "statisticsNoFeaturesForOrg": "Hakuna vipengele vinavyopatikana vya shirika lako",
+  "statisticsTapTuneToShow": "Gonga aikoni ya wimbo hapo juu ili kuonyesha njia za mkato tena.",
+  "statisticsMenuCheck": "Ulinganisho",
+  "statisticsMenuEmployee": "Mfanyakazi",
+  "statisticsMenuOrder": "Agizo",
+  "statisticsMenuInventory": "Items",
+  "statisticsMenuCustomers": "Wateja",
+  "statisticsMenuCalculator": "Liquor prices",
+  "statisticsMenuQuickExpenses": "Haraka\nGharama",
+  "statisticsMenuQuickSales": "Haraka\nMauzo",
+  "statisticsMenuAddEmployee": "Ongeza\nMfanyakazi",
+  "statisticsMenuAddParty": "Ongeza\nmhusika",
+  "statisticsMenuAddEmployeeSingle": "Ongeza mfanyakazi",
+  "statisticsMenuAddPartySingle": "Ongeza mhusika",
+  "statisticsGreeting": "{greeting}, {name}",
+  "@statisticsGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsEmployeeGreeting": "{greeting}, {name}!",
+  "@statisticsEmployeeGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDepartmentPosition": "{department} • {position}",
+  "@statisticsDepartmentPosition": {
+    "placeholders": {
+      "department": {
+        "type": "String"
+      },
+      "position": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricCollected": "{amount} zimekusanywa",
+  "@statisticsMetricCollected": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricPaid": "{amount} imelipwa",
+  "@statisticsMetricPaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyInAmount": "Pesa Katika: {amount}",
+  "@statisticsMoneyInAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyOutAmount": "Pesa: {amount}",
+  "@statisticsMoneyOutAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDayTooltip": "Siku {day}\n{amount}",
+  "@statisticsDayTooltip": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsProfitMargin": "{percent}% ukingo",
+  "@statisticsProfitMargin": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "selectBusinessType": "Chagua aina ya biashara",
+  "businessTypeHotelSubtitle": "Vyumba, wageni na dawati la mbele",
+  "businessTypeRestaurantSubtitle": "Chakula cha ndani, jikoni na maagizo ya meza",
+  "businessTypeHotelRestaurantSubtitle": "Vyumba vya hoteli na mgahawa pamoja",
+  "businessTypeRetailSubtitle": "Bidhaa, hisa na malipo",
+  "businessTypeCafeSubtitle": "Kahawa, keki na kuumwa kwa mwanga",
+  "businessTypeBarSubtitle": "Menyu ya vinywaji, vichupo na mauzo ya baa",
+  "businessTypeOtherSubtitle": "Mipangilio maalum kwa biashara yoyote",
+  "@invoiceCommonSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonInvoiceLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCustomerLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSupplierLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchingFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchItemsHint": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonEmptyForDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDeleteInvoiceConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCancelReturnMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPartyLoadingError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceFoundSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceFoundPurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDatePurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateInvoiceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteMessage": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceReturnCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotPrint": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotSave": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotShare": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonItemReturnedQty": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      },
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonMultiplePaymentSummary": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptFilename": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReturnAgainst": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSavedPath": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonUnpaidWithAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonTodayAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyExportReceipts": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyNoItemsMatching": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceQuickShowingItems": {
+    "placeholders": {
+      "shown": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickLoadedItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickScrollLoadMore": {
+    "placeholders": {
+      "perPage": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickCartWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemActionsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditSelectedItem": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditRateLabel": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditItemLabel": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemsError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditPartiesError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditSaveError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonActions": "Vitendo",
+  "invoiceCommonSearchItems": "Tafuta Vipengee",
+  "invoiceCommonSearchItemsSubtitle": "Tafuta vitu maalum",
+  "invoiceCommonAddNewInvoice": "Ongeza Ankara Mpya",
+  "invoiceCommonAddSalesInvoiceSubtitle": "Unda ankara mpya ya mauzo",
+  "invoiceCommonAddPurchaseInvoiceSubtitle": "Unda ankara mpya ya ununuzi",
+  "invoiceCommonSelectMonthYear": "Chagua Mwezi/Mwaka",
+  "invoiceCommonSelectMonthYearSubtitle": "Rukia kwa mwezi maalum",
+  "invoiceCommonSelectMonthAndYear": "Chagua Mwezi na Mwaka",
+  "invoiceCommonFilterByDate": "Chuja kwa tarehe",
+  "invoiceCommonFilterByDateRange": "Chuja kulingana na kipindi",
+  "invoiceCommonCloseSearch": "Funga utafutaji",
+  "invoiceCommonSelectAll": "Chagua Zote",
+  "invoiceCommonToday": "Leo",
+  "invoiceCommonTotalQuantity": "Jumla ya Kiasi",
+  "invoiceCommonTotalAmount": "Jumla ya Kiasi",
+  "invoiceCommonTotal": "Jumla",
+  "invoiceCommonSearchForItems": "Tafuta vitu",
+  "invoiceCommonNoItemsFound": "Hakuna vipengee vilivyopatikana",
+  "invoiceCommonUnknownItem": "Kipengee kisichojulikana",
+  "invoiceCommonNotAvailable": "Haipo",
+  "invoiceSalesCouldNotLoad": "Haikuweza kupakia mauzo",
+  "invoiceSalesNoFound": "Hakuna Mauzo yaliyopatikana",
+  "invoiceSalesSelectDate": "Chagua tarehe ya kutazama Mauzo",
+  "invoiceSalesNoInvoicesFound": "Hakuna ankara zilizopatikana",
+  "invoiceSalesSelectDateLegacy": "Chagua tarehe ya kutazama ankara",
+  "invoicePurchaseCouldNotLoad": "Haikuweza kupakia gharama",
+  "invoicePurchaseNoFound": "Hakuna ununuzi uliopatikana",
+  "invoicePurchaseSelectDate": "Chagua tarehe ya kutazama ununuzi",
+  "invoiceWeekdaySun": "Jua",
+  "invoiceWeekdayMon": "Jumatatu",
+  "invoiceWeekdayTue": "Jumanne",
+  "invoiceWeekdayWed": "Jumatano",
+  "invoiceWeekdayThu": "Alhamisi",
+  "invoiceWeekdayFri": "Ijumaa",
+  "invoiceWeekdaySat": "Jumamosi",
+  "invoiceCommonSelectedCount": "{count} Imechaguliwa",
+  "invoiceCommonQtyLabel": "Kiasi: {qty}",
+  "invoiceCommonInvoiceLabel": "Ankara: {number}",
+  "invoiceCommonCustomerLabel": "Mteja: {name}",
+  "invoiceCommonSupplierLabel": "Mtoa huduma: {name}",
+  "invoiceCommonSearchingFor": "Inatafuta \"{query}\"...",
+  "invoiceCommonSearchItemsHint": "Tafuta vipengee katika {scope}...",
+  "invoiceCommonSalesSearchPrompt": "Andika jina la bidhaa ili kupata mauzo yote\nkatika {scope}",
+  "invoiceCommonPurchaseSearchPrompt": "Andika jina la bidhaa ili kupata ununuzi wote\nkatika {scope}",
+  "invoiceCommonSalesNoMatch": "Hakuna mauzo ya \"{query}\"\nkatika {scope}",
+  "invoiceCommonPurchaseNoMatch": "Hakuna ununuzi wa \"{query}\"\nkatika {scope}",
+  "invoiceCommonEmptyForDate": "kwa {date}",
+  "invoiceFoundSalesCount": "Imepata {count, plural, =1{uuzo 1} other{mauzo {count}}}",
+  "invoiceFoundPurchaseCount": "Imepata {count, plural, =1{ununuzi 1} other{ununuzi {count}}}",
+  "invoiceDateSalesCount": "{count, plural, =1{uuzo 1} other{mauzo {count}}}",
+  "invoiceDatePurchaseCount": "{count, plural, =1{ununuzi 1} other{ununuzi {count}}}",
+  "invoiceDateInvoiceCount": "{count, plural, =1{ankara 1} other{ankara {count}}}",
+  "invoiceDeleteTitle": "Futa {count, plural, =1{ankara 1} other{ankara {count}}}",
+  "invoiceDeleteMessage": "Je, una uhakika unataka kufuta {count, plural, =1{1 ankara iliyochaguliwa} other{{count} ankara zilizochaguliwa}}? Kitendo hiki hakiwezi kutenduliwa.",
+  "contacts": "Anwani",
+  "categories": "Kategoria",
+  "manageStaff": "Dhibiti wafanyikazi",
+  "payroll": "Mishahara",
+  "attendance": "Mahudhurio",
+  "profitAndLoss": "Faida na hasara",
+  "statementReport": "Taarifa",
+  "analytics": "Uchambuzi",
+  "loggedOut": "Umetoka nje",
+  "organizationCodeDisplay": "Msimbo: {code}",
+  "@organizationCodeDisplay": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "moreDataSynchronization": "Usawazishaji wa Data",
+  "moreSendDataToClient": "Tuma Data kwa Mteja",
+  "moreSendDataToClientSubtitle": "Pakia data ya seva kwa mteja",
+  "moreSendDataToClientWarning": "Kitendo hiki kitachukua nafasi ya hifadhidata ya sasa ya mteja na data kutoka kwa seva. Mabadiliko yote ya hivi majuzi ya mteja yanaweza kupotea.",
+  "moreSendDataToClientConfirm": "Je, una uhakika unataka kutuma data kwa mteja?",
+  "moreFetchDataFromClient": "Leta Data kutoka kwa Mteja",
+  "moreFetchDataFromClientSubtitle": "Pakua data ya mteja kwenye seva",
+  "moreFetchDataFromClientWarning": "Kitendo hiki kitachukua nafasi ya hifadhidata ya sasa ya seva na data kutoka kwa mteja. Mabadiliko yote ya hivi majuzi ya seva yanaweza kupotea.",
+  "moreFetchDataFromClientConfirm": "Je, una uhakika unataka kuleta data kutoka kwa mteja?",
+  "notifications": "Arifa",
+  "openingReminder": "Kikumbusho cha kufungua",
+  "closingReminder": "Kikumbusho cha kufunga",
+  "openingTime": "Wakati wa ufunguzi",
+  "closingTime": "Muda wa kufunga",
+  "notificationSettingsSaved": "Mipangilio ya arifa imehifadhiwa",
+  "notificationPermissionHint": "Ruhusu arifa (na kengele kwenye Android) ili vikumbusho vifanye kazi programu imefungwa",
+  "dailyAtTime": "Kila siku saa {time}",
+  "@dailyAtTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonYesterday": "Jana",
+  "invoiceCommonTodayAt": "Leo, {time}",
+  "invoiceCommonDaysAgo": "siku {count} zilizopita",
+  "invoiceReturnCount": "{count, plural, =1{marejesho 1} other{marejesho {count}}}",
+  "statisticsMonthRevenue": "Mapato ya Mwezi",
+  "statisticsMonthExpenses": "Gharama za Mwezi",
+  "exploreCustomizeTitle": "Customize vipengele",
+  "exploreCustomizeSubtitle": "Onyesha au ufiche njia za mkato kwenye skrini yako ya nyumbani. Vipengele pekee ambavyo shirika lako linaweza kufikia ndivyo vilivyoorodheshwa.",
+  "exploreVisibleOnDashboard": "Inaonekana kwenye dashibodi",
+  "exploreHiddenOnDashboard": "Imefichwa kwenye dashibodi",
+  "partiesTitle": "Wahusika",
+  "partySearchByName": "Tafuta kwa jina…",
+  "partySortBy": "Panga kwa:",
+  "partySortLatest": "Hivi karibuni",
+  "partySortAmountHighLow": "Kiasi: Juu hadi chini",
+  "partySortAmountLowHigh": "Kiasi: Chini hadi juu",
+  "partySortNameAZ": "Jina: A hadi Z",
+  "partySortNameZA": "Jina: Z hadi A",
+  "partyAddNew": "Ongeza mhusika mpya",
+  "partyEdit": "Hariri mhusika",
+  "partyUpdate": "Sasisha mhusika",
+  "partyNameLabel": "Jina la mhusika*",
+  "partyNameHint": "Weka jina la mhusika",
+  "partyNewNameLabel": "Jina jipya la mhusika*",
+  "partyNewNameHint": "Weka jina jipya la mhusika",
+  "partyRoleLabel": "Wajibu wa mhusika *",
+  "partyTapToSelect": "Gusa ili kuchagua",
+  "partySelectRoleValidation": "Tafadhali chagua jukumu",
+  "partyEnterNameValidation": "Tafadhali weka jina la mhusika",
+  "partyBasicInfo": "Maelezo ya msingi",
+  "partyAdditionalInfo": "Maelezo ya ziada",
+  "partyEmail": "Barua pepe ya mhusika",
+  "partyEmailHint": "Weka barua pepe",
+  "partyPhone": "Nambari ya simu",
+  "partyPhoneHint": "Weka nambari ya simu",
+  "partyAddress": "Anwani ya mhusika",
+  "partyAddressHint": "Weka anwani",
+  "partyRoleCustomer": "Mteja",
+  "partyRoleSupplier": "Msambazaji",
+  "partyRoleRoom": "Chumba",
+  "partyRoleCabin": "Kabati",
+  "partyRoleEmployee": "Mfanyakazi",
+  "partyRoleBoth": "Zote mbili",
+  "partyDefaultAccount": "Akaunti chaguomsingi",
+  "partyLoyaltyProgram": "Mpango wa uaminifu",
+  "partyLoyaltyPoints": "Pointi za uaminifu",
+  "partySelectDefaultAccount": "Chagua akaunti chaguomsingi",
+  "partySelectLoyaltyProgram": "Chagua mpango wa uaminifu",
+  "partyCreateNewProgram": "Unda programu mpya",
+  "partySelectPartyRole": "Chagua wajibu wa mhusika",
+  "partyAccountDebtors": "Wadaiwa",
+  "partyAccountCreditors": "Wadai",
+  "partyBothRoleHint": "“Zote mbili” inamaanisha mhusika huyu anaonekana chini ya Mteja na Msambazaji pekee — si Chumba, Kabati au Mfanyakazi.",
+  "partyValidNumber": "Tafadhali weka nambari halali",
+  "partyValidAmount": "Tafadhali weka kiasi halali",
+  "exportAsPdf": "Hamisha kama PDF",
+  "sharePdf": "Shiriki PDF",
+  "partyExportPdfTooltip": "Hamisha PDF",
+  "checkoutSelectParty": "Chagua mhusika",
+  "checkoutCartSummary": "Muhtasari wa gari",
+  "checkoutNoItemsInCart": "Hakuna vitu kwenye rukwama",
+  "checkoutSearchHere": "Tafuta hapa",
+  "checkoutCreateInvoice": "Unda ankara",
+  "checkoutEditInvoice": "Badilisha ankara",
+  "checkoutSaveInvoice": "Hifadhi ankara",
+  "checkoutInvoiceSummary": "Muhtasari wa ankara",
+  "checkoutEstimate": "Kadiria",
+  "checkoutBasicInformation": "Taarifa za Msingi",
+  "checkoutAddItems": "Ongeza Vipengee",
+  "checkoutItemsSection": "Vipengee",
+  "checkoutPartyRequired": "Mhusika *",
+  "checkoutPartyInformation": "Taarifa za mhusika",
+  "checkoutBillSummary": "Muhtasari wa Muswada",
+  "checkoutBillSummaryHint": "Gusa ili kujua hesabu ya kina zaidi.",
+  "checkoutItemTotal": "Jumla ya Kipengee",
+  "checkoutLoyaltyDiscount": "Punguzo la Uaminifu ({percent}%)",
+  "@checkoutLoyaltyDiscount": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutDiscountLine": "- Punguzo ({percent}%)",
+  "@checkoutDiscountLine": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutTapToEdit": "Gusa ili Kuhariri",
+  "checkoutTotalAmount": "Jumla ya Kiasi",
+  "checkoutPaymentMode": "Record payment",
+  "checkoutPaymentModeHint": "Turn on to take payment now. Leave off to submit the bill unpaid and collect later.",
+  "checkoutNetSalesAmount": "Kiasi halisi cha mauzo",
+  "checkoutConfirmCheckout": "Thibitisha Malipo",
+  "checkoutEditDiscount": "Badilisha Punguzo",
+  "checkoutPercentage": "Asilimia",
+  "checkoutDiscard": "Tupa",
+  "checkoutPartialPayment": "Malipo ya Sehemu",
+  "checkoutPartialPaymentBanner": "Kwa kuwezesha Malipo Kiasi Mteja ataweza kulipa kiasi kidogo kuliko Jumla ya Kiasi Unachotozwa.",
+  "checkoutPleaseEnterAmounts": "Tafadhali weka kiasi husika:",
+  "checkoutPartialPaymentEqualHint": "Kwa kuwa hakuna mtumiaji aliyekabidhiwa, jumla ya kiasi kinapaswa kuwa sawa na jumla ya kiasi kinachotozwa.",
+  "checkoutOverGrandTotalBy": "Jumla ya Jumla na: {amount}",
+  "@checkoutOverGrandTotalBy": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutRemainingUnpaid": "Zilizosalia (hazijalipwa kutoka Grand Total): {amount}",
+  "@checkoutRemainingUnpaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutConfirmPayment": "Thibitisha Malipo",
+  "checkoutUnpaidCredit": "Haijalipwa / Mkopo",
+  "checkoutAddAtLeastOneLine": "Ongeza angalau kipengee kimoja ili kutazama makadirio",
+  "checkoutMultiplePayment": "Malipo Mengi",
+  "checkoutPaymentStatus": "Hali ya malipo",
+  "checkoutPaymentMethods": "Mbinu za malipo",
+  "checkoutPaymentMethod": "Njia ya malipo",
+  "checkoutTenderAmount": "Kiasi cha zabuni",
+  "checkoutLoadingPaymentMethods": "Inapakia njia za kulipa...",
+  "stocksTitle": "Stock reconciliation",
+  "stockUploadTooltip": "Opening stock",
+  "stockNoDataYet": "No opening stock yet",
+  "stockNoDataSubtitle": "Enter a physical count. With live tracking on, that count becomes In stock.",
+  "stockUploadAction": "Opening stock",
+  "stockSearchByDateHint": "Tafuta kwa tarehe au mwezi...",
+  "stockNoMatches": "Hakuna zinazolingana",
+  "stockTryDifferentSearch": "Jaribu neno tofauti la utafutaji",
+  "stockTryAnotherSearch": "Jaribu utafutaji mwingine",
+  "stockQtyLabel": "Ukubwa {qty}",
+  "@stockQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "stockCardSummary": "{records} rekodi · vipengee {items} · {locations} maeneo",
+  "@stockCardSummary": {
+    "placeholders": {
+      "records": {
+        "type": "String"
+      },
+      "items": {
+        "type": "String"
+      },
+      "locations": {
+        "type": "String"
+      }
+    }
+  },
+  "stockFilterTitle": "Filter stock reconciliation",
+  "stockBatchNumber": "Nambari ya kundi",
+  "stockLocation": "Mahali",
+  "stockOptionalHint": "Hiari",
+  "stockApplyFilters": "Weka vichujio",
+  "stockClearFields": "Futa mashamba",
+  "stockDeleteAllTooltip": "Futa hisa zote za tarehe hii",
+  "stockNoItemsFound": "Hakuna bidhaa zilizopatikana",
+  "stockNoItemsSubtitle": "Jaribu vichujio tofauti au tarehe nyingine ya kuripoti.",
+  "stockAdjustFilters": "Rekebisha vichujio",
+  "stockSearchItemHint": "Tafuta kipengee, bechi, eneo...",
+  "stockEditQuantities": "Badilisha idadi",
+  "stockNoChangesDetected": "Hakuna mabadiliko yaliyogunduliwa",
+  "stockErrorPreparingChanges": "Hitilafu katika kuandaa mabadiliko: {error}",
+  "@stockErrorPreparingChanges": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "stockUpdateSuccessful": "Usasishaji Umefaulu!",
+  "stockSummary": "Muhtasari",
+  "stockTotalRequested": "Jumla Iliyoombwa",
+  "stockSuccessfullyUpdated": "Imesasishwa kwa Mafanikio",
+  "stockFailed": "Imeshindwa",
+  "stockUpdateFailed": "Usasishaji Umeshindwa",
+  "stockClearAllQuantitiesTitle": "Futa Kiasi Zote?",
+  "stockClearAllQuantitiesMessage": "Hii itaweka upya idadi yote hadi 0. Je, una uhakika?",
+  "stockClearAll": "Futa Zote",
+  "stockUpdatingQuantities": "Inasasisha kiasi cha hisa...",
+  "stockEditQuantitiesTitle": "Hariri Kiasi cha Hisa",
+  "stockReportingDate": "Tarehe ya kuripoti: {date}",
+  "@stockReportingDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "stockTotalItemsHint": "Jumla ya bidhaa: {count} • Sasisha idadi inavyohitajika",
+  "@stockTotalItemsHint": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "stockItemName": "Jina la Kipengee",
+  "stockBatchPrefix": "Kundi: {batch}",
+  "@stockBatchPrefix": {
+    "placeholders": {
+      "batch": {
+        "type": "String"
+      }
+    }
+  },
+  "stockDeleteConfirmTitle": "Thibitisha Ufutaji",
+  "stockDeleteConfirmIntro": "Unakaribia kufuta kabisa bidhaa zote za hisa kwa tarehe ifuatayo:",
+  "stockDeleteConfirmWarning": "Kitendo hiki hakiwezi kutenduliwa. Rekodi zote za hisa za tarehe hii zitafutwa kabisa.",
+  "stockNoInternetRetry": "Hakuna muunganisho wa intaneti. Tafadhali angalia muunganisho wako na ujaribu tena.",
+  "itemsTitle": "Vipengee",
+  "itemAddSheetTitle": "Ongeza kipengee",
+  "itemSingleAdd": "Nyongeza moja",
+  "itemBulkAdd": "Ongeza kwa wingi",
+  "itemBulkAddTitle": "Ongeza vitu kwa wingi",
+  "itemEditTitle": "Badilisha Kipengee",
+  "itemAddTitle": "Ongeza Kipengee",
+  "itemCreateButton": "Unda Kipengee",
+  "itemUpdateButton": "Sasisha Kipengee",
+  "itemDeleteTitle": "Futa Kipengee",
+  "itemDeleteConfirm": "Je, una uhakika unataka kufuta \"{name}\"?",
+  "itemDeletedSuccess": "Kipengee kimefutwa",
+  "itemCreatedSuccess": "Kipengee kimeundwa",
+  "itemUpdatedSuccess": "Kipengee kimesasishwa",
+  "itemLoading": "Inapakia vipengee...",
+  "itemErrorTitle": "Lo! Hitilafu fulani imetokea",
+  "itemTryAgain": "Jaribu Tena",
+  "itemSearchHint": "Tafuta vitu",
+  "itemNoItemsFound": "Hakuna vipengee vilivyopatikana",
+  "itemTryAdjustSearch": "Jaribu kurekebisha maneno yako ya utafutaji",
+  "itemNoItemsAvailable": "Hakuna vipengee vinavyopatikana",
+  "itemAddToGetStarted": "Ongeza vipengee ili kuanza",
+  "itemNoMoreItems": "Hakuna vitu zaidi",
+  "itemPurposeBoth": "Zote mbili",
+  "itemPurposePurchases": "Ununuzi",
+  "itemTypeProduct": "Bidhaa",
+  "itemTypeService": "Huduma",
+  "itemTypeInventory": "Malipo",
+  "itemPhotoTitle": "Picha ya kipengee",
+  "itemPhotoHint": "Bofya hapa ili kuchagua au kupakia picha",
+  "itemPhotoFormats": "JPEG, PNG, GIF, au WebP · Upeo wa 5MB",
+  "itemAddPhoto": "Ongeza picha",
+  "itemPhotoLibrary": "Maktaba ya picha",
+  "itemPhotoLibraryHint": "Chagua kutoka kwa picha zako",
+  "itemTakePhoto": "Piga picha",
+  "itemUploadGallery": "Pakia kutoka kwenye ghala",
+  "itemUploadGalleryHint": "Vinjari faili kwenye kifaa hiki",
+  "itemTypeLabel": "Aina",
+  "itemTypeField": "Aina ya kipengee",
+  "itemNameLabel": "Jina la kipengee",
+  "itemNameHint": "Weka jina la kipengee",
+  "itemBarcodeLabel": "Msimbo pau / Msimbo wa QR",
+  "itemBarcodeField": "Msimbo pau / msimbo wa QR",
+  "itemBarcodeHint": "Changanua kutoka kwa upau wa programu au ubandike",
+  "itemRateLabel": "Kiwango",
+  "itemUnitLabel": "Kitengo",
+  "itemPurposeLabel": "Kusudi",
+  "itemSelectUnit": "Chagua kitengo",
+  "itemSelectPurpose": "Chagua kusudi",
+  "itemSelectCategory": "Chagua kategoria",
+  "itemSelectType": "Chagua aina",
+  "itemSelectItemType": "Chagua aina ya kipengee",
+  "itemSearchUnits": "Tafuta vitengo...",
+  "itemSearchPurpose": "Kusudi la utafutaji...",
+  "itemSearchCategories": "Tafuta kategoria...",
+  "itemCreateCustomUnit": "Unda kitengo maalum",
+  "itemUnitName": "Jina la kitengo",
+  "itemUnitNameHint": "k.m., Lita, Sanduku, Kipande",
+  "itemValidationName": "Tafadhali weka jina la kipengee",
+  "itemValidationRate": "Tafadhali weka kiwango",
+  "itemValidationNumber": "Tafadhali weka nambari halali",
+  "itemSelectUnitRequired": "Tafadhali chagua kitengo",
+  "itemSelectPurposeRequired": "Tafadhali chagua kusudi",
+  "itemImageMissing": "Faili ya picha haipo",
+  "itemImageFormatError": "Tumia JPEG, PNG, GIF, au WebP",
+  "itemImageSizeError": "Picha lazima iwe 5MB au chini",
+  "itemScanBarcode": "Changanua msimbo pau",
+  "itemNameFromCatalog": "Jina limejazwa kutoka kwenye katalogi: {name}",
+  "itemBarcodePasteHint": "Hakuna jina la bidhaa lililopatikana - msimbo umebandikwa kama jina. Badilisha ikiwa inahitajika.",
+  "itemBulkRefillTooltip": "Jaza upya ingizo la awali",
+  "itemBulkAddRow": "Ongeza safu",
+  "itemBulkRowLabel": "Kipengee {index}",
+  "itemBulkNameRequired": "Jina linahitajika",
+  "itemBulkInvalidNumber": "Nambari batili",
+  "itemBulkCreating": "Inaunda...",
+  "itemBulkCreateItems": "Unda vitu",
+  "itemBulkCreatedCount": "{count} kipengee kimeundwa",
+  "itemBulkCreateFailed": "Imeshindwa kuunda vipengee: {error}",
+  "itemBulkNoDraft": "Hakuna rasimu iliyohifadhiwa iliyopatikana",
+  "itemBulkInvalidDraft": "Umbizo la rasimu iliyohifadhiwa ni batili",
+  "itemBulkDraftRestored": "Rasimu ya awali imerejeshwa",
+  "itemBulkDraftRestoreFailed": "Haikuweza kurejesha rasimu iliyohifadhiwa",
+  "itemBulkAtLeastOne": "Ongeza angalau kipengee kimoja",
+  "itemBulkCategoriesLoading": "Kategoria zinapakia, tafadhali jaribu tena",
+  "itemBulkLoadingCategories": "Inapakia kategoria...",
+  "inventoryTitle": "Uchanganuzi wa Mali",
+  "inventorySubtitle": "Ufuatiliaji wa harakati za hisa kwa wakati halisi",
+  "inventorySearchHint": "Tafuta vitu...",
+  "inventorySold": "Inauzwa",
+  "inventoryPurchased": "Imenunuliwa",
+  "catNoCategories": "Hakuna kategoria. Gusa + ili kuunda.",
+  "catLoadCategories": "Aina za mzigo",
+  "catCreated": "Kitengo kimeundwa",
+  "catRenamed": "Kitengo kimebadilishwa jina",
+  "catDeleted": "Kategoria imefutwa",
+  "catNewTitle": "Kategoria mpya",
+  "catRenameTitle": "Ipe kategoria jina upya",
+  "catNewName": "Jina jipya",
+  "catRename": "Badilisha jina",
+  "catDeleteTitle": "Futa kategoria",
+  "catDeleteConfirm": "Ungependa kufuta \"{name}\"?",
+  "catDeleteLinkedHint": "Vipengee vimeunganishwa. Unaweza kulazimisha kufuta ili kuzitenganisha.",
+  "catForceDelete": "Lazimisha kufuta",
+  "catItemsCount": "Vipengee {count}",
+  "contactFavoritesOnly": "Vipendwa pekee",
+  "contactShowAll": "Onyesha anwani zote",
+  "contactSearchHint": "Tafuta jina, simu, barua pepe...",
+  "contactNoConnection": "Hakuna muunganisho",
+  "contactCheckNetwork": "Angalia mtandao wako na ujaribu tena.",
+  "contactSomethingWrong": "Hitilafu fulani imetokea",
+  "contactNoContacts": "Hakuna anwani",
+  "contactNoFavorites": "Hakuna vipendwa vinavyolingana. Zima kichujio cha nyota au ongeza vipendwa katika anwani.",
+  "contactTrySearchOrAdd": "Jaribu utafutaji tofauti au gusa + ili kuongeza anwani.",
+  "contactEndOfList": "Mwisho wa orodha",
+  "contactNewTooltip": "Anwani mpya",
+  "contactLoading": "Inapakia anwani...",
+  "contactUnknown": "Haijulikani",
+  "contactCallTooltip": "Piga simu",
+  "contactEditTitle": "Hariri anwani",
+  "contactNewTitle": "Anwani mpya",
+  "contactSelectTitle": "Chagua mwasiliani",
+  "contactDeleteTitle": "Ungependa kufuta anwani?",
+  "contactDeleteUndo": "Kitendo hiki hakiwezi kutenduliwa.",
+  "contactNameRequired": "Jina linahitajika",
+  "contactNameLabel": "Jina *",
+  "contactNameHint": "Jina la mwasiliani",
+  "contactPhoneHint": "+977-9841234567",
+  "contactEmailHint": "email@example.com",
+  "contactCategoryHint": "k.m. biashara, jumla, vip",
+  "contactCompanyHint": "Jina la kampuni",
+  "contactFavorite": "Kipendwa",
+  "contactCannotCall": "Haiwezi kupiga simu kwenye kifaa hiki",
+  "contactPermissionDenied": "Ruhusa ya mawasiliano imekataliwa. Unaweza kuiwezesha katika Mipangilio.",
+  "contactPermissionRequired": "Ruhusa ya mawasiliano inahitajika ili kuleta kutoka kwa simu",
+  "contactImported": "Anwani iliyoletwa kutoka kwa simu",
+  "contactCreated": "Anwani imeundwa",
+  "contactUpdated": "Anwani imesasishwa",
+  "contactDeleted": "Anwani imefutwa",
+  "contactImportSearchHint": "Tafuta kwa jina, simu, barua pepe, kampuni",
+  "contactImportNoResults": "Hakuna anwani zilizopatikana",
+  "@itemDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemNameFromCatalog": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkRowLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreatedCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@catDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@catItemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutMultiplePaymentHint": "WASHA, ikiwa mteja atalipa kupitia njia nyingi za malipo.",
+  "checkoutFillRemainingBalance": "Jaza mizani iliyobaki",
+  "checkoutEnterAtLeastOnePayment": "Weka angalau kiasi kimoja cha malipo",
+  "checkoutPaymentsExceedTotal": "Jumla ya malipo hayawezi kuzidi jumla ya jumla",
+  "checkoutSentAs": "Imetumwa kama: {api}",
+  "@checkoutSentAs": {
+    "placeholders": {
+      "api": {
+        "type": "String"
+      }
+    }
+  },
+  "paymentCard": "Kadi",
+  "paymentQr": "QR",
+  "paymentBank": "Benki",
+  "paymentTransfer": "Uhamisho",
+  "paymentBankTransfer": "Uhamisho wa Benki",
+  "paymentSettlement": "Suluhu",
+  "paymentCheque": "Angalia",
+  "paymentDigital": "Dijitali",
+  "paymentDigitalQr": "Dijitali (QR)",
+  "closeSummaryTitle": "Muhtasari wa kufunga",
+  "closeTabDashboard": "Dashibodi",
+  "closeTabCredits": "Mikopo",
+  "closeWelcome": "Karibu kwa Kufunga Muhtasari",
+  "closeSelectDateHint": "Chagua tarehe na gusa onyesha upya ili kupakia data",
+  "closeLoadingDashboard": "Inapakia data ya dashibodi...",
+  "closeDataDeleted": "Data imefutwa",
+  "closeErrorPrefix": "Hitilafu: {message}",
+  "@closeErrorPrefix": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExtraAmount": "Kiasi cha ziada",
+  "closeExtraAmountDesc": "Fedha za ziada au marekebisho yaliyorekodiwa kwa siku hii ya kufunga.",
+  "closeLostAmount": "Kiasi kilichopotea",
+  "closeLostAmountDesc": "Uhaba wa pesa taslimu au tofauti iliyoalamishwa kwa kipindi hiki.",
+  "closeTapForDetails": "Gusa kwa maelezo",
+  "closeAmountLabel": "Kufunga",
+  "closeAmountFormula": "Mfumo wa Kiasi cha Kufunga",
+  "closeFormulaExpression": "Mauzo ya Fedha - Gharama za Fedha = Kiasi cha Kufunga",
+  "closeCashSales": "Mauzo ya Fedha",
+  "closeCashExpenses": "Gharama za Fedha",
+  "closeClosingAmount": "Kiasi cha Kufunga",
+  "closeWhatThisMeans": "Hii inamaanisha nini:",
+  "closeClosingMeaning": "Hiki ndicho kiasi cha pesa taslimu ambacho kinapaswa kuwa kwenye rejista/droo yako mwisho wa siku. Inawakilisha pesa zote zilizopokelewa kando na pesa zote zilizolipwa.",
+  "closeQuickStats": "Takwimu za Haraka",
+  "closeTapCardHint": "Gusa kadi kwa maelezo mafupi",
+  "closeOpeningBalance": "Kufungua Mizani",
+  "closeTotalSales": "Jumla ya mauzo",
+  "closeQrAmount": "Kiasi cha QR",
+  "closeCashAmount": "Kiasi cha Fedha",
+  "closeSalesDiscount": "Punguzo la Mauzo",
+  "closeCreditQr": "Mkopo wa QR",
+  "closeCreditCash": "Pesa ya Mkopo",
+  "closeCreditDiscount": "Punguzo la Mikopo",
+  "closePayCashGetQr": "Lipa pesa taslimu → Pata QR",
+  "closePayQrGetCash": "Lipa Qr → Pata pesa taslimu",
+  "closePaymentMix": "Mchanganyiko wa malipo",
+  "closePaymentMixHint": "Gusa pesa taslimu au dijitali · upau unaonyesha sehemu ya mauzo",
+  "closeCashVsDigitalTooltip": "Fedha dhidi ya sehemu ya dijiti ya mauzo",
+  "closeSalesShareDesc": "{label} iliunda {percent}% ya jumla ya mauzo ya siku hii.",
+  "@closeSalesShareDesc": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSalesLabel": "{label} mauzo",
+  "@closeSalesLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "closeNoTransactions": "Hakuna shughuli zinazopatikana",
+  "closeRecentTransactions": "Shughuli za Hivi Punde",
+  "closeViewAll": "Tazama Zote",
+  "closeNoPurchases": "Hakuna ununuzi unaopatikana",
+  "closeRecentPurchases": "Ununuzi wa Hivi Karibuni",
+  "closeNoSalesDate": "Hakuna mauzo ya tarehe hii",
+  "closeNoSalesHint": "Mauzo yataonyeshwa hapa baada ya kurekodiwa.",
+  "closeRoomSales": "Uuzaji wa vyumba",
+  "closeEmployeeSales": "Uuzaji wa wafanyikazi",
+  "closeOtherSales": "other mauzo",
+  "closeSectionCount": "{title} ({count})",
+  "@closeSectionCount": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "closeDiscountShort": "Diski: {amount}",
+  "@closeDiscountShort": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "closePercentOff": "Punguzo la {percent}%.",
+  "@closePercentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closePending": "Inasubiri",
+  "closeNoCreditPayments": "Hakuna Malipo ya Mikopo",
+  "closeNoCreditHint": "Malipo ya mkopo yataonekana hapa",
+  "closeViewStatistics": "Tazama Takwimu",
+  "closeExportData": "Hamisha data",
+  "closeExportComingSoon": "Kipengele cha kuhamisha kitatekelezwa hapa",
+  "closeHintOpeningBalance": "Nafasi ya pesa mwanzoni mwa siku iliyochaguliwa.",
+  "closeHintTotalSales": "Jumla ya mauzo yote yaliyorekodiwa kwa tarehe hii.",
+  "closeHintQrAmount": "Malipo yaliyopokelewa kupitia QR au mbinu dijitali.",
+  "closeHintCashAmount": "Sehemu ya pesa taslimu ya mauzo kwa siku.",
+  "closeHintCashExpenses": "Pesa iliyolipwa kwa matumizi wakati wa mchana.",
+  "closeHintSalesDiscount": "Punguzo linatumika kwa mauzo.",
+  "closeHintCreditQr": "Mikusanyiko ya QR inayohusiana na mkopo.",
+  "closeHintCreditCash": "Harakati za pesa zinazohusiana na mkopo.",
+  "closeHintCreditDiscount": "Punguzo linatumika kwa miamala ya mkopo.",
+  "closeHintPayCashGetQr": "Badilisha mahali pesa taslimu zililipwa na mkopo wa QR ulipokelewa.",
+  "closeHintPayQrGetCash": "Exchange ambapo QR ililipwa na pesa taslimu zilipokelewa.",
+  "closeOpeningAmount": "Kiasi cha Kufungua",
+  "closeCurrentAmount": "Kiasi cha Sasa",
+  "closeSaveReport": "Hifadhi Ripoti",
+  "closeUpdateSummary": "Sasisha Muhtasari",
+  "closeExists": "Ipo",
+  "closeExistingDataInfo": "Unaweza kutazama au kurekebisha data iliyopo",
+  "closeEnterOpeningAmount": "Tafadhali weka kiasi cha kufungua",
+  "closeEnterValidAmount": "Tafadhali weka kiasi halali",
+  "languageSelectionSubtitle": "Chagua jinsi unavyotaka kutumia {appName}. Unaweza kubadilisha hii baadaye katika Mipangilio.",
+  "searchLanguages": "Tafuta lugha",
+  "languageSuggestedBadge": "INAPENDEKEZWA",
+  "continueInLanguage": "Endelea kwa {languageName}",
+  "noLanguageMatches": "Hakuna mechi",
+  "noLanguageMatchesForQuery": "Hakuna lugha inayolingana na \"{query}\"",
+  "@languageSelectionSubtitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@continueInLanguage": {
+    "placeholders": {
+      "languageName": {
+        "type": "String"
+      }
+    }
+  },
+  "@noLanguageMatchesForQuery": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockSettingsSaved": "Mipangilio ya kufunga programu yamehifadhiwa",
+  "appLockSubtitle": "Inahitaji PIN au bayometriki unapofungua programu tena",
+  "appLockTitle": "Kufunga programu",
+  "appPin": "PIN ya programu",
+  "appPinIncorrect": "PIN si sahihi. Jaribu tena.",
+  "appPinIncorrectWithAttempts": "PIN si sahihi. Umebaki na majaribio {remaining}.",
+  "@appPinIncorrectWithAttempts": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      }
+    }
+  },
+  "appPinLockoutMessage": "Majaribio mengi ya PIN si sahihi. Ingia kwa barua pepe na nenosiri ili kuweka upya PIN.",
+  "appPinMismatch": "PIN hazilingani. Jaribu tena.",
+  "appPinRemoved": "PIN ya programu imeondolewa",
+  "appPinSetSuccess": "PIN imehifadhiwa kwa shirika hili",
+  "appPinSubtitle": "Fungua haraka kwa PIN ya tarakimu {length}",
+  "@appPinSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "appearance": "Muonekano",
+  "backupAutoBackupHint": "Hifadhi nakala kiotomatiki programu inapoanza inapofaa",
+  "backupAutoBackupTitle": "Hifadhi nakala kiotomatiki",
+  "backupAutoDirectionBoth": "Pakia na pakua",
+  "backupAutoDirectionDownload": "Pakua kutoka wingu",
+  "backupAutoDirectionUpload": "Pakia kwenye wingu",
+  "backupAutoFrequencyDaily": "Kila siku",
+  "backupAutoFrequencyMonthly": "Kila mwezi",
+  "backupAutoFrequencyOff": "Imezimwa",
+  "backupAutoFrequencyTitle": "Mara ya kuhifadhi nakala",
+  "backupAutoFrequencyWeekly": "Kila wiki",
+  "backupAutoLastDownloaded": "Urejeshaji wa mwisho kiotomatiki: {detail}",
+  "@backupAutoLastDownloaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastFailed": "Usawazishaji wa mwisho kiotomatiki umeshindwa: {detail}",
+  "@backupAutoLastFailed": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastSkipped": "Usawazishaji wa mwisho kiotomatiki umerukwa: {detail}",
+  "@backupAutoLastSkipped": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastUploaded": "Nakala ya mwisho kiotomatiki: {detail}",
+  "@backupAutoLastUploaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoSettingsTitle": "Mipangilio ya Google Drive",
+  "backupAutoSyncDirectionTitle": "Usawazishaji kiotomatiki",
+  "backupSyncActiveOrganization": "Shirika la sasa",
+  "backupSyncActiveOrganizationHint": "Nakala hupakia data ya shirika unalotumia sasa.",
+  "backupSyncCompletedHint": "Data yako imehifadhiwa kwa usalama kwenye Google Drive.",
+  "backupSyncConnected": "Imeunganishwa",
+  "backupSyncCurrentStep": "Hatua: {step}",
+  "@backupSyncCurrentStep": {
+    "placeholders": {
+      "step": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncGoogleAccount": "Akaunti ya Google",
+  "backupSyncInProgress": "Usawazishaji unaendelea",
+  "backupSyncLastError": "Hitilafu ya mwisho: {error}",
+  "@backupSyncLastError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncLastSyncDate": "Tarehe na saa",
+  "backupSyncLastSyncTitle": "Usawazishaji wa mwisho",
+  "backupSyncNeverSynced": "Hakuna nakala iliyopakiwa bado.",
+  "backupSyncOrganization": "Shirika",
+  "backupSyncPageTitle": "Nakala na Usawazishaji",
+  "backupSyncPhaseExport": "Hamisha nje",
+  "backupSyncPhaseUpload": "Pakia",
+  "backupSyncProgressPercent": "{percent}%",
+  "@backupSyncProgressPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "backupSyncRecords": "Rekodi zilizohifadhiwa",
+  "backupSyncSignInHint": "Ingia kwa Google ili kuhifadhi nakala ya data ya shirika lako.",
+  "backupSyncSignOutConfirm": "Toka kwenye Google Drive kwenye kifaa hiki?",
+  "backupSyncSignedInAs": "Umeingia kama",
+  "backupSyncStatus": "Hali",
+  "backupSyncStatusSuccess": "Imekamilika",
+  "backupSyncStepExport": "Inahamisha data ya ndani",
+  "backupSyncStepUploadFile": "Inapakia {file}",
+  "@backupSyncStepUploadFile": {
+    "placeholders": {
+      "file": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncStepUploadTable": "Inapakia {table}",
+  "@backupSyncStepUploadTable": {
+    "placeholders": {
+      "table": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncTables": "Jedwali zilizohifadhiwa",
+  "backupSyncUnknownOrganization": "Shirika la sasa",
+  "backupWifiOnlyContinue": "Tumia data ya simu",
+  "backupWifiOnlyHint": "Nakala kiotomatiki inasubiri Wi‑Fi",
+  "backupWifiOnlyTitle": "Hifadhi nakala kupitia Wi‑Fi tu",
+  "biometricNotAvailable": "Bayometriki haipatikani kwenye kifaa hiki",
+  "biometricRequiresPin": "Weka PIN ya programu kabla ya kuwasha bayometriki",
+  "biometricUnlockReason": "Fungua BizTrack",
+  "changeAppPin": "Badilisha PIN",
+  "confirmAppPin": "Thibitisha PIN",
+  "confirmAppPinHint": "Weka PIN tena ili kuthibitisha",
+  "confirmPasscodeHint": "Weka msimbo tena ili kuthibitisha",
+  "contactUs": "Wasiliana nasi",
+  "contactUsSubtitle": "Wasiliana kwa msaada, maoni, au maswali kuhusu programu.",
+  "createAppPinHint": "Chagua PIN ya tarakimu {length} kwa shirika hili",
+  "@createAppPinHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "createPasscodeHint": "Chagua msimbo wa tarakimu {length} kwa shirika hili",
+  "@createPasscodeHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "darkMode": "Hali ya giza",
+  "darkModeSubtitle": "Tumia mandharinyuma meusi katika programu nzima",
+  "darkModeSystemSubtitle": "Inafuata mandhari ya kifaa chako",
+  "dataAndBackup": "Data na Nakala",
+  "developerLabel": "Msanidi programu",
+  "disableAppPinMessage": "Face ID / kufungua kwa bayometriki pia kutazimwa kwa shirika hili.",
+  "disableAppPinTitle": "Ondoa PIN ya programu?",
+  "displayPrecision": "Usahihi wa onyesho",
+  "displayPrecisionRange": "Weka nambari kati ya 0 na 5",
+  "emailCopiedToClipboard": "Barua pepe imenakiliwa kwenye ubao wa kunakili",
+  "employeeManagementSubtitle": "Wafanyakazi, mishahara na mahudhurio",
+  "enableBiometricAfterPinMessage": "Tumia bayometriki ya kifaa pamoja na PIN ili kuingia haraka.",
+  "enableBiometricTitle": "Washa bayometriki?",
+  "enableFaceIdTitle": "Washa Face ID?",
+  "enableFingerprintTitle": "Washa alama ya kidole?",
+  "enableInvoiceReturns": "Washa marejesho ya ankara",
+  "enableInvoiceReturnsSubtitle": "Ruhusu kuunda marejesho kutoka ankara zilizolipwa.",
+  "enterAppPin": "Weka PIN yako",
+  "enterPasscode": "Weka msimbo",
+  "googleDriveBackupFailed": "Nakala imeshindwa: {error}",
+  "@googleDriveBackupFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupNow": "Hifadhi nakala sasa",
+  "googleDriveBackupPluginError": "Nakala inahitaji kuanzisha upya programu kikamilifu. Funga programu, fungua tena na jaribu tena.",
+  "googleDriveBackupSectionTitle": "Nakala na Usawazishaji",
+  "googleDriveBackupStarting": "Inaandaa nakala…",
+  "googleDriveBackupSubtitleSignedIn": "Umeingia kama {email}",
+  "@googleDriveBackupSubtitleSignedIn": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupSubtitleSignedOut": "Ingia ili kuhifadhi data ya shirika lako kwa usalama kwenye Google Drive.",
+  "googleDriveBackupSuccess": "Nakala imepakiwa (jedwali {tableCount}, rekodi {recordCount})",
+  "@googleDriveBackupSuccess": {
+    "placeholders": {
+      "tableCount": {
+        "type": "int"
+      },
+      "recordCount": {
+        "type": "int"
+      }
+    }
+  },
+  "googleDriveBackupTitle": "Nakala ya Google Drive",
+  "googleDriveLastBackup": "Nakala ya mwisho: {date}",
+  "@googleDriveLastBackup": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveSignIn": "Ingia kwa Google",
+  "googleDriveSignInCancelled": "Kuingia kwa Google kumeghairiwa",
+  "googleDriveSignInSuccess": "Umeingia kwenye Google Drive",
+  "googleDriveSignOut": "Toka",
+  "googleDriveSignOutSuccess": "Umetoka kwenye Google Drive",
+  "itemSelectCategoryRequired": "Tafadhali chagua kategoria",
+  "moreBackupSyncTileLastSync": "Usawazishaji wa mwisho: {date}",
+  "@moreBackupSyncTileLastSync": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "moreBackupSyncTileNeverSynced": "Hifadhi nakala kwenye Google Drive",
+  "moreBackupSyncTileSignedInNoSync": "Umeingia · Hakuna nakala bado",
+  "notNow": "Si sasa",
+  "operationManagement": "Usimamizi wa uendeshaji",
+  "operationManagementSubtitle": "Items, stock reconciliation, contacts, categories, and closing",
+  "orContinueWithPassword": "au ingia kwa nenosiri",
+  "organizationAccountingSubtitle": "Mipangilio ya ankara na onyesho la kiasi.",
+  "organizationRegionalSubtitle": "Nchi, sarafu ya ripoti na tarehe za mwaka wa kifedha.",
+  "organizationTabAccounting": "Uhasibu",
+  "organizationTabGeneral": "Jumla",
+  "organizationTabRegional": "Kikanda na kifedha",
+  "partyPickerAddNewRole": "Ongeza {role} mpya",
+  "@partyPickerAddNewRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSearchHint": "Tafuta {role}...",
+  "@partyPickerSearchHint": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSelectedLabel": "IMECHAGULIWA",
+  "partyPickerSettled": "Imelipwa",
+  "partyPickerSubtitle": "Uuzaji huu ni kwa nani?",
+  "preferences": "Mapendeleo",
+  "quickUnlockAsUser": "Ingia haraka kama {email}",
+  "@quickUnlockAsUser": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSubtitle": "Faida na hasara, taarifa na uchambuzi",
+  "restoreAction": "Rejesha",
+  "restoreFromGoogleDrive": "Rejesha kutoka Google Drive",
+  "restoreFromGoogleDriveConfirm": "Rejesha \"{name}\"? Hii itabadilisha data ya ndani ya shirika hilo.",
+  "@restoreFromGoogleDriveConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveEmpty": "Hakuna nakala zilizopatikana kwenye Google Drive yako.",
+  "restoreFromGoogleDriveFailed": "Urejeshaji umeshindwa: {error}",
+  "@restoreFromGoogleDriveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveHint": "Ingia na uchague nakala ili kurejesha shirika lako kwenye kifaa hiki.",
+  "restoreFromGoogleDriveStarting": "Inaanza urejeshaji…",
+  "restoreFromGoogleDriveSuccess": "{name} imerejeshwa. Unaweza kuingia sasa.",
+  "@restoreFromGoogleDriveSuccess": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreStepCreateDatabase": "Inaunda hifadhidata",
+  "restoreStepDownload": "Inapakua nakala",
+  "restoreStepFinalize": "Inakamilisha urejeshaji",
+  "restoreStepImport": "Inaingiza data",
+  "security": "Usalama",
+  "setUpAppPin": "Weka PIN",
+  "setUpFaceIdOrPin": "Weka Face ID au PIN",
+  "setUpFingerprintOrPin": "Weka alama ya kidole au PIN",
+  "setUpNow": "Weka sasa",
+  "setUpQuickUnlock": "Weka kuingia haraka kwa PIN",
+  "setUpQuickUnlockAfterLoginMessage": "Weka Face ID, alama ya kidole au PIN ili kuingia haraka wakati ujao. Unaweza kubadilisha baadaye kwenye Mipangilio.",
+  "setUpQuickUnlockAfterLoginTitle": "Washa kuingia haraka?",
+  "setUpQuickUnlockSubtitle": "Tumia bayometriki au PIN kwa shirika hili",
+  "signInWithBiometric": "Ingia kwa bayometriki",
+  "signInWithFaceId": "Ingia kwa Face ID",
+  "signInWithFingerprint": "Ingia kwa alama ya kidole",
+  "signInWithPin": "Ingia kwa PIN",
+  "statisticsCashflow": "Mtiririko wa pesa",
+  "statisticsQuickOperationInvoice": "Ankara",
+  "statisticsQuickOperationReports": "Ripoti",
+  "statisticsQuickOperationsSeeAll": "Ona zote",
+  "tapDigitsToUnlock": "Gusa tarakimu {length} yoyote ili kufungua.",
+  "@tapDigitsToUnlock": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "unlockApp": "Fungua programu",
+  "useBiometricInstead": "Tumia bayometriki",
+  "useBiometricUnlock": "Tumia Face ID / bayometriki",
+  "useBiometricUnlockSubtitle": "Fungua kwa alama ya kidole au Face ID baada ya kuweka PIN",
+  "useFaceIdUnlock": "Tumia Face ID",
+  "useFingerprintUnlock": "Tumia alama ya kidole",
+  "usePinInstead": "Tumia PIN badala yake",
+  "verifyPinToRemoveSubtitle": "Thibitisha PIN yako ya tarakimu {length} ili kuondoa kufunga programu",
+  "@verifyPinToRemoveSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "verifyPinToRemoveTitle": "Weka PIN yako",
+  "walkthroughBackupDescription": "Usalama wa kiwango cha benki na nakala za Google Drive kwa mguso mmoja — rekodi zako zinalindwa na rahisi kurejeshwa.",
+  "walkthroughBackupTitle": "Data yako, salama kila wakati",
+  "walkthroughBillingDescription": "Ankara za mauzo na ununuzi, maagizo ya meza na tiketi za jikoni, na hesabu ya moja kwa moja — yote katika programu moja.",
+  "walkthroughBillingTitle": "Toa ankara na uuze kwa sekunde",
+  "walkthroughDashboardDescription": "Mauzo ya leo, mapato na salio — yote kwenye dashibodi safi unapofungua programu.",
+  "walkthroughDashboardTitle": "Biashara yako yote, kwa mtazamo mmoja",
+  "walkthroughOfflineDescription": "Unda ankara, rekodi matumizi na simamia hisa bila mtandao. Yote husawazishwa kiotomatiki ukiwa mtandaoni.",
+  "walkthroughOfflineTitle": "Inafanya kazi bila intaneti",
+  "walkthroughReadyDescription": "Sanidi shirika lako kwa dakika chache na uendeshe biashara kwa akili zaidi leo. Tuanze.",
+  "walkthroughReadyTitle": "Tayari unapokuwa tayari",
+  "walkthroughStaffDescription": "Simamia mahudhurio na mishahara, kisha hamisha P&L na risiti za mshahara kama PDF — bila zana za ziada.",
+  "walkthroughStaffTitle": "Wafanyakazi, mishahara na ripoti",
+  "ok": "Sawa",
+  "reportPeriodYear": "Mwaka",
+  "reportPeriodMonth": "Mwezi",
+  "reportPeriodRange": "Masafa",
+  "reportPeriodDay": "Siku",
+  "reportPeriodFrom": "Kutoka",
+  "reportPeriodTo": "Hadi",
+  "reportPeriod": "Kipindi",
+  "reportAllPurchases": "Ununuzi wote",
+  "reportBeforeTax": "Kabla ya kodi",
+  "reportRevenueRetained": "Mapato yaliyobaki",
+  "reportHideDetails": "Ficha maelezo",
+  "reportShowDetails": "Onyesha maelezo",
+  "reportSalesRevenue": "Mapato ya mauzo",
+  "reportDiscountsGiven": "Punguzo zilizotolewa",
+  "reportNetRevenue": "Mapato halisi",
+  "reportOperatingExpenses": "Matumizi ya uendeshaji",
+  "reportTotalExpenses": "Jumla ya matumizi",
+  "reportGrossProfit": "Faida jumla",
+  "reportGrossProfitChart": "Faida jumla",
+  "reportOperatingPlDisclaimer": "Kodi, uchakavu na mishahara haijajumuishwa — makadirio ya P&L ya uendeshaji.",
+  "reportContraLabel": "contra",
+  "reportNoDataForPeriod": "Hakuna data kwa kipindi kilichochaguliwa",
+  "reportRevenueVsExpenses": "Mapato dhidi ya matumizi",
+  "reportExpenseBreakdown": "Muhtasari wa matumizi",
+  "reportExpenseFallback": "Matumizi",
+  "reportGrossMarginPercent": "Faida jumla %",
+  "reportRoomVsFnB": "Chumba dhidi ya F&B",
+  "reportSegmentRoom": "Chumba",
+  "reportSegmentFnB": "F&B",
+  "reportKeyMetrics": "Vipimo muhimu",
+  "reportIncomeStatement": "Taarifa ya mapato",
+  "reportChartsSection": "Michoro",
+  "reportSegmentSummary": "Muhtasari wa sehemu",
+  "reportFailedToLoad": "Imeshindwa kupakia ripoti",
+  "reportOverview": "Muhtasari",
+  "reportOverviewCash": "Pesa taslimu",
+  "reportOverviewBank": "Benki",
+  "reportMonthlyOpeningBalance": "Salio la mwanzo la mwezi",
+  "reportOpeningBalanceHint": "Hali ya pesa taslimu mwanzoni mwa kila mwezi",
+  "reportCashInOut": "Pesa zinazoingia / kutoka",
+  "reportCashIn": "Pesa zinazoingia",
+  "reportCashOut": "Pesa zinazotoka",
+  "reportBankReceiptsPayments": "Mapokezi / malipo ya benki",
+  "reportReceipts": "Mapokezi",
+  "reportPayments": "Malipo",
+  "reportDailyCashVsQr": "Pesa taslimu vs QR kila siku",
+  "reportSummariesSection": "Muhtasari",
+  "reportCashSummary": "Muhtasari wa pesa taslimu",
+  "reportBankSummary": "Muhtasari wa benki",
+  "reportDailySummary": "Muhtasari wa kila siku",
+  "reportTabPurchase": "Ununuzi",
+  "reportTabSales": "Mauzo",
+  "reportTabDashboard": "Dashibodi",
+  "reportSingleDayTrend": "Siku moja — mwelekeo wa kila siku",
+  "reportFullYearTrend": "Mwaka mzima — michoro ya mwezi",
+  "reportYearLabel": "Mwaka {year}",
+  "@reportYearLabel": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportJanDec": "Jan – Des {year}",
+  "@reportJanDec": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportTotalPurchases": "Jumla ya ununuzi",
+  "reportTotalSales": "Jumla ya mauzo",
+  "reportTotalInvoices": "Jumla ya ankara",
+  "reportUnpaidBalance": "Salio lisilolipwa",
+  "reportAvgPerInvoice": "Wastani kwa ankara",
+  "reportPerTransaction": "Kwa kila muamala",
+  "reportMonthlySpend": "Matumizi ya mwezi ({symbol})",
+  "@reportMonthlySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportMonthlySalesChart": "Mauzo ya mwezi ({symbol})",
+  "@reportMonthlySalesChart": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportInvoiceCountByMonth": "Idadi ya ankara kwa mwezi",
+  "reportTopItemsBySpend": "Bidhaa bora kwa matumizi ({symbol})",
+  "@reportTopItemsBySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSpendByCategory": "Matumizi kwa kategoria",
+  "reportOtherCategory": "Nyingine",
+  "reportSuppliers": "Wasambazaji",
+  "reportTableSupplier": "Msambazaji",
+  "reportTableAmount": "Kiasi",
+  "reportTableBills": "Bili",
+  "reportSalesTotal": "Jumla ya mauzo",
+  "reportPurchaseTotal": "Jumla ya ununuzi",
+  "reportPositiveMargin": "Faida chanya",
+  "reportNegativeMargin": "Faida hasi",
+  "reportGrossMargin": "Faida jumla",
+  "reportOfTotalSales": "Ya jumla ya mauzo",
+  "reportFailedToLoadAnalytics": "Imeshindwa kupakia uchambuzi",
+  "reportMarginKpi": "Faida",
+  "reportExpensesKpi": "Matumizi",
+  "partyPickerNoResultsFor": "Hakuna matokeo ya \"{query}\"",
+  "@partyPickerNoResultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerNoPartiesForRole": "Hakuna pande za {role} zilizopatikana",
+  "@partyPickerNoPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerLoadParties": "Pakia pande",
+  "invoiceCashCustomer": "Mteja wa pesa taslimu",
+  "invoiceQuickAddItemsTitle": "Ongeza bidhaa haraka",
+  "invoiceQuickLoadingMenu": "Inapakia menyu…",
+  "invoiceQuickInvoiceCreated": "Ankara imeundwa",
+  "invoiceQuickAddAtLeastOneItem": "Ongeza angalau bidhaa moja",
+  "invoiceQuickNoResults": "Hakuna matokeo!",
+  "invoiceQuickNoItemsInCategory": "Hakuna bidhaa katika kategoria hii",
+  "invoiceQuickAddItem": "Ongeza bidhaa",
+  "invoiceQuickLoadMore": "Pakia zaidi",
+  "invoiceQuickScrollLoadMore": "Sogeza kupakia zaidi ({count} kwa ukurasa)",
+  "invoiceQuickSupplierEmployee": "Msambazaji / Mfanyakazi",
+  "invoiceQuickEditItem": "Hariri bidhaa",
+  "closeSelectDateRange": "Chagua masafa ya tarehe",
+  "closeStartDate": "Tarehe ya mwanzo",
+  "closeEndDate": "Tarehe ya mwisho",
+  "closeSelectBothDates": "Tafadhali chagua tarehe ya mwanzo na mwisho",
+  "closeDeleteSummary": "Futa muhtasari",
+  "closeDeleteSummaryConfirm": "Una uhakika unataka kufuta muhtasari huu?",
+  "closeSelectDate": "Chagua tarehe",
+  "closeNoDataToExport": "Hakuna data ya kuhamisha",
+  "closeNoDataToShare": "Hakuna data ya kushiriki",
+  "closeNoDataToPrint": "Hakuna data ya kuchapisha",
+  "closePdfGenerateError": "Hitilafu kutengeneza PDF: {error}",
+  "@closePdfGenerateError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfShareError": "Hitilafu kushiriki PDF: {error}",
+  "@closePdfShareError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfPrintError": "Hitilafu kuchapisha PDF: {error}",
+  "@closePdfPrintError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExportPdf": "Hamisha kama PDF",
+  "closeSharePdf": "Shiriki PDF",
+  "closePrint": "Chapisha",
+  "closeExportOptions": "Chaguo za kuhamisha",
+  "closeExportPdfSubtitle": "Hifadhi au angalia kama hati ya PDF",
+  "closeSharePdfSubtitle": "Shiriki kupitia programu au barua pepe",
+  "closePrintSubtitle": "Chapisha ripoti",
+  "invoiceQuickShowingItems": "Inaonyesha {shown} kati ya {total}",
+  "invoiceQuickLoadedItems": "Imepakiwa: {count}",
+  "invoiceQuickRoomCabinEmployee": "Chumba / Kibanda / Mfanyakazi",
+  "reportPercentOfRevenue": "{percent}% ya mapato",
+  "@reportPercentOfRevenue": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "reportParties": "Pande",
+  "reportMonthYearDailyTrend": "{month} {year} — michoro ya kila siku",
+  "@reportMonthYearDailyTrend": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceQuickCart": "Kikapu",
+  "invoiceQuickCartWithCount": "Kikapu ({count})",
+  "invoiceQuickClearSearch": "Futa utafutaji",
+  "closeAllRecords": "Rekodi zote",
+  "closeDailyCashSummaryReport": "Ripoti ya muhtasari wa pesa taslimu wa kila siku",
+  "closeDailyCashSummaryTitle": "Muhtasari wa pesa taslimu wa kila siku",
+  "closeDetails": "Maelezo",
+  "closeGeneratedAt": "Imetengenezwa: {date}",
+  "@closeGeneratedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "closePageN": "Ukurasa {n}",
+  "@closePageN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "closePeriodRange": "Kipindi: {start} hadi {end}",
+  "@closePeriodRange": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummaryOverview": "Muhtasari wa jumla",
+  "closeTotalRecords": "Jumla ya rekodi",
+  "closeAddSummary": "Ongeza muhtasari",
+  "closeSalesAmount": "Kiasi cha mauzo",
+  "closeClosingBalance": "Salio la kufunga",
+  "closeLostMoney": "Pesa iliyopotea",
+  "closeDiscount": "Punguzo",
+  "closeExpenses": "Matumizi",
+  "closeUnpaid": "Haijalipwa",
+  "closeTotalOpeningBalance": "Jumla ya salio la kufungua",
+  "closeTotalSalesAmount": "Jumla ya kiasi cha mauzo",
+  "closeTotalCashAmount": "Jumla ya fedha taslimu",
+  "closeTotalQrAmount": "Jumla ya QR",
+  "closeTotalDiscount": "Jumla ya punguzo",
+  "closeTotalExpenses": "Jumla ya matumizi",
+  "closeTotalClosingBalance": "Jumla ya salio la kufunga",
+  "closeTotalLostMoney": "Jumla ya pesa iliyopotea",
+  "closeTotalExtraAmount": "Jumla ya kiasi cha ziada",
+  "closeShowingCurrentMonth": "Inaonyesha data ya mwezi huu",
+  "closeNoSummariesFound": "Hakuna muhtasari uliopatikana",
+  "closeNoSummariesAvailable": "Hakuna muhtasari unaopatikana",
+  "closeTryAdjustingDateRange": "Jaribu kurekebisha muda wa tarehe",
+  "closeCreateFirstSummary": "Unda muhtasari wako wa kwanza kuanza",
+  "closeClearFilter": "Futa kichujio",
+  "closeFiltered": "Imechujwa",
+  "closeFilteredWithRange": "Imechujwa: {range}",
+  "@closeFilteredWithRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummarySingular": "Muhtasari",
+  "closeSummariesPlural": "Muhtasari",
+  "closeSummaryUpdatedSuccess": "Muhtasari umesasishwa",
+  "closeSummaryDeletedSuccess": "Muhtasari umefutwa",
+  "premiumUnlockTitle": "Fungua {appName} Premium",
+  "@premiumUnlockTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumTagline": "POS kamili nje ya mtandao, ankara, hesabu na ripoti — usajili mmoja kwa biashara yako.",
+  "premiumFeatureUnlimitedInvoices": "Ankara na risiti zisizo na kikomo",
+  "premiumFeatureInventoryStock": "Hesabu na ufuatiliaji wa stoo",
+  "premiumFeatureReportsAnalytics": "Ripoti za mauzo na uchambuzi",
+  "premiumFeatureOfflineLocal": "Inafanya kazi nje ya mtandao — data yako inabaki ndani",
+  "premiumContinueWith": "Endelea na {plan}",
+  "@premiumContinueWith": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRestorePurchases": "Rejesha manunuzi",
+  "premiumSubscriptionLegal": "Malipo yatatozwa kwenye Apple ID yako. Usajili unajisasisha kiotomatiki isipokuwa ukifutwa angalau saa 24 kabla ya mwisho wa kipindi.",
+  "premiumPurchaseRestored": "Manunuzi yamerejeshwa.",
+  "premiumNoActiveSubscription": "Hakuna usajili unaotumika.",
+  "premiumPlanMonthly": "Kila mwezi",
+  "premiumPlanMonthlySubtitle": "Rahisi — ghairi wakati wowote",
+  "premiumPlanYearly": "Kila mwaka",
+  "premiumPlanYearlySubtitle": "Thamani bora — okoa {percent}%",
+  "@premiumPlanYearlySubtitle": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "premiumPlanLifetime": "Maisha yote",
+  "premiumPlanLifetimeSubtitle": "Lipa mara moja, weka milele",
+  "premiumPlanPopular": "Maarufu",
+  "premiumOneTimePurchase": "Ununuzi wa mara moja",
+  "subscriptionSectionTitle": "Usajili",
+  "subscriptionPremiumLabel": "Premium",
+  "subscriptionUpgradeTitle": "Boresha hadi Premium",
+  "subscriptionPremiumPricing": "Kila mwezi {monthly} · Kila mwaka {yearly}",
+  "@subscriptionPremiumPricing": {
+    "placeholders": {
+      "monthly": {
+        "type": "String"
+      },
+      "yearly": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActiveUntil": "{plan} inatumika hadi {date}",
+  "@subscriptionPremiumActiveUntil": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActive": "{plan} inatumika",
+  "@subscriptionPremiumActive": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRequired": "Premium inahitajika",
+  "upgradeToPremiumContinue": "Boresha hadi Premium ili uendelee.",
+  "freemiumFreePlanLimit": "Mpango wa bure unaruhusu hadi {limit} {label}. Boresha hadi Premium kwa ufikiaji usio na kikomo.",
+  "@freemiumFreePlanLimit": {
+    "placeholders": {
+      "limit": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "freemiumPartyRoleRequired": "Jukumu la mhusika linahitajika.",
+  "shiftReminderOpeningTitle": "Kikumbusho cha kufungua",
+  "shiftReminderOpeningMessage": "Je, umefungua daftari la leo?",
+  "shiftReminderOpeningProceed": "Ndiyo, fungua sasa",
+  "shiftReminderClosingTitle": "Kikumbusho cha kufunga",
+  "shiftReminderClosingMessage": "Je, umefunga daftari la leo?",
+  "shiftReminderClosingProceed": "Ndiyo, funga sasa",
+  "shiftReminderSkipToday": "Ruka leo",
+  "shiftReminderOpeningNotificationTitle": "Kikumbusho cha kufungua",
+  "shiftReminderOpeningNotificationBody": "Je, umefungua daftari la leo? Gusa hapa ikiwa bado unahitaji kufungua.",
+  "shiftReminderClosingNotificationTitle": "Kikumbusho cha kufunga",
+  "shiftReminderClosingNotificationBody": "Je, umefunga daftari la leo? Gusa hapa ikiwa bado unahitaji kufunga.",
+  "closeExchangePayQrGetCashHint": "{business} analipa QR kwa mteja; mteja anatoa pesa taslimu.",
+  "@closeExchangePayQrGetCashHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExchangePayCashGetQrHint": "{business} analipa pesa taslimu kwa mteja; mteja analipa QR.",
+  "@closeExchangePayCashGetQrHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closePaymentExchange": "Ubadilishaji wa malipo",
+  "closePayQrGetCashExchangeLabel": "Lipa QR → Pata pesa taslimu (ubadilishaji)",
+  "closePayCashGetQrExchangeLabel": "Lipa pesa taslimu → Pata QR (ubadilishaji)",
+  "closePayQrGetCashDetail": "Lipa QR, pata pesa taslimu",
+  "closePayCashGetQrDetail": "Lipa pesa taslimu, pata QR",
+  "faqSectionPremium": "Premium na bili",
+  "faqPremiumWhatsIncludedQuestion": "Premium inajumuisha nini?",
+  "faqPremiumWhatsIncludedAnswer": "Premium inafungua ankara zisizo na kikomo, ripoti kamili (P&L, taarifa, uchambuzi), chelezo na usawazishaji, mishahara, mahudhurio, zana za stoo, hamisha/chapisha ankara na mashirika ya ziada. Kiwango cha bure bado kinaruhusu vipengele vya msingi vya POS ndani ya mipaka ya haki.",
+  "faqPremiumFreeTierQuestion": "Kiwango cha bure kinajumuisha nini?",
+  "faqPremiumFreeTierAnswer": "Unaweza kuunda hadi ankara 10 za mauzo na 10 za ununuzi, wafanyakazi 4, vitu 30 na mipaka mingine inapoonyeshwa ukifikia. Kufungua, kufunga, kikokotoo na kuvinjari data bado ni bure.",
+  "faqPremiumRestoreQuestion": "Ninawezaje kurejesha manunuzi yangu?",
+  "faqPremiumRestoreAnswer": "Fungua Zaidi → Boresha hadi Premium (au skrini ya malipo) na gusa Rejesha manunuzi. Tumia Apple ID ile ile uliyotumia kusajili.",
+  "faqPremiumCancelQuestion": "Ninawezaje kughairi usajili wangu?",
+  "faqPremiumCancelAnswer": "Simamia au ghairi katika Mipangilio ya iPhone → Apple ID → Usajili. Unaendelea kufikia hadi mwisho wa kipindi kilicholipwa.",
+  "faqDarkModeQuestion": "Ninawezaje kuwasha hali ya giza?",
+  "faqDarkModeAnswer": "Fungua Zaidi → Muonekano na washa Hali ya giza. Kifaa kinapotumia mandhari ya mfumo, programu inafuata kiotomatiki.",
+  "faqOpeningClosingReminderQuestion": "Vikumbusho vya kufungua na kufunga ni nini?",
+  "faqOpeningClosingReminderAnswer": "{appName} inaweza kukukumbusha kufungua au kufunga daftari la kila siku. Unaweza kuendelea, kuruka leo au kufuta kikumbusho.",
+  "faqPartyRolesQuestion": "Majukumu ya mhusika ni nini?",
+  "faqPartyRolesAnswer": "Majukumu ya mhusika yanawainua mawasiliano kama wateja, wasambazaji, vyumba au wafanyakazi. Badilisha chini ya Uendeshaji → Majukumu ya mhusika na ongeza maelezo mafupi kwa timu.",
+  "faqRateAppQuestion": "Ninawezaje kukadiria {appName}?",
+  "faqRateAppAnswer": "Fungua Zaidi → Tukadirie kuacha ukaguzi kwenye App Store. Maoni yako yanatusaidia kuboresha bili nje ya mtandao.",
+  "freemiumLabelSalesInvoices": "ankara za mauzo",
+  "freemiumLabelPurchaseInvoices": "ankara za ununuzi",
+  "freemiumLabelEmployees": "wafanyakazi",
+  "freemiumLabelItems": "vitu",
+  "freemiumLabelCategories": "kategoria",
+  "freemiumLabelPaymentMethods": "njia za malipo",
+  "freemiumLabelCustomPartyRoles": "majukumu ya mhusika maalum",
+  "freemiumLabelPartiesForRole": "wahusika wa {role}",
+  "freemiumLabelOrganizations": "mashirika",
+  "freemiumPremiumReports": "Ripoti zinapatikana na Premium.",
+  "freemiumPremiumBackupSync": "Chelezo na usawazishaji unahitaji Premium.",
+  "freemiumPremiumPayroll": "Mishahara inahitaji Premium.",
+  "freemiumPremiumAttendance": "Mahudhurio yanahitaji Premium.",
+  "freemiumPremiumStock": "Usimamizi wa stoo unahitaji Premium.",
+  "freemiumPremiumInvoiceExport": "Pakua na chapisha inahitaji Premium.",
+  "@faqOpeningClosingReminderAnswer": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@faqRateAppQuestion": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@freemiumLabelPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  }
+}

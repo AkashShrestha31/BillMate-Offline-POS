@@ -1,0 +1,2653 @@
+{
+  "@@locale": "bn",
+  "noInternetConnection": "ইন্টারনেট সংযোগ নেই।",
+  "formatException": "ফরম্যাট ব্যতিক্রম",
+  "rememberMe": "আমাকে মনে রাখুন",
+  "signIn": "সাইন ইন করুন",
+  "passwordHint": "পাসওয়ার্ড দিন",
+  "forgetPassword": "লগইন তথ্য ভুলে গেছেন?",
+  "okay": "ঠিক আছে",
+  "success": "সফল",
+  "hotel": "হোটেল",
+  "errorEncountered": "ত্রুটি পাওয়া গেছে",
+  "serverError": "সার্ভার ত্রুটি",
+  "requestFailed": "অনুরোধ ব্যর্থ",
+  "connectionTimedOut": "সংযোগ সময় শেষ",
+  "password": "পাসওয়ার্ড",
+  "keepSignIn": "সাইন ইন থাকুন",
+  "enterPassword": "পাসওয়ার্ড দিন",
+  "enterValidPassword": "বৈধ পাসওয়ার্ড দিন",
+  "skip": "এড়িয়ে যান",
+  "pleaseWait": "অনুগ্রহ করে অপেক্ষা করুন ....",
+  "enterValidUserName": "বৈধ ব্যবহারকারীর নাম দিন।",
+  "userName": "ব্যবহারকারীর নাম",
+  "or": "অথবা",
+  "retry": "আবার চেষ্টা",
+  "error": "ত্রুটি",
+  "supportMessage": "অনুগ্রহ করে অ্যাডমিনের সাথে যোগাযোগ করুন।",
+  "responseMessage404": "৪০৪ ত্রুটি",
+  "appDisplayName": "BizTrack",
+  "appVersionLabel": "সংস্করণ {version}",
+  "@appVersionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "বাতিল",
+  "yes": "হ্যাঁ",
+  "no": "না",
+  "close": "বন্ধ করুন",
+  "save": "সংরক্ষণ করুন",
+  "delete": "মুছুন",
+  "confirm": "নিশ্চিত করুন",
+  "done": "সম্পন্ন",
+  "next": "পরবর্তী",
+  "getStarted": "শুরু করুন",
+  "back": "পিছনে",
+  "submit": "জমা দিন",
+  "continueAction": "চালিয়ে যান",
+  "tryAgain": "আবার চেষ্টা করুন",
+  "warning": "সতর্কতা",
+  "loading": "লোড হচ্ছে…",
+  "comingSoon": "শীঘ্রই আসছে",
+  "required": "প্রয়োজনীয়",
+  "search": "অনুসন্ধান",
+  "add": "যোগ করুন",
+  "edit": "সম্পাদনা করুন",
+  "remove": "সরান",
+  "view": "দেখুন",
+  "export": "এক্সপোর্ট",
+  "import": "আমদানি করুন",
+  "refresh": "রিফ্রেশ করুন",
+  "select": "নির্বাচন করুন",
+  "upload": "আপলোড করুন",
+  "download": "ডাউনলোড করুন",
+  "share": "শেয়ার করুন",
+  "filter": "ফিল্টার",
+  "sort": "সাজান",
+  "apply": "প্রয়োগ করুন",
+  "reset": "পুনরায় সেট করুন",
+  "clear": "মুছুন",
+  "all": "সব",
+  "none": "কোনোটিই না",
+  "total": "মোট",
+  "subtotal": "উপমোট",
+  "grandTotal": "সর্বমোট",
+  "amount": "পরিমাণ",
+  "quantity": "পরিমাণ",
+  "rate": "হার",
+  "discount": "ছাড়",
+  "paid": "পরিশোধিত",
+  "unpaid": "অপরিশোধিত",
+  "credit": "ধার",
+  "cash": "নগদ",
+  "date": "তারিখ",
+  "time": "সময়",
+  "name": "নাম",
+  "email": "ইমেল",
+  "phone": "ফোন",
+  "address": "ঠিকানা",
+  "notes": "নোট",
+  "description": "বিবরণ",
+  "status": "অবস্থা",
+  "type": "ধরন",
+  "category": "বিভাগ",
+  "party": "পক্ষ",
+  "item": "পণ্য",
+  "payment": "পেমেন্ট",
+  "settlement": "নিষ্পত্তি",
+  "opening": "প্রারম্ভিক",
+  "closing": "সমাপনী",
+  "stock": "Stock reconciliation",
+  "expense": "ব্যয়",
+  "revenue": "রাজস্ব",
+  "profit": "লাভ",
+  "loss": "ক্ষতি",
+  "sales": "বিক্রয়",
+  "purchase": "ক্রয়",
+  "monthJan": "জান",
+  "monthFeb": "ফেব",
+  "monthMar": "মার্চ",
+  "monthApr": "এপ্রি",
+  "monthMay": "মে",
+  "monthJun": "জুন",
+  "monthJul": "জুল",
+  "monthAug": "আগ",
+  "monthSep": "সেপ",
+  "monthOct": "অক্ট",
+  "monthNov": "নভ",
+  "monthDec": "ডিস",
+  "more": "আরো",
+  "profile": "প্রোফাইল",
+  "operations": "অপারেশন",
+  "employeeManagement": "কর্মচারী ব্যবস্থাপনা",
+  "report": "প্রতিবেদন",
+  "helpAndSupport": "সাহায্য ও সহায়তা",
+  "privacyAndPolicies": "গোপনীয়তা ও নীতি",
+  "faq": "সাধারণ জিজ্ঞাসা",
+  "contactSupport": "সহায়তায় যোগাযোগ করুন",
+  "rateUs": "আমাদের রেট করুন",
+  "rateUsSubtitle": "BizTrack উপভোগ করছেন? Google Play-এ রিভিউ দিন",
+  "rateUsUnavailable": "স্টোর খুলতে পারেনি। পরে আবার চেষ্টা করুন।",
+  "reportProblem": "সমস্যা রিপোর্ট",
+  "logout": "লগ আউট",
+  "signOut": "সাইন আউট",
+  "settings": "সেটিংস",
+  "testData": "পরীক্ষামূলক ডেটা",
+  "regionAndCurrency": "অঞ্চল ও মুদ্রা",
+  "reportingCurrency": "রিপোর্টিং মুদ্রা",
+  "selectCurrency": "মুদ্রা নির্বাচন করুন",
+  "currencySample": "{code} · {symbol} · নমুনা {sample}",
+  "@currencySample": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      },
+      "sample": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdated": "মুদ্রা {code} ({symbol})-এ সেট করা হয়েছে",
+  "@currencyUpdated": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdateFailed": "মুদ্রা আপডেট করা যায়নি: {error}",
+  "@currencyUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "setupAppTitle": "{appName} সেটআপ করুন",
+  "@setupAppTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "setupSubtitle": "আপনার প্রতিষ্ঠান ও হিসাব কনফিগার করুন — অফলাইন ব্যবহারের জন্য এই ডিভাইসে সংরক্ষিত।",
+  "regionAndCurrencySubtitle": "লোকেল ও প্রতিবেদন মুদ্রা।",
+  "country": "দেশ",
+  "currency": "মুদ্রা",
+  "selectCountry": "দেশ নির্বাচন করুন",
+  "language": "ভাষা",
+  "selectLanguage": "ভাষা নির্বাচন করুন",
+  "languageUpdated": "ভাষা {name}-এ সেট করা হয়েছে",
+  "@languageUpdated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "languageUpdateFailed": "ভাষা আপডেট করা যায়নি: {error}",
+  "@languageUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToApp": "{appName}-এ স্বাগতম",
+  "@welcomeToApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "forceUpdateMessage": "চালিয়ে যেতে অনুগ্রহ করে {appName}-এর সর্বশেষ সংস্করণ ইনস্টল করুন।",
+  "@forceUpdateMessage": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "generatedByApp": "{appName} দ্বারা তৈরি",
+  "@generatedByApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "whatIsApp": "{appName} কী?",
+  "@whatIsApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "appDescriptionFaq": "{appName} আপনাকে বিক্রয় ও ক্রয় চালান, পক্ষ (গ্রাহক ও সরবরাহকারী), মজুদ, পেমেন্ট, কর্মচারী ও দৈনিক সারাংশ পরিচালনা করতে সাহায্য করে — আপনার ফোন বা ট্যাবলেট থেকে।",
+  "@appDescriptionFaq": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "faqIntro": "{appName} সম্পর্কে সাধারণ প্রশ্নের উত্তর।",
+  "@faqIntro": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseFromGallery": "গ্যালারি থেকে বেছে নিন",
+  "takePhoto": "ছবি তুলুন",
+  "photoLibrary": "ফটো লাইব্রেরি",
+  "addPhoto": "ছবি যোগ করুন",
+  "couldNotPickImage": "ছবি বেছে নেওয়া যায়নি: {error}",
+  "@couldNotPickImage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteOrganizationTitle": "সংগঠন মুছুন?",
+  "deleteOrganizationMessage": "এই ডিভাইস থেকে {name} সরান। এই সংগঠনের সমস্ত স্থানীয় ডেটা মুছে ফেলা হবে।",
+  "deleteOrganizationWarning": "এটি পূর্বাবস্থায় ফেরানো যাবে না।",
+  "organizationDeleted": "সংগঠন মুছে ফেলা হয়েছে",
+  "createAction": "তৈরি করুন",
+  "connectOrganizationTitle": "আপনার সংগঠন সংযুক্ত করুন",
+  "connectOrganizationSubtitle": "সাইন ইন করতে একটি সংগঠন নির্বাচন করুন।",
+  "selectOrganization": "সংগঠনসমূহ",
+  "selectOrganizationHint": "চালিয়ে যেতে একটি সংগঠনে ট্যাপ করুন",
+  "noSavedOrganizationsYet": "এখনো কোনো সংগঠন নেই। একটি তৈরি করুন বা নিচের পরীক্ষামূলক ডেটা ব্যবহার করুন।",
+  "orgConnectOnceInfo": "এটি অ্যাপটিকে আপনার ব্যবসায়িক অ্যাকাউন্টের সাথে যুক্ত করে। আপনাকে এটি প্রতিটি ডিভাইসে একবারই সেট করতে হবে।",
+  "organizationCodeLabel": "কোড: {code}",
+  "loginWithTestData": "পরীক্ষামূলক ডেটা দিয়ে লগইন করুন",
+  "loginWithTestDataSubtitle": "ডেমো হোটেল ডেটা লোড করুন এবং স্বয়ংক্রিয়ভাবে সাইন ইন করুন",
+  "testDataLoginFailed": "পরীক্ষামূলক ডেটা লোড করা যায়নি: {error}",
+  "preparingTestData": "ডেমো ডেটা প্রস্তুত হচ্ছে…",
+  "setupOrganizationName": "সংগঠনের নাম",
+  "setupCompanyName": "কোম্পানির নাম",
+  "setupBusinessType": "ব্যবসার ধরন",
+  "businessTypeHotel": "হোটেল",
+  "businessTypeRestaurant": "রেস্তোরাঁ",
+  "businessTypeHotelRestaurant": "হোটেল ও রেস্তোরাঁ",
+  "businessTypeRetail": "খুচরা / দোকান",
+  "businessTypeCafe": "ক্যাফে / বেকারি",
+  "businessTypeBar": "বার / পাব",
+  "businessTypeOther": "অন্যান্য",
+  "organizationBusinessTypeLabel": "ধরন: {type}",
+  "@organizationBusinessTypeLabel": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "organizationSettings": "প্রতিষ্ঠান",
+  "editOrganizationInfo": "প্রতিষ্ঠানের তথ্য",
+  "editOrganizationInfoSubtitle": "অ্যাপে এই ব্যবসাটি কীভাবে প্রদর্শিত হয় তা আপডেট করুন। প্রতিষ্ঠানের কোড পরিবর্তন করা যাবে না।",
+  "organizationCode": "প্রতিষ্ঠানের কোড",
+  "organizationCodeReadOnly": "সেটআপের পরে এই কোডটি স্থির।",
+  "organizationInfoUpdated": "প্রতিষ্ঠানের তথ্য সংরক্ষিত হয়েছে",
+  "organizationInfoLoadFailed": "প্রতিষ্ঠানের তথ্য লোড করা যায়নি",
+  "organizationInfoSaveFailed": "প্রতিষ্ঠানের তথ্য সংরক্ষণ করা যায়নি: {error}",
+  "@organizationInfoSaveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "saveChanges": "পরিবর্তন সংরক্ষণ করুন",
+  "setupFullName": "পুরো নাম",
+  "setupConfirmPassword": "পাসওয়ার্ড নিশ্চিত করুন",
+  "setupBankName": "ব্যাংকের নাম",
+  "setupRegionStepTitle": "অঞ্চল ও মুদ্রা",
+  "setupOrganizationStepTitle": "সংগঠন",
+  "setupOrganizationStepSubtitle": "আপনার ব্যবসা অ্যাপে কীভাবে দেখায়",
+  "setupAdminStepTitle": "অ্যাডমিন অ্যাকাউন্ট",
+  "setupAdminStepSubtitle": "এই ইনস্টলেশনের প্রাথমিক ব্যবহারকারী",
+  "setupAccountingStepTitle": "হিসাবরক্ষণ",
+  "setupAccountingStepSubtitle": "ব্যাংক, হিসাবের তালিকা এবং আর্থিক বছর",
+  "setupCompleteSetup": "সেটআপ সম্পন্ন করুন",
+  "fieldRequired": "{field} আবশ্যক",
+  "invalidEmailAddress": "একটি বৈধ ইমেল ঠিকানা দিন",
+  "passwordMinLength": "পাসওয়ার্ড কমপক্ষে {min} অক্ষরের হতে হবে",
+  "passwordsDoNotMatch": "পাসওয়ার্ড মেলে না",
+  "setupFixValidationErrors": "চালিয়ে যেতে নিচের ত্রুটিগুলো ঠিক করুন",
+  "setupCompleteSuccess": "সেটআপ সফলভাবে সম্পন্ন হয়েছে",
+  "setupCompleteWithPdfSuccess": "সেটআপ সম্পন্ন। PDF নিরাপদ স্থানে সংরক্ষণ করুন।",
+  "setupPdfFailed": "সেটআপ সম্পন্ন হয়েছে, কিন্তু PDF সংরক্ষণ করা যায়নি: {error}",
+  "setupFailed": "সেটআপ সম্পন্ন করা যায়নি। আবার চেষ্টা করুন।",
+  "setupFailedWithDetails": "সেটআপ ব্যর্থ: {error}",
+  "languageChangeLaterHint": "আপনি পরে সেটিংস থেকে এটি পরিবর্তন করতে পারবেন",
+  "unpaidAmount": "অপরিশোধিত পরিমাণ",
+  "unpaidBalance": "অপরিশোধিত",
+  "unpaidColonAmount": "অপরিশোধিত: {amount}",
+  "previousUnpaid": "অপরিশোধিত",
+  "partyUnpaid": "অপরিশোধিত",
+  "loadingUnpaid": "অপরিশোধিত…",
+  "totalUnpaid": "অপরিশোধিত",
+  "unpaidAmountNotYetCollected": "অপরিশোধিত পরিমাণ এখনও সংগ্রহ করা হয়নি।",
+  "partyUnpaidTabHint": "কর্মচারী খুলুন, একজন ব্যক্তি নির্বাচন করুন, তারপর তাদের প্রোফাইলে পার্টি অপরিশোধিত ট্যাপ করুন। এই অনুসন্ধানের জন্য সার্ভারে কর্মচারী আইডি প্রয়োজন।",
+  "partySettlementUsesUnpaidTotal": "পার্টি নিষ্পত্তি অপরিশোধিত মোট ব্যবহার করে।",
+  "selectPartyWithUnpaidFirst": "প্রথমে নিষ্পত্তির পরিমাণ লিখুন (বা অপরিশোধিত সহ একটি পার্টি নির্বাচন করুন)।",
+  "@unpaidColonAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "partyRolesTitle": "পক্ষের ভূমিকা",
+  "partyRolesMoreSubtitle": "গ্রাহক, সরবরাহকারী, উভয় এবং আরো",
+  "searchRoles": "ভূমিকা খুঁজুন",
+  "roleCount": "{count, plural, =1{১টি ভূমিকা} other{{count}টি ভূমিকা}}",
+  "@roleCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noRolesYet": "এখনো কোনো ভূমিকা নেই",
+  "noRolesYetHint": "যোগাযোগের জন্য গ্রাহক, সরবরাহকারী, উভয়, বা কাস্টম ভূমিকা যোগ করুন।",
+  "addRole": "ভূমিকা যোগ করুন",
+  "deleteRoleTitle": "ভূমিকা মুছুন",
+  "deleteRoleConfirm": "\"{name}\" মুছবেন? এটি পূর্বাবস্থায় ফেরানো যাবে না।",
+  "@deleteRoleConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteRoleHasPartiesMessage": "\"{name}\" {partyCount, plural, =1{১টি পক্ষ} other{{partyCount}টি পক্ষ}} ব্যবহার করছে। এই পক্ষগুলি অন্য ভূমিকায় স্থানান্তর করুন, অথবা জোর করে মুছুন।",
+  "@deleteRoleHasPartiesMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "transferParties": "পক্ষ স্থানান্তর করুন",
+  "hardDeleteLoseParties": "জোর করে মুছুন (পক্ষ হারাবেন)",
+  "hardDeleteRoleTitle": "জোর করে মুছবেন?",
+  "hardDeleteRoleMessage": "এটি \"{name}\" এবং {partyCount, plural, =1{১টি পক্ষ} other{{partyCount}টি পক্ষ}} স্থায়ীভাবে মুছে দেবে। পক্ষের ডেটা পুনরুদ্ধার করা যাবে না।\n\nচালান বা পেমেন্টের সাথে লিঙ্কযুক্ত পক্ষ মুছে নাও যেতে পারে।",
+  "@hardDeleteRoleMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteRoleAndParties": "ভূমিকা এবং পক্ষ মুছুন",
+  "addAnotherRoleBeforeDelete": "এটি মুছার আগে আরেকটি ভূমিকা যোগ করুন।",
+  "transferPartiesMoveMessage": "\"{fromRole}\" থেকে {partyCount, plural, =1{১টি পক্ষ} other{{partyCount}টি পক্ষ}} সরান:",
+  "@transferPartiesMoveMessage": {
+    "placeholders": {
+      "partyCount": {
+        "type": "int"
+      },
+      "fromRole": {
+        "type": "String"
+      }
+    }
+  },
+  "transferAndDeleteRole": "স্থানান্তর করুন এবং ভূমিকা মুছুন",
+  "builtInRole": "অন্তর্নির্মিত",
+  "rolePartyCount": "{count, plural, =1{১টি পক্ষ} other{{count}টি পক্ষ}}",
+  "@rolePartyCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noPartiesYet": "এখনো কোনো পক্ষ নেই",
+  "newRole": "নতুন ভূমিকা",
+  "editRole": "ভূমিকা সম্পাদনা করুন",
+  "defaultRolesCannotEdit": "ডিফল্ট ভূমিকা পুনর্নামকরণ বা মুছা যাবে না।",
+  "roleNameLabel": "ভূমিকার নাম *",
+  "roleNameHint": "যেমন: গ্রাহক",
+  "roleDescriptionLabel": "বিবরণ",
+  "roleDescriptionHint": "আপনার দলের জন্য সংক্ষিপ্ত নোট",
+  "roleSortOrderLabel": "সাজানোর ক্রম",
+  "roleSortOrderHint": "কম সংখ্যা তালিকায় আগে দেখায়",
+  "roleCreated": "ভূমিকা তৈরি হয়েছে",
+  "roleUpdated": "ভূমিকা আপডেট হয়েছে",
+  "roleDeleted": "ভূমিকা মুছা হয়েছে",
+  "roleDeletedPartiesTransferred": "ভূমিকা মুছা হয়েছে। {count, plural, =1{১টি পক্ষ} other{{count}টি পক্ষ}} {targetRole}-এ সরানো হয়েছে।",
+  "@roleDeletedPartiesTransferred": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "targetRole": {
+        "type": "String"
+      }
+    }
+  },
+  "roleAndPartiesDeleted": "ভূমিকা এবং {count, plural, =1{১টি পক্ষ} other{{count}টি পক্ষ}} মুছা হয়েছে।",
+  "@roleAndPartiesDeleted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@deleteOrganizationMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@organizationCodeLabel": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "@testDataLoginFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@fieldRequired": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "@passwordMinLength": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "@setupPdfFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@setupFailedWithDetails": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "workspace": "কর্মক্ষেত্র",
+  "change": "পরিবর্তন করুন",
+  "addMoreOrganization": "আরো যোগ করুন +",
+  "connectAnotherOrganization": "অন্য সংগঠন সংযুক্ত করুন",
+  "noSavedOrganizationsUseAddMore": "এখনো কোনো সংগঠন সংরক্ষিত নেই। সংযোগ করতে আরো যোগ করুন + ব্যবহার করুন।",
+  "registerNewOrganizationTitleSignedIn": "নতুন সংগঠন নিবন্ধন করবেন?",
+  "registerNewOrganizationTitle": "নতুন সংগঠন নিবন্ধন করবেন?",
+  "registerNewOrganizationMessageSignedIn": "আপনাকে সাইন আউট করা হবে এবং সেটআপ উইজার্ড শুরু থেকে শুরু হবে।\n\nআপনি ইতিমধ্যে সংরক্ষণ করা সংগঠনগুলি সেটআপের পরেও তালিকায় থাকবে।",
+  "registerNewOrganizationMessageLogin": "সেটআপ উইজার্ড শুরু হবে। এটি তৈরি করতে সেটআপ সম্পন্ন করুন; আপনার সংরক্ষিত সংগঠনগুলি তালিকায় থাকবে।",
+  "startSetup": "সেটআপ শুরু করুন",
+  "enterOrganizationCode": "আপনার সংগঠন কোড দিন",
+  "organizationNotFoundCheckCode": "সংগঠন পাওয়া যায়নি। কোড যাচাই করে আবার চেষ্টা করুন।",
+  "organizationNotFound": "সংগঠন পাওয়া যায়নি",
+  "couldNotVerifyOrganization": "সংগঠন যাচাই করা সম্ভব হয়নি",
+  "noLocalDataCompleteSetup": "{name}-এর জন্য কোনো স্থানীয় ডেটা নেই। প্রথমে এই সংগঠনের সেটআপ সম্পন্ন করুন।",
+  "@noLocalDataCompleteSetup": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeBack": "আবার স্বাগতম",
+  "signInToContinue": "চালিয়ে যেতে সাইন ইন করুন",
+  "enterEmail": "ইমেল দিন",
+  "pleaseEnterEmail": "আপনার ইমেল দিন",
+  "pleaseEnterValidEmail": "একটি বৈধ ইমেল দিন",
+  "enterEmailLocalPartOnly": "শুধু @ এর আগের অংশ দিন",
+  "pleaseEnterPassword": "আপনার পাসওয়ার্ড দিন",
+  "logIn": "লগ ইন",
+  "searchCountry": "দেশ খুঁজুন",
+  "searchCodeOrSymbol": "কোড বা প্রতীক খুঁজুন",
+  "saveLoginDetailsTitle": "লগইন বিবরণ সংরক্ষণ করবেন?",
+  "saveLoginDetailsMessage": "আপনি এই সংগঠনের সেটআপ সম্পন্ন করতে যাচ্ছেন।\n\nআপনি কি নিরাপদে সংগঠন কোড, নাম, লগইন ইমেল এবং পাসওয়ার্ড সহ একটি PDF ডাউনলোড করতে চান? এটি নিরাপদ স্থানে রাখুন।",
+  "downloadPdfAndContinue": "PDF ডাউনলোড করুন এবং চালিয়ে যান",
+  "continueWithoutPdf": "PDF ছাড়া চালিয়ে যান",
+  "legalDisplayNameHint": "আইনি / প্রদর্শন নাম",
+  "chartOfAccounts": "হিসাবের তালিকা",
+  "fiscalYearStart": "আর্থিক বছর শুরু",
+  "fiscalYearEnd": "আর্থিক বছর শেষ",
+  "removeTestDataTitle": "পরীক্ষামূলক ডেটা সরাবেন?",
+  "removeTestDataMessageDemoOrg": "সমস্ত ডেমো বিক্রয়, ক্রয়, যোগাযোগ, পক্ষ, মজুদ আইটেম, কর্মচারী এবং অতিরিক্ত ডেমো সংগঠনগুলি সরানো হবে।\n\nআপনি একটি ডেমো সংগঠনে আছেন — এরপর স্বয়ংক্রিয়ভাবে আপনার প্রথম সংগঠনে ফিরিয়ে দেওয়া হবে।",
+  "removeTestDataMessageNormal": "সমস্ত ডেমো বিক্রয়, ক্রয়, যোগাযোগ, পক্ষ, মজুদ আইটেম, কর্মচারী এবং ৩টি অতিরিক্ত ডেমো সংগঠন সরানো হবে।",
+  "removeTestDataWarning": "আবার পরীক্ষামূলক ডেটা লোড না করলে এটি পূর্বাবস্থায় ফেরানো যাবে না।",
+  "removeTestData": "পরীক্ষামূলক ডেটা সরান",
+  "keepTestData": "পরীক্ষামূলক ডেটা রাখুন",
+  "demoDataRemoved": "ডেমো ডেটা সরানো হয়েছে",
+  "testDataRemovedSwitchedTo": "পরীক্ষামূলক ডেটা সরানো হয়েছে। {name}-এ স্থানান্তরিত।",
+  "@testDataRemovedSwitchedTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "testDataRemoved": "পরীক্ষামূলক ডেটা সরানো হয়েছে",
+  "couldNotRemoveTestData": "পরীক্ষামূলক ডেটা সরানো যায়নি: {error}",
+  "@couldNotRemoveTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loadTestDataTitle": "পরীক্ষামূলক ডেটা লোড করবেন?",
+  "loadTestDataMessage": "এটি ডেমো যোগাযোগ, মজুদ আইটেম, বিক্রয়, ক্রয়, পেমেন্ট, স্টক, কর্মচারী এবং গত ১৫ দিনের উপস্থিতি যোগ করবে।",
+  "loadTestData": "পরীক্ষামূলক ডেটা লোড করুন",
+  "testDataLoaded": "পরীক্ষামূলক ডেটা লোড হয়েছে",
+  "couldNotLoadTestData": "পরীক্ষামূলক ডেটা লোড করা যায়নি: {error}",
+  "@couldNotLoadTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "demoTestData": "ডেমো পরীক্ষামূলক ডেটা",
+  "importTestDataSubtitle": "সমস্ত ফিচারের জন্য পরীক্ষামূলক ডেটা আমদানি করুন",
+  "hideTestDataTitle": "এই সংগঠনের জন্য পরীক্ষামূলক ডেটা লুকাবেন?",
+  "hideTestDataMessage": "যদি চালিয়ে যান, এই সংগঠনের সর্বত্র পরীক্ষামূলক ডেটা বিভাগ লুকানো হবে।",
+  "hideTestDataWarning": "ইতিমধ্যে লোড করা ডেমো ডেটা ডাটাবেসে থাকবে যতক্ষণ না আপনি সেটিংস থেকে এটি সরান।",
+  "okHideTestData": "ঠিক আছে, পরীক্ষামূলক ডেটা লুকান",
+  "testDataHiddenForOrg": "এই সংগঠনের জন্য পরীক্ষামূলক ডেটা লুকানো হয়েছে",
+  "hideTestDataTooltip": "এই সংগঠনের জন্য পরীক্ষামূলক ডেটা লুকান",
+  "privacyPolicyTitle": "গোপনীয়তা নীতি",
+  "termsAndConditions": "শর্তাবলী",
+  "logoutConfirmTitle": "লগআউট",
+  "logoutConfirmMessage": "আপনি কি আপনার অ্যাকাউন্ট থেকে লগআউট করতে চান?",
+  "faqTapToExpand": "প্রসারিত করতে একটি প্রশ্নে ট্যাপ করুন।",
+  "faqSectionGettingStarted": "শুরু করুন",
+  "faqSectionLogin": "লগইন",
+  "faqSectionNavigation": "নেভিগেশন",
+  "faqSectionInvoices": "চালানসমূহ",
+  "faqSectionPayments": "পেমেন্টসমূহ",
+  "faqSectionItemsStock": "আইটেম ও স্টক",
+  "faqSectionProfileEmployees": "প্রোফাইল ও কর্মচারী",
+  "faqSectionDashboardReports": "ড্যাশবোর্ড ও রিপোর্ট",
+  "faqSectionSyncTroubleshooting": "সিঙ্ক ও সমস্যা সমাধান",
+  "faqNeedInternetQuestion": "আমার কি ইন্টারনেট দরকার?",
+  "faqNeedInternetAnswer": "প্রথমবার স্থানীয় সেটআপের পরে, আপনি ইন্টারনেট ছাড়াই চালান, আইটেম এবং পেমেন্ট রেকর্ড করতে পারবেন। ডেটা আপনার ডিভাইসে থাকে।",
+  "faqFirstInstallQuestion": "প্রথম ইনস্টলে কী হয়?",
+  "faqFirstInstallAnswer": "আপনি একটি সংক্ষিপ্ত ওয়াকথ্রু দেখতে পাবেন, তারপর স্থানীয় সেটআপ (সংগঠন, কোম্পানি, ইমেল ও পাসওয়ার্ড, মুদ্রা, আর্থিক বছর)। এরপর সাইন ইন করুন।",
+  "faqSignInCredentialsQuestion": "সাইন ইন করতে কী ব্যবহার করব?",
+  "faqSignInCredentialsAnswer": "সেটআপের আপনার ইমেল ঠিকানা এবং পাসওয়ার্ড।",
+  "faqLoggedOutQuestion": "কেন আমি লগআউট হয়ে গেলাম?",
+  "faqLoggedOutAnswer": "আপনি লগআউট বেছে নিয়েছেন, অ্যাপ ডেটা মুছেছেন, বা সেশনের মেয়াদ শেষ হয়েছে।",
+  "faqBottomTabsQuestion": "নিচের ট্যাবগুলো কী করে?",
+  "faqBottomTabsAnswer": "হোম — ড্যাশবোর্ড।\nবিক্রয় — বিক্রয় চালান।\nখরচ — ক্রয় চালান।\nমাঝের বোতাম — পক্ষ।\nআরো — প্রোফাইল, রিপোর্ট, লগআউট।",
+  "faqCreateInvoiceQuestion": "চালান কীভাবে তৈরি করব?",
+  "faqCreateInvoiceAnswer": "বিক্রয় বা খরচ খুলুন, তারিখ নির্বাচন করুন, + ট্যাপ করুন, আইটেম ও পরিমাণ যোগ করুন, তারপর সংরক্ষণ করুন।",
+  "faqInvoiceDetailsQuestion": "চালানের বিবরণ কীভাবে দেখব?",
+  "faqInvoiceDetailsAnswer": "তালিকায় যেকোনো চালানে ট্যাপ করুন।",
+  "faqZeroRateQuestion": "বিবরণে রেট বা পরিমাণ শূন্য দেখাচ্ছে",
+  "faqZeroRateAnswer": "পুরানো সেভে লাইন ডেটা অনুপস্থিত ছিল। অ্যাপ আপডেট করুন।",
+  "faqPartialPaymentQuestion": "আংশিক পেমেন্ট কীভাবে রেকর্ড করব?",
+  "faqPartialPaymentAnswer": "চালান খুলুন → লেনদেনের বিবরণ → পেমেন্ট করুন।",
+  "faqMultiplePaymentQuestion": "একাধিক পেমেন্ট কীভাবে কাজ করে?",
+  "faqMultiplePaymentAnswer": "একাধিক পেমেন্ট চালু করুন এবং নগদ, কার্ড, QR-এ মোট ভাগ করুন।",
+  "faqSplitPaymentSavedQuestion": "বিভাজন থেকে শুধুমাত্র একটি পেমেন্ট সংরক্ষিত হয়েছে",
+  "faqSplitPaymentSavedAnswer": "সর্বশেষ অ্যাপ সংস্করণে আপডেট করুন।",
+  "faqAddItemQuestion": "আইটেম কীভাবে যোগ করব?",
+  "faqAddItemAnswer": "বিক্রয় প্রবাহ থেকে আইটেম যোগ করুন। নাম, রেট, একক দিন, তারপর আইটেম তৈরি করুন।",
+  "faqCustomUnitQuestion": "কাস্টম একক কীভাবে যোগ করব?",
+  "faqCustomUnitAnswer": "আইটেম ফর্মে, একক ট্যাপ করুন → নতুন একক তৈরি করুন।",
+  "faqStockQuantitiesQuestion": "How do I enter stock quantities?",
+  "faqStockQuantitiesAnswer": "Live qty is In stock on each item. Set stock on an item to enter opening stock or a stock adjustment. Opening stock / stock reconciliation (upload or enter a count) also sets In stock when live tracking is on. Liquor prices is a pour-price list, not stock.",
+  "faqProfileNameQuestion": "আমি নাম পরিবর্তন করেছি কিন্তু প্রোফাইলে পুরানো নাম দেখাচ্ছে",
+  "faqProfileNameAnswer": "আপনার কর্মচারী রেকর্ড সম্পাদনা করুন এবং সংরক্ষণ করুন।",
+  "faqRevenueDetailsQuestion": "রাজস্ব বিবরণ কী?",
+  "faqRevenueDetailsAnswer": "দৈনিক ট্রেন্ড চার্ট, নিট মুনাফা এবং দিন-ভিত্তিক বিক্রয় বনাম ক্রয় বিভাজন সহ একটি মাসিক ভিউ।",
+  "faqOtherReportsQuestion": "অন্যান্য রিপোর্ট কোথায়?",
+  "faqOtherReportsAnswer": "আরো খুলুন এবং রিপোর্টের অধীনে দেখুন।",
+  "faqWhenSyncQuestion": "কখন সিঙ্ক করা উচিত?",
+  "faqWhenSyncAnswer": "শুধুমাত্র যখন আপনার প্রশাসক বলেন এবং স্থিতিশীল সংযোগ আছে।",
+  "faqFabPositionQuestion": "বিক্রয়/খরচে + বোতাম অনেক উঁচুতে দেখাচ্ছে",
+  "faqFabPositionAnswer": "এটি নিচের নেভিগেশন বারের উপরে থাকে।",
+  "faqHowLogoutQuestion": "কীভাবে লগআউট করব?",
+  "faqHowLogoutAnswer": "আরো → সেটিংস তালিকার নিচে লগআউট।",
+  "statisticsGoodMorning": "Good Morning",
+  "statisticsGoodAfternoon": "Good Afternoon",
+  "statisticsGoodEvening": "Good Evening",
+  "statisticsDefaultUser": "User",
+  "statisticsCheckConnection": "Please check your connection and try again.",
+  "statisticsCouldNotLoadProfile": "Could not load profile",
+  "statisticsCouldNotLoadData": "Could not load data",
+  "statisticsPeriodDay": "Day",
+  "statisticsPeriodMonth": "Month",
+  "statisticsPeriodYear": "Year",
+  "statisticsSelectedPeriod": "Selected Period",
+  "statisticsSelectMonth": "Select Month",
+  "statisticsSelectMonthSubtitle": "Choose a month to filter data",
+  "statisticsQuickOperations": "Quick Operations",
+  "statisticsAnnualRevenue": "Annual Revenue",
+  "statisticsCashflowLast7Days": "নগদ প্রবাহ (গত ৭ দিন)",
+  "statisticsCashflowLast12Months": "নগদ প্রবাহ (গত ১২ মাস)",
+  "statisticsDaily": "Daily",
+  "statisticsMonthly": "Monthly",
+  "statisticsOverall": "Overall",
+  "statisticsLast7Days": "Last 7 Days",
+  "statisticsLast12Months": "Last 12 Months",
+  "statisticsAllYears": "All Years",
+  "statisticsNoDataAvailable": "No data available",
+  "statisticsMoneyIn": "Money In",
+  "statisticsMoneyOut": "Money Out",
+  "statisticsIncome": "Income",
+  "statisticsExpenses": "Expenses",
+  "statisticsSalesSummary": "Sales Summary",
+  "statisticsPurchaseSummary": "Purchase Summary",
+  "statisticsTotalSales": "Total Sales",
+  "statisticsTotalIncome": "Total Income",
+  "statisticsTotalUnpaid": "Total Unpaid",
+  "statisticsTotalPurchase": "Total Purchase",
+  "statisticsPaidPurchase": "Paid Purchase",
+  "statisticsUnpaidPurchase": "Unpaid Purchase",
+  "statisticsEmployeeDashboard": "Employee Dashboard",
+  "statisticsDefaultEmployee": "Employee",
+  "statisticsDefaultDepartment": "Department",
+  "statisticsDefaultPosition": "Position",
+  "statisticsCurrentMonth": "Current Month",
+  "statisticsStatus": "Status",
+  "statisticsActive": "Active",
+  "statisticsWelcome": "Welcome",
+  "statisticsEmployeeWelcomeMessage": "You are logged in as an employee. Use the navigation menu to access available features.",
+  "statisticsRevenueDetails": "Revenue Details",
+  "statisticsEmployeeDetails": "Employee Details",
+  "statisticsChangeMonth": "Change month",
+  "statisticsFilterChartsSubtitle": "Filter charts and breakdown",
+  "statisticsDailyTrend": "Daily trend",
+  "statisticsDailyActivity": "Daily activity",
+  "statisticsNoDataForMonth": "No data for this month",
+  "statisticsNetProfit": "Net profit",
+  "statisticsMonthReceivables": "Month receivables",
+  "statisticsNoDailyEntries": "No daily entries for this month",
+  "statisticsDailySalesBreakdown": "Daily sales breakdown",
+  "statisticsDailyBreakdown": "Daily breakdown",
+  "statisticsAdvance": "Advance",
+  "statisticsExploreFeatures": "Explore Features",
+  "statisticsShowOrHideFeatures": "Show or hide features",
+  "statisticsAllFeaturesHidden": "All explore features are hidden",
+  "statisticsNoFeaturesForOrg": "No features available for your organization",
+  "statisticsTapTuneToShow": "Tap the tune icon above to show shortcuts again.",
+  "statisticsMenuCheck": "Reconciliation",
+  "statisticsMenuEmployee": "Employee",
+  "statisticsMenuOrder": "Order",
+  "statisticsMenuInventory": "Items",
+  "statisticsMenuCustomers": "Customers",
+  "statisticsMenuCalculator": "Liquor prices",
+  "statisticsMenuQuickExpenses": "Quick\nExpenses",
+  "statisticsMenuQuickSales": "Quick\nSales",
+  "statisticsMenuAddEmployee": "Add\nEmployee",
+  "statisticsMenuAddParty": "Add\nParty",
+  "statisticsMenuAddEmployeeSingle": "Add Employee",
+  "statisticsMenuAddPartySingle": "Add Party",
+  "statisticsGreeting": "{greeting}, {name}",
+  "@statisticsGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsEmployeeGreeting": "{greeting}, {name}!",
+  "@statisticsEmployeeGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDepartmentPosition": "{department} • {position}",
+  "@statisticsDepartmentPosition": {
+    "placeholders": {
+      "department": {
+        "type": "String"
+      },
+      "position": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricCollected": "{amount} collected",
+  "@statisticsMetricCollected": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricPaid": "{amount} paid",
+  "@statisticsMetricPaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyInAmount": "Money In: {amount}",
+  "@statisticsMoneyInAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyOutAmount": "Money Out: {amount}",
+  "@statisticsMoneyOutAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDayTooltip": "Day {day}\n{amount}",
+  "@statisticsDayTooltip": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsProfitMargin": "{percent}% margin",
+  "@statisticsProfitMargin": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "selectBusinessType": "Select business type",
+  "businessTypeHotelSubtitle": "Rooms, guests & front desk",
+  "businessTypeRestaurantSubtitle": "Dine-in, kitchen & table orders",
+  "businessTypeHotelRestaurantSubtitle": "Hotel rooms and restaurant together",
+  "businessTypeRetailSubtitle": "Products, stock & checkout",
+  "businessTypeCafeSubtitle": "Coffee, pastries & light bites",
+  "businessTypeBarSubtitle": "Drinks menu, tabs & bar sales",
+  "businessTypeOtherSubtitle": "Custom setup for any business",
+  "@invoiceCommonSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonInvoiceLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCustomerLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSupplierLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchingFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchItemsHint": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonEmptyForDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDeleteInvoiceConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCancelReturnMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPartyLoadingError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceFoundSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceFoundPurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDatePurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateInvoiceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteMessage": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceReturnCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotPrint": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotSave": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotShare": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonItemReturnedQty": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      },
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonMultiplePaymentSummary": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptFilename": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReturnAgainst": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSavedPath": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonUnpaidWithAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonTodayAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyExportReceipts": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyNoItemsMatching": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceQuickShowingItems": {
+    "placeholders": {
+      "shown": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickLoadedItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickScrollLoadMore": {
+    "placeholders": {
+      "perPage": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickCartWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemActionsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditSelectedItem": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditRateLabel": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditItemLabel": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemsError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditPartiesError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditSaveError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonActions": "Actions",
+  "invoiceCommonSearchItems": "Search Items",
+  "invoiceCommonSearchItemsSubtitle": "Search for specific items",
+  "invoiceCommonAddNewInvoice": "Add New Invoice",
+  "invoiceCommonAddSalesInvoiceSubtitle": "Create a new sales invoice",
+  "invoiceCommonAddPurchaseInvoiceSubtitle": "Create a new purchase invoice",
+  "invoiceCommonSelectMonthYear": "Select Month/Year",
+  "invoiceCommonSelectMonthYearSubtitle": "Jump to a specific month",
+  "invoiceCommonSelectMonthAndYear": "Select Month & Year",
+  "invoiceCommonFilterByDate": "Filter by date",
+  "invoiceCommonFilterByDateRange": "Filter by date range",
+  "invoiceCommonCloseSearch": "Close search",
+  "invoiceCommonSelectAll": "Select All",
+  "invoiceCommonToday": "Today",
+  "invoiceCommonTotalQuantity": "Total Quantity",
+  "invoiceCommonTotalAmount": "Total Amount",
+  "invoiceCommonTotal": "Total",
+  "invoiceCommonSearchForItems": "Search for items",
+  "invoiceCommonNoItemsFound": "No items found",
+  "invoiceCommonUnknownItem": "Unknown Item",
+  "invoiceCommonNotAvailable": "N/A",
+  "invoiceSalesCouldNotLoad": "Could not load sales",
+  "invoiceSalesNoFound": "No Sales found",
+  "invoiceSalesSelectDate": "Select a date to view Sales",
+  "invoiceSalesNoInvoicesFound": "No invoices found",
+  "invoiceSalesSelectDateLegacy": "Select a date to view invoices",
+  "invoicePurchaseCouldNotLoad": "Could not load expenses",
+  "invoicePurchaseNoFound": "No purchases found",
+  "invoicePurchaseSelectDate": "Select a date to view purchases",
+  "invoiceWeekdaySun": "Sun",
+  "invoiceWeekdayMon": "Mon",
+  "invoiceWeekdayTue": "Tue",
+  "invoiceWeekdayWed": "Wed",
+  "invoiceWeekdayThu": "Thu",
+  "invoiceWeekdayFri": "Fri",
+  "invoiceWeekdaySat": "Sat",
+  "invoiceCommonSelectedCount": "{count} Selected",
+  "invoiceCommonQtyLabel": "Qty: {qty}",
+  "invoiceCommonInvoiceLabel": "Invoice: {number}",
+  "invoiceCommonCustomerLabel": "Customer: {name}",
+  "invoiceCommonSupplierLabel": "Supplier: {name}",
+  "invoiceCommonSearchingFor": "Searching for \"{query}\"...",
+  "invoiceCommonSearchItemsHint": "Search items in {scope}...",
+  "invoiceCommonSalesSearchPrompt": "Type an item name to find all sales\nin {scope}",
+  "invoiceCommonPurchaseSearchPrompt": "Type an item name to find all purchases\nin {scope}",
+  "invoiceCommonSalesNoMatch": "No sales of \"{query}\"\nin {scope}",
+  "invoiceCommonPurchaseNoMatch": "No purchases of \"{query}\"\nin {scope}",
+  "invoiceCommonEmptyForDate": "for {date}",
+  "invoiceFoundSalesCount": "Found {count, plural, =1{1 sale} other{{count} sales}}",
+  "invoiceFoundPurchaseCount": "Found {count, plural, =1{1 purchase} other{{count} purchases}}",
+  "invoiceDateSalesCount": "{count, plural, =1{1 sale} other{{count} sales}}",
+  "invoiceDatePurchaseCount": "{count, plural, =1{1 purchase} other{{count} purchases}}",
+  "invoiceDateInvoiceCount": "{count, plural, =1{1 invoice} other{{count} invoices}}",
+  "invoiceDeleteTitle": "Delete {count, plural, =1{1 invoice} other{{count} invoices}}",
+  "invoiceDeleteMessage": "Are you sure you want to delete {count, plural, =1{1 selected invoice} other{{count} selected invoices}}? This action cannot be undone.",
+  "contacts": "Contacts",
+  "categories": "Categories",
+  "manageStaff": "Manage staff",
+  "payroll": "Payroll",
+  "attendance": "Attendance",
+  "profitAndLoss": "লাভ ও ক্ষতি",
+  "statementReport": "বিবৃতি",
+  "analytics": "বিশ্লেষণ",
+  "loggedOut": "Logged out",
+  "organizationCodeDisplay": "Code: {code}",
+  "@organizationCodeDisplay": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "moreDataSynchronization": "Data Synchronization",
+  "moreSendDataToClient": "Send Data to Client",
+  "moreSendDataToClientSubtitle": "Upload server data to client",
+  "moreSendDataToClientWarning": "This action will replace the current client database with data from the server. All recent client changes may be lost.",
+  "moreSendDataToClientConfirm": "Are you sure you want to send data to the client?",
+  "moreFetchDataFromClient": "Fetch Data from Client",
+  "moreFetchDataFromClientSubtitle": "Download client data to server",
+  "moreFetchDataFromClientWarning": "This action will replace the current server database with data from the client. All recent server changes may be lost.",
+  "moreFetchDataFromClientConfirm": "Are you sure you want to fetch data from the client?",
+  "notifications": "Notifications",
+  "openingReminder": "Opening reminder",
+  "closingReminder": "Closing reminder",
+  "openingTime": "Opening time",
+  "closingTime": "Closing time",
+  "notificationSettingsSaved": "Notification settings saved",
+  "notificationPermissionHint": "Allow notifications (and alarms on Android) so reminders work when the app is closed",
+  "dailyAtTime": "Daily at {time}",
+  "@dailyAtTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonYesterday": "Yesterday",
+  "invoiceCommonTodayAt": "Today, {time}",
+  "invoiceCommonDaysAgo": "{count} days ago",
+  "invoiceReturnCount": "{count, plural, =1{1 return} other{{count} returns}}",
+  "statisticsMonthRevenue": "Month Revenue",
+  "statisticsMonthExpenses": "Month Expenses",
+  "exploreCustomizeTitle": "Customize features",
+  "exploreCustomizeSubtitle": "Show or hide shortcuts on your home screen. Only features your organization can access are listed.",
+  "exploreVisibleOnDashboard": "Visible on dashboard",
+  "exploreHiddenOnDashboard": "Hidden on dashboard",
+  "partiesTitle": "Parties",
+  "partySearchByName": "Search by name…",
+  "partySortBy": "Sort By:",
+  "partySortLatest": "Latest",
+  "partySortAmountHighLow": "Amount: High to Low",
+  "partySortAmountLowHigh": "Amount: Low to High",
+  "partySortNameAZ": "Name: A to Z",
+  "partySortNameZA": "Name: Z to A",
+  "partyAddNew": "Add New Party",
+  "partyEdit": "Edit Party",
+  "partyUpdate": "Update Party",
+  "partyNameLabel": "Party Name*",
+  "partyNameHint": "Enter party name",
+  "partyNewNameLabel": "New Party Name*",
+  "partyNewNameHint": "Enter new party name",
+  "partyRoleLabel": "Party Role *",
+  "partyTapToSelect": "Tap to select",
+  "partySelectRoleValidation": "Please select role",
+  "partyEnterNameValidation": "Please enter party name",
+  "partyBasicInfo": "Basic Info",
+  "partyAdditionalInfo": "Additional Info",
+  "partyEmail": "Party Email",
+  "partyEmailHint": "Enter email address",
+  "partyPhone": "Phone Number",
+  "partyPhoneHint": "Enter phone number",
+  "partyAddress": "Party Address",
+  "partyAddressHint": "Enter address",
+  "partyRoleCustomer": "গ্রাহক",
+  "partyRoleSupplier": "Supplier",
+  "partyRoleRoom": "Room",
+  "partyRoleCabin": "Cabin",
+  "partyRoleEmployee": "Employee",
+  "partyRoleBoth": "Both",
+  "partyDefaultAccount": "Default Account",
+  "partyLoyaltyProgram": "Loyalty Program",
+  "partyLoyaltyPoints": "Loyalty Points",
+  "partySelectDefaultAccount": "Select Default Account",
+  "partySelectLoyaltyProgram": "Select Loyalty Program",
+  "partyCreateNewProgram": "Create new program",
+  "partySelectPartyRole": "Select Party Role",
+  "partyAccountDebtors": "Debtors",
+  "partyAccountCreditors": "Creditors",
+  "partyBothRoleHint": "Both means this party appears under Customer and Supplier only — not Room, Cabin, or Employee.",
+  "partyValidNumber": "Please enter valid number",
+  "partyValidAmount": "Please enter valid amount",
+  "exportAsPdf": "Export as PDF",
+  "sharePdf": "Share PDF",
+  "partyExportPdfTooltip": "Export PDF",
+  "checkoutSelectParty": "Select Party",
+  "checkoutCartSummary": "Cart summary",
+  "checkoutNoItemsInCart": "No items in cart",
+  "checkoutSearchHere": "Search here",
+  "checkoutCreateInvoice": "Create Invoice",
+  "checkoutEditInvoice": "Edit Invoice",
+  "checkoutSaveInvoice": "Save Invoice",
+  "checkoutInvoiceSummary": "Invoice Summary",
+  "checkoutEstimate": "Estimate",
+  "checkoutBasicInformation": "Basic Information",
+  "checkoutAddItems": "Add Items",
+  "checkoutItemsSection": "Items",
+  "checkoutPartyRequired": "Party *",
+  "checkoutPartyInformation": "Party Information",
+  "checkoutBillSummary": "Bill Summary",
+  "checkoutBillSummaryHint": "Tap to know more detailed calculation.",
+  "checkoutItemTotal": "Item Total",
+  "checkoutLoyaltyDiscount": "Loyalty Discount ({percent}%)",
+  "@checkoutLoyaltyDiscount": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutDiscountLine": "- Discount ({percent}%)",
+  "@checkoutDiscountLine": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutTapToEdit": "Tap to Edit",
+  "checkoutTotalAmount": "Total Amount",
+  "checkoutPaymentMode": "Record payment",
+  "checkoutPaymentModeHint": "Turn on to take payment now. Leave off to submit the bill unpaid and collect later.",
+  "checkoutNetSalesAmount": "Net Sales Amount",
+  "checkoutConfirmCheckout": "Confirm Checkout",
+  "checkoutEditDiscount": "Edit Discount",
+  "checkoutPercentage": "Percentage",
+  "checkoutDiscard": "Discard",
+  "checkoutPartialPayment": "Partial Payment",
+  "checkoutPartialPaymentBanner": "By activating Partial Payment the customer will be able to pay the amount less than the Total Billed Amount.",
+  "checkoutPleaseEnterAmounts": "Please enter respective amounts:",
+  "checkoutPartialPaymentEqualHint": "Since no user is assigned, the total amount should be equal to the total billed amount.",
+  "checkoutOverGrandTotalBy": "Over Grand Total by: {amount}",
+  "@checkoutOverGrandTotalBy": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutRemainingUnpaid": "Remaining (unpaid from Grand Total): {amount}",
+  "@checkoutRemainingUnpaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutConfirmPayment": "Confirm Payment",
+  "checkoutUnpaidCredit": "Unpaid / Credit",
+  "checkoutAddAtLeastOneLine": "Add at least one line item to view estimate",
+  "checkoutMultiplePayment": "Multiple Payment",
+  "checkoutPaymentStatus": "Payment status",
+  "checkoutPaymentMethods": "Payment methods",
+  "checkoutPaymentMethod": "Payment method",
+  "checkoutTenderAmount": "Tender amount",
+  "checkoutLoadingPaymentMethods": "Loading payment methods…",
+  "stocksTitle": "Stock reconciliation",
+  "stockUploadTooltip": "Opening stock",
+  "stockNoDataYet": "No opening stock yet",
+  "stockNoDataSubtitle": "Enter a physical count. With live tracking on, that count becomes In stock.",
+  "stockUploadAction": "Opening stock",
+  "stockSearchByDateHint": "Search by date or month…",
+  "stockNoMatches": "No matches",
+  "stockTryDifferentSearch": "Try a different search term",
+  "stockTryAnotherSearch": "Try another search",
+  "stockQtyLabel": "Qty {qty}",
+  "@stockQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "stockCardSummary": "{records} records · {items} items · {locations} locations",
+  "@stockCardSummary": {
+    "placeholders": {
+      "records": {
+        "type": "String"
+      },
+      "items": {
+        "type": "String"
+      },
+      "locations": {
+        "type": "String"
+      }
+    }
+  },
+  "stockFilterTitle": "Filter stock reconciliation",
+  "stockBatchNumber": "Batch number",
+  "stockLocation": "Location",
+  "stockOptionalHint": "Optional",
+  "stockApplyFilters": "Apply filters",
+  "stockClearFields": "Clear fields",
+  "stockDeleteAllTooltip": "Delete all stock for this date",
+  "stockNoItemsFound": "No stock items found",
+  "stockNoItemsSubtitle": "Try different filters or another reporting date.",
+  "stockAdjustFilters": "Adjust filters",
+  "stockSearchItemHint": "Search item, batch, location…",
+  "stockEditQuantities": "Edit quantities",
+  "stockNoChangesDetected": "No changes detected",
+  "stockErrorPreparingChanges": "Error preparing changes: {error}",
+  "@stockErrorPreparingChanges": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "stockUpdateSuccessful": "Update Successful!",
+  "stockSummary": "Summary",
+  "stockTotalRequested": "Total Requested",
+  "stockSuccessfullyUpdated": "Successfully Updated",
+  "stockFailed": "Failed",
+  "stockUpdateFailed": "Update Failed",
+  "stockClearAllQuantitiesTitle": "Clear All Quantities?",
+  "stockClearAllQuantitiesMessage": "This will reset all quantities to 0. Are you sure?",
+  "stockClearAll": "Clear All",
+  "stockUpdatingQuantities": "Updating stock quantities...",
+  "stockEditQuantitiesTitle": "Edit Stock Quantities",
+  "stockReportingDate": "Reporting Date: {date}",
+  "@stockReportingDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "stockTotalItemsHint": "Total items: {count} • Update quantities as needed",
+  "@stockTotalItemsHint": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "stockItemName": "Item Name",
+  "stockBatchPrefix": "Batch: {batch}",
+  "@stockBatchPrefix": {
+    "placeholders": {
+      "batch": {
+        "type": "String"
+      }
+    }
+  },
+  "stockDeleteConfirmTitle": "Confirm Deletion",
+  "stockDeleteConfirmIntro": "You are about to permanently delete all stock items for the following date:",
+  "stockDeleteConfirmWarning": "This action cannot be undone. All stock records for this date will be permanently deleted.",
+  "stockNoInternetRetry": "No internet connection. Please check your connection and try again.",
+  "itemsTitle": "Items",
+  "itemAddSheetTitle": "Add item",
+  "itemSingleAdd": "Single add",
+  "itemBulkAdd": "Bulk add",
+  "itemBulkAddTitle": "Bulk add items",
+  "itemEditTitle": "Edit Item",
+  "itemAddTitle": "Add Item",
+  "itemCreateButton": "Create Item",
+  "itemUpdateButton": "Update Item",
+  "itemDeleteTitle": "Delete Item",
+  "itemDeleteConfirm": "Are you sure you want to delete \"{name}\"?",
+  "itemDeletedSuccess": "Item deleted successfully",
+  "itemCreatedSuccess": "Item created successfully",
+  "itemUpdatedSuccess": "Item updated successfully",
+  "itemLoading": "Loading items...",
+  "itemErrorTitle": "Oops! Something went wrong",
+  "itemTryAgain": "Try Again",
+  "itemSearchHint": "Search items",
+  "itemNoItemsFound": "No items found",
+  "itemTryAdjustSearch": "Try adjusting your search terms",
+  "itemNoItemsAvailable": "No items available",
+  "itemAddToGetStarted": "Add items to get started",
+  "itemNoMoreItems": "No more items",
+  "itemPurposeBoth": "Both",
+  "itemPurposePurchases": "Purchases",
+  "itemTypeProduct": "Product",
+  "itemTypeService": "Service",
+  "itemTypeInventory": "Inventory",
+  "itemPhotoTitle": "Item photo",
+  "itemPhotoHint": "Click here to select or upload photos",
+  "itemPhotoFormats": "JPEG, PNG, GIF, or WebP · max 5MB",
+  "itemAddPhoto": "Add photo",
+  "itemPhotoLibrary": "Photo library",
+  "itemPhotoLibraryHint": "Choose from your photos",
+  "itemTakePhoto": "Take a photo",
+  "itemUploadGallery": "Upload from gallery",
+  "itemUploadGalleryHint": "Browse files on this device",
+  "itemTypeLabel": "Type",
+  "itemTypeField": "Item type",
+  "itemNameLabel": "Item name",
+  "itemNameHint": "Enter item name",
+  "itemBarcodeLabel": "Barcode / QR Code",
+  "itemBarcodeField": "Barcode / QR code",
+  "itemBarcodeHint": "Scan from app bar or paste",
+  "itemRateLabel": "Rate",
+  "itemUnitLabel": "Unit",
+  "itemPurposeLabel": "Purpose",
+  "itemSelectUnit": "Select unit",
+  "itemSelectPurpose": "Select purpose",
+  "itemSelectCategory": "Select category",
+  "itemSelectType": "Select type",
+  "itemSelectItemType": "Select item type",
+  "itemSearchUnits": "Search units…",
+  "itemSearchPurpose": "Search purpose…",
+  "itemSearchCategories": "Search categories…",
+  "itemCreateCustomUnit": "Create custom unit",
+  "itemUnitName": "Unit name",
+  "itemUnitNameHint": "e.g., Litre, Box, Piece",
+  "itemValidationName": "Please enter item name",
+  "itemValidationRate": "Please enter rate",
+  "itemValidationNumber": "Please enter valid number",
+  "itemSelectUnitRequired": "Please select a unit",
+  "itemSelectPurposeRequired": "Please select a purpose",
+  "itemImageMissing": "Image file is missing",
+  "itemImageFormatError": "Use JPEG, PNG, GIF, or WebP",
+  "itemImageSizeError": "Image must be 5MB or smaller",
+  "itemScanBarcode": "Scan barcode",
+  "itemNameFromCatalog": "Name filled from catalog: {name}",
+  "itemBarcodePasteHint": "No product name found — code pasted as name. Edit if needed.",
+  "itemBulkRefillTooltip": "Refill previous input",
+  "itemBulkAddRow": "Add row",
+  "itemBulkRowLabel": "Item {index}",
+  "itemBulkNameRequired": "Name required",
+  "itemBulkInvalidNumber": "Invalid number",
+  "itemBulkCreating": "Creating…",
+  "itemBulkCreateItems": "Create items",
+  "itemBulkCreatedCount": "{count} item(s) created",
+  "itemBulkCreateFailed": "Failed to create items: {error}",
+  "itemBulkNoDraft": "No saved draft found",
+  "itemBulkInvalidDraft": "Saved draft format is invalid",
+  "itemBulkDraftRestored": "Previous draft restored",
+  "itemBulkDraftRestoreFailed": "Could not restore saved draft",
+  "itemBulkAtLeastOne": "Add at least one item",
+  "itemBulkCategoriesLoading": "Categories are loading, please try again",
+  "itemBulkLoadingCategories": "Loading categories…",
+  "inventoryTitle": "Inventory Analytics",
+  "inventorySubtitle": "Real-time stock movement tracking",
+  "inventorySearchHint": "Search items...",
+  "inventorySold": "Sold",
+  "inventoryPurchased": "Purchased",
+  "catNoCategories": "No categories. Tap + to create.",
+  "catLoadCategories": "Load categories",
+  "catCreated": "Category created",
+  "catRenamed": "Category renamed",
+  "catDeleted": "Category deleted",
+  "catNewTitle": "New category",
+  "catRenameTitle": "Rename category",
+  "catNewName": "New name",
+  "catRename": "Rename",
+  "catDeleteTitle": "Delete category",
+  "catDeleteConfirm": "Delete \"{name}\"?",
+  "catDeleteLinkedHint": "Items are linked. You can force delete to unlink them.",
+  "catForceDelete": "Force delete",
+  "catItemsCount": "{count} items",
+  "contactFavoritesOnly": "Favorites only",
+  "contactShowAll": "Show all contacts",
+  "contactSearchHint": "Search name, phone, email…",
+  "contactNoConnection": "No connection",
+  "contactCheckNetwork": "Check your network and try again.",
+  "contactSomethingWrong": "Something went wrong",
+  "contactNoContacts": "No contacts",
+  "contactNoFavorites": "No favorites match. Turn off the star filter or add favorites in a contact.",
+  "contactTrySearchOrAdd": "Try a different search or tap + to add a contact.",
+  "contactEndOfList": "End of list",
+  "contactNewTooltip": "New contact",
+  "contactLoading": "Loading contacts…",
+  "contactUnknown": "Unknown",
+  "contactCallTooltip": "Call",
+  "contactEditTitle": "Edit contact",
+  "contactNewTitle": "New contact",
+  "contactSelectTitle": "Select contact",
+  "contactDeleteTitle": "Delete contact?",
+  "contactDeleteUndo": "This action cannot be undone.",
+  "contactNameRequired": "Name is required",
+  "contactNameLabel": "Name *",
+  "contactNameHint": "Contact name",
+  "contactPhoneHint": "+977-9841234567",
+  "contactEmailHint": "email@example.com",
+  "contactCategoryHint": "e.g. business, general, vip",
+  "contactCompanyHint": "Company name",
+  "contactFavorite": "Favorite",
+  "contactCannotCall": "Cannot make calls on this device",
+  "contactPermissionDenied": "Contact permission was denied. You can enable it in Settings.",
+  "contactPermissionRequired": "Contact permission is required to import from phone",
+  "contactImported": "Contact imported from phone",
+  "contactCreated": "Contact created",
+  "contactUpdated": "Contact updated",
+  "contactDeleted": "Contact deleted",
+  "contactImportSearchHint": "Search by name, phone, email, company",
+  "contactImportNoResults": "No contacts found",
+  "@itemDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemNameFromCatalog": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkRowLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreatedCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@catDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@catItemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutMultiplePaymentHint": "Turn this ON, if customer pays via multiple payment mode.",
+  "checkoutFillRemainingBalance": "Fill remaining balance",
+  "checkoutEnterAtLeastOnePayment": "Enter at least one payment amount",
+  "checkoutPaymentsExceedTotal": "Total payments cannot exceed the grand total",
+  "checkoutSentAs": "Sent as: {api}",
+  "@checkoutSentAs": {
+    "placeholders": {
+      "api": {
+        "type": "String"
+      }
+    }
+  },
+  "paymentCard": "Card",
+  "paymentQr": "QR",
+  "paymentBank": "Bank",
+  "paymentTransfer": "Transfer",
+  "paymentBankTransfer": "Bank Transfer",
+  "paymentSettlement": "Settlement",
+  "paymentCheque": "Cheque",
+  "paymentDigital": "Digital",
+  "paymentDigitalQr": "Digital (QR)",
+  "closeSummaryTitle": "ক্লোজিং সারাংশ",
+  "closeTabDashboard": "Dashboard",
+  "closeTabCredits": "Credits",
+  "closeWelcome": "Welcome to Closing Summary",
+  "closeSelectDateHint": "ডেটা লোড করতে তারিখ নির্বাচন করে রিফ্রেশ ট্যাপ করুন",
+  "closeLoadingDashboard": "Loading dashboard data...",
+  "closeDataDeleted": "Data deleted",
+  "closeErrorPrefix": "Error: {message}",
+  "@closeErrorPrefix": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExtraAmount": "Extra amount",
+  "closeExtraAmountDesc": "Additional cash or adjustments recorded for this closing day.",
+  "closeLostAmount": "Lost amount",
+  "closeLostAmountDesc": "Cash shortage or variance flagged for this period.",
+  "closeTapForDetails": "Tap for details",
+  "closeAmountLabel": "Closing",
+  "closeAmountFormula": "Closing Amount Formula",
+  "closeFormulaExpression": "Cash Sales - Cash Expenses = Closing Amount",
+  "closeCashSales": "Cash Sales",
+  "closeCashExpenses": "Cash Expenses",
+  "closeClosingAmount": "Closing Amount",
+  "closeWhatThisMeans": "What this means:",
+  "closeClosingMeaning": "This is the amount of cash that should be in your register/drawer at the end of the day. It represents all cash received minus all cash paid out.",
+  "closeQuickStats": "Quick Stats",
+  "closeTapCardHint": "Tap a card for a short description",
+  "closeOpeningBalance": "Opening Balance",
+  "closeTotalSales": "মোট বিক্রয়",
+  "closeQrAmount": "QR Amount",
+  "closeCashAmount": "Cash Amount",
+  "closeSalesDiscount": "Sales Discount",
+  "closeCreditQr": "Credit QR",
+  "closeCreditCash": "Credit Cash",
+  "closeCreditDiscount": "Credit Discount",
+  "closePayCashGetQr": "নগদ দিন → QR নিন",
+  "closePayQrGetCash": "QR দিন → নগদ নিন",
+  "closePaymentMix": "Payment mix",
+  "closePaymentMixHint": "Tap cash or digital · bar shows share of sales",
+  "closeCashVsDigitalTooltip": "Cash vs digital share of sales",
+  "closeSalesShareDesc": "{label} made up {percent}% of total sales for this day.",
+  "@closeSalesShareDesc": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSalesLabel": "{label} sales",
+  "@closeSalesLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "closeNoTransactions": "No transactions available",
+  "closeRecentTransactions": "Recent Transactions",
+  "closeViewAll": "View All",
+  "closeNoPurchases": "No purchases available",
+  "closeRecentPurchases": "Recent Purchases",
+  "closeNoSalesDate": "No sales for this date",
+  "closeNoSalesHint": "Sales will show here after they are recorded.",
+  "closeRoomSales": "Room sales",
+  "closeEmployeeSales": "Employee sales",
+  "closeOtherSales": "Other sales",
+  "closeSectionCount": "{title} ({count})",
+  "@closeSectionCount": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "closeDiscountShort": "Disc: {amount}",
+  "@closeDiscountShort": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "closePercentOff": "{percent}% off",
+  "@closePercentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closePending": "Pending",
+  "closeNoCreditPayments": "No Credit Payments",
+  "closeNoCreditHint": "Credit payments will appear here",
+  "closeViewStatistics": "View Statistics",
+  "closeExportData": "ডেটা এক্সপোর্ট",
+  "closeExportComingSoon": "এক্সপোর্ট ফিচার এখানে যোগ করা হবে",
+  "closeHintOpeningBalance": "Cash position at the start of the selected day.",
+  "closeHintTotalSales": "Sum of all sales recorded for this date.",
+  "closeHintQrAmount": "Payments received via QR or digital methods.",
+  "closeHintCashAmount": "Cash portion of sales for the day.",
+  "closeHintCashExpenses": "Cash paid out for expenses during the day.",
+  "closeHintSalesDiscount": "Discounts applied to sales.",
+  "closeHintCreditQr": "Credit-related QR collections.",
+  "closeHintCreditCash": "Credit-related cash movements.",
+  "closeHintCreditDiscount": "Discounts applied on credit transactions.",
+  "closeHintPayCashGetQr": "Exchange where cash was paid and QR credit received.",
+  "closeHintPayQrGetCash": "Exchange where QR was paid and cash was received.",
+  "closeOpeningAmount": "Opening Amount",
+  "closeCurrentAmount": "Current Amount",
+  "closeSaveReport": "Save Report",
+  "closeUpdateSummary": "Update Summary",
+  "closeExists": "Exists",
+  "closeExistingDataInfo": "You can view or modify existing data",
+  "closeEnterOpeningAmount": "Please enter an opening amount",
+  "closeEnterValidAmount": "Please enter a valid amount",
+  "languageSelectionSubtitle": "{appName} কীভাবে ব্যবহার করতে চান তা নির্বাচন করুন। আপনি পরে সেটিংস থেকে এটি পরিবর্তন করতে পারবেন।",
+  "searchLanguages": "ভাষা খুঁজুন",
+  "languageSuggestedBadge": "প্রস্তাবিত",
+  "continueInLanguage": "{languageName}-এ চালিয়ে যান",
+  "noLanguageMatches": "কোনো মিল নেই",
+  "noLanguageMatchesForQuery": "\"{query}\"-এর সাথে কোনো ভাষা মেলে না",
+  "@languageSelectionSubtitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@continueInLanguage": {
+    "placeholders": {
+      "languageName": {
+        "type": "String"
+      }
+    }
+  },
+  "@noLanguageMatchesForQuery": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockSettingsSaved": "অ্যাপ লক সেটিংস সংরক্ষিত হয়েছে",
+  "appLockSubtitle": "অ্যাপ পুনরায় খোলার সময় PIN বা বায়োমেট্রিক্স প্রয়োজন",
+  "appLockTitle": "অ্যাপ লক",
+  "appPin": "অ্যাপ PIN",
+  "appPinIncorrect": "ভুল PIN। আবার চেষ্টা করুন।",
+  "appPinIncorrectWithAttempts": "ভুল PIN। আপনার {remaining}টি চেষ্টা বাকি আছে।",
+  "@appPinIncorrectWithAttempts": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      }
+    }
+  },
+  "appPinLockoutMessage": "অনেকবার ভুল PIN দেওয়া হয়েছে। PIN রিসেট করতে আপনার ইমেল ও পাসওয়ার্ড দিয়ে সাইন ইন করুন।",
+  "appPinMismatch": "PIN মিলছে না। আবার চেষ্টা করুন।",
+  "appPinRemoved": "অ্যাপ PIN সরানো হয়েছে",
+  "appPinSetSuccess": "এই সংস্থার জন্য PIN সংরক্ষিত হয়েছে",
+  "appPinSubtitle": "{length}-অঙ্কের PIN দিয়ে দ্রুত আনলক",
+  "@appPinSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "appearance": "চেহারা",
+  "backupAutoBackupHint": "সময় হলে অ্যাপ শুরুতে স্বয়ংক্রিয়ভাবে ব্যাকআপ নিন",
+  "backupAutoBackupTitle": "স্বয়ংক্রিয় ব্যাকআপ",
+  "backupAutoDirectionBoth": "আপলোড ও ডাউনলোড",
+  "backupAutoDirectionDownload": "ক্লাউড থেকে ডাউনলোড",
+  "backupAutoDirectionUpload": "ক্লাউডে আপলোড",
+  "backupAutoFrequencyDaily": "দৈনিক",
+  "backupAutoFrequencyMonthly": "মাসিক",
+  "backupAutoFrequencyOff": "বন্ধ",
+  "backupAutoFrequencyTitle": "ব্যাকআপ ফ্রিকোয়েন্সি",
+  "backupAutoFrequencyWeekly": "সাপ্তাহিক",
+  "backupAutoLastDownloaded": "সর্বশেষ স্বয়ংক্রিয় পুনরুদ্ধার: {detail}",
+  "@backupAutoLastDownloaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastFailed": "সর্বশেষ স্বয়ংক্রিয় সিঙ্ক ব্যর্থ: {detail}",
+  "@backupAutoLastFailed": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastSkipped": "সর্বশেষ স্বয়ংক্রিয় সিঙ্ক এড়িয়ে গেছে: {detail}",
+  "@backupAutoLastSkipped": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastUploaded": "সর্বশেষ স্বয়ংক্রিয় ব্যাকআপ: {detail}",
+  "@backupAutoLastUploaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoSettingsTitle": "Google Drive সেটিংস",
+  "backupAutoSyncDirectionTitle": "স্বয়ংক্রিয় সিঙ্ক",
+  "backupSyncActiveOrganization": "বর্তমান সংস্থা",
+  "backupSyncActiveOrganizationHint": "ব্যাকআপ আপনি এখন যে সংস্থা ব্যবহার করছেন তার ডেটা আপলোড করে।",
+  "backupSyncCompletedHint": "আপনার ডেটা Google Drive-এ নিরাপদে ব্যাকআপ করা হয়েছে।",
+  "backupSyncConnected": "সংযুক্ত",
+  "backupSyncCurrentStep": "ধাপ: {step}",
+  "@backupSyncCurrentStep": {
+    "placeholders": {
+      "step": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncGoogleAccount": "Google অ্যাকাউন্ট",
+  "backupSyncInProgress": "সিঙ্ক চলছে",
+  "backupSyncLastError": "সর্বশেষ ত্রুটি: {error}",
+  "@backupSyncLastError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncLastSyncDate": "তারিখ ও সময়",
+  "backupSyncLastSyncTitle": "সর্বশেষ সিঙ্ক",
+  "backupSyncNeverSynced": "এখনও কোনো ব্যাকআপ আপলোড হয়নি।",
+  "backupSyncOrganization": "সংস্থা",
+  "backupSyncPageTitle": "ব্যাকআপ ও সিঙ্ক",
+  "backupSyncPhaseExport": "রপ্তানি",
+  "backupSyncPhaseUpload": "আপলোড",
+  "backupSyncProgressPercent": "{percent}%",
+  "@backupSyncProgressPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "backupSyncRecords": "ব্যাকআপ করা রেকর্ড",
+  "backupSyncSignInHint": "আপনার সংস্থার ডেটা ব্যাকআপ করতে Google দিয়ে সাইন ইন করুন।",
+  "backupSyncSignOutConfirm": "এই ডিভাইসে Google Drive থেকে সাইন আউট করবেন?",
+  "backupSyncSignedInAs": "সাইন ইন করা হয়েছে",
+  "backupSyncStatus": "অবস্থা",
+  "backupSyncStatusSuccess": "সম্পন্ন",
+  "backupSyncStepExport": "স্থানীয় ডেটা রপ্তানি হচ্ছে",
+  "backupSyncStepUploadFile": "{file} আপলোড হচ্ছে",
+  "@backupSyncStepUploadFile": {
+    "placeholders": {
+      "file": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncStepUploadTable": "{table} আপলোড হচ্ছে",
+  "@backupSyncStepUploadTable": {
+    "placeholders": {
+      "table": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncTables": "ব্যাকআপ করা টেবিল",
+  "backupSyncUnknownOrganization": "বর্তমান সংস্থা",
+  "backupWifiOnlyContinue": "মোবাইল ডেটা ব্যবহার করুন",
+  "backupWifiOnlyHint": "স্বয়ংক্রিয় ব্যাকআপ Wi‑Fi-এর জন্য অপেক্ষা করে",
+  "backupWifiOnlyTitle": "শুধু Wi‑Fi-তে ব্যাকআপ",
+  "biometricNotAvailable": "এই ডিভাইসে বায়োমেট্রিক্স উপলব্ধ নয়",
+  "biometricRequiresPin": "বায়োমেট্রিক্স চালু করার আগে অ্যাপ PIN সেট করুন",
+  "biometricUnlockReason": "BizTrack আনলক করুন",
+  "changeAppPin": "PIN পরিবর্তন করুন",
+  "confirmAppPin": "PIN নিশ্চিত করুন",
+  "confirmAppPinHint": "নিশ্চিত করতে PIN আবার দিন",
+  "confirmPasscodeHint": "নিশ্চিত করতে পাসকোড আবার দিন",
+  "contactUs": "যোগাযোগ করুন",
+  "contactUsSubtitle": "সহায়তা, মতামত বা অ্যাপ সম্পর্কে প্রশ্নের জন্য যোগাযোগ করুন।",
+  "createAppPinHint": "এই সংস্থার জন্য {length}-অঙ্কের PIN বেছে নিন",
+  "@createAppPinHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "createPasscodeHint": "এই সংস্থার জন্য {length}-অঙ্কের পাসকোড বেছে নিন",
+  "@createPasscodeHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "darkMode": "ডার্ক মোড",
+  "darkModeSubtitle": "অ্যাপ জুড়ে গাঢ় পটভূমি ব্যবহার করুন",
+  "darkModeSystemSubtitle": "আপনার ডিভাইসের থিম অনুসরণ করে",
+  "dataAndBackup": "ডেটা ও ব্যাকআপ",
+  "developerLabel": "ডেভেলপার",
+  "disableAppPinMessage": "এই সংস্থার জন্য Face ID / বায়োমেট্রিক আনলকও বন্ধ হয়ে যাবে।",
+  "disableAppPinTitle": "অ্যাপ PIN সরাবেন?",
+  "displayPrecision": "প্রদর্শনের নির্ভুলতা",
+  "displayPrecisionRange": "০ থেকে ৫-এর মধ্যে একটি সংখ্যা দিন",
+  "emailCopiedToClipboard": "ইমেল ক্লিপবোর্ডে কপি হয়েছে",
+  "employeeManagementSubtitle": "কর্মী, বেতন ও উপস্থিতি",
+  "enableBiometricAfterPinMessage": "দ্রুত সাইন-ইনের জন্য PIN-এর সাথে ডিভাইস বায়োমেট্রিক্স ব্যবহার করুন।",
+  "enableBiometricTitle": "বায়োমেট্রিক্স চালু করবেন?",
+  "enableFaceIdTitle": "Face ID চালু করবেন?",
+  "enableFingerprintTitle": "ফিঙ্গারপ্রিন্ট চালু করবেন?",
+  "enableInvoiceReturns": "ইনভয়েস রিটার্ন চালু করুন",
+  "enableInvoiceReturnsSubtitle": "পরিশোধিত ইনভয়েস থেকে রিটার্ন তৈরি করার অনুমতি দিন।",
+  "enterAppPin": "আপনার PIN দিন",
+  "enterPasscode": "পাসকোড দিন",
+  "googleDriveBackupFailed": "ব্যাকআপ ব্যর্থ: {error}",
+  "@googleDriveBackupFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupNow": "এখনই ব্যাকআপ",
+  "googleDriveBackupPluginError": "ব্যাকআপের জন্য অ্যাপ সম্পূর্ণভাবে পুনরায় চালু করতে হবে। অ্যাপ বন্ধ করে আবার চালু করে চেষ্টা করুন।",
+  "googleDriveBackupSectionTitle": "ব্যাকআপ ও সিঙ্ক",
+  "googleDriveBackupStarting": "ব্যাকআপ প্রস্তুত হচ্ছে…",
+  "googleDriveBackupSubtitleSignedIn": "{email} হিসেবে সাইন ইন",
+  "@googleDriveBackupSubtitleSignedIn": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupSubtitleSignedOut": "Google Drive-এ আপনার সংস্থার ডেটা নিরাপদে ব্যাকআপ করতে সাইন ইন করুন।",
+  "googleDriveBackupSuccess": "ব্যাকআপ আপলোড হয়েছে ({tableCount}টি টেবিল, {recordCount}টি রেকর্ড)",
+  "@googleDriveBackupSuccess": {
+    "placeholders": {
+      "tableCount": {
+        "type": "int"
+      },
+      "recordCount": {
+        "type": "int"
+      }
+    }
+  },
+  "googleDriveBackupTitle": "Google Drive ব্যাকআপ",
+  "googleDriveLastBackup": "সর্বশেষ ব্যাকআপ: {date}",
+  "@googleDriveLastBackup": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveSignIn": "Google দিয়ে সাইন ইন",
+  "googleDriveSignInCancelled": "Google সাইন-ইন বাতিল হয়েছে",
+  "googleDriveSignInSuccess": "Google Drive-এ সাইন ইন হয়েছে",
+  "googleDriveSignOut": "সাইন আউট",
+  "googleDriveSignOutSuccess": "Google Drive থেকে সাইন আউট হয়েছে",
+  "itemSelectCategoryRequired": "অনুগ্রহ করে একটি বিভাগ নির্বাচন করুন",
+  "moreBackupSyncTileLastSync": "সর্বশেষ সিঙ্ক: {date}",
+  "@moreBackupSyncTileLastSync": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "moreBackupSyncTileNeverSynced": "Google Drive-এ ব্যাকআপ করুন",
+  "moreBackupSyncTileSignedInNoSync": "সাইন ইন · এখনও ব্যাকআপ নেই",
+  "notNow": "এখন নয়",
+  "operationManagement": "অপারেশন ব্যবস্থাপনা",
+  "operationManagementSubtitle": "Items, stock reconciliation, contacts, categories, and closing",
+  "orContinueWithPassword": "অথবা পাসওয়ার্ড দিয়ে সাইন ইন করুন",
+  "organizationAccountingSubtitle": "ইনভয়েস ও পরিমাণ প্রদর্শন সেটিংস।",
+  "organizationRegionalSubtitle": "দেশ, রিপোর্টিং মুদ্রা ও অর্থবছরের তারিখ।",
+  "organizationTabAccounting": "হিসাব",
+  "organizationTabGeneral": "সাধারণ",
+  "organizationTabRegional": "আঞ্চলিক ও অর্থবছর",
+  "partyPickerAddNewRole": "নতুন {role} যোগ করুন",
+  "@partyPickerAddNewRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSearchHint": "{role} খুঁজুন...",
+  "@partyPickerSearchHint": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSelectedLabel": "নির্বাচিত",
+  "partyPickerSettled": "নিষ্পত্তি হয়েছে",
+  "partyPickerSubtitle": "এই বিক্রয় কার জন্য?",
+  "preferences": "পছন্দসমূহ",
+  "quickUnlockAsUser": "{email} হিসেবে দ্রুত সাইন-ইন",
+  "@quickUnlockAsUser": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSubtitle": "লাভ-ক্ষতি, বিবৃতি ও বিশ্লেষণ",
+  "restoreAction": "পুনরুদ্ধার",
+  "restoreFromGoogleDrive": "Google Drive থেকে পুনরুদ্ধার",
+  "restoreFromGoogleDriveConfirm": "\"{name}\" পুনরুদ্ধার করবেন? এটি সেই সংস্থার স্থানীয় ডেটা প্রতিস্থাপন করবে।",
+  "@restoreFromGoogleDriveConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveEmpty": "আপনার Google Drive-এ কোনো ব্যাকআপ পাওয়া যায়নি।",
+  "restoreFromGoogleDriveFailed": "পুনরুদ্ধার ব্যর্থ: {error}",
+  "@restoreFromGoogleDriveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveHint": "সাইন ইন করে একটি ব্যাকআপ বেছে নিন এবং এই ডিভাইসে আপনার সংস্থা পুনরুদ্ধার করুন।",
+  "restoreFromGoogleDriveStarting": "পুনরুদ্ধার শুরু হচ্ছে…",
+  "restoreFromGoogleDriveSuccess": "{name} পুনরুদ্ধার হয়েছে। এখন সাইন ইন করতে পারেন।",
+  "@restoreFromGoogleDriveSuccess": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreStepCreateDatabase": "ডাটাবেস তৈরি হচ্ছে",
+  "restoreStepDownload": "ব্যাকআপ ডাউনলোড হচ্ছে",
+  "restoreStepFinalize": "পুনরুদ্ধার সমাপ্ত হচ্ছে",
+  "restoreStepImport": "ডেটা আমদানি হচ্ছে",
+  "security": "নিরাপত্তা",
+  "setUpAppPin": "PIN সেট করুন",
+  "setUpFaceIdOrPin": "Face ID বা PIN সেট করুন",
+  "setUpFingerprintOrPin": "ফিঙ্গারপ্রিন্ট বা PIN সেট করুন",
+  "setUpNow": "এখনই সেট করুন",
+  "setUpQuickUnlock": "PIN দ্রুত সাইন-ইন সেট করুন",
+  "setUpQuickUnlockAfterLoginMessage": "এই সংস্থার জন্য পরের বার দ্রুত সাইন-ইনের জন্য Face ID, ফিঙ্গারপ্রিন্ট বা PIN সেট করুন। পরে সেটিংস থেকেও পরিবর্তন করতে পারবেন।",
+  "setUpQuickUnlockAfterLoginTitle": "দ্রুত সাইন-ইন চালু করবেন?",
+  "setUpQuickUnlockSubtitle": "এই সংস্থার জন্য ডিভাইস বায়োমেট্রিক্স বা PIN ব্যবহার করুন",
+  "signInWithBiometric": "বায়োমেট্রিক্স দিয়ে সাইন ইন",
+  "signInWithFaceId": "Face ID দিয়ে সাইন ইন",
+  "signInWithFingerprint": "ফিঙ্গারপ্রিন্ট দিয়ে সাইন ইন",
+  "signInWithPin": "PIN দিয়ে সাইন ইন",
+  "statisticsCashflow": "নগদ প্রবাহ",
+  "statisticsQuickOperationInvoice": "ইনভয়েস",
+  "statisticsQuickOperationReports": "রিপোর্ট",
+  "statisticsQuickOperationsSeeAll": "সব দেখুন",
+  "tapDigitsToUnlock": "আনলক করতে যেকোনো {length}টি অঙ্ক ট্যাপ করুন।",
+  "@tapDigitsToUnlock": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "unlockApp": "অ্যাপ আনলক করুন",
+  "useBiometricInstead": "বায়োমেট্রিক্স ব্যবহার করুন",
+  "useBiometricUnlock": "Face ID / বায়োমেট্রিক্স ব্যবহার করুন",
+  "useBiometricUnlockSubtitle": "PIN সেট করার পর ফিঙ্গারপ্রিন্ট বা Face ID দিয়ে আনলক করুন",
+  "useFaceIdUnlock": "Face ID ব্যবহার করুন",
+  "useFingerprintUnlock": "ফিঙ্গারপ্রিন্ট ব্যবহার করুন",
+  "usePinInstead": "পরিবর্তে PIN ব্যবহার করুন",
+  "verifyPinToRemoveSubtitle": "অ্যাপ লক সরাতে আপনার {length}-অঙ্কের PIN নিশ্চিত করুন",
+  "@verifyPinToRemoveSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "verifyPinToRemoveTitle": "আপনার PIN দিন",
+  "walkthroughBackupDescription": "এক-ট্যাপ Google Drive ব্যাকআপের সাথে ব্যাংক-গ্রেড নিরাপত্তা, যাতে আপনার রেকর্ড সুরক্ষিত থাকে এবং সহজে পুনরুদ্ধার করা যায়।",
+  "walkthroughBackupTitle": "আপনার ডেটা, সবসময় নিরাপদ",
+  "walkthroughBillingDescription": "বিক্রয় ও ক্রয় ইনভয়েস, কিচেন টিকিট সহ টেবিল অর্ডার, এবং লাইভ ইনভেন্টরি — সব এক অ্যাপ থেকে।",
+  "walkthroughBillingTitle": "সেকেন্ডে বিল ও বিক্রি",
+  "walkthroughDashboardDescription": "আজকের বিক্রয়, আয় ও বকেয়া ব্যালেন্স — অ্যাপ খুললেই এক পরিষ্কার ড্যাশবোর্ডে।",
+  "walkthroughDashboardTitle": "আপনার পুরো ব্যবসা, এক নজরে",
+  "walkthroughOfflineDescription": "সম্পূর্ণ অফলাইনে ইনভয়েস তৈরি, খরচ লগ ও স্টক ব্যবস্থাপনা করুন। অনলাইনে ফিরলে সব স্বয়ংক্রিয়ভাবে সিঙ্ক হয়।",
+  "walkthroughOfflineTitle": "ইন্টারনেট ছাড়াও কাজ করে",
+  "walkthroughReadyDescription": "মিনিটের মধ্যে আপনার সংস্থা সেট আপ করুন এবং আজই স্মার্টভাবে ব্যবসা চালান। চলুন শুরু করি।",
+  "walkthroughReadyTitle": "আপনি প্রস্তুত হলেই প্রস্তুত",
+  "walkthroughStaffDescription": "উপস্থিতি ও বেতন চালান, তারপর P&L বিবৃতি ও পে-স্লিপ PDF হিসেবে রপ্তানি করুন — অতিরিক্ত টুল লাগবে না।",
+  "walkthroughStaffTitle": "কর্মী, বেতন ও রিপোর্ট",
+  "ok": "ঠিক আছে",
+  "reportPeriodYear": "বছর",
+  "reportPeriodMonth": "মাস",
+  "reportPeriodRange": "পরিসর",
+  "reportPeriodDay": "দিন",
+  "reportPeriodFrom": "থেকে",
+  "reportPeriodTo": "পর্যন্ত",
+  "reportPeriod": "সময়কাল",
+  "reportAllPurchases": "সব ক্রয়",
+  "reportBeforeTax": "করের আগে",
+  "reportRevenueRetained": "রাজস্ব অবশিষ্ট",
+  "reportHideDetails": "বিবরণ লুকান",
+  "reportShowDetails": "বিবরণ দেখান",
+  "reportSalesRevenue": "বিক্রয় রাজস্ব",
+  "reportDiscountsGiven": "প্রদত্ত ছাড়",
+  "reportNetRevenue": "নিট রাজস্ব",
+  "reportOperatingExpenses": "পরিচালন খরচ",
+  "reportTotalExpenses": "মোট খরচ",
+  "reportGrossProfit": "মোট লাভ",
+  "reportGrossProfitChart": "মোট লাভ",
+  "reportOperatingPlDisclaimer": "কর, অবচয় ও বেতন দায় এখনো অন্তর্ভুক্ত নয় — পরিচালন স্তরের P&L অনুমান।",
+  "reportContraLabel": "কনট্রা",
+  "reportNoDataForPeriod": "নির্বাচিত সময়কালে কোনো ডেটা নেই",
+  "reportRevenueVsExpenses": "রাজস্ব বনাম খরচ",
+  "reportExpenseBreakdown": "খরচের বিবরণ",
+  "reportExpenseFallback": "খরচ",
+  "reportGrossMarginPercent": "মোট মার্জিন %",
+  "reportRoomVsFnB": "রুম বনাম F&B",
+  "reportSegmentRoom": "রুম",
+  "reportSegmentFnB": "F&B",
+  "reportKeyMetrics": "মূল মেট্রিক",
+  "reportIncomeStatement": "আয় বিবৃতি",
+  "reportChartsSection": "চার্ট",
+  "reportSegmentSummary": "সেগমেন্ট সারাংশ",
+  "reportFailedToLoad": "রিপোর্ট লোড ব্যর্থ",
+  "reportOverview": "সংক্ষিপ্ত বিবরণ",
+  "reportOverviewCash": "নগদ",
+  "reportOverviewBank": "ব্যাংক",
+  "reportMonthlyOpeningBalance": "মাসিক প্রারম্ভিক ব্যালেন্স",
+  "reportOpeningBalanceHint": "প্রতিটি মাসের শুরুতে নগদ অবস্থান",
+  "reportCashInOut": "নগদ প্রাপ্তি / প্রদান",
+  "reportCashIn": "নগদ প্রাপ্তি",
+  "reportCashOut": "নগদ প্রদান",
+  "reportBankReceiptsPayments": "ব্যাংক প্রাপ্তি / প্রদান",
+  "reportReceipts": "প্রাপ্তি",
+  "reportPayments": "প্রদান",
+  "reportDailyCashVsQr": "দৈনিক নগদ বনাম QR",
+  "reportSummariesSection": "সারাংশ",
+  "reportCashSummary": "নগদ সারাংশ",
+  "reportBankSummary": "ব্যাংক সারাংশ",
+  "reportDailySummary": "দৈনিক সারাংশ",
+  "reportTabPurchase": "ক্রয়",
+  "reportTabSales": "বিক্রয়",
+  "reportTabDashboard": "ড্যাশবোর্ড",
+  "reportSingleDayTrend": "এক দিন — দৈনিক ট্রেন্ড",
+  "reportFullYearTrend": "পুরো বছর — মাসিক ট্রেন্ড চার্ট",
+  "reportYearLabel": "বছর {year}",
+  "@reportYearLabel": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportJanDec": "জান – ডিস {year}",
+  "@reportJanDec": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportTotalPurchases": "মোট ক্রয়",
+  "reportTotalSales": "মোট বিক্রয়",
+  "reportTotalInvoices": "মোট ইনভয়েস",
+  "reportUnpaidBalance": "অপরিশোধিত ব্যালেন্স",
+  "reportAvgPerInvoice": "প্রতি ইনভয়েস গড়",
+  "reportPerTransaction": "প্রতি লেনদেন",
+  "reportMonthlySpend": "মাসিক খরচ ({symbol})",
+  "@reportMonthlySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportMonthlySalesChart": "মাসিক বিক্রয় ({symbol})",
+  "@reportMonthlySalesChart": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportInvoiceCountByMonth": "মাস অনুযায়ী ইনভয়েস সংখ্যা",
+  "reportTopItemsBySpend": "খরচ অনুযায়ী শীর্ষ আইটেম ({symbol})",
+  "@reportTopItemsBySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSpendByCategory": "বিভাগ অনুযায়ী খরচ",
+  "reportOtherCategory": "অন্যান্য",
+  "reportSuppliers": "সরবরাহকারী",
+  "reportTableSupplier": "সরবরাহকারী",
+  "reportTableAmount": "পরিমাণ",
+  "reportTableBills": "বিল",
+  "reportSalesTotal": "মোট বিক্রয়",
+  "reportPurchaseTotal": "মোট ক্রয়",
+  "reportPositiveMargin": "ধনাত্মক মার্জিন",
+  "reportNegativeMargin": "ঋণাত্মক মার্জিন",
+  "reportGrossMargin": "মোট মার্জিন",
+  "reportOfTotalSales": "মোট বিক্রয়ের",
+  "reportFailedToLoadAnalytics": "বিশ্লেষণ লোড ব্যর্থ",
+  "reportMarginKpi": "মার্জিন",
+  "reportExpensesKpi": "খরচ",
+  "partyPickerNoResultsFor": "\"{query}\"-এর জন্য কোনো ফলাফল নেই",
+  "@partyPickerNoResultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerNoPartiesForRole": "কোনো {role} পক্ষ পাওয়া যায়নি",
+  "@partyPickerNoPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerLoadParties": "পক্ষ লোড করুন",
+  "invoiceCashCustomer": "নগদ গ্রাহক",
+  "invoiceQuickAddItemsTitle": "দ্রুত আইটেম যোগ",
+  "invoiceQuickLoadingMenu": "মেনু লোড হচ্ছে…",
+  "invoiceQuickInvoiceCreated": "ইনভয়েস তৈরি হয়েছে",
+  "invoiceQuickAddAtLeastOneItem": "অন্তত একটি আইটেম যোগ করুন",
+  "invoiceQuickNoResults": "কোনো ফলাফল পাওয়া যায়নি!",
+  "invoiceQuickNoItemsInCategory": "এই বিভাগে কোনো আইটেম নেই",
+  "invoiceQuickAddItem": "আইটেম যোগ",
+  "invoiceQuickLoadMore": "আরও লোড",
+  "invoiceQuickScrollLoadMore": "আরও লোড করতে স্ক্রল করুন ({count} প্রতি পৃষ্ঠা)",
+  "invoiceQuickSupplierEmployee": "সরবরাহকারী / কর্মচারী",
+  "invoiceQuickEditItem": "আইটেম সম্পাদনা",
+  "closeSelectDateRange": "তারিখের পরিসর নির্বাচন",
+  "closeStartDate": "শুরুর তারিখ",
+  "closeEndDate": "শেষ তারিখ",
+  "closeSelectBothDates": "অনুগ্রহ করে শুরু ও শেষ তারিখ দুটোই নির্বাচন করুন",
+  "closeDeleteSummary": "সারাংশ মুছুন",
+  "closeDeleteSummaryConfirm": "আপনি কি নিশ্চিত যে এই সারাংশ মুছতে চান?",
+  "closeSelectDate": "তারিখ নির্বাচন",
+  "closeNoDataToExport": "এক্সপোর্ট করার কোনো ডেটা নেই",
+  "closeNoDataToShare": "শেয়ার করার কোনো ডেটা নেই",
+  "closeNoDataToPrint": "প্রিন্ট করার কোনো ডেটা নেই",
+  "closePdfGenerateError": "PDF তৈরিতে ত্রুটি: {error}",
+  "@closePdfGenerateError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfShareError": "PDF শেয়ারে ত্রুটি: {error}",
+  "@closePdfShareError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfPrintError": "PDF প্রিন্টে ত্রুটি: {error}",
+  "@closePdfPrintError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExportPdf": "PDF হিসেবে এক্সপোর্ট",
+  "closeSharePdf": "PDF শেয়ার",
+  "closePrint": "প্রিন্ট",
+  "closeExportOptions": "এক্সপোর্ট অপশন",
+  "closeExportPdfSubtitle": "PDF ডকুমেন্ট হিসেবে সংরক্ষণ বা দেখুন",
+  "closeSharePdfSubtitle": "অ্যাপ বা ইমেইলে শেয়ার করুন",
+  "closePrintSubtitle": "রিপোর্ট প্রিন্ট করুন",
+  "invoiceQuickShowingItems": "{total}-এর মধ্যে {shown} দেখানো হচ্ছে",
+  "invoiceQuickLoadedItems": "লোড: {count}",
+  "invoiceQuickRoomCabinEmployee": "রুম / কেবিন / কর্মচারী",
+  "reportPercentOfRevenue": "রাজস্বের {percent}%",
+  "@reportPercentOfRevenue": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "reportParties": "পক্ষ",
+  "reportMonthYearDailyTrend": "{month} {year} — দৈনিক ট্রেন্ড চার্ট",
+  "@reportMonthYearDailyTrend": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceQuickCart": "কার্ট",
+  "invoiceQuickCartWithCount": "কার্ট ({count})",
+  "invoiceQuickClearSearch": "অনুসন্ধান মুছুন",
+  "closeAllRecords": "সব রেকর্ড",
+  "closeDailyCashSummaryReport": "দৈনিক নগদ সারাংশ রিপোর্ট",
+  "closeDailyCashSummaryTitle": "দৈনিক নগদ সারাংশ",
+  "closeDetails": "বিবরণ",
+  "closeGeneratedAt": "তৈরি: {date}",
+  "@closeGeneratedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "closePageN": "পৃষ্ঠা {n}",
+  "@closePageN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "closePeriodRange": "সময়কাল: {start} থেকে {end}",
+  "@closePeriodRange": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummaryOverview": "সারাংশ সংক্ষিপ্ত",
+  "closeTotalRecords": "মোট রেকর্ড",
+  "closeAddSummary": "সারাংশ যোগ করুন",
+  "closeSalesAmount": "বিক্রয় পরিমাণ",
+  "closeClosingBalance": "সমাপনী ব্যালেন্স",
+  "closeLostMoney": "হারানো টাকা",
+  "closeDiscount": "ছাড়",
+  "closeExpenses": "খরচ",
+  "closeUnpaid": "অপরিশোধিত",
+  "closeTotalOpeningBalance": "মোট প্রারম্ভিক ব্যালেন্স",
+  "closeTotalSalesAmount": "মোট বিক্রয় পরিমাণ",
+  "closeTotalCashAmount": "মোট নগদ পরিমাণ",
+  "closeTotalQrAmount": "মোট QR পরিমাণ",
+  "closeTotalDiscount": "মোট ছাড়",
+  "closeTotalExpenses": "মোট খরচ",
+  "closeTotalClosingBalance": "মোট সমাপনী ব্যালেন্স",
+  "closeTotalLostMoney": "মোট হারানো টাকা",
+  "closeTotalExtraAmount": "মোট অতিরিক্ত পরিমাণ",
+  "closeShowingCurrentMonth": "বর্তমান মাসের ডেটা দেখানো হচ্ছে",
+  "closeNoSummariesFound": "কোনো সারাংশ পাওয়া যায়নি",
+  "closeNoSummariesAvailable": "কোনো সারাংশ নেই",
+  "closeTryAdjustingDateRange": "তারিখের পরিসর সামঞ্জস্য করুন",
+  "closeCreateFirstSummary": "শুরু করতে প্রথম সারাংশ তৈরি করুন",
+  "closeClearFilter": "ফিল্টার মুছুন",
+  "closeFiltered": "ফিল্টার করা",
+  "closeFilteredWithRange": "ফিল্টার: {range}",
+  "@closeFilteredWithRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummarySingular": "সারাংশ",
+  "closeSummariesPlural": "সারাংশ",
+  "closeSummaryUpdatedSuccess": "সারাংশ সফলভাবে আপডেট",
+  "closeSummaryDeletedSuccess": "সারাংশ সফলভাবে মুছে ফেলা হয়েছে",
+  "premiumUnlockTitle": "{appName} Premium আনলক করুন",
+  "@premiumUnlockTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumTagline": "সম্পূর্ণ অফলাইন POS, ইনভয়েসিং, ইনভেন্টরি ও রিপোর্ট — আপনার ব্যবসার জন্য একটি সাবস্ক্রিপশন।",
+  "premiumFeatureUnlimitedInvoices": "সীমাহীন ইনভয়েস ও রসিদ",
+  "premiumFeatureInventoryStock": "ইনভেন্টরি ও স্টক ট্র্যাকিং",
+  "premiumFeatureReportsAnalytics": "বিক্রয় রিপোর্ট ও বিশ্লেষণ",
+  "premiumFeatureOfflineLocal": "অফলাইনে কাজ করে — আপনার ডেটা স্থানীয় থাকে",
+  "premiumContinueWith": "{plan} দিয়ে চালিয়ে যান",
+  "@premiumContinueWith": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRestorePurchases": "ক্রয় পুনরুদ্ধার করুন",
+  "premiumSubscriptionLegal": "পেমেন্ট আপনার Apple ID-তে চার্জ হবে। সময়সীমা শেষ হওয়ার কমপক্ষে ২৪ ঘণ্টা আগে বাতিল না করলে সাবস্ক্রিপশন স্বয়ংক্রিয়ভাবে নবায়ন হয়।",
+  "premiumPurchaseRestored": "ক্রয় পুনরুদ্ধার হয়েছে।",
+  "premiumNoActiveSubscription": "কোনো সক্রিয় সাবস্ক্রিপশন পাওয়া যায়নি।",
+  "premiumPlanMonthly": "মাসিক",
+  "premiumPlanMonthlySubtitle": "নমনীয় — যেকোনো সময় বাতিল করুন",
+  "premiumPlanYearly": "বার্ষিক",
+  "premiumPlanYearlySubtitle": "সেরা মূল্য — {percent}% সাশ্রয়",
+  "@premiumPlanYearlySubtitle": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "premiumPlanLifetime": "আজীবন",
+  "premiumPlanLifetimeSubtitle": "একবার দিন, চিরকাল রাখুন",
+  "premiumPlanPopular": "জনপ্রিয়",
+  "premiumOneTimePurchase": "এককালীন ক্রয়",
+  "subscriptionSectionTitle": "সাবস্ক্রিপশন",
+  "subscriptionPremiumLabel": "Premium",
+  "subscriptionUpgradeTitle": "Premium-এ আপগ্রেড করুন",
+  "subscriptionPremiumPricing": "মাসিক {monthly} · বার্ষিক {yearly}",
+  "@subscriptionPremiumPricing": {
+    "placeholders": {
+      "monthly": {
+        "type": "String"
+      },
+      "yearly": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActiveUntil": "{plan} {date} পর্যন্ত সক্রিয়",
+  "@subscriptionPremiumActiveUntil": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActive": "{plan} সক্রিয়",
+  "@subscriptionPremiumActive": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRequired": "Premium প্রয়োজন",
+  "upgradeToPremiumContinue": "চালিয়ে যেতে Premium-এ আপগ্রেড করুন।",
+  "freemiumFreePlanLimit": "ফ্রি প্ল্যানে সর্বোচ্চ {limit} {label}। সীমাহীন অ্যাক্সেসের জন্য Premium-এ আপগ্রেড করুন।",
+  "@freemiumFreePlanLimit": {
+    "placeholders": {
+      "limit": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "freemiumPartyRoleRequired": "পার্টি ভূমিকা প্রয়োজন।",
+  "shiftReminderOpeningTitle": "খোলার অনুস্মারক",
+  "shiftReminderOpeningMessage": "আজকের জন্য রেজিস্টার খুলেছেন?",
+  "shiftReminderOpeningProceed": "হ্যাঁ, এখন খুলুন",
+  "shiftReminderClosingTitle": "বন্ধের অনুস্মারক",
+  "shiftReminderClosingMessage": "আজকের জন্য রেজিস্টার বন্ধ করেছেন?",
+  "shiftReminderClosingProceed": "হ্যাঁ, এখন বন্ধ করুন",
+  "shiftReminderSkipToday": "আজকের জন্য এড়িয়ে যান",
+  "shiftReminderOpeningNotificationTitle": "খোলার অনুস্মারক",
+  "shiftReminderOpeningNotificationBody": "আজকের জন্য রেজিস্টার খুলেছেন? এখনও খুলতে হলে এখানে ট্যাপ করুন।",
+  "shiftReminderClosingNotificationTitle": "বন্ধের অনুস্মারক",
+  "shiftReminderClosingNotificationBody": "আজকের জন্য রেজিস্টার বন্ধ করেছেন? এখনও বন্ধ করতে হলে এখানে ট্যাপ করুন।",
+  "closeExchangePayQrGetCashHint": "{business} গ্রাহককে QR দেয়; গ্রাহক নগদ দেয়।",
+  "@closeExchangePayQrGetCashHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExchangePayCashGetQrHint": "{business} গ্রাহককে নগদ দেয়; গ্রাহক QR পেমেন্ট দেয়।",
+  "@closeExchangePayCashGetQrHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closePaymentExchange": "পেমেন্ট বিনিময়",
+  "closePayQrGetCashExchangeLabel": "QR দিন → নগদ বিনিময়",
+  "closePayCashGetQrExchangeLabel": "নগদ দিন → QR বিনিময়",
+  "closePayQrGetCashDetail": "QR দিয়ে নগদ নিন",
+  "closePayCashGetQrDetail": "নগদ দিয়ে QR নিন",
+  "faqSectionPremium": "Premium ও বিলিং",
+  "faqPremiumWhatsIncludedQuestion": "Premium-এ কী কী আছে?",
+  "faqPremiumWhatsIncludedAnswer": "Premium-এ সীমাহীন ইনভয়েস, সম্পূর্ণ রিপোর্ট (P&L, স্টেটমেন্ট, বিশ্লেষণ), ব্যাকআপ ও সিঙ্ক, পে-রোল, উপস্থিতি, স্টক টুল, ইনভয়েস এক্সপোর্ট/প্রিন্ট এবং অতিরিক্ত সংস্থা unlock হয়। ফ্রি টিয়ারে মূল POS ফিচার যুক্তিসঙ্গত সীমার মধ্যে ব্যবহার করা যায়।",
+  "faqPremiumFreeTierQuestion": "ফ্রি টিয়ারে কী আছে?",
+  "faqPremiumFreeTierAnswer": "আপনি সর্বোচ্চ ১০টি বিক্রয় ও ১০টি ক্রয় ইনভয়েস, ৪ জন কর্মচারী, ৩০টি আইটেম তৈরি করতে পারেন এবং সীমায় পৌঁছালে অন্যান্য সীমা দেখাবে। খোলা, বন্ধ, ক্যালকুলেটর ও ডেটা ব্রাউজিং ফ্রি থাকে।",
+  "faqPremiumRestoreQuestion": "ক্রয় কীভাবে পুনরুদ্ধার করব?",
+  "faqPremiumRestoreAnswer": "আরও → Premium-এ আপগ্রেড (বা পে-ওয়াল) খুলে ক্রয় পুনরুদ্ধার ট্যাপ করুন। সাবস্ক্রাইব করতে যে Apple ID ব্যবহার করেছিলেন সেটি ব্যবহার করুন।",
+  "faqPremiumCancelQuestion": "সাবস্ক্রিপশন কীভাবে বাতিল করব?",
+  "faqPremiumCancelAnswer": "iPhone Settings → Apple ID → Subscriptions-এ পরিচালনা বা বাতিল করুন। পরিশোধিত সময় শেষ পর্যন্ত অ্যাক্সেস থাকবে।",
+  "faqDarkModeQuestion": "ডার্ক মোড কীভাবে চালু করব?",
+  "faqDarkModeAnswer": "আরও → চেহারা খুলে Dark mode চালু করুন। ডিভাইস সিস্টেম থিম ব্যবহার করলে অ্যাপ স্বয়ংক্রিয়ভাবে অনুসরণ করে।",
+  "faqOpeningClosingReminderQuestion": "খোলা ও বন্ধের অনুস্মারক কী?",
+  "faqOpeningClosingReminderAnswer": "{appName} দৈনিক ক্যাশ রেজিস্টার খোলা বা বন্ধ করার অনুস্মারক দিতে পারে। আপনি চালিয়ে যেতে, আজকের জন্য এড়িয়ে যেতে বা অনুস্মারক বাতিল করতে পারেন।",
+  "faqPartyRolesQuestion": "পার্টি ভূমিকা কী?",
+  "faqPartyRolesAnswer": "পার্টি ভূমিকা গ্রাহক, সরবরাহকারী, রুম বা কর্মচারীর মতো পরিচিতি শ্রেণীবদ্ধ করে। অপারেশন → Party roles-এ কাস্টমাইজ করুন এবং দলের জন্য সংক্ষিপ্ত বিবরণ যোগ করুন।",
+  "faqRateAppQuestion": "{appName} কীভাবে রেট করব?",
+  "faqRateAppAnswer": "App Store-এ রিভিউ দিতে আরও → Rate us খুলুন। আপনার মতামত অফলাইন বিলিং উন্নত করতে সাহায্য করে।",
+  "freemiumLabelSalesInvoices": "বিক্রয় ইনভয়েস",
+  "freemiumLabelPurchaseInvoices": "ক্রয় ইনভয়েস",
+  "freemiumLabelEmployees": "কর্মচারী",
+  "freemiumLabelItems": "আইটেম",
+  "freemiumLabelCategories": "বিভাগ",
+  "freemiumLabelPaymentMethods": "পেমেন্ট পদ্ধতি",
+  "freemiumLabelCustomPartyRoles": "কাস্টম পার্টি ভূমিকা",
+  "freemiumLabelPartiesForRole": "{role}-এর জন্য পার্টি",
+  "freemiumLabelOrganizations": "সংস্থা",
+  "freemiumPremiumReports": "রিপোর্ট Premium-এ উপলব্ধ।",
+  "freemiumPremiumBackupSync": "ব্যাকআপ ও সিঙ্ক Premium প্রয়োজন।",
+  "freemiumPremiumPayroll": "পে-রোল Premium প্রয়োজন।",
+  "freemiumPremiumAttendance": "উপস্থিতি Premium প্রয়োজন।",
+  "freemiumPremiumStock": "স্টক ব্যবস্থাপনা Premium প্রয়োজন।",
+  "freemiumPremiumInvoiceExport": "ডাউনলোড ও প্রিন্ট Premium প্রয়োজন।",
+  "@faqOpeningClosingReminderAnswer": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@faqRateAppQuestion": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@freemiumLabelPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  }
+}

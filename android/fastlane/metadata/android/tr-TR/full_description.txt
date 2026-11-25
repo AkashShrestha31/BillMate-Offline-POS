@@ -1,0 +1,45 @@
+Billmate, perakende, kafeler, barlar ve küçük işletmeler için çevrimdışı bir POS, mağaza kasası ve restoran faturalama uygulamasıdır.
+
+FATURALAMA
+
+Satır, indirim ve müşteri takibiyle satış ve alış faturaları oluşturun — cebinizde tam bir fatura aracı. Giderleri kategoriye göre yazın, her müşteri ve tedarikçinin açık bakiyesini izleyin ve ödemeyi tam, kısmi veya toplu kapatın. Her faturayı veya fişi PDF olarak dışa aktarın. İnternet gerekmez.
+
+MAĞAZA VE PERAKENDE POS
+
+Mağazalar ve küçük işletmeler için hızlı kasa. Nakit, QR ve kart kabul edin ve fişleri herhangi bir ESC/POS termal yazıcıda basın. Telefonunuz kasa olur.
+
+MASA YÖNETİMLİ RESTORAN VE BAR POS
+
+Görsel masa düzeniyle tam bir restoran POS’u. Masada veya paket sipariş alın, mutfağa gönderin (KOT) ve her yemeği siparişten teslime kadar izleyin. Barlar için ayrı bir içki kataloğu da vardır.
+
+STOK YÖNETİMİ
+
+Mağaza, depo veya restoranın stoğunu izleyin. Fiziksel sayımı kayıtlarla karşılaştırın, farkı yerinde düzeltin, stoğu CSV veya Excel ile toplu yükleyin ve stok raporlarını PDF olarak alın.
+
+PERSONEL, BORDRO VE DEVAM
+
+Personel kartlarını tutun, günlük devamı yazın ve bordroyu çalışma günleri ve maaştan otomatik oluşturun; avans kesintisi de yapılır. Bordro pusulasını PDF alın ve izin onaylarını yönetin.
+
+RAPORLAR, MUHASEBE VE ANALİZ
+
+Kâr ve zarar, müşteri ve tedarikçi hesap özetleri, ödeme özetleri ve gün, hafta, ay veya kendi aralığınıza göre satışa karşı gider grafikleri. Günlük kasa özeti gün sonunu gösterir.
+
+ÖNCE ÇEVRİMDIŞI — HEP AÇIK
+
+Satış, gider, stok, personel ve kasa cihazınızda çalışır ve yeniden başlatmadan sonra da kalır. Bağlantı yok, kesinti yok.
+
+ROL BAZLI ERİŞİM VE GÜVENLİK
+
+Kasiyerden yöneticiye rol bazlı izin verin; fatura, iade ve düzenlemede ayrıntılı kontrol. İş verileriniz cihazda kalır.
+
+ÇOKLU PARA BİRİMİ, ÇOKLU CİHAZ
+
+Birden fazla para biriminde faturalama. Telefon ve tablette çalışır.
+
+İLK GÜNDEN HAZIR
+
+39 iş kategorisi önceden yüklü — yemek, içecek, konaklama, malzeme ve daha fazlası. Kurulum yok. Uygulamayı açın ve satmaya başlayın.
+
+Köşe dükkânından dağ evine, şehir kafesinden dolu bara — Billmate, çevrimdışı da çalışan POS ve faturalama uygulamasıdır.
+
+Gizlilik politikası: https://billmate-woad.vercel.app/

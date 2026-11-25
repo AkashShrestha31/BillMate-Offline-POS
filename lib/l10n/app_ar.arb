@@ -1,0 +1,2623 @@
+{
+  "@@locale": "ar",
+  "noInternetConnection": "لا يوجد اتصال بالإنترنت.",
+  "formatException": "استثناء التنسيق",
+  "rememberMe": "تذكرني",
+  "signIn": "تسجيل الدخول",
+  "passwordHint": "أدخل كلمة المرور",
+  "forgetPassword": "نسيت معلومات تسجيل الدخول؟",
+  "okay": "حسناً",
+  "success": "نجاح",
+  "hotel": "فندق",
+  "errorEncountered": "حدث خطأ",
+  "serverError": "خطأ في الخادم",
+  "requestFailed": "فشل الطلب",
+  "connectionTimedOut": "انتهت مهلة الاتصال",
+  "password": "كلمة المرور",
+  "keepSignIn": "ابقَ مسجل الدخول",
+  "enterPassword": "أدخل كلمة المرور",
+  "enterValidPassword": "أدخل كلمة مرور صحيحة",
+  "skip": "تخطي",
+  "pleaseWait": "يرجى الانتظار ....",
+  "enterValidUserName": "أدخل اسم مستخدم صحيح.",
+  "userName": "اسم المستخدم",
+  "or": "أو",
+  "retry": "إعادة المحاولة",
+  "error": "خطأ",
+  "supportMessage": "يرجى التواصل مع المسؤول.",
+  "responseMessage404": "خطأ 404",
+  "appDisplayName": "BizTrack",
+  "appVersionLabel": "الإصدار {version}",
+  "@appVersionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "إلغاء",
+  "yes": "نعم",
+  "no": "لا",
+  "close": "إغلاق",
+  "save": "حفظ",
+  "delete": "حذف",
+  "confirm": "تأكيد",
+  "done": "تم",
+  "next": "التالي",
+  "getStarted": "ابدأ الآن",
+  "back": "رجوع",
+  "submit": "إرسال",
+  "continueAction": "متابعة",
+  "tryAgain": "حاول مرة أخرى",
+  "warning": "تحذير",
+  "loading": "جار التحميل…",
+  "comingSoon": "قريباً",
+  "required": "مطلوب",
+  "search": "بحث",
+  "add": "إضافة",
+  "edit": "تعديل",
+  "remove": "إزالة",
+  "view": "عرض",
+  "export": "تصدير",
+  "import": "استيراد",
+  "refresh": "تحديث",
+  "select": "اختيار",
+  "upload": "رفع",
+  "download": "تنزيل",
+  "share": "مشاركة",
+  "filter": "تصفية",
+  "sort": "ترتيب",
+  "apply": "تطبيق",
+  "reset": "إعادة تعيين",
+  "clear": "مسح",
+  "all": "الكل",
+  "none": "لا شيء",
+  "total": "الإجمالي",
+  "subtotal": "المجموع الفرعي",
+  "grandTotal": "الإجمالي الكلي",
+  "amount": "المبلغ",
+  "quantity": "الكمية",
+  "rate": "السعر",
+  "discount": "خصم",
+  "paid": "مدفوع",
+  "unpaid": "غير مدفوع",
+  "credit": "ائتمان",
+  "cash": "نقداً",
+  "date": "التاريخ",
+  "time": "الوقت",
+  "name": "الاسم",
+  "email": "البريد الإلكتروني",
+  "phone": "الهاتف",
+  "address": "العنوان",
+  "notes": "ملاحظات",
+  "description": "الوصف",
+  "status": "الحالة",
+  "type": "النوع",
+  "category": "الفئة",
+  "party": "الطرف",
+  "item": "عنصر",
+  "payment": "دفعة",
+  "settlement": "تسوية",
+  "opening": "افتتاح",
+  "closing": "إغلاق",
+  "stock": "Stock reconciliation",
+  "expense": "مصروف",
+  "revenue": "إيراد",
+  "profit": "ربح",
+  "loss": "خسارة",
+  "sales": "مبيعات",
+  "purchase": "مشتريات",
+  "monthJan": "يناير",
+  "monthFeb": "فبراير",
+  "monthMar": "مارس",
+  "monthApr": "أبريل",
+  "monthMay": "مايو",
+  "monthJun": "يونيو",
+  "monthJul": "يوليو",
+  "monthAug": "أغسطس",
+  "monthSep": "سبتمبر",
+  "monthOct": "أكتوبر",
+  "monthNov": "نوفمبر",
+  "monthDec": "ديسمبر",
+  "more": "المزيد",
+  "profile": "الملف الشخصي",
+  "operations": "العمليات",
+  "employeeManagement": "إدارة الموظفين",
+  "report": "تقرير",
+  "helpAndSupport": "المساعدة والدعم",
+  "privacyAndPolicies": "الخصوصية والسياسات",
+  "faq": "الأسئلة الشائعة",
+  "contactSupport": "تواصل مع الدعم",
+  "rateUs": "قيّمنا",
+  "rateUsSubtitle": "هل يعجبك BizTrack؟ اترك تقييماً على Google Play",
+  "rateUsUnavailable": "تعذّر فتح المتجر. حاول مرة أخرى لاحقاً.",
+  "reportProblem": "الإبلاغ عن مشكلة",
+  "logout": "تسجيل الخروج",
+  "signOut": "الخروج",
+  "settings": "الإعدادات",
+  "testData": "بيانات اختبارية",
+  "regionAndCurrency": "المنطقة والعملة",
+  "reportingCurrency": "عملة التقارير",
+  "selectCurrency": "اختر العملة",
+  "currencySample": "{code} · {symbol} · مثال {sample}",
+  "@currencySample": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      },
+      "sample": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdated": "تم تعيين العملة إلى {code} ({symbol})",
+  "@currencyUpdated": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdateFailed": "تعذّر تحديث العملة: {error}",
+  "@currencyUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "setupAppTitle": "إعداد {appName}",
+  "@setupAppTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "setupSubtitle": "قم بتكوين مؤسستك ومحاسبتك — يُحفظ على هذا الجهاز للاستخدام دون إنترنت.",
+  "regionAndCurrencySubtitle": "الإعدادات المحلية وعملة التقارير.",
+  "country": "الدولة",
+  "currency": "العملة",
+  "selectCountry": "اختر الدولة",
+  "language": "اللغة",
+  "selectLanguage": "اختر اللغة",
+  "languageUpdated": "تم تعيين اللغة إلى {name}",
+  "@languageUpdated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "languageUpdateFailed": "تعذّر تحديث اللغة: {error}",
+  "@languageUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToApp": "مرحباً بك في {appName}",
+  "@welcomeToApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "forceUpdateMessage": "يرجى تثبيت أحدث إصدار من {appName} للمتابعة.",
+  "@forceUpdateMessage": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "generatedByApp": "تم إنشاؤه بواسطة {appName}",
+  "@generatedByApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "whatIsApp": "ما هو {appName}؟",
+  "@whatIsApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "appDescriptionFaq": "يساعدك {appName} على إدارة فواتير المبيعات والمشتريات، والأطراف (العملاء والموردين)، والمخزون، والمدفوعات، والموظفين، والملخصات اليومية — من هاتفك أو جهازك اللوحي.",
+  "@appDescriptionFaq": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "faqIntro": "إجابات على الأسئلة الشائعة حول {appName}.",
+  "@faqIntro": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseFromGallery": "اختر من المعرض",
+  "takePhoto": "التقط صورة",
+  "photoLibrary": "مكتبة الصور",
+  "addPhoto": "إضافة صورة",
+  "couldNotPickImage": "تعذّر اختيار الصورة: {error}",
+  "@couldNotPickImage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteOrganizationTitle": "حذف المؤسسة؟",
+  "deleteOrganizationMessage": "إزالة {name} من هذا الجهاز. سيتم حذف جميع البيانات المحلية لهذه المؤسسة.",
+  "deleteOrganizationWarning": "لا يمكن التراجع عن هذا.",
+  "organizationDeleted": "تمت إزالة المؤسسة",
+  "createAction": "إنشاء",
+  "connectOrganizationTitle": "ربط مؤسستك",
+  "connectOrganizationSubtitle": "اختر مؤسسة لتسجيل الدخول.",
+  "selectOrganization": "المؤسسات",
+  "selectOrganizationHint": "اضغط على مؤسسة للمتابعة",
+  "noSavedOrganizationsYet": "لا توجد مؤسسات بعد. أنشئ مؤسسة أو استخدم بيانات الاختبار أدناه.",
+  "orgConnectOnceInfo": "يربط هذا التطبيق بحسابك التجاري. تحتاج فقط إلى إعداده مرة واحدة لكل جهاز.",
+  "organizationCodeLabel": "الرمز: {code}",
+  "loginWithTestData": "تسجيل الدخول ببيانات الاختبار",
+  "loginWithTestDataSubtitle": "تحميل بيانات الفندق التجريبية وتسجيل الدخول تلقائياً",
+  "testDataLoginFailed": "تعذّر تحميل بيانات الاختبار: {error}",
+  "preparingTestData": "جاري تحضير البيانات التجريبية…",
+  "setupOrganizationName": "اسم المؤسسة",
+  "setupCompanyName": "اسم الشركة",
+  "setupBusinessType": "نوع النشاط التجاري",
+  "businessTypeHotel": "فندق",
+  "businessTypeRestaurant": "مطعم",
+  "businessTypeHotelRestaurant": "فندق ومطعم",
+  "businessTypeRetail": "بيع بالتجزئة / متجر",
+  "businessTypeCafe": "مقهى / مخبز",
+  "businessTypeBar": "بار / حانة",
+  "businessTypeOther": "أخرى",
+  "organizationBusinessTypeLabel": "النوع: {type}",
+  "@organizationBusinessTypeLabel": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "organizationSettings": "المؤسسة",
+  "editOrganizationInfo": "معلومات المؤسسة",
+  "editOrganizationInfoSubtitle": "حدّث طريقة ظهور هذا النشاط التجاري في التطبيق. لا يمكن تغيير رمز المؤسسة.",
+  "organizationCode": "رمز المؤسسة",
+  "organizationCodeReadOnly": "هذا الرمز ثابت بعد الإعداد.",
+  "organizationInfoUpdated": "تم حفظ معلومات المؤسسة",
+  "organizationInfoLoadFailed": "تعذّر تحميل معلومات المؤسسة",
+  "organizationInfoSaveFailed": "تعذّر حفظ معلومات المؤسسة: {error}",
+  "@organizationInfoSaveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "saveChanges": "حفظ التغييرات",
+  "setupFullName": "الاسم الكامل",
+  "setupConfirmPassword": "تأكيد كلمة المرور",
+  "setupBankName": "اسم البنك",
+  "setupRegionStepTitle": "المنطقة والعملة",
+  "setupOrganizationStepTitle": "المؤسسة",
+  "setupOrganizationStepSubtitle": "كيف يظهر عملك في التطبيق",
+  "setupAdminStepTitle": "حساب المسؤول",
+  "setupAdminStepSubtitle": "المستخدم الرئيسي لهذا التثبيت",
+  "setupAccountingStepTitle": "المحاسبة",
+  "setupAccountingStepSubtitle": "البنك ودليل الحسابات والسنة المالية",
+  "setupCompleteSetup": "إتمام الإعداد",
+  "fieldRequired": "{field} مطلوب",
+  "invalidEmailAddress": "أدخل عنوان بريد إلكتروني صحيح",
+  "passwordMinLength": "يجب أن تكون كلمة المرور {min} أحرف على الأقل",
+  "passwordsDoNotMatch": "كلمتا المرور غير متطابقتين",
+  "setupFixValidationErrors": "يرجى إصلاح الأخطاء أدناه للمتابعة",
+  "setupCompleteSuccess": "تم إكمال الإعداد بنجاح",
+  "setupCompleteWithPdfSuccess": "اكتمل الإعداد. احفظ ملف PDF في مكان آمن.",
+  "setupPdfFailed": "اكتمل الإعداد، لكن تعذّر حفظ ملف PDF: {error}",
+  "setupFailed": "تعذّر إتمام الإعداد. يرجى المحاولة مرة أخرى.",
+  "setupFailedWithDetails": "فشل الإعداد: {error}",
+  "languageChangeLaterHint": "يمكنك تغييره لاحقاً من الإعدادات",
+  "unpaidAmount": "المبلغ غير المدفوع",
+  "unpaidBalance": "غير مدفوع",
+  "unpaidColonAmount": "غير مدفوع: {amount}",
+  "previousUnpaid": "غير مدفوع",
+  "partyUnpaid": "غير مدفوع",
+  "loadingUnpaid": "غير مدفوع…",
+  "totalUnpaid": "غير مدفوع",
+  "unpaidAmountNotYetCollected": "مبلغ غير مدفوع لم يتم تحصيله بعد.",
+  "partyUnpaidTabHint": "افتح الموظفين، اختر شخصاً، ثم اضغط على \"غير مدفوع للطرف\" في ملفه الشخصي. يحتاج الخادم إلى معرّف الموظف لإجراء هذا البحث.",
+  "partySettlementUsesUnpaidTotal": "تستخدم تسوية الطرف الإجمالي غير المدفوع.",
+  "selectPartyWithUnpaidFirst": "أدخل مبلغ التسوية أولاً (أو اختر طرفاً لديه مبلغ غير مدفوع).",
+  "@unpaidColonAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "partyRolesTitle": "أدوار الأطراف",
+  "partyRolesMoreSubtitle": "عميل، مورد، كلاهما والمزيد",
+  "searchRoles": "البحث عن الأدوار",
+  "roleCount": "{count, plural, =1{دور واحد} two{دوران} few{{count} أدوار} many{{count} دوراً} other{{count} دور}}",
+  "@roleCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noRolesYet": "لا توجد أدوار بعد",
+  "noRolesYetHint": "أضف عميل، مورد، كلاهما، أو أدواراً مخصصة لجهات الاتصال.",
+  "addRole": "إضافة دور",
+  "deleteRoleTitle": "حذف الدور",
+  "deleteRoleConfirm": "حذف \"{name}\"؟ لا يمكن التراجع عن هذا.",
+  "@deleteRoleConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteRoleHasPartiesMessage": "\"{name}\" يُستخدم من قِبل {partyCount, plural, =1{طرف واحد} two{طرفان} few{{partyCount} أطراف} many{{partyCount} طرفاً} other{{partyCount} طرف}}. انقل هؤلاء الأطراف إلى دور آخر، أو احذف بالقوة وستفقدهم.",
+  "@deleteRoleHasPartiesMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "transferParties": "نقل الأطراف",
+  "hardDeleteLoseParties": "حذف قسري (فقدان الأطراف)",
+  "hardDeleteRoleTitle": "حذف قسري؟",
+  "hardDeleteRoleMessage": "سيؤدي هذا إلى حذف \"{name}\" نهائياً وجميع {partyCount, plural, =1{طرف واحد} two{طرفان} few{{partyCount} أطراف} many{{partyCount} طرفاً} other{{partyCount} طرف}} المعيّنين له. لا يمكن استرداد بيانات الأطراف.\n\nالأطراف المرتبطة بفواتير أو مدفوعات قد لا يتم حذفها — استخدم النقل بدلاً من ذلك.",
+  "@hardDeleteRoleMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteRoleAndParties": "حذف الدور والأطراف",
+  "addAnotherRoleBeforeDelete": "أضف دوراً آخر قبل حذف هذا.",
+  "transferPartiesMoveMessage": "نقل {partyCount, plural, =1{طرف واحد} two{طرفان} few{{partyCount} أطراف} many{{partyCount} طرفاً} other{{partyCount} طرف}} من \"{fromRole}\" إلى:",
+  "@transferPartiesMoveMessage": {
+    "placeholders": {
+      "partyCount": {
+        "type": "int"
+      },
+      "fromRole": {
+        "type": "String"
+      }
+    }
+  },
+  "transferAndDeleteRole": "نقل وحذف الدور",
+  "builtInRole": "مدمج",
+  "rolePartyCount": "{count, plural, =1{طرف واحد} two{طرفان} few{{count} أطراف} many{{count} طرفاً} other{{count} طرف}}",
+  "@rolePartyCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noPartiesYet": "لا توجد أطراف بعد",
+  "newRole": "دور جديد",
+  "editRole": "تعديل الدور",
+  "defaultRolesCannotEdit": "لا يمكن إعادة تسمية الأدوار الافتراضية أو حذفها.",
+  "roleNameLabel": "اسم الدور *",
+  "roleNameHint": "مثال: عميل",
+  "roleDescriptionLabel": "الوصف",
+  "roleDescriptionHint": "ملاحظة قصيرة لفريقك",
+  "roleSortOrderLabel": "ترتيب الفرز",
+  "roleSortOrderHint": "الأرقام الأقل تظهر أولاً في القوائم",
+  "roleCreated": "تم إنشاء الدور",
+  "roleUpdated": "تم تحديث الدور",
+  "roleDeleted": "تم حذف الدور",
+  "roleDeletedPartiesTransferred": "تم حذف الدور. {count, plural, =1{طرف واحد} two{طرفان} few{{count} أطراف} many{{count} طرفاً} other{{count} طرف}} نُقل إلى {targetRole}.",
+  "@roleDeletedPartiesTransferred": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "targetRole": {
+        "type": "String"
+      }
+    }
+  },
+  "roleAndPartiesDeleted": "تم حذف الدور و{count, plural, =1{طرف واحد} two{طرفان} few{{count} أطراف} many{{count} طرفاً} other{{count} طرف}}.",
+  "@roleAndPartiesDeleted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@deleteOrganizationMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@organizationCodeLabel": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "@testDataLoginFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@fieldRequired": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "@passwordMinLength": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "@setupPdfFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@setupFailedWithDetails": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "workspace": "مساحة العمل",
+  "change": "تغيير",
+  "addMoreOrganization": "إضافة المزيد +",
+  "connectAnotherOrganization": "ربط مؤسسة أخرى",
+  "noSavedOrganizationsUseAddMore": "لا توجد مؤسسات محفوظة بعد. استخدم إضافة المزيد + للاتصال بمؤسسة.",
+  "registerNewOrganizationTitleSignedIn": "تسجيل مؤسسة جديدة؟",
+  "registerNewOrganizationTitle": "تسجيل مؤسسة جديدة؟",
+  "registerNewOrganizationMessageSignedIn": "سيتم تسجيل خروجك وسيبدأ معالج الإعداد من البداية لتتمكن من تسجيل عمل تجاري جديد على هذا الجهاز.\n\nالمؤسسات المحفوظة بالفعل ستبقى في القائمة بعد الإعداد.",
+  "registerNewOrganizationMessageLogin": "سيبدأ معالج الإعداد لتتمكن من تسجيل عمل تجاري جديد على هذا الجهاز. أكمل الإعداد لإنشائه؛ مؤسساتك المحفوظة تبقى في القائمة.",
+  "startSetup": "بدء الإعداد",
+  "enterOrganizationCode": "يرجى إدخال رمز مؤسستك",
+  "organizationNotFoundCheckCode": "المؤسسة غير موجودة. تحقق من الرمز وحاول مرة أخرى.",
+  "organizationNotFound": "المؤسسة غير موجودة",
+  "couldNotVerifyOrganization": "تعذّر التحقق من المؤسسة",
+  "noLocalDataCompleteSetup": "لا توجد بيانات محلية لـ {name}. أكمل الإعداد لهذه المؤسسة أولاً.",
+  "@noLocalDataCompleteSetup": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeBack": "مرحباً بعودتك",
+  "signInToContinue": "سجّل دخولك للمتابعة",
+  "enterEmail": "أدخل البريد الإلكتروني",
+  "pleaseEnterEmail": "يرجى إدخال بريدك الإلكتروني",
+  "pleaseEnterValidEmail": "يرجى إدخال بريد إلكتروني صحيح",
+  "enterEmailLocalPartOnly": "أدخل الجزء قبل @ فقط",
+  "pleaseEnterPassword": "يرجى إدخال كلمة المرور",
+  "logIn": "تسجيل الدخول",
+  "searchCountry": "البحث عن دولة",
+  "searchCodeOrSymbol": "البحث عن رمز أو رمز عملة",
+  "saveLoginDetailsTitle": "حفظ تفاصيل تسجيل الدخول؟",
+  "saveLoginDetailsMessage": "أنت على وشك إتمام إعداد هذه المؤسسة.\n\nهل تريد تنزيل ملف PDF بأمان يحتوي على رمز المؤسسة واسمها وبريدك الإلكتروني وكلمة المرور؟ احفظه في مكان آمن — أي شخص لديه هذا الملف يمكنه تسجيل الدخول.",
+  "downloadPdfAndContinue": "تنزيل PDF والمتابعة",
+  "continueWithoutPdf": "المتابعة بدون PDF",
+  "legalDisplayNameHint": "الاسم القانوني / اسم العرض",
+  "chartOfAccounts": "دليل الحسابات",
+  "fiscalYearStart": "بداية السنة المالية",
+  "fiscalYearEnd": "نهاية السنة المالية",
+  "removeTestDataTitle": "إزالة بيانات الاختبار؟",
+  "removeTestDataMessageDemoOrg": "سيتم إزالة جميع مبيعات العرض التوضيحي والمشتريات وجهات الاتصال والأطراف وعناصر المخزون والموظفين ومنتجات حاسبة المشروبات والمؤسسات التجريبية الإضافية.\n\nأنت في مؤسسة تجريبية — بعد ذلك ستُحوَّل تلقائياً إلى مؤسستك الأولى.",
+  "removeTestDataMessageNormal": "سيتم إزالة جميع مبيعات العرض التوضيحي والمشتريات وجهات الاتصال والأطراف وعناصر المخزون والموظفين والمؤسسات التجريبية الثلاث الإضافية. يبقى حساب المسؤول وبيانات الإعداد الحقيقية سليمة.",
+  "removeTestDataWarning": "لا يمكن التراجع عن هذا إلا بتحميل بيانات الاختبار مرة أخرى.",
+  "removeTestData": "إزالة بيانات الاختبار",
+  "keepTestData": "الاحتفاظ ببيانات الاختبار",
+  "demoDataRemoved": "تمت إزالة بيانات العرض التوضيحي",
+  "testDataRemovedSwitchedTo": "تمت إزالة بيانات الاختبار. تم التبديل إلى {name}.",
+  "@testDataRemovedSwitchedTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "testDataRemoved": "تمت إزالة بيانات الاختبار",
+  "couldNotRemoveTestData": "تعذّر إزالة بيانات الاختبار: {error}",
+  "@couldNotRemoveTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loadTestDataTitle": "تحميل بيانات الاختبار؟",
+  "loadTestDataMessage": "سيضيف هذا ما يصل إلى 50 جهة اتصال تجريبية و50 عنصر مخزون للمبيعات و50 للمشتريات، بالإضافة إلى مبيعات ومشتريات ومدفوعات ومخزون وملخصات إغلاق وموظفين وكشوف رواتب وحضور لآخر 15 يوماً ومنتجات مشروبات نموذجية.",
+  "loadTestData": "تحميل بيانات الاختبار",
+  "testDataLoaded": "تم تحميل بيانات الاختبار",
+  "couldNotLoadTestData": "تعذّر تحميل بيانات الاختبار: {error}",
+  "@couldNotLoadTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "demoTestData": "بيانات العرض التوضيحي",
+  "importTestDataSubtitle": "استيراد بيانات الاختبار لجميع الميزات",
+  "hideTestDataTitle": "إخفاء بيانات الاختبار لهذه المؤسسة؟",
+  "hideTestDataMessage": "إذا تابعت، سيتم إخفاء قسم بيانات الاختبار في كل مكان في هذه المؤسسة (بما في ذلك الإعداد). يمكنك تشغيله مرة أخرى فقط عن طريق إعادة التثبيت أو مسح بيانات التطبيق لهذه المؤسسة.",
+  "hideTestDataWarning": "البيانات التجريبية المحملة بالفعل ستبقى في قاعدة البيانات حتى تزيلها من الإعدادات.",
+  "okHideTestData": "موافق، أخفِ بيانات الاختبار",
+  "testDataHiddenForOrg": "تم إخفاء بيانات الاختبار لهذه المؤسسة",
+  "hideTestDataTooltip": "إخفاء بيانات الاختبار لهذه المؤسسة",
+  "privacyPolicyTitle": "سياسة الخصوصية",
+  "termsAndConditions": "الشروط والأحكام",
+  "logoutConfirmTitle": "تسجيل الخروج",
+  "logoutConfirmMessage": "هل أنت متأكد أنك تريد تسجيل الخروج من حسابك؟",
+  "faqTapToExpand": "اضغط على سؤال لتوسيعه.",
+  "faqSectionGettingStarted": "البدء",
+  "faqSectionLogin": "تسجيل الدخول",
+  "faqSectionNavigation": "التنقل",
+  "faqSectionInvoices": "الفواتير",
+  "faqSectionPayments": "المدفوعات",
+  "faqSectionItemsStock": "العناصر والمخزون",
+  "faqSectionProfileEmployees": "الملف الشخصي والموظفون",
+  "faqSectionDashboardReports": "لوحة القيادة والتقارير",
+  "faqSectionSyncTroubleshooting": "المزامنة واستكشاف الأخطاء",
+  "faqNeedInternetQuestion": "هل أحتاج إلى إنترنت؟",
+  "faqNeedInternetAnswer": "بعد الإعداد المحلي الأول، يمكنك تسجيل الفواتير والعناصر والمدفوعات بدون إنترنت. تبقى البيانات على جهازك. المزامنة مع الخادم اختيارية.",
+  "faqFirstInstallQuestion": "ماذا يحدث عند أول تثبيت؟",
+  "faqFirstInstallAnswer": "قد ترى جولة تعريفية قصيرة، ثم الإعداد المحلي (المؤسسة، الشركة، بريدك الإلكتروني وكلمة المرور، العملة، السنة المالية). بعد ذلك، سجّل دخولك بالبيانات التي أنشأتها.",
+  "faqSignInCredentialsQuestion": "ماذا أستخدم لتسجيل الدخول؟",
+  "faqSignInCredentialsAnswer": "بريدك الإلكتروني وكلمة المرور من الإعداد. يبقيك التطبيق مسجلاً للدخول حتى تسجّل خروجك من المزيد.",
+  "faqLoggedOutQuestion": "لماذا تم تسجيل خروجي؟",
+  "faqLoggedOutAnswer": "اخترت تسجيل الخروج، أو مسحت بيانات التطبيق، أو انتهت صلاحية الجلسة. سجّل دخولك مرة أخرى.",
+  "faqBottomTabsQuestion": "ما الذي تفعله تبويبات الأسفل؟",
+  "faqBottomTabsAnswer": "الرئيسية — لوحة القيادة.\nالمبيعات — فواتير المبيعات.\nالمصاريف — فواتير المشتريات.\nزر الوسط — الأطراف.\nالمزيد — الملف الشخصي، التقارير، المزامنة، تسجيل الخروج.",
+  "faqCreateInvoiceQuestion": "كيف أنشئ فاتورة؟",
+  "faqCreateInvoiceAnswer": "افتح المبيعات أو المصاريف، حدد تاريخاً، اضغط +، أضف العناصر والمبالغ، اختر طرفاً إذا لزم، ثم احفظ أو أرسل.",
+  "faqInvoiceDetailsQuestion": "كيف أعرض تفاصيل الفاتورة؟",
+  "faqInvoiceDetailsAnswer": "اضغط على أي فاتورة في القائمة. تُظهر تفاصيل المعاملة البنود والإجماليات والخصومات والمدفوعات.",
+  "faqZeroRateQuestion": "السعر أو المبلغ يظهر صفراً في التفاصيل",
+  "faqZeroRateAnswer": "يعني هذا عادةً أن بيانات السطر أو الدفع كانت مفقودة في عمليات الحفظ القديمة. حدّث التطبيق وأنشئ أو سوّ مرة أخرى إذا لزم.",
+  "faqPartialPaymentQuestion": "كيف أسجّل دفعة جزئية؟",
+  "faqPartialPaymentAnswer": "افتح الفاتورة ← تفاصيل المعاملة ← إجراء دفعة. أدخل المبلغ والطريقة والتاريخ، ثم معالجة التسوية.",
+  "faqMultiplePaymentQuestion": "كيف يعمل الدفع المتعدد؟",
+  "faqMultiplePaymentAnswer": "شغّل الدفع المتعدد، اضغط تعديل، وقسّم الإجمالي على النقد والبطاقة وQR. تُسجَّل كل طريقة بشكل منفصل.",
+  "faqSplitPaymentSavedQuestion": "تم حفظ دفعة واحدة فقط من تقسيم",
+  "faqSplitPaymentSavedAnswer": "حدّث إلى أحدث إصدار من التطبيق. الإصدارات القديمة أحياناً تحفظ سطر التقسيم الأول فقط.",
+  "faqAddItemQuestion": "كيف أضيف عنصراً؟",
+  "faqAddItemAnswer": "استخدم إضافة عنصر من تدفق المبيعات أو الإضافة السريعة. أدخل الاسم والسعر والوحدة والغرض وصورة اختيارية (الحد الأقصى 5 ميجابايت)، ثم إنشاء عنصر.",
+  "faqCustomUnitQuestion": "كيف أضيف وحدة مخصصة؟",
+  "faqCustomUnitAnswer": "في نموذج العنصر، اضغط الوحدة ← إنشاء وحدة جديدة في أسفل القائمة، أدخل الاسم، وإنشاء.",
+  "faqStockQuantitiesQuestion": "How do I enter stock quantities?",
+  "faqStockQuantitiesAnswer": "Live qty is In stock on each item. Set stock on an item to enter opening stock or a stock adjustment. Opening stock / stock reconciliation (upload or enter a count) also sets In stock when live tracking is on. Liquor prices is a pour-price list, not stock.",
+  "faqProfileNameQuestion": "غيّرت اسمي لكن الملف الشخصي لا يزال يُظهر الاسم القديم",
+  "faqProfileNameAnswer": "عدّل سجل موظفك (نفس البريد الإلكتروني) واحفظ. يجب أن يتحدث تبويب المزيد ولوحة القيادة.",
+  "faqRevenueDetailsQuestion": "ما هي تفاصيل الإيرادات؟",
+  "faqRevenueDetailsAnswer": "عرض شهري مع مخطط الاتجاه اليومي وصافي الربح والمستحقات غير المدفوعة وتفصيل يومي للمبيعات مقابل المشتريات.",
+  "faqOtherReportsQuestion": "أين التقارير الأخرى؟",
+  "faqOtherReportsAnswer": "افتح المزيد وابحث تحت التقارير (التحليلات، الأرباح والخسائر، الكشف) إذا كان دورك يتيح الوصول.",
+  "faqWhenSyncQuestion": "متى يجب أن أزامن؟",
+  "faqWhenSyncAnswer": "فقط عندما يطلب منك مسؤولك ذلك وعندما يكون لديك اتصال مستقر.",
+  "faqFabPositionQuestion": "زر + يبدو مرتفعاً جداً في المبيعات / المصاريف",
+  "faqFabPositionAnswer": "يجلس فوق شريط التنقل السفلي. مرّر القائمة أو حدّث التطبيق إذا كان الزر يتداخل مع المحتوى.",
+  "faqHowLogoutQuestion": "كيف أسجّل خروجي؟",
+  "faqHowLogoutAnswer": "المزيد ← تسجيل الخروج في أسفل قائمة الإعدادات.",
+  "statisticsGoodMorning": "صباح الخير",
+  "statisticsGoodAfternoon": "طاب يومك",
+  "statisticsGoodEvening": "مساء الخير",
+  "statisticsDefaultUser": "المستخدم",
+  "statisticsCheckConnection": "يرجى التحقق من اتصالك والمحاولة مرة أخرى.",
+  "statisticsCouldNotLoadProfile": "تعذّر تحميل الملف الشخصي",
+  "statisticsCouldNotLoadData": "تعذّر تحميل البيانات",
+  "statisticsPeriodDay": "يوم",
+  "statisticsPeriodMonth": "شهر",
+  "statisticsPeriodYear": "سنة",
+  "statisticsSelectedPeriod": "الفترة المحددة",
+  "statisticsSelectMonth": "اختر الشهر",
+  "statisticsSelectMonthSubtitle": "اختر شهراً لتصفية البيانات",
+  "statisticsQuickOperations": "عمليات سريعة",
+  "statisticsAnnualRevenue": "الإيرادات السنوية",
+  "statisticsCashflowLast7Days": "التدفق النقدي (آخر 7 أيام)",
+  "statisticsCashflowLast12Months": "التدفق النقدي (آخر 12 شهراً)",
+  "statisticsDaily": "يومي",
+  "statisticsMonthly": "شهري",
+  "statisticsOverall": "الإجمالي",
+  "statisticsLast7Days": "آخر 7 أيام",
+  "statisticsLast12Months": "آخر 12 شهراً",
+  "statisticsAllYears": "كل السنوات",
+  "statisticsNoDataAvailable": "لا توجد بيانات متاحة",
+  "statisticsMoneyIn": "الأموال الواردة",
+  "statisticsMoneyOut": "الأموال الصادرة",
+  "statisticsIncome": "الدخل",
+  "statisticsExpenses": "المصاريف",
+  "statisticsSalesSummary": "ملخص المبيعات",
+  "statisticsPurchaseSummary": "ملخص المشتريات",
+  "statisticsTotalSales": "إجمالي المبيعات",
+  "statisticsTotalIncome": "إجمالي الدخل",
+  "statisticsTotalUnpaid": "إجمالي غير المدفوع",
+  "statisticsTotalPurchase": "إجمالي المشتريات",
+  "statisticsPaidPurchase": "المشتريات المدفوعة",
+  "statisticsUnpaidPurchase": "المشتريات غير المدفوعة",
+  "statisticsEmployeeDashboard": "لوحة قيادة الموظف",
+  "statisticsDefaultEmployee": "موظف",
+  "statisticsDefaultDepartment": "القسم",
+  "statisticsDefaultPosition": "المنصب",
+  "statisticsCurrentMonth": "الشهر الحالي",
+  "statisticsStatus": "الحالة",
+  "statisticsActive": "نشط",
+  "statisticsWelcome": "مرحباً",
+  "statisticsEmployeeWelcomeMessage": "لقد سجّلت الدخول كموظف. استخدم قائمة التنقل للوصول إلى الميزات المتاحة.",
+  "statisticsRevenueDetails": "تفاصيل الإيرادات",
+  "statisticsEmployeeDetails": "تفاصيل الموظف",
+  "statisticsChangeMonth": "تغيير الشهر",
+  "statisticsFilterChartsSubtitle": "تصفية المخططات والتفصيل",
+  "statisticsDailyTrend": "الاتجاه اليومي",
+  "statisticsDailyActivity": "النشاط اليومي",
+  "statisticsNoDataForMonth": "لا توجد بيانات لهذا الشهر",
+  "statisticsNetProfit": "صافي الربح",
+  "statisticsMonthReceivables": "مستحقات الشهر",
+  "statisticsNoDailyEntries": "لا توجد إدخالات يومية لهذا الشهر",
+  "statisticsDailySalesBreakdown": "تفصيل المبيعات اليومية",
+  "statisticsDailyBreakdown": "التفصيل اليومي",
+  "statisticsAdvance": "سلفة",
+  "statisticsExploreFeatures": "استكشاف الميزات",
+  "statisticsShowOrHideFeatures": "إظهار أو إخفاء الميزات",
+  "statisticsAllFeaturesHidden": "جميع ميزات الاستكشاف مخفية",
+  "statisticsNoFeaturesForOrg": "لا توجد ميزات متاحة لمؤسستك",
+  "statisticsTapTuneToShow": "اضغط على أيقونة الضبط أعلاه لإظهار الاختصارات مرة أخرى.",
+  "statisticsMenuCheck": "التسوية",
+  "statisticsMenuEmployee": "موظف",
+  "statisticsMenuOrder": "طلب",
+  "statisticsMenuInventory": "Items",
+  "statisticsMenuCustomers": "العملاء",
+  "statisticsMenuCalculator": "Liquor prices",
+  "statisticsMenuQuickExpenses": "مصاريف\nسريعة",
+  "statisticsMenuQuickSales": "مبيعات\nسريعة",
+  "statisticsMenuAddEmployee": "إضافة\nموظف",
+  "statisticsMenuAddParty": "إضافة\nطرف",
+  "statisticsMenuAddEmployeeSingle": "إضافة موظف",
+  "statisticsMenuAddPartySingle": "إضافة طرف",
+  "statisticsGreeting": "{greeting}، {name}",
+  "@statisticsGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsEmployeeGreeting": "{greeting}، {name}!",
+  "@statisticsEmployeeGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDepartmentPosition": "{department} • {position}",
+  "@statisticsDepartmentPosition": {
+    "placeholders": {
+      "department": {
+        "type": "String"
+      },
+      "position": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricCollected": "تم تحصيل {amount}",
+  "@statisticsMetricCollected": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricPaid": "تم دفع {amount}",
+  "@statisticsMetricPaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyInAmount": "الأموال الواردة: {amount}",
+  "@statisticsMoneyInAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyOutAmount": "الأموال الصادرة: {amount}",
+  "@statisticsMoneyOutAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDayTooltip": "اليوم {day}\n{amount}",
+  "@statisticsDayTooltip": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsProfitMargin": "هامش {percent}%",
+  "@statisticsProfitMargin": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "selectBusinessType": "اختر نوع النشاط التجاري",
+  "businessTypeHotelSubtitle": "الغرف والنزلاء ومكتب الاستقبال",
+  "businessTypeRestaurantSubtitle": "تناول الطعام في المطعم والمطبخ وطلبات الطاولات",
+  "businessTypeHotelRestaurantSubtitle": "غرف الفندق والمطعم معاً",
+  "businessTypeRetailSubtitle": "المنتجات والمخزون والدفع",
+  "businessTypeCafeSubtitle": "القهوة والمعجنات والوجبات الخفيفة",
+  "businessTypeBarSubtitle": "قائمة المشروبات والحسابات ومبيعات البار",
+  "businessTypeOtherSubtitle": "إعداد مخصص لأي نشاط تجاري",
+  "@invoiceCommonSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonInvoiceLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCustomerLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSupplierLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchingFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchItemsHint": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonEmptyForDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDeleteInvoiceConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCancelReturnMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPartyLoadingError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceFoundSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceFoundPurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDatePurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateInvoiceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteMessage": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceReturnCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotPrint": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotSave": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotShare": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonItemReturnedQty": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      },
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonMultiplePaymentSummary": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptFilename": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReturnAgainst": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSavedPath": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonUnpaidWithAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonTodayAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyExportReceipts": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyNoItemsMatching": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceQuickShowingItems": {
+    "placeholders": {
+      "shown": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickLoadedItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickScrollLoadMore": {
+    "placeholders": {
+      "perPage": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickCartWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemActionsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditSelectedItem": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditRateLabel": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditItemLabel": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemsError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditPartiesError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditSaveError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonActions": "الإجراءات",
+  "invoiceCommonSearchItems": "البحث عن العناصر",
+  "invoiceCommonSearchItemsSubtitle": "ابحث عن عناصر محددة",
+  "invoiceCommonAddNewInvoice": "إضافة فاتورة جديدة",
+  "invoiceCommonAddSalesInvoiceSubtitle": "إنشاء فاتورة مبيعات جديدة",
+  "invoiceCommonAddPurchaseInvoiceSubtitle": "إنشاء فاتورة مشتريات جديدة",
+  "invoiceCommonSelectMonthYear": "اختر الشهر/السنة",
+  "invoiceCommonSelectMonthYearSubtitle": "الانتقال إلى شهر محدد",
+  "invoiceCommonSelectMonthAndYear": "اختر الشهر والسنة",
+  "invoiceCommonFilterByDate": "التصفية حسب التاريخ",
+  "invoiceCommonFilterByDateRange": "التصفية حسب نطاق التاريخ",
+  "invoiceCommonCloseSearch": "إغلاق البحث",
+  "invoiceCommonSelectAll": "تحديد الكل",
+  "invoiceCommonToday": "اليوم",
+  "invoiceCommonTotalQuantity": "إجمالي الكمية",
+  "invoiceCommonTotalAmount": "إجمالي المبلغ",
+  "invoiceCommonTotal": "الإجمالي",
+  "invoiceCommonSearchForItems": "البحث عن العناصر",
+  "invoiceCommonNoItemsFound": "لم يتم العثور على عناصر",
+  "invoiceCommonUnknownItem": "عنصر غير معروف",
+  "invoiceCommonNotAvailable": "غير متاح",
+  "invoiceSalesCouldNotLoad": "تعذّر تحميل المبيعات",
+  "invoiceSalesNoFound": "لم يتم العثور على مبيعات",
+  "invoiceSalesSelectDate": "اختر تاريخاً لعرض المبيعات",
+  "invoiceSalesNoInvoicesFound": "لم يتم العثور على فواتير",
+  "invoiceSalesSelectDateLegacy": "اختر تاريخاً لعرض الفواتير",
+  "invoicePurchaseCouldNotLoad": "تعذّر تحميل المصاريف",
+  "invoicePurchaseNoFound": "لم يتم العثور على مشتريات",
+  "invoicePurchaseSelectDate": "اختر تاريخاً لعرض المشتريات",
+  "invoiceWeekdaySun": "أحد",
+  "invoiceWeekdayMon": "إثنين",
+  "invoiceWeekdayTue": "ثلاثاء",
+  "invoiceWeekdayWed": "أربعاء",
+  "invoiceWeekdayThu": "خميس",
+  "invoiceWeekdayFri": "جمعة",
+  "invoiceWeekdaySat": "سبت",
+  "invoiceCommonSelectedCount": "{count} محدد",
+  "invoiceCommonQtyLabel": "الكمية: {qty}",
+  "invoiceCommonInvoiceLabel": "الفاتورة: {number}",
+  "invoiceCommonCustomerLabel": "العميل: {name}",
+  "invoiceCommonSupplierLabel": "المورد: {name}",
+  "invoiceCommonSearchingFor": "جارٍ البحث عن \"{query}\"...",
+  "invoiceCommonSearchItemsHint": "ابحث عن عناصر في {scope}...",
+  "invoiceCommonSalesSearchPrompt": "اكتب اسم عنصر للعثور على جميع المبيعات\nفي {scope}",
+  "invoiceCommonPurchaseSearchPrompt": "اكتب اسم عنصر للعثور على جميع المشتريات\nفي {scope}",
+  "invoiceCommonSalesNoMatch": "لا توجد مبيعات لـ \"{query}\"\nفي {scope}",
+  "invoiceCommonPurchaseNoMatch": "لا توجد مشتريات لـ \"{query}\"\nفي {scope}",
+  "invoiceCommonEmptyForDate": "لتاريخ {date}",
+  "invoiceFoundSalesCount": "تم العثور على {count, plural, =1{عملية بيع واحدة} two{عمليتَي بيع} few{{count} عمليات بيع} many{{count} عملية بيع} other{{count} عملية بيع}}",
+  "invoiceFoundPurchaseCount": "تم العثور على {count, plural, =1{عملية شراء واحدة} two{عمليتَي شراء} few{{count} عمليات شراء} many{{count} عملية شراء} other{{count} عملية شراء}}",
+  "invoiceDateSalesCount": "{count, plural, =1{عملية بيع واحدة} two{عمليتا بيع} few{{count} عمليات بيع} many{{count} عملية بيع} other{{count} عملية بيع}}",
+  "invoiceDatePurchaseCount": "{count, plural, =1{عملية شراء واحدة} two{عمليتا شراء} few{{count} عمليات شراء} many{{count} عملية شراء} other{{count} عملية شراء}}",
+  "invoiceDateInvoiceCount": "{count, plural, =1{فاتورة واحدة} two{فاتورتان} few{{count} فواتير} many{{count} فاتورة} other{{count} فاتورة}}",
+  "invoiceDeleteTitle": "حذف {count, plural, =1{فاتورة واحدة} two{فاتورتين} few{{count} فواتير} many{{count} فاتورة} other{{count} فاتورة}}",
+  "invoiceDeleteMessage": "هل أنت متأكد أنك تريد حذف {count, plural, =1{الفاتورة المحددة} two{الفاتورتين المحددتين} few{{count} فواتير محددة} many{{count} فاتورة محددة} other{{count} فاتورة محددة}}؟ لا يمكن التراجع عن هذا الإجراء.",
+  "contacts": "جهات الاتصال",
+  "categories": "الفئات",
+  "manageStaff": "إدارة الموظفين",
+  "payroll": "كشوف الرواتب",
+  "attendance": "الحضور",
+  "profitAndLoss": "الأرباح والخسائر",
+  "statementReport": "كشف الحساب",
+  "analytics": "التحليلات",
+  "loggedOut": "تم تسجيل الخروج",
+  "organizationCodeDisplay": "الرمز: {code}",
+  "@organizationCodeDisplay": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "moreDataSynchronization": "مزامنة البيانات",
+  "moreSendDataToClient": "إرسال البيانات إلى العميل",
+  "moreSendDataToClientSubtitle": "رفع بيانات الخادم إلى العميل",
+  "moreSendDataToClientWarning": "سيؤدي هذا الإجراء إلى استبدال قاعدة بيانات العميل الحالية ببيانات من الخادم. قد تُفقد جميع تغييرات العميل الأخيرة.",
+  "moreSendDataToClientConfirm": "هل أنت متأكد أنك تريد إرسال البيانات إلى العميل؟",
+  "moreFetchDataFromClient": "جلب البيانات من العميل",
+  "moreFetchDataFromClientSubtitle": "تنزيل بيانات العميل إلى الخادم",
+  "moreFetchDataFromClientWarning": "سيؤدي هذا الإجراء إلى استبدال قاعدة بيانات الخادم الحالية ببيانات من العميل. قد تُفقد جميع تغييرات الخادم الأخيرة.",
+  "moreFetchDataFromClientConfirm": "هل أنت متأكد أنك تريد جلب البيانات من العميل؟",
+  "notifications": "الإشعارات",
+  "openingReminder": "تذكير الافتتاح",
+  "closingReminder": "تذكير الإغلاق",
+  "openingTime": "وقت الافتتاح",
+  "closingTime": "وقت الإغلاق",
+  "notificationSettingsSaved": "تم حفظ إعدادات الإشعارات",
+  "notificationPermissionHint": "اسمح بالإشعارات (والمنبهات على Android) حتى تعمل التذكيرات عندما يكون التطبيق مغلقاً",
+  "dailyAtTime": "يومياً في {time}",
+  "@dailyAtTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonYesterday": "أمس",
+  "invoiceCommonTodayAt": "اليوم، {time}",
+  "invoiceCommonDaysAgo": "قبل {count} يوم",
+  "invoiceReturnCount": "{count, plural, =1{مرتجع واحد} two{مرتجعان} few{{count} مرتجعات} many{{count} مرتجعاً} other{{count} مرتجع}}",
+  "statisticsMonthRevenue": "إيرادات الشهر",
+  "statisticsMonthExpenses": "مصاريف الشهر",
+  "exploreCustomizeTitle": "تخصيص الميزات",
+  "exploreCustomizeSubtitle": "أظهر أو أخفِ الاختصارات في شاشتك الرئيسية. تُدرج فقط الميزات التي يمكن لمؤسستك الوصول إليها.",
+  "exploreVisibleOnDashboard": "ظاهرة في لوحة القيادة",
+  "exploreHiddenOnDashboard": "مخفية في لوحة القيادة",
+  "partiesTitle": "الأطراف",
+  "partySearchByName": "البحث بالاسم…",
+  "partySortBy": "الترتيب حسب:",
+  "partySortLatest": "الأحدث",
+  "partySortAmountHighLow": "المبلغ: من الأعلى إلى الأقل",
+  "partySortAmountLowHigh": "المبلغ: من الأقل إلى الأعلى",
+  "partySortNameAZ": "الاسم: أ إلى ي",
+  "partySortNameZA": "الاسم: ي إلى أ",
+  "partyAddNew": "إضافة طرف جديد",
+  "partyEdit": "تعديل الطرف",
+  "partyUpdate": "تحديث الطرف",
+  "partyNameLabel": "اسم الطرف*",
+  "partyNameHint": "أدخل اسم الطرف",
+  "partyNewNameLabel": "اسم الطرف الجديد*",
+  "partyNewNameHint": "أدخل اسم الطرف الجديد",
+  "partyRoleLabel": "دور الطرف *",
+  "partyTapToSelect": "اضغط للاختيار",
+  "partySelectRoleValidation": "يرجى اختيار الدور",
+  "partyEnterNameValidation": "يرجى إدخال اسم الطرف",
+  "partyBasicInfo": "المعلومات الأساسية",
+  "partyAdditionalInfo": "معلومات إضافية",
+  "partyEmail": "بريد الطرف الإلكتروني",
+  "partyEmailHint": "أدخل عنوان البريد الإلكتروني",
+  "partyPhone": "رقم الهاتف",
+  "partyPhoneHint": "أدخل رقم الهاتف",
+  "partyAddress": "عنوان الطرف",
+  "partyAddressHint": "أدخل العنوان",
+  "partyRoleCustomer": "عميل",
+  "partyRoleSupplier": "مورد",
+  "partyRoleRoom": "غرفة",
+  "partyRoleCabin": "كابينة",
+  "partyRoleEmployee": "موظف",
+  "partyRoleBoth": "كلاهما",
+  "partyDefaultAccount": "الحساب الافتراضي",
+  "partyLoyaltyProgram": "برنامج الولاء",
+  "partyLoyaltyPoints": "نقاط الولاء",
+  "partySelectDefaultAccount": "اختر الحساب الافتراضي",
+  "partySelectLoyaltyProgram": "اختر برنامج الولاء",
+  "partyCreateNewProgram": "إنشاء برنامج جديد",
+  "partySelectPartyRole": "اختر دور الطرف",
+  "partyAccountDebtors": "المدينون",
+  "partyAccountCreditors": "الدائنون",
+  "partyBothRoleHint": "\"كلاهما\" يعني أن هذا الطرف يظهر ضمن العميل والمورد فقط — وليس الغرفة أو الكابينة أو الموظف.",
+  "partyValidNumber": "يرجى إدخال رقم صحيح",
+  "partyValidAmount": "يرجى إدخال مبلغ صحيح",
+  "exportAsPdf": "تصدير كملف PDF",
+  "sharePdf": "مشاركة PDF",
+  "partyExportPdfTooltip": "تصدير PDF",
+  "checkoutSelectParty": "اختر الطرف",
+  "checkoutCartSummary": "ملخص السلة",
+  "checkoutNoItemsInCart": "لا توجد عناصر في السلة",
+  "checkoutSearchHere": "ابحث هنا",
+  "checkoutCreateInvoice": "إنشاء فاتورة",
+  "checkoutEditInvoice": "تعديل الفاتورة",
+  "checkoutSaveInvoice": "حفظ الفاتورة",
+  "checkoutInvoiceSummary": "ملخص الفاتورة",
+  "checkoutEstimate": "عرض سعر",
+  "checkoutBasicInformation": "المعلومات الأساسية",
+  "checkoutAddItems": "إضافة عناصر",
+  "checkoutItemsSection": "العناصر",
+  "checkoutPartyRequired": "الطرف *",
+  "checkoutPartyInformation": "معلومات الطرف",
+  "checkoutBillSummary": "ملخص الفاتورة",
+  "checkoutBillSummaryHint": "اضغط لمعرفة حساب أكثر تفصيلاً.",
+  "checkoutItemTotal": "إجمالي العناصر",
+  "checkoutLoyaltyDiscount": "خصم الولاء ({percent}%)",
+  "@checkoutLoyaltyDiscount": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutDiscountLine": "- خصم ({percent}%)",
+  "@checkoutDiscountLine": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutTapToEdit": "اضغط للتعديل",
+  "checkoutTotalAmount": "إجمالي المبلغ",
+  "checkoutPaymentMode": "Record payment",
+  "checkoutPaymentModeHint": "Turn on to take payment now. Leave off to submit the bill unpaid and collect later.",
+  "checkoutNetSalesAmount": "صافي مبلغ المبيعات",
+  "checkoutConfirmCheckout": "تأكيد الدفع",
+  "checkoutEditDiscount": "تعديل الخصم",
+  "checkoutPercentage": "النسبة المئوية",
+  "checkoutDiscard": "تجاهل",
+  "checkoutPartialPayment": "دفع جزئي",
+  "checkoutPartialPaymentBanner": "بتفعيل الدفع الجزئي، سيتمكن العميل من دفع مبلغ أقل من إجمالي المبلغ المفوتر.",
+  "checkoutPleaseEnterAmounts": "يرجى إدخال المبالغ المعنية:",
+  "checkoutPartialPaymentEqualHint": "بما أنه لم يتم تعيين مستخدم، يجب أن يكون المبلغ الإجمالي مساوياً لإجمالي المبلغ المفوتر.",
+  "checkoutOverGrandTotalBy": "يتجاوز الإجمالي الكلي بمقدار: {amount}",
+  "@checkoutOverGrandTotalBy": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutRemainingUnpaid": "المتبقي (غير المدفوع من الإجمالي الكلي): {amount}",
+  "@checkoutRemainingUnpaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutConfirmPayment": "تأكيد الدفع",
+  "checkoutUnpaidCredit": "غير مدفوع / ائتمان",
+  "checkoutAddAtLeastOneLine": "أضف بنداً واحداً على الأقل لعرض التقدير",
+  "checkoutMultiplePayment": "دفع متعدد",
+  "checkoutPaymentStatus": "حالة الدفع",
+  "checkoutPaymentMethods": "طرق الدفع",
+  "checkoutPaymentMethod": "طريقة الدفع",
+  "checkoutTenderAmount": "المبلغ المقدم",
+  "checkoutLoadingPaymentMethods": "جارٍ تحميل طرق الدفع…",
+  "stocksTitle": "Stock reconciliation",
+  "stockUploadTooltip": "Opening stock",
+  "stockNoDataYet": "No opening stock yet",
+  "stockNoDataSubtitle": "Enter a physical count. With live tracking on, that count becomes In stock.",
+  "stockUploadAction": "Opening stock",
+  "stockSearchByDateHint": "البحث بالتاريخ أو الشهر…",
+  "stockNoMatches": "لا توجد نتائج",
+  "stockTryDifferentSearch": "جرّب مصطلح بحث مختلفاً",
+  "stockTryAnotherSearch": "جرّب بحثاً آخر",
+  "stockQtyLabel": "الكمية {qty}",
+  "@stockQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "stockCardSummary": "{records} سجل · {items} عنصر · {locations} موقع",
+  "@stockCardSummary": {
+    "placeholders": {
+      "records": {
+        "type": "String"
+      },
+      "items": {
+        "type": "String"
+      },
+      "locations": {
+        "type": "String"
+      }
+    }
+  },
+  "stockFilterTitle": "Filter stock reconciliation",
+  "stockBatchNumber": "رقم الدفعة",
+  "stockLocation": "الموقع",
+  "stockOptionalHint": "اختياري",
+  "stockApplyFilters": "تطبيق عوامل التصفية",
+  "stockClearFields": "مسح الحقول",
+  "stockDeleteAllTooltip": "حذف كل المخزون لهذا التاريخ",
+  "stockNoItemsFound": "لم يتم العثور على عناصر مخزون",
+  "stockNoItemsSubtitle": "جرّب عوامل تصفية مختلفة أو تاريخ تقرير آخر.",
+  "stockAdjustFilters": "تعديل عوامل التصفية",
+  "stockSearchItemHint": "البحث عن عنصر أو دفعة أو موقع…",
+  "stockEditQuantities": "تعديل الكميات",
+  "stockNoChangesDetected": "لم يتم رصد أي تغييرات",
+  "stockErrorPreparingChanges": "خطأ في تجهيز التغييرات: {error}",
+  "@stockErrorPreparingChanges": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "stockUpdateSuccessful": "تم التحديث بنجاح!",
+  "stockSummary": "الملخص",
+  "stockTotalRequested": "إجمالي المطلوب",
+  "stockSuccessfullyUpdated": "تم التحديث بنجاح",
+  "stockFailed": "فشل",
+  "stockUpdateFailed": "فشل التحديث",
+  "stockClearAllQuantitiesTitle": "مسح جميع الكميات؟",
+  "stockClearAllQuantitiesMessage": "سيؤدي هذا إلى إعادة تعيين جميع الكميات إلى 0. هل أنت متأكد؟",
+  "stockClearAll": "مسح الكل",
+  "stockUpdatingQuantities": "جارٍ تحديث كميات المخزون...",
+  "stockEditQuantitiesTitle": "تعديل كميات المخزون",
+  "stockReportingDate": "تاريخ التقرير: {date}",
+  "@stockReportingDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "stockTotalItemsHint": "إجمالي العناصر: {count} • حدّث الكميات حسب الحاجة",
+  "@stockTotalItemsHint": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "stockItemName": "اسم العنصر",
+  "stockBatchPrefix": "الدفعة: {batch}",
+  "@stockBatchPrefix": {
+    "placeholders": {
+      "batch": {
+        "type": "String"
+      }
+    }
+  },
+  "stockDeleteConfirmTitle": "تأكيد الحذف",
+  "stockDeleteConfirmIntro": "أنت على وشك حذف جميع عناصر المخزون نهائياً للتاريخ التالي:",
+  "stockDeleteConfirmWarning": "لا يمكن التراجع عن هذا الإجراء. سيتم حذف جميع سجلات المخزون لهذا التاريخ نهائياً.",
+  "stockNoInternetRetry": "لا يوجد اتصال بالإنترنت. يرجى التحقق من اتصالك والمحاولة مرة أخرى.",
+  "itemsTitle": "العناصر",
+  "itemAddSheetTitle": "إضافة عنصر",
+  "itemSingleAdd": "إضافة فردية",
+  "itemBulkAdd": "إضافة جماعية",
+  "itemBulkAddTitle": "إضافة عناصر بشكل جماعي",
+  "itemEditTitle": "تعديل العنصر",
+  "itemAddTitle": "إضافة عنصر",
+  "itemCreateButton": "إنشاء عنصر",
+  "itemUpdateButton": "تحديث العنصر",
+  "itemDeleteTitle": "حذف العنصر",
+  "itemDeleteConfirm": "هل أنت متأكد أنك تريد حذف \"{name}\"؟",
+  "itemDeletedSuccess": "تم حذف العنصر بنجاح",
+  "itemCreatedSuccess": "تم إنشاء العنصر بنجاح",
+  "itemUpdatedSuccess": "تم تحديث العنصر بنجاح",
+  "itemLoading": "جارٍ تحميل العناصر...",
+  "itemErrorTitle": "عذراً! حدث خطأ ما",
+  "itemTryAgain": "حاول مرة أخرى",
+  "itemSearchHint": "البحث عن العناصر",
+  "itemNoItemsFound": "لم يتم العثور على عناصر",
+  "itemTryAdjustSearch": "جرّب تعديل مصطلحات البحث",
+  "itemNoItemsAvailable": "لا توجد عناصر متاحة",
+  "itemAddToGetStarted": "أضف عناصر للبدء",
+  "itemNoMoreItems": "لا توجد عناصر أخرى",
+  "itemPurposeBoth": "كلاهما",
+  "itemPurposePurchases": "المشتريات",
+  "itemTypeProduct": "منتج",
+  "itemTypeService": "خدمة",
+  "itemTypeInventory": "مخزون",
+  "itemPhotoTitle": "صورة العنصر",
+  "itemPhotoHint": "اضغط هنا لاختيار أو رفع الصور",
+  "itemPhotoFormats": "JPEG أو PNG أو GIF أو WebP · الحد الأقصى 5 ميجابايت",
+  "itemAddPhoto": "إضافة صورة",
+  "itemPhotoLibrary": "مكتبة الصور",
+  "itemPhotoLibraryHint": "اختر من صورك",
+  "itemTakePhoto": "التقط صورة",
+  "itemUploadGallery": "الرفع من المعرض",
+  "itemUploadGalleryHint": "تصفح الملفات على هذا الجهاز",
+  "itemTypeLabel": "النوع",
+  "itemTypeField": "نوع العنصر",
+  "itemNameLabel": "اسم العنصر",
+  "itemNameHint": "أدخل اسم العنصر",
+  "itemBarcodeLabel": "الباركود / رمز QR",
+  "itemBarcodeField": "الباركود / رمز QR",
+  "itemBarcodeHint": "امسح من شريط التطبيق أو الصق",
+  "itemRateLabel": "السعر",
+  "itemUnitLabel": "الوحدة",
+  "itemPurposeLabel": "الغرض",
+  "itemSelectUnit": "اختر الوحدة",
+  "itemSelectPurpose": "اختر الغرض",
+  "itemSelectCategory": "اختر الفئة",
+  "itemSelectType": "اختر النوع",
+  "itemSelectItemType": "اختر نوع العنصر",
+  "itemSearchUnits": "البحث عن الوحدات…",
+  "itemSearchPurpose": "البحث عن الغرض…",
+  "itemSearchCategories": "البحث عن الفئات…",
+  "itemCreateCustomUnit": "إنشاء وحدة مخصصة",
+  "itemUnitName": "اسم الوحدة",
+  "itemUnitNameHint": "مثال: لتر، صندوق، قطعة",
+  "itemValidationName": "يرجى إدخال اسم العنصر",
+  "itemValidationRate": "يرجى إدخال السعر",
+  "itemValidationNumber": "يرجى إدخال رقم صحيح",
+  "itemSelectUnitRequired": "يرجى اختيار وحدة",
+  "itemSelectPurposeRequired": "يرجى اختيار غرض",
+  "itemImageMissing": "ملف الصورة مفقود",
+  "itemImageFormatError": "استخدم JPEG أو PNG أو GIF أو WebP",
+  "itemImageSizeError": "يجب ألا يتجاوز حجم الصورة 5 ميجابايت",
+  "itemScanBarcode": "مسح الباركود",
+  "itemNameFromCatalog": "تم ملء الاسم من الكتالوج: {name}",
+  "itemBarcodePasteHint": "لم يتم العثور على اسم منتج — تم لصق الرمز كاسم. عدّله إذا لزم الأمر.",
+  "itemBulkRefillTooltip": "إعادة ملء الإدخال السابق",
+  "itemBulkAddRow": "إضافة صف",
+  "itemBulkRowLabel": "العنصر {index}",
+  "itemBulkNameRequired": "الاسم مطلوب",
+  "itemBulkInvalidNumber": "رقم غير صالح",
+  "itemBulkCreating": "جارٍ الإنشاء…",
+  "itemBulkCreateItems": "إنشاء العناصر",
+  "itemBulkCreatedCount": "تم إنشاء {count} عنصر",
+  "itemBulkCreateFailed": "فشل إنشاء العناصر: {error}",
+  "itemBulkNoDraft": "لم يتم العثور على مسودة محفوظة",
+  "itemBulkInvalidDraft": "تنسيق المسودة المحفوظة غير صالح",
+  "itemBulkDraftRestored": "تمت استعادة المسودة السابقة",
+  "itemBulkDraftRestoreFailed": "تعذّر استعادة المسودة المحفوظة",
+  "itemBulkAtLeastOne": "أضف عنصراً واحداً على الأقل",
+  "itemBulkCategoriesLoading": "جارٍ تحميل الفئات، يرجى المحاولة مرة أخرى",
+  "itemBulkLoadingCategories": "جارٍ تحميل الفئات…",
+  "inventoryTitle": "تحليلات المخزون",
+  "inventorySubtitle": "تتبّع حركة المخزون في الوقت الفعلي",
+  "inventorySearchHint": "البحث عن العناصر...",
+  "inventorySold": "تم بيعه",
+  "inventoryPurchased": "تم شراؤه",
+  "catNoCategories": "لا توجد فئات. اضغط + للإنشاء.",
+  "catLoadCategories": "تحميل الفئات",
+  "catCreated": "تم إنشاء الفئة",
+  "catRenamed": "تمت إعادة تسمية الفئة",
+  "catDeleted": "تم حذف الفئة",
+  "catNewTitle": "فئة جديدة",
+  "catRenameTitle": "إعادة تسمية الفئة",
+  "catNewName": "الاسم الجديد",
+  "catRename": "إعادة تسمية",
+  "catDeleteTitle": "حذف الفئة",
+  "catDeleteConfirm": "حذف \"{name}\"؟",
+  "catDeleteLinkedHint": "توجد عناصر مرتبطة. يمكنك الحذف القسري لفك ارتباطها.",
+  "catForceDelete": "حذف قسري",
+  "catItemsCount": "{count} عنصر",
+  "contactFavoritesOnly": "المفضلة فقط",
+  "contactShowAll": "عرض كل جهات الاتصال",
+  "contactSearchHint": "البحث بالاسم أو الهاتف أو البريد الإلكتروني…",
+  "contactNoConnection": "لا يوجد اتصال",
+  "contactCheckNetwork": "تحقق من شبكتك وحاول مرة أخرى.",
+  "contactSomethingWrong": "حدث خطأ ما",
+  "contactNoContacts": "لا توجد جهات اتصال",
+  "contactNoFavorites": "لا توجد مفضلات مطابقة. أوقف عامل تصفية النجمة أو أضف مفضلات في جهة اتصال.",
+  "contactTrySearchOrAdd": "جرّب بحثاً مختلفاً أو اضغط + لإضافة جهة اتصال.",
+  "contactEndOfList": "نهاية القائمة",
+  "contactNewTooltip": "جهة اتصال جديدة",
+  "contactLoading": "جارٍ تحميل جهات الاتصال…",
+  "contactUnknown": "غير معروف",
+  "contactCallTooltip": "اتصال",
+  "contactEditTitle": "تعديل جهة الاتصال",
+  "contactNewTitle": "جهة اتصال جديدة",
+  "contactSelectTitle": "اختر جهة اتصال",
+  "contactDeleteTitle": "حذف جهة الاتصال؟",
+  "contactDeleteUndo": "لا يمكن التراجع عن هذا الإجراء.",
+  "contactNameRequired": "الاسم مطلوب",
+  "contactNameLabel": "الاسم *",
+  "contactNameHint": "اسم جهة الاتصال",
+  "contactPhoneHint": "+977-9841234567",
+  "contactEmailHint": "email@example.com",
+  "contactCategoryHint": "مثال: أعمال، عام، كبار العملاء",
+  "contactCompanyHint": "اسم الشركة",
+  "contactFavorite": "مفضلة",
+  "contactCannotCall": "لا يمكن إجراء مكالمات على هذا الجهاز",
+  "contactPermissionDenied": "تم رفض إذن جهات الاتصال. يمكنك تفعيله من الإعدادات.",
+  "contactPermissionRequired": "إذن جهات الاتصال مطلوب للاستيراد من الهاتف",
+  "contactImported": "تم استيراد جهة الاتصال من الهاتف",
+  "contactCreated": "تم إنشاء جهة الاتصال",
+  "contactUpdated": "تم تحديث جهة الاتصال",
+  "contactDeleted": "تم حذف جهة الاتصال",
+  "contactImportSearchHint": "البحث بالاسم أو الهاتف أو البريد الإلكتروني أو الشركة",
+  "contactImportNoResults": "لم يتم العثور على جهات اتصال",
+  "@itemDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemNameFromCatalog": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkRowLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreatedCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@catDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@catItemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutMultiplePaymentHint": "شغّل هذا الخيار إذا كان العميل يدفع عبر أكثر من طريقة دفع.",
+  "checkoutFillRemainingBalance": "ملء الرصيد المتبقي",
+  "checkoutEnterAtLeastOnePayment": "أدخل مبلغ دفعة واحدة على الأقل",
+  "checkoutPaymentsExceedTotal": "لا يمكن أن يتجاوز إجمالي المدفوعات الإجمالي الكلي",
+  "checkoutSentAs": "تم الإرسال كـ: {api}",
+  "@checkoutSentAs": {
+    "placeholders": {
+      "api": {
+        "type": "String"
+      }
+    }
+  },
+  "paymentCard": "بطاقة",
+  "paymentQr": "QR",
+  "paymentBank": "بنك",
+  "paymentTransfer": "تحويل",
+  "paymentBankTransfer": "تحويل بنكي",
+  "paymentSettlement": "تسوية",
+  "paymentCheque": "شيك",
+  "paymentDigital": "رقمي",
+  "paymentDigitalQr": "رقمي (QR)",
+  "closeSummaryTitle": "ملخص الإغلاق",
+  "closeTabDashboard": "لوحة القيادة",
+  "closeTabCredits": "الائتمانات",
+  "closeWelcome": "مرحباً بك في ملخص الإغلاق",
+  "closeSelectDateHint": "اختر تاريخاً واضغط تحديث لتحميل البيانات",
+  "closeLoadingDashboard": "جارٍ تحميل بيانات لوحة القيادة...",
+  "closeDataDeleted": "تم حذف البيانات",
+  "closeErrorPrefix": "خطأ: {message}",
+  "@closeErrorPrefix": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExtraAmount": "مبلغ إضافي",
+  "closeExtraAmountDesc": "نقد إضافي أو تعديلات مسجلة ليوم الإغلاق هذا.",
+  "closeLostAmount": "مبلغ مفقود",
+  "closeLostAmountDesc": "نقص نقدي أو فرق تم الإبلاغ عنه لهذه الفترة.",
+  "closeTapForDetails": "اضغط للتفاصيل",
+  "closeAmountLabel": "الإغلاق",
+  "closeAmountFormula": "معادلة مبلغ الإغلاق",
+  "closeFormulaExpression": "المبيعات النقدية - المصاريف النقدية = مبلغ الإغلاق",
+  "closeCashSales": "المبيعات النقدية",
+  "closeCashExpenses": "المصاريف النقدية",
+  "closeClosingAmount": "مبلغ الإغلاق",
+  "closeWhatThisMeans": "ماذا يعني هذا:",
+  "closeClosingMeaning": "هذا هو المبلغ النقدي الذي يجب أن يكون في صندوق النقد/الدرج في نهاية اليوم. يمثل كل النقد المستلم مطروحاً منه كل النقد المدفوع.",
+  "closeQuickStats": "إحصائيات سريعة",
+  "closeTapCardHint": "اضغط على بطاقة للحصول على وصف مختصر",
+  "closeOpeningBalance": "الرصيد الافتتاحي",
+  "closeTotalSales": "إجمالي المبيعات",
+  "closeQrAmount": "مبلغ QR",
+  "closeCashAmount": "المبلغ النقدي",
+  "closeSalesDiscount": "خصم المبيعات",
+  "closeCreditQr": "ائتمان QR",
+  "closeCreditCash": "ائتمان نقدي",
+  "closeCreditDiscount": "خصم الائتمان",
+  "closePayCashGetQr": "دفع نقداً ← استلام QR",
+  "closePayQrGetCash": "دفع QR ← استلام نقد",
+  "closePaymentMix": "مزيج الدفع",
+  "closePaymentMixHint": "اضغط على النقدي أو الرقمي · يوضح الشريط الحصة من المبيعات",
+  "closeCashVsDigitalTooltip": "حصة النقدي مقابل الرقمي من المبيعات",
+  "closeSalesShareDesc": "شكّل {label} نسبة {percent}% من إجمالي مبيعات هذا اليوم.",
+  "@closeSalesShareDesc": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSalesLabel": "مبيعات {label}",
+  "@closeSalesLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "closeNoTransactions": "لا توجد معاملات متاحة",
+  "closeRecentTransactions": "المعاملات الأخيرة",
+  "closeViewAll": "عرض الكل",
+  "closeNoPurchases": "لا توجد مشتريات متاحة",
+  "closeRecentPurchases": "المشتريات الأخيرة",
+  "closeNoSalesDate": "لا توجد مبيعات لهذا التاريخ",
+  "closeNoSalesHint": "ستظهر المبيعات هنا بعد تسجيلها.",
+  "closeRoomSales": "مبيعات الغرف",
+  "closeEmployeeSales": "مبيعات الموظفين",
+  "closeOtherSales": "مبيعات أخرى",
+  "closeSectionCount": "{title} ({count})",
+  "@closeSectionCount": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "closeDiscountShort": "خصم: {amount}",
+  "@closeDiscountShort": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "closePercentOff": "خصم {percent}%",
+  "@closePercentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closePending": "قيد الانتظار",
+  "closeNoCreditPayments": "لا توجد مدفوعات ائتمانية",
+  "closeNoCreditHint": "ستظهر المدفوعات الائتمانية هنا",
+  "closeViewStatistics": "عرض الإحصائيات",
+  "closeExportData": "تصدير البيانات",
+  "closeExportComingSoon": "سيتم تنفيذ ميزة التصدير هنا",
+  "closeHintOpeningBalance": "الوضع النقدي في بداية اليوم المحدد.",
+  "closeHintTotalSales": "مجموع كل المبيعات المسجلة لهذا التاريخ.",
+  "closeHintQrAmount": "المدفوعات المستلمة عبر QR أو الطرق الرقمية.",
+  "closeHintCashAmount": "الجزء النقدي من مبيعات اليوم.",
+  "closeHintCashExpenses": "النقد المدفوع للمصاريف خلال اليوم.",
+  "closeHintSalesDiscount": "الخصومات المطبقة على المبيعات.",
+  "closeHintCreditQr": "تحصيلات QR المتعلقة بالائتمان.",
+  "closeHintCreditCash": "الحركات النقدية المتعلقة بالائتمان.",
+  "closeHintCreditDiscount": "الخصومات المطبقة على المعاملات الائتمانية.",
+  "closeHintPayCashGetQr": "تبادل تم فيه دفع نقد واستلام ائتمان QR.",
+  "closeHintPayQrGetCash": "تبادل تم فيه دفع QR واستلام نقد.",
+  "closeOpeningAmount": "المبلغ الافتتاحي",
+  "closeCurrentAmount": "المبلغ الحالي",
+  "closeSaveReport": "حفظ التقرير",
+  "closeUpdateSummary": "تحديث الملخص",
+  "closeExists": "موجود",
+  "closeExistingDataInfo": "يمكنك عرض أو تعديل البيانات الموجودة",
+  "closeEnterOpeningAmount": "يرجى إدخال مبلغ افتتاحي",
+  "closeEnterValidAmount": "يرجى إدخال مبلغ صحيح",
+  "googleDriveBackupSectionTitle": "النسخ الاحتياطي والمزامنة",
+  "googleDriveBackupTitle": "النسخ الاحتياطي على Google Drive",
+  "googleDriveBackupSubtitleSignedOut": "سجّل الدخول لعمل نسخة احتياطية آمنة لبيانات مؤسستك على Google Drive.",
+  "googleDriveBackupSubtitleSignedIn": "تم تسجيل الدخول باسم {email}",
+  "@googleDriveBackupSubtitleSignedIn": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveSignIn": "تسجيل الدخول باستخدام Google",
+  "googleDriveSignOut": "تسجيل الخروج",
+  "googleDriveBackupNow": "إنشاء نسخة احتياطية الآن",
+  "googleDriveSignInSuccess": "تم تسجيل الدخول إلى Google Drive",
+  "googleDriveSignOutSuccess": "تم تسجيل الخروج من Google Drive",
+  "googleDriveSignInCancelled": "تم إلغاء تسجيل الدخول عبر Google",
+  "googleDriveBackupStarting": "جارٍ تجهيز النسخة الاحتياطية…",
+  "googleDriveBackupSuccess": "تم رفع النسخة الاحتياطية ({tableCount} جدول، {recordCount} سجل)",
+  "@googleDriveBackupSuccess": {
+    "placeholders": {
+      "tableCount": {
+        "type": "int"
+      },
+      "recordCount": {
+        "type": "int"
+      }
+    }
+  },
+  "googleDriveBackupPluginError": "يتطلب النسخ الاحتياطي إعادة تشغيل التطبيق بالكامل. أغلق التطبيق ثم شغّله من جديد وأعد المحاولة.",
+  "googleDriveBackupFailed": "فشل النسخ الاحتياطي: {error}",
+  "@googleDriveBackupFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveLastBackup": "آخر نسخة احتياطية: {date}",
+  "@googleDriveLastBackup": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncPageTitle": "النسخ الاحتياطي والمزامنة",
+  "backupSyncGoogleAccount": "حساب Google",
+  "backupSyncSignedInAs": "تم تسجيل الدخول باسم",
+  "backupSyncSignInHint": "سجّل الدخول باستخدام Google لعمل نسخة احتياطية لبيانات مؤسستك.",
+  "backupSyncLastSyncTitle": "آخر مزامنة",
+  "backupSyncLastSyncDate": "التاريخ والوقت",
+  "backupSyncNeverSynced": "لم يتم رفع أي نسخة احتياطية بعد.",
+  "backupSyncOrganization": "المؤسسة",
+  "backupSyncTables": "الجداول التي تم نسخها",
+  "backupSyncRecords": "السجلات التي تم نسخها",
+  "backupSyncStatus": "الحالة",
+  "backupSyncStatusSuccess": "مكتملة",
+  "backupSyncActiveOrganization": "المؤسسة الحالية",
+  "backupSyncActiveOrganizationHint": "يقوم النسخ الاحتياطي برفع بيانات المؤسسة التي تستخدمها الآن.",
+  "backupSyncUnknownOrganization": "المؤسسة الحالية",
+  "backupSyncInProgress": "المزامنة قيد التنفيذ",
+  "backupSyncProgressPercent": "{percent}%",
+  "@backupSyncProgressPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "backupSyncCurrentStep": "الخطوة: {step}",
+  "@backupSyncCurrentStep": {
+    "placeholders": {
+      "step": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncStepExport": "جارٍ تصدير البيانات المحلية",
+  "backupSyncStepUploadTable": "جارٍ رفع {table}",
+  "@backupSyncStepUploadTable": {
+    "placeholders": {
+      "table": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncStepUploadFile": "جارٍ رفع {file}",
+  "@backupSyncStepUploadFile": {
+    "placeholders": {
+      "file": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncLastError": "آخر خطأ: {error}",
+  "@backupSyncLastError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncSignOutConfirm": "هل تريد تسجيل الخروج من Google Drive على هذا الجهاز؟",
+  "moreBackupSyncTileNeverSynced": "إنشاء نسخة احتياطية على Google Drive",
+  "moreBackupSyncTileSignedInNoSync": "تم تسجيل الدخول · لا توجد نسخة احتياطية بعد",
+  "backupSyncConnected": "متصل",
+  "backupSyncCompletedHint": "تم نسخ بياناتك احتياطيًا بأمان إلى Google Drive.",
+  "backupSyncPhaseExport": "تصدير",
+  "backupSyncPhaseUpload": "رفع",
+  "backupAutoSettingsTitle": "إعدادات GOOGLE DRIVE",
+  "backupAutoBackupTitle": "النسخ الاحتياطي التلقائي",
+  "backupAutoBackupHint": "إنشاء نسخة احتياطية تلقائيًا عند بدء التطبيق حين يحين موعدها",
+  "backupWifiOnlyTitle": "النسخ الاحتياطي عبر Wi‑Fi فقط",
+  "backupWifiOnlyHint": "ينتظر النسخ الاحتياطي التلقائي توفر شبكة Wi‑Fi",
+  "backupWifiOnlyContinue": "استخدام بيانات الجوال",
+  "backupAutoFrequencyTitle": "تكرار النسخ الاحتياطي",
+  "backupAutoFrequencyOff": "إيقاف",
+  "backupAutoFrequencyDaily": "يوميًا",
+  "backupAutoFrequencyWeekly": "أسبوعيًا",
+  "backupAutoFrequencyMonthly": "شهريًا",
+  "backupAutoSyncDirectionTitle": "المزامنة التلقائية",
+  "backupAutoDirectionUpload": "الرفع إلى السحابة",
+  "backupAutoDirectionDownload": "التنزيل من السحابة",
+  "backupAutoDirectionBoth": "الرفع والتنزيل",
+  "backupAutoLastUploaded": "آخر نسخة احتياطية تلقائية: {detail}",
+  "@backupAutoLastUploaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastDownloaded": "آخر استعادة تلقائية: {detail}",
+  "@backupAutoLastDownloaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastFailed": "فشلت آخر مزامنة تلقائية: {detail}",
+  "@backupAutoLastFailed": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastSkipped": "تم تخطي آخر مزامنة تلقائية: {detail}",
+  "@backupAutoLastSkipped": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreAction": "استعادة",
+  "restoreFromGoogleDrive": "الاستعادة من Google Drive",
+  "restoreFromGoogleDriveHint": "سجّل الدخول واختر نسخة احتياطية لاستعادة مؤسستك على هذا الجهاز.",
+  "restoreFromGoogleDriveConfirm": "هل تريد استعادة \"{name}\"؟ سيؤدي ذلك إلى استبدال البيانات المحلية لتلك المؤسسة.",
+  "@restoreFromGoogleDriveConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveSuccess": "تمت استعادة {name}. يمكنك تسجيل الدخول الآن.",
+  "@restoreFromGoogleDriveSuccess": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveFailed": "فشلت الاستعادة: {error}",
+  "@restoreFromGoogleDriveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveEmpty": "لم يتم العثور على نسخ احتياطية في Google Drive الخاص بك.",
+  "restoreFromGoogleDriveStarting": "جارٍ بدء الاستعادة…",
+  "restoreStepDownload": "جارٍ تنزيل النسخة الاحتياطية",
+  "restoreStepCreateDatabase": "جارٍ إنشاء قاعدة البيانات",
+  "restoreStepImport": "جارٍ استيراد البيانات",
+  "restoreStepFinalize": "جارٍ إنهاء الاستعادة",
+  "moreBackupSyncTileLastSync": "آخر مزامنة: {date}",
+  "@moreBackupSyncTileLastSync": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "security": "الأمان",
+  "appLockTitle": "قفل التطبيق",
+  "appLockSubtitle": "طلب رمز PIN أو المقاييس الحيوية عند إعادة فتح التطبيق",
+  "appPin": "رمز PIN للتطبيق",
+  "appPinSubtitle": "فتح سريع برمز PIN مكوّن من {length} أرقام",
+  "@appPinSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "useBiometricUnlock": "استخدام Face ID / المقاييس الحيوية",
+  "useBiometricUnlockSubtitle": "افتح القفل ببصمة الإصبع أو Face ID بعد تعيين رمز PIN",
+  "changeAppPin": "تغيير رمز PIN",
+  "setUpAppPin": "إعداد رمز PIN",
+  "confirmAppPin": "تأكيد رمز PIN",
+  "enterAppPin": "أدخل رمز PIN الخاص بك",
+  "enterPasscode": "أدخل رمز المرور",
+  "tapDigitsToUnlock": "اضغط على أي {length} أرقام لفتح القفل.",
+  "@tapDigitsToUnlock": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "createPasscodeHint": "اختر رمز مرور مكوّنًا من {length} أرقام لهذه المؤسسة",
+  "@createPasscodeHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "confirmPasscodeHint": "أعد إدخال رمز المرور للتأكيد",
+  "createAppPinHint": "اختر رمز PIN مكوّنًا من {length} أرقام لهذه المؤسسة",
+  "@createAppPinHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "confirmAppPinHint": "أعد إدخال رمز PIN للتأكيد",
+  "appPinMismatch": "رمزا PIN غير متطابقين. حاول مرة أخرى.",
+  "appPinIncorrect": "رمز PIN غير صحيح. حاول مرة أخرى.",
+  "appPinIncorrectWithAttempts": "رمز PIN غير صحيح. لديك {remaining} محاولة متبقية.",
+  "@appPinIncorrectWithAttempts": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      }
+    }
+  },
+  "appPinLockoutMessage": "عدد كبير جدًا من محاولات إدخال رمز PIN الخاطئة. سجّل الدخول ببريدك الإلكتروني وكلمة المرور لإعادة تعيين رمز PIN.",
+  "appPinSetSuccess": "تم حفظ رمز PIN لهذه المؤسسة",
+  "appPinRemoved": "تمت إزالة رمز PIN للتطبيق",
+  "appLockSettingsSaved": "تم حفظ إعدادات قفل التطبيق",
+  "biometricUnlockReason": "فتح قفل BizTrack",
+  "biometricNotAvailable": "المقاييس الحيوية غير متوفرة على هذا الجهاز",
+  "biometricRequiresPin": "قم بإعداد رمز PIN للتطبيق قبل تفعيل المقاييس الحيوية",
+  "disableAppPinTitle": "هل تريد إزالة رمز PIN للتطبيق؟",
+  "disableAppPinMessage": "سيتم أيضًا إيقاف فتح القفل عبر Face ID / المقاييس الحيوية لهذه المؤسسة.",
+  "verifyPinToRemoveTitle": "أدخل رمز PIN الخاص بك",
+  "verifyPinToRemoveSubtitle": "أكّد رمز PIN المكوّن من {length} أرقام لإزالة قفل التطبيق",
+  "@verifyPinToRemoveSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "unlockApp": "فتح قفل التطبيق",
+  "usePinInstead": "استخدام رمز PIN بدلاً من ذلك",
+  "useBiometricInstead": "استخدام المقاييس الحيوية",
+  "signInWithFaceId": "تسجيل الدخول باستخدام Face ID",
+  "signInWithFingerprint": "تسجيل الدخول ببصمة الإصبع",
+  "signInWithBiometric": "تسجيل الدخول بالمقاييس الحيوية",
+  "signInWithPin": "تسجيل الدخول برمز PIN",
+  "setUpQuickUnlock": "إعداد تسجيل الدخول السريع برمز PIN",
+  "setUpFaceIdOrPin": "إعداد Face ID أو رمز PIN",
+  "setUpFingerprintOrPin": "إعداد بصمة الإصبع أو رمز PIN",
+  "setUpQuickUnlockSubtitle": "استخدم المقاييس الحيوية لجهازك أو رمز PIN لهذه المؤسسة",
+  "quickUnlockAsUser": "تسجيل دخول سريع باسم {email}",
+  "@quickUnlockAsUser": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "orContinueWithPassword": "أو سجّل الدخول بكلمة المرور",
+  "setUpQuickUnlockAfterLoginTitle": "هل تريد تفعيل تسجيل الدخول السريع؟",
+  "setUpQuickUnlockAfterLoginMessage": "قم بإعداد Face ID أو بصمة الإصبع أو رمز PIN لتسجيل الدخول بسرعة أكبر في المرة القادمة لهذه المؤسسة. يمكنك أيضًا تغيير ذلك لاحقًا من الإعدادات.",
+  "notNow": "ليس الآن",
+  "setUpNow": "الإعداد الآن",
+  "enableFaceIdTitle": "هل تريد تفعيل Face ID؟",
+  "enableFingerprintTitle": "هل تريد تفعيل بصمة الإصبع؟",
+  "enableBiometricTitle": "هل تريد تفعيل المقاييس الحيوية؟",
+  "enableBiometricAfterPinMessage": "استخدم المقاييس الحيوية لجهازك مع رمز PIN لتسجيل دخول أسرع.",
+  "useFaceIdUnlock": "استخدام Face ID",
+  "useFingerprintUnlock": "استخدام بصمة الإصبع",
+  "languageSelectionSubtitle": "اختر كيف تريد استخدام {appName}. يمكنك تغيير ذلك لاحقًا من الإعدادات.",
+  "searchLanguages": "البحث عن اللغات",
+  "languageSuggestedBadge": "مُقترح",
+  "continueInLanguage": "المتابعة بـ {languageName}",
+  "noLanguageMatches": "لا توجد نتائج",
+  "noLanguageMatchesForQuery": "لا توجد لغة تطابق \"{query}\"",
+  "@languageSelectionSubtitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@continueInLanguage": {
+    "placeholders": {
+      "languageName": {
+        "type": "String"
+      }
+    }
+  },
+  "@noLanguageMatchesForQuery": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSubtitle": "الأرباح والخسائر، الكشوف، والتحليلات",
+  "ok": "موافق",
+  "reportPeriodYear": "سنة",
+  "reportPeriodMonth": "شهر",
+  "reportPeriodRange": "نطاق",
+  "reportPeriodDay": "يوم",
+  "reportPeriodFrom": "من",
+  "reportPeriodTo": "إلى",
+  "reportPeriod": "الفترة",
+  "reportAllPurchases": "جميع المشتريات",
+  "reportBeforeTax": "قبل الضريبة",
+  "reportRevenueRetained": "الإيرادات المحتفظ بها",
+  "reportHideDetails": "إخفاء التفاصيل",
+  "reportShowDetails": "عرض التفاصيل",
+  "reportSalesRevenue": "إيرادات المبيعات",
+  "reportDiscountsGiven": "الخصومات الممنوحة",
+  "reportNetRevenue": "صافي الإيرادات",
+  "reportOperatingExpenses": "المصروفات التشغيلية",
+  "reportTotalExpenses": "إجمالي المصروفات",
+  "reportGrossProfit": "إجمالي الربح",
+  "reportGrossProfitChart": "إجمالي الربح",
+  "reportOperatingPlDisclaimer": "لم تُحتسب بعد التزامات الضرائب والاستهلاك والرواتب — تقدير تقريبي لقائمة الأرباح والخسائر على المستوى التشغيلي.",
+  "reportContraLabel": "مقابل",
+  "reportNoDataForPeriod": "لا توجد بيانات للفترة المحددة",
+  "reportRevenueVsExpenses": "الإيرادات مقابل المصروفات",
+  "reportExpenseBreakdown": "تفصيل المصروفات",
+  "reportExpenseFallback": "مصروف",
+  "reportGrossMarginPercent": "هامش الربح الإجمالي %",
+  "reportRoomVsFnB": "الغرف مقابل المأكولات والمشروبات",
+  "reportSegmentRoom": "الغرف",
+  "reportSegmentFnB": "المأكولات والمشروبات",
+  "reportKeyMetrics": "المؤشرات الرئيسية",
+  "reportIncomeStatement": "قائمة الدخل",
+  "reportChartsSection": "الرسوم البيانية",
+  "reportSegmentSummary": "ملخص القطاعات",
+  "reportFailedToLoad": "فشل تحميل التقرير",
+  "reportOverview": "نظرة عامة",
+  "reportOverviewCash": "نقد",
+  "reportOverviewBank": "بنك",
+  "reportMonthlyOpeningBalance": "الرصيد الافتتاحي الشهري",
+  "reportOpeningBalanceHint": "الوضع النقدي في بداية كل شهر",
+  "reportCashInOut": "النقد الوارد / الصادر",
+  "reportCashIn": "النقد الوارد",
+  "reportCashOut": "النقد الصادر",
+  "reportBankReceiptsPayments": "مقبوضات / مدفوعات البنك",
+  "reportReceipts": "المقبوضات",
+  "reportPayments": "المدفوعات",
+  "reportDailyCashVsQr": "النقد اليومي مقابل QR",
+  "reportSummariesSection": "الملخصات",
+  "reportCashSummary": "ملخص النقد",
+  "reportBankSummary": "ملخص البنك",
+  "reportDailySummary": "الملخص اليومي",
+  "reportTabPurchase": "مشتريات",
+  "reportTabSales": "مبيعات",
+  "reportTabDashboard": "لوحة التحكم",
+  "reportSingleDayTrend": "يوم واحد — الاتجاه اليومي",
+  "reportFullYearTrend": "السنة الكاملة — مخططات الاتجاه الشهري",
+  "reportYearLabel": "سنة {year}",
+  "@reportYearLabel": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportJanDec": "يناير – ديسمبر {year}",
+  "@reportJanDec": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportTotalPurchases": "إجمالي المشتريات",
+  "reportTotalSales": "إجمالي المبيعات",
+  "reportTotalInvoices": "إجمالي الفواتير",
+  "reportUnpaidBalance": "الرصيد غير المدفوع",
+  "reportAvgPerInvoice": "متوسط لكل فاتورة",
+  "reportPerTransaction": "لكل معاملة",
+  "reportMonthlySpend": "الإنفاق الشهري ({symbol})",
+  "@reportMonthlySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportMonthlySalesChart": "المبيعات الشهرية ({symbol})",
+  "@reportMonthlySalesChart": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportInvoiceCountByMonth": "عدد الفواتير حسب الشهر",
+  "reportTopItemsBySpend": "أهم الأصناف حسب الإنفاق ({symbol})",
+  "@reportTopItemsBySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSpendByCategory": "الإنفاق حسب الفئة",
+  "reportOtherCategory": "أخرى",
+  "reportSuppliers": "الموردون",
+  "reportTableSupplier": "المورد",
+  "reportTableAmount": "المبلغ",
+  "reportTableBills": "الفواتير",
+  "reportSalesTotal": "إجمالي المبيعات",
+  "reportPurchaseTotal": "إجمالي المشتريات",
+  "reportPositiveMargin": "هامش إيجابي",
+  "reportNegativeMargin": "هامش سلبي",
+  "reportGrossMargin": "هامش الربح الإجمالي",
+  "reportOfTotalSales": "من إجمالي المبيعات",
+  "reportFailedToLoadAnalytics": "فشل تحميل التحليلات",
+  "reportMarginKpi": "الهامش",
+  "reportExpensesKpi": "المصروفات",
+  "partyPickerNoResultsFor": "لا توجد نتائج لـ \"{query}\"",
+  "@partyPickerNoResultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerNoPartiesForRole": "لم يتم العثور على أطراف {role}",
+  "@partyPickerNoPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerLoadParties": "تحميل الأطراف",
+  "invoiceCashCustomer": "عميل نقدي",
+  "invoiceQuickAddItemsTitle": "إضافة أصناف سريعة",
+  "invoiceQuickLoadingMenu": "جارٍ تحميل القائمة…",
+  "invoiceQuickInvoiceCreated": "تم إنشاء الفاتورة",
+  "invoiceQuickAddAtLeastOneItem": "أضف صنفاً واحداً على الأقل",
+  "invoiceQuickNoResults": "لم يتم العثور على نتائج!",
+  "invoiceQuickNoItemsInCategory": "لا توجد أصناف في هذه الفئة",
+  "invoiceQuickAddItem": "إضافة صنف",
+  "invoiceQuickLoadMore": "تحميل المزيد",
+  "invoiceQuickScrollLoadMore": "مرّر لتحميل المزيد ({count} لكل صفحة)",
+  "invoiceQuickSupplierEmployee": "مورد / موظف",
+  "invoiceQuickEditItem": "تعديل الصنف",
+  "closeSelectDateRange": "اختر نطاق التاريخ",
+  "closeStartDate": "تاريخ البداية",
+  "closeEndDate": "تاريخ الانتهاء",
+  "closeSelectBothDates": "يرجى تحديد تاريخي البداية والنهاية",
+  "closeDeleteSummary": "حذف الملخص",
+  "closeDeleteSummaryConfirm": "هل أنت متأكد أنك تريد حذف هذا الملخص؟",
+  "closeSelectDate": "اختر التاريخ",
+  "closeNoDataToExport": "لا توجد بيانات للتصدير",
+  "closeNoDataToShare": "لا توجد بيانات للمشاركة",
+  "closeNoDataToPrint": "لا توجد بيانات للطباعة",
+  "closePdfGenerateError": "خطأ في إنشاء PDF: {error}",
+  "@closePdfGenerateError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfShareError": "خطأ في مشاركة PDF: {error}",
+  "@closePdfShareError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfPrintError": "خطأ في طباعة PDF: {error}",
+  "@closePdfPrintError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExportPdf": "تصدير كملف PDF",
+  "closeSharePdf": "مشاركة PDF",
+  "closePrint": "طباعة",
+  "closeExportOptions": "خيارات التصدير",
+  "closeExportPdfSubtitle": "حفظ أو عرض كمستند PDF",
+  "closeSharePdfSubtitle": "مشاركة عبر التطبيقات أو البريد الإلكتروني",
+  "closePrintSubtitle": "طباعة التقرير",
+  "invoiceQuickShowingItems": "عرض {shown} من {total}",
+  "invoiceQuickLoadedItems": "تم التحميل: {count}",
+  "invoiceQuickRoomCabinEmployee": "غرفة / كابينة / موظف",
+  "reportPercentOfRevenue": "{percent}% من الإيرادات",
+  "@reportPercentOfRevenue": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "reportParties": "الأطراف",
+  "reportMonthYearDailyTrend": "{month} {year} — مخططات الاتجاه اليومي",
+  "@reportMonthYearDailyTrend": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceQuickCart": "سلة",
+  "invoiceQuickCartWithCount": "سلة ({count})",
+  "invoiceQuickClearSearch": "مسح البحث",
+  "closeAllRecords": "جميع السجلات",
+  "closeDailyCashSummaryReport": "تقرير ملخص النقد اليومي",
+  "closeDailyCashSummaryTitle": "ملخص النقد اليومي",
+  "closeDetails": "التفاصيل",
+  "closeGeneratedAt": "تم الإنشاء: {date}",
+  "@closeGeneratedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "closePageN": "صفحة {n}",
+  "@closePageN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "closePeriodRange": "الفترة: من {start} إلى {end}",
+  "@closePeriodRange": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummaryOverview": "نظرة عامة على الملخص",
+  "closeTotalRecords": "إجمالي السجلات",
+  "contactUs": "تواصل معنا",
+  "contactUsSubtitle": "تواصل معنا للدعم أو الملاحظات أو الاستفسارات حول التطبيق.",
+  "operationManagement": "إدارة العمليات",
+  "operationManagementSubtitle": "Items, stock reconciliation, contacts, categories, and closing",
+  "partyPickerAddNewRole": "إضافة {role} جديد",
+  "@partyPickerAddNewRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSearchHint": "البحث عن {role}...",
+  "@partyPickerSearchHint": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSelectedLabel": "مُحدَّد",
+  "partyPickerSettled": "مسدّد",
+  "partyPickerSubtitle": "لمن هذه المبيعة؟",
+  "statisticsCashflow": "التدفق النقدي",
+  "closeAddSummary": "إضافة ملخص",
+  "closeSalesAmount": "مبلغ المبيعات",
+  "closeClosingBalance": "الرصيد الختامي",
+  "closeLostMoney": "المال المفقود",
+  "closeDiscount": "الخصم",
+  "closeExpenses": "المصروفات",
+  "closeUnpaid": "غير مدفوع",
+  "closeTotalOpeningBalance": "إجمالي الرصيد الافتتاحي",
+  "closeTotalSalesAmount": "إجمالي مبلغ المبيعات",
+  "closeTotalCashAmount": "إجمالي المبلغ النقدي",
+  "closeTotalQrAmount": "إجمالي مبلغ QR",
+  "closeTotalDiscount": "إجمالي الخصم",
+  "closeTotalExpenses": "إجمالي المصروفات",
+  "closeTotalClosingBalance": "إجمالي الرصيد الختامي",
+  "closeTotalLostMoney": "إجمالي المال المفقود",
+  "closeTotalExtraAmount": "إجمالي المبلغ الإضافي",
+  "closeShowingCurrentMonth": "عرض بيانات الشهر الحالي",
+  "closeNoSummariesFound": "لم يتم العثور على ملخصات",
+  "closeNoSummariesAvailable": "لا توجد ملخصات متاحة",
+  "closeTryAdjustingDateRange": "حاول تعديل نطاق التاريخ",
+  "closeCreateFirstSummary": "أنشئ ملخصك الأول للبدء",
+  "closeClearFilter": "مسح التصفية",
+  "closeFiltered": "مُصفّى",
+  "closeFilteredWithRange": "مُصفّى: {range}",
+  "@closeFilteredWithRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummarySingular": "ملخص",
+  "closeSummariesPlural": "ملخصات",
+  "closeSummaryUpdatedSuccess": "تم تحديث الملخص بنجاح",
+  "closeSummaryDeletedSuccess": "تم حذف الملخص بنجاح",
+  "appearance": "المظهر",
+  "darkMode": "الوضع الداكن",
+  "darkModeSubtitle": "استخدام خلفية داكنة في جميع أنحاء التطبيق",
+  "darkModeSystemSubtitle": "يتبع مظهر جهازك",
+  "premiumUnlockTitle": "افتح {appName} Premium",
+  "@premiumUnlockTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumTagline": "نقطة بيع كاملة دون اتصال، فواتير، مخزون وتقارير — اشتراك واحد لعملك.",
+  "premiumFeatureUnlimitedInvoices": "فواتير وإيصالات غير محدودة",
+  "premiumFeatureInventoryStock": "تتبع المخزون والمواد",
+  "premiumFeatureReportsAnalytics": "تقارير المبيعات والتحليلات",
+  "premiumFeatureOfflineLocal": "يعمل دون اتصال — بياناتك تبقى محلية",
+  "premiumContinueWith": "المتابعة مع {plan}",
+  "@premiumContinueWith": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRestorePurchases": "استعادة المشتريات",
+  "premiumSubscriptionLegal": "يُخصم الدفع من Apple ID. تتجدد الاشتراكات تلقائياً ما لم تُلغَ قبل 24 ساعة على الأقل من نهاية الفترة.",
+  "premiumPurchaseRestored": "تمت استعادة الشراء.",
+  "premiumNoActiveSubscription": "لم يُعثر على اشتراك نشط.",
+  "premiumPlanMonthly": "شهري",
+  "premiumPlanMonthlySubtitle": "مرن — ألغِ في أي وقت",
+  "premiumPlanYearly": "سنوي",
+  "premiumPlanYearlySubtitle": "أفضل قيمة — وفّر {percent}%",
+  "@premiumPlanYearlySubtitle": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "premiumPlanLifetime": "مدى الحياة",
+  "premiumPlanLifetimeSubtitle": "ادفع مرة واحدة، احتفظ للأبد",
+  "premiumPlanPopular": "الأكثر شعبية",
+  "premiumOneTimePurchase": "شراء لمرة واحدة",
+  "subscriptionSectionTitle": "الاشتراك",
+  "subscriptionPremiumLabel": "Premium",
+  "subscriptionUpgradeTitle": "الترقية إلى Premium",
+  "subscriptionPremiumPricing": "شهري {monthly} · سنوي {yearly}",
+  "@subscriptionPremiumPricing": {
+    "placeholders": {
+      "monthly": {
+        "type": "String"
+      },
+      "yearly": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActiveUntil": "{plan} نشط حتى {date}",
+  "@subscriptionPremiumActiveUntil": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActive": "{plan} نشط",
+  "@subscriptionPremiumActive": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRequired": "Premium مطلوب",
+  "upgradeToPremiumContinue": "رقِّ إلى Premium للمتابعة.",
+  "freemiumFreePlanLimit": "الخطة المجانية تسمح بحد أقصى {limit} {label}. رقِّ إلى Premium للوصول غير المحدود.",
+  "@freemiumFreePlanLimit": {
+    "placeholders": {
+      "limit": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "freemiumPartyRoleRequired": "دور الطرف مطلوب.",
+  "shiftReminderOpeningTitle": "تذكير الافتتاح",
+  "shiftReminderOpeningMessage": "هل فتحت الصندوق لليوم؟",
+  "shiftReminderOpeningProceed": "نعم، افتح الآن",
+  "shiftReminderClosingTitle": "تذكير الإغلاق",
+  "shiftReminderClosingMessage": "هل أغلقت الصندوق لليوم؟",
+  "shiftReminderClosingProceed": "نعم، أغلق الآن",
+  "shiftReminderSkipToday": "تخطَّ لليوم",
+  "shiftReminderOpeningNotificationTitle": "تذكير الافتتاح",
+  "shiftReminderOpeningNotificationBody": "هل فتحت الصندوق لليوم؟ اضغط هنا إذا كنت لا تزال بحاجة للفتح.",
+  "shiftReminderClosingNotificationTitle": "تذكير الإغلاق",
+  "shiftReminderClosingNotificationBody": "هل أغلقت الصندوق لليوم؟ اضغط هنا إذا كنت لا تزال بحاجة للإغلاق.",
+  "closeExchangePayQrGetCashHint": "{business} يدفع QR للعميل؛ والعميل يقدّم نقداً.",
+  "@closeExchangePayQrGetCashHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExchangePayCashGetQrHint": "{business} يدفع نقداً للعميل؛ والعميل يقدّم دفع QR.",
+  "@closeExchangePayCashGetQrHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closePaymentExchange": "تبادل الدفع",
+  "closePayQrGetCashExchangeLabel": "دفع QR ← استلام نقد (تبادل)",
+  "closePayCashGetQrExchangeLabel": "دفع نقد ← استلام QR (تبادل)",
+  "closePayQrGetCashDetail": "دفع QR واستلام نقد",
+  "closePayCashGetQrDetail": "دفع نقد واستلام QR",
+  "faqSectionPremium": "Premium والفوترة",
+  "faqPremiumWhatsIncludedQuestion": "ماذا يتضمن Premium؟",
+  "faqPremiumWhatsIncludedAnswer": "يفتح Premium فواتير غير محدودة، تقارير كاملة (الأرباح والخسائر، كشف حساب، تحليلات)، نسخ احتياطي ومزامنة، رواتب، حضور، أدوات مخزون، تصدير/طباعة الفواتير، ومنظمات إضافية. المستوى المجاني يتيح لك استخدام ميزات نقطة البيع الأساسية ضمن حدود معقولة.",
+  "faqPremiumFreeTierQuestion": "ماذا يتضمن المستوى المجاني؟",
+  "faqPremiumFreeTierAnswer": "يمكنك إنشاء حتى 10 فواتير مبيعات و10 فواتير مشتريات، و4 موظفين، و30 صنفاً، وحدود أخرى تظهر عند الوصول إليها. الافتتاح والإغلاق والآلة الحاسبة وتصفح بياناتك تبقى مجانية.",
+  "faqPremiumRestoreQuestion": "كيف أستعيد مشترياتي؟",
+  "faqPremiumRestoreAnswer": "افتح المزيد ← الترقية إلى Premium (أو شاشة الدفع) واضغط استعادة المشتريات. استخدم نفس Apple ID الذي اشتركت به.",
+  "faqPremiumCancelQuestion": "كيف ألغي اشتراكي؟",
+  "faqPremiumCancelAnswer": "أدر أو ألغِ من إعدادات iPhone ← Apple ID ← الاشتراكات. تحتفظ بالوصول حتى نهاية الفترة المدفوعة.",
+  "faqDarkModeQuestion": "كيف أفعّل الوضع الداكن؟",
+  "faqDarkModeAnswer": "افتح المزيد ← المظهر وفعّل الوضع الداكن. عندما يستخدم جهازك المظهر التلقائي، يتبع التطبيق ذلك.",
+  "faqOpeningClosingReminderQuestion": "ما هي تذكيرات الافتتاح والإغلاق؟",
+  "faqOpeningClosingReminderAnswer": "يمكن لـ {appName} تذكيرك بفتح أو إغلاق صندوق النقد اليومي. يمكنك المتابعة أو التخطي لليوم أو تجاهل التذكير.",
+  "faqPartyRolesQuestion": "ما هي أدوار الأطراف؟",
+  "faqPartyRolesAnswer": "تصنّف أدوار الأطراف جهات الاتصال مثل العملاء والموردين والغرف والموظفين. خصّص الأدوار من العمليات ← أدوار الأطراف وأضف وصفاً مختصراً لفريقك.",
+  "faqRateAppQuestion": "كيف أقيّم {appName}؟",
+  "faqRateAppAnswer": "افتح المزيد ← قيّمنا لترك مراجعة على App Store. ملاحظاتك تساعدنا على تحسين الفوترة دون اتصال لعملك.",
+  "freemiumLabelSalesInvoices": "فواتير مبيعات",
+  "freemiumLabelPurchaseInvoices": "فواتير مشتريات",
+  "freemiumLabelEmployees": "موظفين",
+  "freemiumLabelItems": "أصناف",
+  "freemiumLabelCategories": "فئات",
+  "freemiumLabelPaymentMethods": "طرق الدفع",
+  "freemiumLabelCustomPartyRoles": "أدوار أطراف مخصصة",
+  "freemiumLabelPartiesForRole": "أطراف لـ {role}",
+  "freemiumLabelOrganizations": "منظمات",
+  "freemiumPremiumReports": "التقارير متاحة مع Premium.",
+  "freemiumPremiumBackupSync": "النسخ الاحتياطي والمزامنة يتطلب Premium.",
+  "freemiumPremiumPayroll": "الرواتب تتطلب Premium.",
+  "freemiumPremiumAttendance": "الحضور يتطلب Premium.",
+  "freemiumPremiumStock": "إدارة المخزون تتطلب Premium.",
+  "freemiumPremiumInvoiceExport": "التنزيل والطباعة يتطلب Premium.",
+  "@faqOpeningClosingReminderAnswer": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@faqRateAppQuestion": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@freemiumLabelPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  }
+}

@@ -1,0 +1,2653 @@
+{
+  "@@locale": "ru",
+  "noInternetConnection": "Нет подключения к интернету.",
+  "formatException": "Исключение формата",
+  "rememberMe": "Запомнить меня",
+  "signIn": "Войти",
+  "passwordHint": "Введите пароль",
+  "forgetPassword": "Забыли данные для входа?",
+  "okay": "Хорошо",
+  "success": "Успех",
+  "hotel": "отель",
+  "errorEncountered": "Обнаружена ошибка",
+  "serverError": "Ошибка сервера",
+  "requestFailed": "Запрос не выполнен",
+  "connectionTimedOut": "Время соединения истекло",
+  "password": "Пароль",
+  "keepSignIn": "Оставаться в системе",
+  "enterPassword": "Введите пароль",
+  "enterValidPassword": "Введите корректный пароль",
+  "skip": "ПРОПУСТИТЬ",
+  "pleaseWait": "Пожалуйста, подождите ....",
+  "enterValidUserName": "Введите корректное имя пользователя.",
+  "userName": "Имя пользователя",
+  "or": "Или",
+  "retry": "Повторить",
+  "error": "Ошибка",
+  "supportMessage": "Пожалуйста, обратитесь к администратору.",
+  "responseMessage404": "Ошибка 404",
+  "appDisplayName": "BizTrack",
+  "appVersionLabel": "Версия {version}",
+  "@appVersionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "Отмена",
+  "yes": "Да",
+  "no": "Нет",
+  "close": "Закрыть",
+  "save": "Сохранить",
+  "delete": "Удалить",
+  "confirm": "Подтвердить",
+  "done": "Готово",
+  "next": "Далее",
+  "getStarted": "Начать",
+  "back": "Назад",
+  "submit": "Отправить",
+  "continueAction": "Продолжить",
+  "tryAgain": "Попробовать снова",
+  "warning": "ПРЕДУПРЕЖДЕНИЕ",
+  "loading": "Загрузка…",
+  "comingSoon": "Скоро",
+  "required": "Обязательно",
+  "search": "Поиск",
+  "add": "Добавить",
+  "edit": "Редактировать",
+  "remove": "Удалить",
+  "view": "Просмотр",
+  "export": "Экспорт",
+  "import": "Импорт",
+  "refresh": "Обновить",
+  "select": "Выбрать",
+  "upload": "Загрузить",
+  "download": "Скачать",
+  "share": "Поделиться",
+  "filter": "Фильтр",
+  "sort": "Сортировка",
+  "apply": "Применить",
+  "reset": "Сбросить",
+  "clear": "Очистить",
+  "all": "Все",
+  "none": "Нет",
+  "total": "Итого",
+  "subtotal": "Промежуточный итог",
+  "grandTotal": "Общий итог",
+  "amount": "Сумма",
+  "quantity": "Количество",
+  "rate": "Ставка",
+  "discount": "Скидка",
+  "paid": "Оплачено",
+  "unpaid": "Не оплачено",
+  "credit": "Кредит",
+  "cash": "Наличные",
+  "date": "Дата",
+  "time": "Время",
+  "name": "Имя",
+  "email": "Эл. почта",
+  "phone": "Телефон",
+  "address": "Адрес",
+  "notes": "Заметки",
+  "description": "Описание",
+  "status": "Статус",
+  "type": "Тип",
+  "category": "Категория",
+  "party": "Сторона",
+  "item": "Товар",
+  "payment": "Платёж",
+  "settlement": "Расчёт",
+  "opening": "Открытие",
+  "closing": "Закрытие",
+  "stock": "Stock reconciliation",
+  "expense": "Расход",
+  "revenue": "Выручка",
+  "profit": "Прибыль",
+  "loss": "Убыток",
+  "sales": "Продажи",
+  "purchase": "Закупка",
+  "monthJan": "Янв",
+  "monthFeb": "Фев",
+  "monthMar": "Мар",
+  "monthApr": "Апр",
+  "monthMay": "Май",
+  "monthJun": "Июн",
+  "monthJul": "Июл",
+  "monthAug": "Авг",
+  "monthSep": "Сен",
+  "monthOct": "Окт",
+  "monthNov": "Ноя",
+  "monthDec": "Дек",
+  "more": "Ещё",
+  "profile": "Профиль",
+  "operations": "Операции",
+  "employeeManagement": "Управление сотрудниками",
+  "report": "Отчёт",
+  "helpAndSupport": "Помощь и поддержка",
+  "privacyAndPolicies": "Конфиденциальность и политики",
+  "faq": "Вопросы и ответы",
+  "contactSupport": "Связаться с поддержкой",
+  "rateUs": "Оцените нас",
+  "rateUsSubtitle": "Нравится BizTrack? Оставьте отзыв в Google Play",
+  "rateUsUnavailable": "Не удалось открыть магазин. Попробуйте позже.",
+  "reportProblem": "Сообщить о проблеме",
+  "logout": "Выйти",
+  "signOut": "Выход",
+  "settings": "Настройки",
+  "testData": "Тестовые данные",
+  "regionAndCurrency": "Регион и валюта",
+  "reportingCurrency": "Валюта отчётности",
+  "selectCurrency": "Выбрать валюту",
+  "currencySample": "{code} · {symbol} · пример {sample}",
+  "@currencySample": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      },
+      "sample": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdated": "Валюта установлена: {code} ({symbol})",
+  "@currencyUpdated": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdateFailed": "Не удалось обновить валюту: {error}",
+  "@currencyUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "setupAppTitle": "Настройка {appName}",
+  "@setupAppTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "setupSubtitle": "Настройте вашу организацию и бухгалтерию — хранится на этом устройстве для использования без интернета.",
+  "regionAndCurrencySubtitle": "Региональные настройки и валюта отчётности.",
+  "country": "Страна",
+  "currency": "Валюта",
+  "selectCountry": "Выбрать страну",
+  "language": "Язык",
+  "selectLanguage": "Выбрать язык",
+  "languageUpdated": "Язык установлен: {name}",
+  "@languageUpdated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "languageUpdateFailed": "Не удалось обновить язык: {error}",
+  "@languageUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToApp": "Добро пожаловать в {appName}",
+  "@welcomeToApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "forceUpdateMessage": "Установите последнюю версию {appName}, чтобы продолжить.",
+  "@forceUpdateMessage": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "generatedByApp": "Создано в {appName}",
+  "@generatedByApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "whatIsApp": "Что такое {appName}?",
+  "@whatIsApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "appDescriptionFaq": "{appName} помогает вам управлять счетами продаж и закупок, контрагентами (клиентами и поставщиками), запасами, платежами, сотрудниками и ежедневными сводками — с телефона или планшета.",
+  "@appDescriptionFaq": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "faqIntro": "Ответы на часто задаваемые вопросы о {appName}.",
+  "@faqIntro": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseFromGallery": "Выбрать из галереи",
+  "takePhoto": "Сделать фото",
+  "photoLibrary": "Библиотека фото",
+  "addPhoto": "Добавить фото",
+  "couldNotPickImage": "Не удалось выбрать изображение: {error}",
+  "@couldNotPickImage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteOrganizationTitle": "Удалить организацию?",
+  "deleteOrganizationMessage": "Удалить {name} с этого устройства. Все локальные данные этой организации будут удалены.",
+  "deleteOrganizationWarning": "Это невозможно отменить.",
+  "organizationDeleted": "Организация удалена",
+  "createAction": "Создать",
+  "connectOrganizationTitle": "Подключить организацию",
+  "connectOrganizationSubtitle": "Выберите организацию для входа.",
+  "selectOrganization": "Организации",
+  "selectOrganizationHint": "Нажмите на организацию, чтобы продолжить",
+  "noSavedOrganizationsYet": "Организаций пока нет. Создайте одну или используйте тестовые данные ниже.",
+  "orgConnectOnceInfo": "Это связывает приложение с вашим бизнес-аккаунтом. Вам нужно настроить это только один раз на каждом устройстве.",
+  "organizationCodeLabel": "Код: {code}",
+  "loginWithTestData": "Войти с тестовыми данными",
+  "loginWithTestDataSubtitle": "Загрузить демонстрационные данные отеля и войти автоматически",
+  "testDataLoginFailed": "Не удалось загрузить тестовые данные: {error}",
+  "preparingTestData": "Подготовка демонстрационных данных…",
+  "setupOrganizationName": "Название организации",
+  "setupCompanyName": "Название компании",
+  "setupBusinessType": "Тип бизнеса",
+  "businessTypeHotel": "Отель",
+  "businessTypeRestaurant": "Ресторан",
+  "businessTypeHotelRestaurant": "Отель и ресторан",
+  "businessTypeRetail": "Розница / Магазин",
+  "businessTypeCafe": "Кафе / Пекарня",
+  "businessTypeBar": "Бар / Паб",
+  "businessTypeOther": "Другое",
+  "organizationBusinessTypeLabel": "Тип: {type}",
+  "@organizationBusinessTypeLabel": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "organizationSettings": "Организация",
+  "editOrganizationInfo": "Информация об организации",
+  "editOrganizationInfoSubtitle": "Обновите отображение этого бизнеса в приложении. Код организации нельзя изменить.",
+  "organizationCode": "Код организации",
+  "organizationCodeReadOnly": "Этот код фиксируется после настройки.",
+  "organizationInfoUpdated": "Информация об организации сохранена",
+  "organizationInfoLoadFailed": "Не удалось загрузить информацию об организации",
+  "organizationInfoSaveFailed": "Не удалось сохранить информацию об организации: {error}",
+  "@organizationInfoSaveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "saveChanges": "Сохранить изменения",
+  "setupFullName": "Полное имя",
+  "setupConfirmPassword": "Подтвердить пароль",
+  "setupBankName": "Название банка",
+  "setupRegionStepTitle": "Регион и валюта",
+  "setupOrganizationStepTitle": "Организация",
+  "setupOrganizationStepSubtitle": "Как ваш бизнес отображается в приложении",
+  "setupAdminStepTitle": "Аккаунт администратора",
+  "setupAdminStepSubtitle": "Основной пользователь для данной установки",
+  "setupAccountingStepTitle": "Бухгалтерия",
+  "setupAccountingStepSubtitle": "Банк, план счетов и финансовый год",
+  "setupCompleteSetup": "Завершить настройку",
+  "fieldRequired": "{field} обязателен",
+  "invalidEmailAddress": "Введите действительный адрес электронной почты",
+  "passwordMinLength": "Пароль должен содержать не менее {min} символов",
+  "passwordsDoNotMatch": "Пароли не совпадают",
+  "setupFixValidationErrors": "Пожалуйста, исправьте ошибки ниже, чтобы продолжить",
+  "setupCompleteSuccess": "Настройка успешно завершена",
+  "setupCompleteWithPdfSuccess": "Настройка завершена. Сохраните PDF в надёжном месте.",
+  "setupPdfFailed": "Настройка завершена, но PDF не удалось сохранить: {error}",
+  "setupFailed": "Настройку не удалось завершить. Пожалуйста, попробуйте снова.",
+  "setupFailedWithDetails": "Настройка не выполнена: {error}",
+  "languageChangeLaterHint": "Вы можете изменить его позже в настройках",
+  "unpaidAmount": "Не оплачено Сумма",
+  "unpaidBalance": "Не оплачено",
+  "unpaidColonAmount": "Не оплачено: {amount}",
+  "previousUnpaid": "Не оплачено",
+  "partyUnpaid": "Не оплачено",
+  "loadingUnpaid": "Не оплачено…",
+  "totalUnpaid": "Не оплачено",
+  "unpaidAmountNotYetCollected": "Неоплаченная сумма ещё не получена.",
+  "partyUnpaidTabHint": "Откройте Сотрудники, выберите человека, затем нажмите Долг контрагента в его профиле. Серверу нужен ID сотрудника для этого поиска.",
+  "partySettlementUsesUnpaidTotal": "Расчёт с контрагентом использует общую сумму долга.",
+  "selectPartyWithUnpaidFirst": "Сначала введите сумму расчёта (или выберите контрагента с долгом).",
+  "@unpaidColonAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "partyRolesTitle": "Роли контрагентов",
+  "partyRolesMoreSubtitle": "Клиент, поставщик, оба и другие",
+  "searchRoles": "Поиск ролей",
+  "roleCount": "{count, plural, =1{1 роль} few{{count} роли} many{{count} ролей} other{{count} роли}}",
+  "@roleCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noRolesYet": "Ролей пока нет",
+  "noRolesYetHint": "Добавьте Клиент, Поставщик, Оба или пользовательские роли для контактов.",
+  "addRole": "Добавить роль",
+  "deleteRoleTitle": "Удалить роль",
+  "deleteRoleConfirm": "Удалить \"{name}\"? Это нельзя отменить.",
+  "@deleteRoleConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteRoleHasPartiesMessage": "\"{name}\" используется {partyCount, plural, =1{1 контрагентом} few{{partyCount} контрагентами} many{{partyCount} контрагентами} other{{partyCount} контрагентами}}. Перенесите их в другую роль или удалите принудительно.",
+  "@deleteRoleHasPartiesMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "transferParties": "Перенести контрагентов",
+  "hardDeleteLoseParties": "Принудительное удаление (потерять контрагентов)",
+  "hardDeleteRoleTitle": "Принудительное удаление?",
+  "hardDeleteRoleMessage": "Это навсегда удалит \"{name}\" и всех {partyCount, plural, =1{1 контрагента} few{{partyCount} контрагентов} many{{partyCount} контрагентов} other{{partyCount} контрагента}}. Данные контрагентов не подлежат восстановлению.\n\nКонтрагенты, связанные со счетами или платежами, могут не удалиться — используйте перенос.",
+  "@hardDeleteRoleMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteRoleAndParties": "Удалить роль и контрагентов",
+  "addAnotherRoleBeforeDelete": "Добавьте другую роль перед удалением этой.",
+  "transferPartiesMoveMessage": "Переместить {partyCount, plural, =1{1 контрагента} few{{partyCount} контрагентов} many{{partyCount} контрагентов} other{{partyCount} контрагента}} из \"{fromRole}\" в:",
+  "@transferPartiesMoveMessage": {
+    "placeholders": {
+      "partyCount": {
+        "type": "int"
+      },
+      "fromRole": {
+        "type": "String"
+      }
+    }
+  },
+  "transferAndDeleteRole": "Перенести и удалить роль",
+  "builtInRole": "Встроенная",
+  "rolePartyCount": "{count, plural, =1{1 контрагент} few{{count} контрагента} many{{count} контрагентов} other{{count} контрагента}}",
+  "@rolePartyCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noPartiesYet": "Контрагентов пока нет",
+  "newRole": "Новая роль",
+  "editRole": "Редактировать роль",
+  "defaultRolesCannotEdit": "Роли по умолчанию нельзя переименовать или удалить.",
+  "roleNameLabel": "Название роли *",
+  "roleNameHint": "напр. Клиент",
+  "roleDescriptionLabel": "Описание",
+  "roleDescriptionHint": "Короткая заметка для команды",
+  "roleSortOrderLabel": "Порядок сортировки",
+  "roleSortOrderHint": "Меньшие значения отображаются первыми",
+  "roleCreated": "Роль создана",
+  "roleUpdated": "Роль обновлена",
+  "roleDeleted": "Роль удалена",
+  "roleDeletedPartiesTransferred": "Роль удалена. {count, plural, =1{1 контрагент} few{{count} контрагента} many{{count} контрагентов} other{{count} контрагента}} перемещён(а) в {targetRole}.",
+  "@roleDeletedPartiesTransferred": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "targetRole": {
+        "type": "String"
+      }
+    }
+  },
+  "roleAndPartiesDeleted": "Роль и {count, plural, =1{1 контрагент} few{{count} контрагента} many{{count} контрагентов} other{{count} контрагента}} удалены.",
+  "@roleAndPartiesDeleted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@deleteOrganizationMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@organizationCodeLabel": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "@testDataLoginFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@fieldRequired": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "@passwordMinLength": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "@setupPdfFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@setupFailedWithDetails": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "workspace": "Рабочее пространство",
+  "change": "Изменить",
+  "addMoreOrganization": "Добавить ещё +",
+  "connectAnotherOrganization": "Подключить другую организацию",
+  "noSavedOrganizationsUseAddMore": "Сохранённых организаций пока нет. Используйте Добавить ещё + для подключения.",
+  "registerNewOrganizationTitleSignedIn": "Зарегистрировать новую организацию?",
+  "registerNewOrganizationTitle": "Зарегистрировать новую организацию?",
+  "registerNewOrganizationMessageSignedIn": "Вы выйдете из системы, и мастер настройки начнётся заново, чтобы зарегистрировать новый бизнес на этом устройстве.\n\nУже сохранённые организации останутся в списке после настройки.",
+  "registerNewOrganizationMessageLogin": "Мастер настройки запустится для регистрации нового бизнеса на этом устройстве. Завершите настройку для создания; сохранённые организации останутся в списке.",
+  "startSetup": "Начать настройку",
+  "enterOrganizationCode": "Введите код вашей организации",
+  "organizationNotFoundCheckCode": "Организация не найдена. Проверьте код и попробуйте снова.",
+  "organizationNotFound": "Организация не найдена",
+  "couldNotVerifyOrganization": "Не удалось проверить организацию",
+  "noLocalDataCompleteSetup": "Нет локальных данных для {name}. Сначала завершите настройку этой организации.",
+  "@noLocalDataCompleteSetup": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeBack": "С возвращением",
+  "signInToContinue": "Войдите для продолжения",
+  "enterEmail": "Введите email",
+  "pleaseEnterEmail": "Пожалуйста, введите ваш email",
+  "pleaseEnterValidEmail": "Введите действительный email",
+  "enterEmailLocalPartOnly": "Введите только часть до @",
+  "pleaseEnterPassword": "Пожалуйста, введите ваш пароль",
+  "logIn": "ВОЙТИ",
+  "searchCountry": "Поиск страны",
+  "searchCodeOrSymbol": "Поиск кода или символа",
+  "saveLoginDetailsTitle": "Сохранить данные для входа?",
+  "saveLoginDetailsMessage": "Вы собираетесь завершить настройку этой организации.\n\nХотите безопасно скачать PDF с кодом организации, её названием, email и паролем? Храните в надёжном месте — любой, у кого есть этот файл, может войти.",
+  "downloadPdfAndContinue": "Скачать PDF и продолжить",
+  "continueWithoutPdf": "Продолжить без PDF",
+  "legalDisplayNameHint": "Юридическое / отображаемое имя",
+  "chartOfAccounts": "План счетов",
+  "fiscalYearStart": "Начало финансового года",
+  "fiscalYearEnd": "Конец финансового года",
+  "removeTestDataTitle": "Удалить тестовые данные?",
+  "removeTestDataMessageDemoOrg": "Все демо-продажи, покупки, контакты, контрагенты, товары, сотрудники, продукты калькулятора алкоголя и дополнительные демо-организации будут удалены.\n\nВы в демо-организации — после этого вы автоматически переключитесь на первую организацию.",
+  "removeTestDataMessageNormal": "Все демо-продажи, покупки, контакты, контрагенты, товары, сотрудники и 3 дополнительные демо-организации будут удалены. Аккаунт администратора и реальные данные настройки сохранятся.",
+  "removeTestDataWarning": "Это нельзя отменить без повторной загрузки тестовых данных.",
+  "removeTestData": "Удалить тестовые данные",
+  "keepTestData": "Сохранить тестовые данные",
+  "demoDataRemoved": "Демо-данные удалены",
+  "testDataRemovedSwitchedTo": "Тестовые данные удалены. Переключено на {name}.",
+  "@testDataRemovedSwitchedTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "testDataRemoved": "Тестовые данные удалены",
+  "couldNotRemoveTestData": "Не удалось удалить тестовые данные: {error}",
+  "@couldNotRemoveTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loadTestDataTitle": "Загрузить тестовые данные?",
+  "loadTestDataMessage": "Будет добавлено до 50 демо-контактов, 50 товаров только для продаж и 50 только для покупок, а также образцы продаж, покупок, платежей, склада, итогов закрытия, сотрудников, зарплат, посещаемости за последние 15 дней и алкогольных продуктов для калькулятора.",
+  "loadTestData": "Загрузить тестовые данные",
+  "testDataLoaded": "Тестовые данные загружены",
+  "couldNotLoadTestData": "Не удалось загрузить тестовые данные: {error}",
+  "@couldNotLoadTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "demoTestData": "Демо тестовые данные",
+  "importTestDataSubtitle": "Импортировать тестовые данные для всех функций",
+  "hideTestDataTitle": "Скрыть тестовые данные для этой организации?",
+  "hideTestDataMessage": "Если продолжить, раздел Тестовые данные будет скрыт везде в этой организации (включая настройку). Включить снова можно только переустановив приложение или очистив его данные.",
+  "hideTestDataWarning": "Уже загруженные демо-данные останутся в базе данных, пока вы их не удалите в настройках.",
+  "okHideTestData": "ОК, скрыть тестовые данные",
+  "testDataHiddenForOrg": "Тестовые данные скрыты для этой организации",
+  "hideTestDataTooltip": "Скрыть тестовые данные для этой организации",
+  "privacyPolicyTitle": "Политика конфиденциальности",
+  "termsAndConditions": "Условия использования",
+  "logoutConfirmTitle": "Выход",
+  "logoutConfirmMessage": "Вы уверены, что хотите выйти из аккаунта?",
+  "faqTapToExpand": "Нажмите на вопрос, чтобы раскрыть.",
+  "faqSectionGettingStarted": "Начало работы",
+  "faqSectionLogin": "Вход",
+  "faqSectionNavigation": "Навигация",
+  "faqSectionInvoices": "Счета",
+  "faqSectionPayments": "Платежи",
+  "faqSectionItemsStock": "Товары и склад",
+  "faqSectionProfileEmployees": "Профиль и сотрудники",
+  "faqSectionDashboardReports": "Панель и отчёты",
+  "faqSectionSyncTroubleshooting": "Синхронизация и устранение неполадок",
+  "faqNeedInternetQuestion": "Нужен ли интернет?",
+  "faqNeedInternetAnswer": "После первоначальной локальной настройки можно записывать счета, товары и платежи без интернета. Данные хранятся на устройстве. Синхронизация с сервером опциональна.",
+  "faqFirstInstallQuestion": "Что происходит при первой установке?",
+  "faqFirstInstallAnswer": "Возможно, вы увидите краткое руководство, затем локальную настройку (организация, компания, email и пароль, валюта, финансовый год). После этого войдите с созданным email и паролем.",
+  "faqSignInCredentialsQuestion": "Что использовать для входа?",
+  "faqSignInCredentialsAnswer": "Ваш email и пароль из настройки. Приложение держит вас в системе, пока вы не выйдете через Ещё.",
+  "faqLoggedOutQuestion": "Почему я был выведен из системы?",
+  "faqLoggedOutAnswer": "Вы выбрали Выход, очистили данные приложения или истекла сессия. Войдите снова с теми же данными.",
+  "faqBottomTabsQuestion": "Что делают нижние вкладки?",
+  "faqBottomTabsAnswer": "Главная — панель и обзор.\nПродажи — счета продаж по дате.\nРасходы — счета покупок / расходов.\nЦентральная кнопка — Контрагенты (клиенты, поставщики).\nЕщё — профиль, отчёты, синхронизация, помощь, выход.",
+  "faqCreateInvoiceQuestion": "Как создать счёт продажи или покупки?",
+  "faqCreateInvoiceAnswer": "Откройте Продажи или Расходы, выберите дату в календаре, нажмите +, добавьте товары и суммы, при необходимости выберите контрагента, затем сохраните или отправьте.",
+  "faqInvoiceDetailsQuestion": "Как просмотреть детали счёта?",
+  "faqInvoiceDetailsAnswer": "Нажмите на любой счёт в списке. В деталях транзакции отображаются позиции, итоги, скидки и платежи. Оттуда можно печатать, делиться, дублировать или платить.",
+  "faqZeroRateQuestion": "Ставка или сумма отображается как ноль",
+  "faqZeroRateAnswer": "Обычно это означает, что данные строки или платежа отсутствовали в старых сохранениях. Обновите приложение и при необходимости создайте или урегулируйте снова.",
+  "faqPartialPaymentQuestion": "Как записать частичный платёж?",
+  "faqPartialPaymentAnswer": "Откройте счёт → Детали транзакции → Произвести платёж. Введите сумму, метод и дату, затем Обработать расчёт.",
+  "faqMultiplePaymentQuestion": "Как работает множественный платёж?",
+  "faqMultiplePaymentAnswer": "Включите множественный платёж, нажмите редактировать и разделите итог на Наличные, Карту, QR и т.д. Каждый метод записывается отдельно.",
+  "faqSplitPaymentSavedQuestion": "Из разделённого платежа сохранён только один",
+  "faqSplitPaymentSavedAnswer": "Обновите до последней версии приложения. Старые сборки иногда сохраняли только первую строку. Урегулируйте снова, если баланс долга всё ещё неверен.",
+  "faqAddItemQuestion": "Как добавить товар?",
+  "faqAddItemAnswer": "Используйте Добавить товар из потока продаж или быстрое добавление. Введите название, цену, единицу, назначение и необязательное фото (JPEG/PNG/GIF/WebP, макс. 5 МБ), затем Создать товар.",
+  "faqCustomUnitQuestion": "Как добавить пользовательскую единицу?",
+  "faqCustomUnitAnswer": "В форме товара нажмите Единица → Создать новую единицу внизу списка, введите название (напр. Литр, Коробка) и Создать.",
+  "faqStockQuantitiesQuestion": "How do I enter stock quantities?",
+  "faqStockQuantitiesAnswer": "Live qty is In stock on each item. Set stock on an item to enter opening stock or a stock adjustment. Opening stock / stock reconciliation (upload or enter a count) also sets In stock when live tracking is on. Liquor prices is a pour-price list, not stock.",
+  "faqProfileNameQuestion": "Я изменил имя, но профиль показывает старое",
+  "faqProfileNameAnswer": "Отредактируйте запись сотрудника (тот же email, что и для входа) и сохраните. Вкладка Ещё и панель должны обновиться.",
+  "faqRevenueDetailsQuestion": "Что такое Детали дохода?",
+  "faqRevenueDetailsAnswer": "Ежемесячный вид с графиком ежедневных тенденций, чистой прибылью, дебиторской задолженностью и разбивкой продаж против покупок по дням. Меняйте месяц через календарь или чип месяца.",
+  "faqOtherReportsQuestion": "Где другие отчёты?",
+  "faqOtherReportsAnswer": "Откройте Ещё и посмотрите в разделе Отчёты (Аналитика, Прибыли и убытки, Выписка и т.д.), если ваша роль имеет доступ.",
+  "faqWhenSyncQuestion": "Когда нужно синхронизировать?",
+  "faqWhenSyncAnswer": "Только когда администратор попросит и при наличии стабильного соединения. Синхронизация отправляет или получает данные между устройством и сервером.",
+  "faqFabPositionQuestion": "Кнопка + слишком высоко в Продажах / Расходах",
+  "faqFabPositionAnswer": "Она находится над нижней панелью навигации. Прокрутите список или обновите приложение, если кнопка перекрывает контент.",
+  "faqHowLogoutQuestion": "Как выйти из системы?",
+  "faqHowLogoutAnswer": "Ещё → Выход внизу списка настроек.",
+  "statisticsGoodMorning": "Доброе утро",
+  "statisticsGoodAfternoon": "Добрый день",
+  "statisticsGoodEvening": "Добрый вечер",
+  "statisticsDefaultUser": "Пользователь",
+  "statisticsCheckConnection": "Пожалуйста, проверьте подключение и повторите попытку.",
+  "statisticsCouldNotLoadProfile": "Не удалось загрузить профиль",
+  "statisticsCouldNotLoadData": "Не удалось загрузить данные",
+  "statisticsPeriodDay": "День",
+  "statisticsPeriodMonth": "Месяц",
+  "statisticsPeriodYear": "Год",
+  "statisticsSelectedPeriod": "Выбранный период",
+  "statisticsSelectMonth": "Выберите месяц",
+  "statisticsSelectMonthSubtitle": "Выберите месяц для фильтрации данных",
+  "statisticsQuickOperations": "Quick Operations",
+  "statisticsAnnualRevenue": "Годовой доход",
+  "statisticsCashflowLast7Days": "Денежный поток (последние 7 дней)",
+  "statisticsCashflowLast12Months": "Денежный поток (последние 12 месяцев)",
+  "statisticsDaily": "Ежедневно",
+  "statisticsMonthly": "Ежемесячно",
+  "statisticsOverall": "Общий",
+  "statisticsLast7Days": "Last 7 Days",
+  "statisticsLast12Months": "Last 12 Months",
+  "statisticsAllYears": "Все годы",
+  "statisticsNoDataAvailable": "Нет доступных данных",
+  "statisticsMoneyIn": "Деньги в",
+  "statisticsMoneyOut": "Вывод денег",
+  "statisticsIncome": "Доход",
+  "statisticsExpenses": "Затраты",
+  "statisticsSalesSummary": "Сводка продаж",
+  "statisticsPurchaseSummary": "Сводная информация о покупке",
+  "statisticsTotalSales": "Общий объем продаж",
+  "statisticsTotalIncome": "Общий доход",
+  "statisticsTotalUnpaid": "Всего неоплаченных",
+  "statisticsTotalPurchase": "Общая сумма покупки",
+  "statisticsPaidPurchase": "Платная покупка",
+  "statisticsUnpaidPurchase": "Неоплаченная покупка",
+  "statisticsEmployeeDashboard": "Панель управления сотрудника",
+  "statisticsDefaultEmployee": "Сотрудник",
+  "statisticsDefaultDepartment": "Отделение",
+  "statisticsDefaultPosition": "Позиция",
+  "statisticsCurrentMonth": "Текущий месяц",
+  "statisticsStatus": "Статус",
+  "statisticsActive": "Активный",
+  "statisticsWelcome": "Добро пожаловать",
+  "statisticsEmployeeWelcomeMessage": "Вы вошли в систему как сотрудник. Используйте меню навигации для доступа к доступным функциям.",
+  "statisticsRevenueDetails": "Подробности о доходах",
+  "statisticsEmployeeDetails": "Сведения о сотруднике",
+  "statisticsChangeMonth": "Изменить месяц",
+  "statisticsFilterChartsSubtitle": "Фильтрация диаграмм и разбивка",
+  "statisticsDailyTrend": "Ежедневный тренд",
+  "statisticsDailyActivity": "Ежедневная активность",
+  "statisticsNoDataForMonth": "Нет данных за этот месяц",
+  "statisticsNetProfit": "Чистая прибыль",
+  "statisticsMonthReceivables": "Месячная дебиторская задолженность",
+  "statisticsNoDailyEntries": "В этом месяце ежедневных записей нет.",
+  "statisticsDailySalesBreakdown": "Распределение продаж по дням",
+  "statisticsDailyBreakdown": "Ежедневная разбивка",
+  "statisticsAdvance": "Продвигать",
+  "statisticsExploreFeatures": "Изучите возможности",
+  "statisticsShowOrHideFeatures": "Показать или скрыть функции",
+  "statisticsAllFeaturesHidden": "Все функции исследования скрыты",
+  "statisticsNoFeaturesForOrg": "Для вашей организации нет доступных функций",
+  "statisticsTapTuneToShow": "Коснитесь значка настройки выше, чтобы снова отобразить ярлыки.",
+  "statisticsMenuCheck": "Сверка",
+  "statisticsMenuEmployee": "Сотрудник",
+  "statisticsMenuOrder": "Заказ",
+  "statisticsMenuInventory": "Items",
+  "statisticsMenuCustomers": "Клиенты",
+  "statisticsMenuCalculator": "Liquor prices",
+  "statisticsMenuQuickExpenses": "Быстрый\nРасходы",
+  "statisticsMenuQuickSales": "Быстрый\nПродажи",
+  "statisticsMenuAddEmployee": "Добавить\nСотрудник",
+  "statisticsMenuAddParty": "Добавить\nконтрагента",
+  "statisticsMenuAddEmployeeSingle": "Добавить сотрудника",
+  "statisticsMenuAddPartySingle": "Добавить контрагента",
+  "statisticsGreeting": "{greeting}, {name}",
+  "@statisticsGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsEmployeeGreeting": "{greeting}, {name}!",
+  "@statisticsEmployeeGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDepartmentPosition": "{department} • {position}",
+  "@statisticsDepartmentPosition": {
+    "placeholders": {
+      "department": {
+        "type": "String"
+      },
+      "position": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricCollected": "{amount} собрано",
+  "@statisticsMetricCollected": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricPaid": "{amount} оплачено",
+  "@statisticsMetricPaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyInAmount": "Деньги на счете: {amount}",
+  "@statisticsMoneyInAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyOutAmount": "Вывод денег: {amount}",
+  "@statisticsMoneyOutAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDayTooltip": "День {day}\n{amount}",
+  "@statisticsDayTooltip": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsProfitMargin": "Маржа {percent}%",
+  "@statisticsProfitMargin": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "selectBusinessType": "Выберите тип бизнеса",
+  "businessTypeHotelSubtitle": "Номера, гости и стойка регистрации",
+  "businessTypeRestaurantSubtitle": "Заказ обедов, кухни и стола",
+  "businessTypeHotelRestaurantSubtitle": "Гостиничные номера и ресторан вместе",
+  "businessTypeRetailSubtitle": "Продукты, наличие и оформление заказа",
+  "businessTypeCafeSubtitle": "Кофе, выпечка и легкие закуски",
+  "businessTypeBarSubtitle": "Меню напитков, вкладки и продажи в баре",
+  "businessTypeOtherSubtitle": "Индивидуальная настройка для любого бизнеса",
+  "@invoiceCommonSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonInvoiceLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCustomerLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSupplierLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchingFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchItemsHint": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonEmptyForDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDeleteInvoiceConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCancelReturnMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPartyLoadingError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceFoundSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceFoundPurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDatePurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateInvoiceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteMessage": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceReturnCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotPrint": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotSave": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotShare": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonItemReturnedQty": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      },
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonMultiplePaymentSummary": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptFilename": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReturnAgainst": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSavedPath": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonUnpaidWithAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonTodayAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyExportReceipts": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyNoItemsMatching": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceQuickShowingItems": {
+    "placeholders": {
+      "shown": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickLoadedItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickScrollLoadMore": {
+    "placeholders": {
+      "perPage": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickCartWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemActionsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditSelectedItem": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditRateLabel": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditItemLabel": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemsError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditPartiesError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditSaveError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonActions": "Действия",
+  "invoiceCommonSearchItems": "Поиск предметов",
+  "invoiceCommonSearchItemsSubtitle": "Поиск конкретных предметов",
+  "invoiceCommonAddNewInvoice": "Добавить новый счет",
+  "invoiceCommonAddSalesInvoiceSubtitle": "Создать новый счет продажи",
+  "invoiceCommonAddPurchaseInvoiceSubtitle": "Создать новый счет на покупку",
+  "invoiceCommonSelectMonthYear": "Выберите месяц/год",
+  "invoiceCommonSelectMonthYearSubtitle": "Перейти к конкретному месяцу",
+  "invoiceCommonSelectMonthAndYear": "Выберите месяц и год",
+  "invoiceCommonFilterByDate": "Фильтровать по дате",
+  "invoiceCommonFilterByDateRange": "Фильтровать по диапазону дат",
+  "invoiceCommonCloseSearch": "Закрыть поиск",
+  "invoiceCommonSelectAll": "Выбрать все",
+  "invoiceCommonToday": "Сегодня",
+  "invoiceCommonTotalQuantity": "Общее количество",
+  "invoiceCommonTotalAmount": "Общая сумма",
+  "invoiceCommonTotal": "Общий",
+  "invoiceCommonSearchForItems": "Поиск предметов",
+  "invoiceCommonNoItemsFound": "Элементы не найдены",
+  "invoiceCommonUnknownItem": "Неизвестный предмет",
+  "invoiceCommonNotAvailable": "Н/Д",
+  "invoiceSalesCouldNotLoad": "Не удалось загрузить продажи.",
+  "invoiceSalesNoFound": "Продажи не найдены",
+  "invoiceSalesSelectDate": "Выберите дату, чтобы просмотреть продажи",
+  "invoiceSalesNoInvoicesFound": "Счета-фактуры не найдены",
+  "invoiceSalesSelectDateLegacy": "Выберите дату для просмотра счетов",
+  "invoicePurchaseCouldNotLoad": "Не удалось загрузить расходы.",
+  "invoicePurchaseNoFound": "Покупки не найдены",
+  "invoicePurchaseSelectDate": "Выберите дату для просмотра покупок",
+  "invoiceWeekdaySun": "Солнце",
+  "invoiceWeekdayMon": "Пн.",
+  "invoiceWeekdayTue": "Вт",
+  "invoiceWeekdayWed": "Обвенчались",
+  "invoiceWeekdayThu": "Чт",
+  "invoiceWeekdayFri": "Пт",
+  "invoiceWeekdaySat": "Суббота",
+  "invoiceCommonSelectedCount": "{count} Выбрано",
+  "invoiceCommonQtyLabel": "Кол-во: {qty}",
+  "invoiceCommonInvoiceLabel": "Счет: {number}",
+  "invoiceCommonCustomerLabel": "Клиент: {name}",
+  "invoiceCommonSupplierLabel": "Поставщик: {name}",
+  "invoiceCommonSearchingFor": "Ищем \"{query}\"...",
+  "invoiceCommonSearchItemsHint": "Поиск элементов в {scope}...",
+  "invoiceCommonSalesSearchPrompt": "Введите название товара, чтобы найти все продажи\nв {scope}",
+  "invoiceCommonPurchaseSearchPrompt": "Введите название товара, чтобы найти все покупки\nв {scope}",
+  "invoiceCommonSalesNoMatch": "Нет продаж \"{query}\"\nв {scope}",
+  "invoiceCommonPurchaseNoMatch": "Нет покупок \"{query}\"\nв {scope}",
+  "invoiceCommonEmptyForDate": "для {date}",
+  "invoiceFoundSalesCount": "Найдено {count, plural, =1{1 продажа} other{{count} продаж}}",
+  "invoiceFoundPurchaseCount": "Найдено {count, plural, =1{1 покупка} other{{count} покупок}}",
+  "invoiceDateSalesCount": "{count, plural, =1{1 продажа} other{{count} продаж}}",
+  "invoiceDatePurchaseCount": "{count, plural, =1{1 покупка} other{{count} покупки}}",
+  "invoiceDateInvoiceCount": "{count, plural, =1{1 счет} other{{count} счета}}",
+  "invoiceDeleteTitle": "Удалить {count, plural, =1{1 счет} other{{count} счета}}",
+  "invoiceDeleteMessage": "Вы уверены, что хотите удалить {count, plural, =1{1 выбранный счет} other{{count} выбранные счета}}? Это действие невозможно отменить.",
+  "contacts": "Контакты",
+  "categories": "Категории",
+  "manageStaff": "Управление персоналом",
+  "payroll": "Заработная плата",
+  "attendance": "посещаемость",
+  "profitAndLoss": "Прибыли и убытки",
+  "statementReport": "Выписка",
+  "analytics": "Аналитика",
+  "loggedOut": "Вышел из системы",
+  "organizationCodeDisplay": "Код: {code}",
+  "@organizationCodeDisplay": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "moreDataSynchronization": "Синхронизация данных",
+  "moreSendDataToClient": "Отправить данные клиенту",
+  "moreSendDataToClientSubtitle": "Загрузить данные сервера клиенту",
+  "moreSendDataToClientWarning": "Это действие заменит текущую клиентскую базу данных данными с сервера. Все недавние изменения клиента могут быть потеряны.",
+  "moreSendDataToClientConfirm": "Вы уверены, что хотите отправить данные клиенту?",
+  "moreFetchDataFromClient": "Получить данные от клиента",
+  "moreFetchDataFromClientSubtitle": "Загрузить данные клиента на сервер",
+  "moreFetchDataFromClientWarning": "Это действие заменит текущую базу данных сервера данными клиента. Все недавние изменения сервера могут быть потеряны.",
+  "moreFetchDataFromClientConfirm": "Вы уверены, что хотите получить данные от клиента?",
+  "notifications": "Уведомления",
+  "openingReminder": "Напоминание об открытии",
+  "closingReminder": "Закрытие напоминания",
+  "openingTime": "Время работы",
+  "closingTime": "Время закрытия",
+  "notificationSettingsSaved": "Настройки уведомлений сохранены.",
+  "notificationPermissionHint": "Разрешите уведомления (и сигналы тревоги на Android), чтобы напоминания работали, когда приложение закрыто.",
+  "dailyAtTime": "Ежедневно в {time}",
+  "@dailyAtTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonYesterday": "Вчера",
+  "invoiceCommonTodayAt": "Сегодня {time}",
+  "invoiceCommonDaysAgo": "{count} дней назад",
+  "invoiceReturnCount": "{count, plural, =1{1 возврат} other{{count} возврат}}",
+  "statisticsMonthRevenue": "Месячный доход",
+  "statisticsMonthExpenses": "Месячные расходы",
+  "exploreCustomizeTitle": "Настройте функции",
+  "exploreCustomizeSubtitle": "Показать или скрыть ярлыки на главном экране. В списке перечислены только функции, к которым имеет доступ ваша организация.",
+  "exploreVisibleOnDashboard": "Видно на приборной панели",
+  "exploreHiddenOnDashboard": "Спрятано на приборной панели",
+  "partiesTitle": "Контрагенты",
+  "partySearchByName": "Поиск по имени…",
+  "partySortBy": "Сортировать по:",
+  "partySortLatest": "Последние",
+  "partySortAmountHighLow": "Сумма: от высокой к низкой",
+  "partySortAmountLowHigh": "Сумма: от низкой к высокой",
+  "partySortNameAZ": "Имя: от А до Я",
+  "partySortNameZA": "Имя: от Я до А",
+  "partyAddNew": "Добавить контрагента",
+  "partyEdit": "Изменить контрагента",
+  "partyUpdate": "Обновить контрагента",
+  "partyNameLabel": "Название контрагента*",
+  "partyNameHint": "Введите название контрагента",
+  "partyNewNameLabel": "Новое название контрагента*",
+  "partyNewNameHint": "Введите новое название контрагента",
+  "partyRoleLabel": "Роль контрагента *",
+  "partyTapToSelect": "Нажмите, чтобы выбрать",
+  "partySelectRoleValidation": "Пожалуйста, выберите роль",
+  "partyEnterNameValidation": "Пожалуйста, введите название контрагента",
+  "partyBasicInfo": "Основная информация",
+  "partyAdditionalInfo": "Дополнительная информация",
+  "partyEmail": "Эл. почта контрагента",
+  "partyEmailHint": "Введите адрес электронной почты",
+  "partyPhone": "Номер телефона",
+  "partyPhoneHint": "Введите номер телефона",
+  "partyAddress": "Адрес контрагента",
+  "partyAddressHint": "Введите адрес",
+  "partyRoleCustomer": "Клиент",
+  "partyRoleSupplier": "Поставщик",
+  "partyRoleRoom": "Комната",
+  "partyRoleCabin": "Кабина",
+  "partyRoleEmployee": "Сотрудник",
+  "partyRoleBoth": "Оба",
+  "partyDefaultAccount": "Счёт по умолчанию",
+  "partyLoyaltyProgram": "Программа лояльности",
+  "partyLoyaltyPoints": "Баллы лояльности",
+  "partySelectDefaultAccount": "Выберите счёт по умолчанию",
+  "partySelectLoyaltyProgram": "Выберите программу лояльности",
+  "partyCreateNewProgram": "Создать новую программу",
+  "partySelectPartyRole": "Выберите роль контрагента",
+  "partyAccountDebtors": "Дебиторы",
+  "partyAccountCreditors": "Кредиторы",
+  "partyBothRoleHint": "«Оба» означает, что контрагент отображается только в разделах «Клиент» и «Поставщик», но не «Комната», «Кабина» или «Сотрудник».",
+  "partyValidNumber": "Пожалуйста, введите действительный номер",
+  "partyValidAmount": "Пожалуйста, введите действительную сумму",
+  "exportAsPdf": "Экспортировать в PDF",
+  "sharePdf": "Поделиться PDF-файлом",
+  "partyExportPdfTooltip": "Экспорт PDF",
+  "checkoutSelectParty": "Выберите контрагента",
+  "checkoutCartSummary": "Сводка корзины",
+  "checkoutNoItemsInCart": "В корзине нет товаров",
+  "checkoutSearchHere": "Искать здесь",
+  "checkoutCreateInvoice": "Создать счет",
+  "checkoutEditInvoice": "Редактировать счет",
+  "checkoutSaveInvoice": "Сохранить счет",
+  "checkoutInvoiceSummary": "Сводка счетов",
+  "checkoutEstimate": "Оценивать",
+  "checkoutBasicInformation": "Основная информация",
+  "checkoutAddItems": "Добавить элементы",
+  "checkoutItemsSection": "Предметы",
+  "checkoutPartyRequired": "Контрагент *",
+  "checkoutPartyInformation": "Информация о контрагенте",
+  "checkoutBillSummary": "Краткое изложение законопроекта",
+  "checkoutBillSummaryHint": "Нажмите, чтобы узнать более подробный расчет.",
+  "checkoutItemTotal": "Товар Всего",
+  "checkoutLoyaltyDiscount": "Скидка лояльности ({percent}%)",
+  "@checkoutLoyaltyDiscount": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutDiscountLine": "- Скидка ({percent}%)",
+  "@checkoutDiscountLine": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutTapToEdit": "Нажмите, чтобы изменить",
+  "checkoutTotalAmount": "Общая сумма",
+  "checkoutPaymentMode": "Record payment",
+  "checkoutPaymentModeHint": "Turn on to take payment now. Leave off to submit the bill unpaid and collect later.",
+  "checkoutNetSalesAmount": "Чистая сумма продаж",
+  "checkoutConfirmCheckout": "Подтвердить оформление заказа",
+  "checkoutEditDiscount": "Изменить скидку",
+  "checkoutPercentage": "Процент",
+  "checkoutDiscard": "Отказаться",
+  "checkoutPartialPayment": "Частичная оплата",
+  "checkoutPartialPaymentBanner": "Активировав частичную оплату, клиент сможет оплатить сумму, меньшую общей суммы счета.",
+  "checkoutPleaseEnterAmounts": "Пожалуйста, введите соответствующие суммы:",
+  "checkoutPartialPaymentEqualHint": "Поскольку ни один пользователь не назначен, общая сумма должна быть равна общей сумме счета.",
+  "checkoutOverGrandTotalBy": "Превышение общего итога: {amount}",
+  "@checkoutOverGrandTotalBy": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutRemainingUnpaid": "Остаток (невыплаченный из общей суммы): {amount}",
+  "@checkoutRemainingUnpaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutConfirmPayment": "Подтвердить платеж",
+  "checkoutUnpaidCredit": "Неоплаченный / Кредит",
+  "checkoutAddAtLeastOneLine": "Добавьте хотя бы одну позицию, чтобы просмотреть оценку",
+  "checkoutMultiplePayment": "Множественный платеж",
+  "checkoutPaymentStatus": "Статус платежа",
+  "checkoutPaymentMethods": "Способы оплаты",
+  "checkoutPaymentMethod": "Способ оплаты",
+  "checkoutTenderAmount": "Сумма тендера",
+  "checkoutLoadingPaymentMethods": "Загрузка способов оплаты…",
+  "stocksTitle": "Stock reconciliation",
+  "stockUploadTooltip": "Opening stock",
+  "stockNoDataYet": "No opening stock yet",
+  "stockNoDataSubtitle": "Enter a physical count. With live tracking on, that count becomes In stock.",
+  "stockUploadAction": "Opening stock",
+  "stockSearchByDateHint": "Поиск по дате или месяцу…",
+  "stockNoMatches": "Нет совпадений",
+  "stockTryDifferentSearch": "Попробуйте другой поисковый запрос",
+  "stockTryAnotherSearch": "Попробуйте другой поиск",
+  "stockQtyLabel": "Кол-во {qty}",
+  "@stockQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "stockCardSummary": "{records} записей · {items} элементов · {locations} местоположений",
+  "@stockCardSummary": {
+    "placeholders": {
+      "records": {
+        "type": "String"
+      },
+      "items": {
+        "type": "String"
+      },
+      "locations": {
+        "type": "String"
+      }
+    }
+  },
+  "stockFilterTitle": "Filter stock reconciliation",
+  "stockBatchNumber": "Номер партии",
+  "stockLocation": "Расположение",
+  "stockOptionalHint": "Необязательный",
+  "stockApplyFilters": "Применить фильтры",
+  "stockClearFields": "Очистить поля",
+  "stockDeleteAllTooltip": "Удалить все акции на эту дату",
+  "stockNoItemsFound": "Товары на складе не найдены",
+  "stockNoItemsSubtitle": "Попробуйте другие фильтры или другую отчетную дату.",
+  "stockAdjustFilters": "Настроить фильтры",
+  "stockSearchItemHint": "Поиск товара, партии, местоположения…",
+  "stockEditQuantities": "Редактировать количества",
+  "stockNoChangesDetected": "Никаких изменений не обнаружено",
+  "stockErrorPreparingChanges": "Ошибка при подготовке изменений: {error}.",
+  "@stockErrorPreparingChanges": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "stockUpdateSuccessful": "Обновление успешно!",
+  "stockSummary": "Краткое содержание",
+  "stockTotalRequested": "Всего запрошено",
+  "stockSuccessfullyUpdated": "Успешно обновлено",
+  "stockFailed": "Неуспешный",
+  "stockUpdateFailed": "Обновление не выполнено",
+  "stockClearAllQuantitiesTitle": "Очистить все количества?",
+  "stockClearAllQuantitiesMessage": "Это сбросит все количества на 0. Вы уверены?",
+  "stockClearAll": "Очистить все",
+  "stockUpdatingQuantities": "Обновление количества запасов...",
+  "stockEditQuantitiesTitle": "Редактировать количество запасов",
+  "stockReportingDate": "Отчетная дата: {date}",
+  "@stockReportingDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "stockTotalItemsHint": "Всего позиций: {count} • При необходимости обновите количество.",
+  "@stockTotalItemsHint": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "stockItemName": "Название предмета",
+  "stockBatchPrefix": "Пакет: {batch}",
+  "@stockBatchPrefix": {
+    "placeholders": {
+      "batch": {
+        "type": "String"
+      }
+    }
+  },
+  "stockDeleteConfirmTitle": "Подтвердить удаление",
+  "stockDeleteConfirmIntro": "Вы собираетесь окончательно удалить все товары на складе на следующую дату:",
+  "stockDeleteConfirmWarning": "Это действие невозможно отменить. Все биржевые записи на эту дату будут удалены без возможности восстановления.",
+  "stockNoInternetRetry": "Нет подключения к Интернету. Пожалуйста, проверьте подключение и повторите попытку.",
+  "itemsTitle": "Предметы",
+  "itemAddSheetTitle": "Добавить элемент",
+  "itemSingleAdd": "Одиночное добавление",
+  "itemBulkAdd": "Массовое добавление",
+  "itemBulkAddTitle": "Массовое добавление элементов",
+  "itemEditTitle": "Редактировать элемент",
+  "itemAddTitle": "Добавить элемент",
+  "itemCreateButton": "Создать элемент",
+  "itemUpdateButton": "Обновить элемент",
+  "itemDeleteTitle": "Удалить элемент",
+  "itemDeleteConfirm": "Вы уверены, что хотите удалить «{name}»?",
+  "itemDeletedSuccess": "Объект успешно удален",
+  "itemCreatedSuccess": "Объект успешно создан",
+  "itemUpdatedSuccess": "Элемент успешно обновлен",
+  "itemLoading": "Загрузка элементов...",
+  "itemErrorTitle": "Упс! Что-то пошло не так",
+  "itemTryAgain": "Попробуйте еще раз",
+  "itemSearchHint": "Поиск предметов",
+  "itemNoItemsFound": "Элементы не найдены",
+  "itemTryAdjustSearch": "Попробуйте изменить условия поиска",
+  "itemNoItemsAvailable": "Нет доступных товаров",
+  "itemAddToGetStarted": "Добавьте элементы, чтобы начать",
+  "itemNoMoreItems": "Больше нет предметов",
+  "itemPurposeBoth": "Оба",
+  "itemPurposePurchases": "Покупки",
+  "itemTypeProduct": "Продукт",
+  "itemTypeService": "Услуга",
+  "itemTypeInventory": "Инвентарь",
+  "itemPhotoTitle": "Фото товара",
+  "itemPhotoHint": "Нажмите здесь, чтобы выбрать или загрузить фотографии",
+  "itemPhotoFormats": "JPEG, PNG, GIF или WebP · максимум 5 МБ",
+  "itemAddPhoto": "Добавить фото",
+  "itemPhotoLibrary": "Фототека",
+  "itemPhotoLibraryHint": "Выбирайте из своих фотографий",
+  "itemTakePhoto": "Сфотографироваться",
+  "itemUploadGallery": "Загрузить из галереи",
+  "itemUploadGalleryHint": "Просматривать файлы на этом устройстве",
+  "itemTypeLabel": "Тип",
+  "itemTypeField": "Тип элемента",
+  "itemNameLabel": "Название предмета",
+  "itemNameHint": "Введите название элемента",
+  "itemBarcodeLabel": "Штрих-код / ​​QR-код",
+  "itemBarcodeField": "Штрих-код/QR-код",
+  "itemBarcodeHint": "Сканируйте из панели приложения или вставьте",
+  "itemRateLabel": "Ставка",
+  "itemUnitLabel": "Единица",
+  "itemPurposeLabel": "Цель",
+  "itemSelectUnit": "Выберите единицу измерения",
+  "itemSelectPurpose": "Выберите цель",
+  "itemSelectCategory": "Выберите категорию",
+  "itemSelectType": "Выберите тип",
+  "itemSelectItemType": "Выберите тип элемента",
+  "itemSearchUnits": "Поиск единиц…",
+  "itemSearchPurpose": "Цель поиска…",
+  "itemSearchCategories": "Категории поиска…",
+  "itemCreateCustomUnit": "Создать собственный блок",
+  "itemUnitName": "Название подразделения",
+  "itemUnitNameHint": "например, литр, коробка, штука",
+  "itemValidationName": "Пожалуйста, введите название товара",
+  "itemValidationRate": "Пожалуйста, введите цену",
+  "itemValidationNumber": "Пожалуйста, введите действительный номер",
+  "itemSelectUnitRequired": "Пожалуйста, выберите единицу измерения",
+  "itemSelectPurposeRequired": "Пожалуйста, выберите цель",
+  "itemImageMissing": "Файл изображения отсутствует",
+  "itemImageFormatError": "Используйте JPEG, PNG, GIF или WebP.",
+  "itemImageSizeError": "Изображение должно быть 5 МБ или меньше.",
+  "itemScanBarcode": "Сканировать штрих-код",
+  "itemNameFromCatalog": "Имя заполнено из каталога: {name}",
+  "itemBarcodePasteHint": "Название продукта не найдено — в качестве имени вставлен код. Отредактируйте, если необходимо.",
+  "itemBulkRefillTooltip": "Заполните предыдущий ввод",
+  "itemBulkAddRow": "Добавить строку",
+  "itemBulkRowLabel": "Товар {index}",
+  "itemBulkNameRequired": "Требуется имя",
+  "itemBulkInvalidNumber": "Неверный номер",
+  "itemBulkCreating": "Создание…",
+  "itemBulkCreateItems": "Создание предметов",
+  "itemBulkCreatedCount": "Создано {count} элементов",
+  "itemBulkCreateFailed": "Не удалось создать элементы: {error}.",
+  "itemBulkNoDraft": "Сохраненный черновик не найден",
+  "itemBulkInvalidDraft": "Формат сохраненного черновика недействителен.",
+  "itemBulkDraftRestored": "Предыдущий черновик восстановлен.",
+  "itemBulkDraftRestoreFailed": "Не удалось восстановить сохраненный черновик.",
+  "itemBulkAtLeastOne": "Добавьте хотя бы один элемент",
+  "itemBulkCategoriesLoading": "Категории загружаются, попробуйте еще раз.",
+  "itemBulkLoadingCategories": "Загрузка категорий…",
+  "inventoryTitle": "Аналитика запасов",
+  "inventorySubtitle": "Отслеживание движения запасов в режиме реального времени",
+  "inventorySearchHint": "Поиск предметов...",
+  "inventorySold": "Продал",
+  "inventoryPurchased": "Куплено",
+  "catNoCategories": "Никаких категорий. Нажмите +, чтобы создать.",
+  "catLoadCategories": "Категории загрузки",
+  "catCreated": "Категория создана",
+  "catRenamed": "Категория переименована",
+  "catDeleted": "Категория удалена",
+  "catNewTitle": "Новая категория",
+  "catRenameTitle": "Переименовать категорию",
+  "catNewName": "Новое имя",
+  "catRename": "Переименовать",
+  "catDeleteTitle": "Удалить категорию",
+  "catDeleteConfirm": "Удалить \"{name}\"?",
+  "catDeleteLinkedHint": "Предметы связаны. Вы можете принудительно удалить, чтобы разорвать связь.",
+  "catForceDelete": "Принудительное удаление",
+  "catItemsCount": "{count} элементов",
+  "contactFavoritesOnly": "Только избранное",
+  "contactShowAll": "Показать все контакты",
+  "contactSearchHint": "Поиск по имени, телефону, электронной почте…",
+  "contactNoConnection": "Нет связи",
+  "contactCheckNetwork": "Проверьте свою сеть и повторите попытку.",
+  "contactSomethingWrong": "Что-то пошло не так",
+  "contactNoContacts": "Нет контактов",
+  "contactNoFavorites": "Нет фаворитов. Отключите звездный фильтр или добавьте избранное в контакте.",
+  "contactTrySearchOrAdd": "Попробуйте другой поиск или нажмите +, чтобы добавить контакт.",
+  "contactEndOfList": "Конец списка",
+  "contactNewTooltip": "Новый контакт",
+  "contactLoading": "Загрузка контактов…",
+  "contactUnknown": "Неизвестный",
+  "contactCallTooltip": "Вызов",
+  "contactEditTitle": "Изменить контакт",
+  "contactNewTitle": "Новый контакт",
+  "contactSelectTitle": "Выберите контакт",
+  "contactDeleteTitle": "Удалить контакт?",
+  "contactDeleteUndo": "Это действие невозможно отменить.",
+  "contactNameRequired": "Требуется имя",
+  "contactNameLabel": "Имя *",
+  "contactNameHint": "Контактное имя",
+  "contactPhoneHint": "+977-9841234567",
+  "contactEmailHint": "электронная почта@example.com",
+  "contactCategoryHint": "например бизнес, общий, VIP",
+  "contactCompanyHint": "Название компании",
+  "contactFavorite": "Любимый",
+  "contactCannotCall": "Невозможно совершать звонки на этом устройстве",
+  "contactPermissionDenied": "В разрешении на контакт было отказано. Вы можете включить его в настройках.",
+  "contactPermissionRequired": "Для импорта с телефона требуется разрешение контакта.",
+  "contactImported": "Контакт импортирован с телефона",
+  "contactCreated": "Контакт создан",
+  "contactUpdated": "Контакт обновлен",
+  "contactDeleted": "Контакт удален",
+  "contactImportSearchHint": "Поиск по имени, телефону, электронной почте, компании",
+  "contactImportNoResults": "Контакты не найдены",
+  "@itemDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemNameFromCatalog": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkRowLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreatedCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@catDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@catItemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutMultiplePaymentHint": "Включите эту опцию, если клиент платит через несколько режимов оплаты.",
+  "checkoutFillRemainingBalance": "Пополнить остаток",
+  "checkoutEnterAtLeastOnePayment": "Введите хотя бы одну сумму платежа",
+  "checkoutPaymentsExceedTotal": "Общая сумма платежей не может превышать общую сумму",
+  "checkoutSentAs": "Отправлено как: {api}",
+  "@checkoutSentAs": {
+    "placeholders": {
+      "api": {
+        "type": "String"
+      }
+    }
+  },
+  "paymentCard": "Карта",
+  "paymentQr": "QR",
+  "paymentBank": "Банк",
+  "paymentTransfer": "Передача",
+  "paymentBankTransfer": "Банковский перевод",
+  "paymentSettlement": "Урегулирование",
+  "paymentCheque": "Проверять",
+  "paymentDigital": "Цифровой",
+  "paymentDigitalQr": "Цифровой (QR)",
+  "closeSummaryTitle": "Сводка закрытия",
+  "closeTabDashboard": "Панель управления",
+  "closeTabCredits": "Кредиты",
+  "closeWelcome": "Добро пожаловать в заключительное резюме",
+  "closeSelectDateHint": "Выберите дату и нажмите обновить для загрузки данных",
+  "closeLoadingDashboard": "Загрузка данных информационной панели...",
+  "closeDataDeleted": "Данные удалены",
+  "closeErrorPrefix": "Ошибка: {message}",
+  "@closeErrorPrefix": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExtraAmount": "Дополнительная сумма",
+  "closeExtraAmountDesc": "Дополнительные денежные средства или корректировки, зарегистрированные за этот заключительный день.",
+  "closeLostAmount": "Потерянная сумма",
+  "closeLostAmountDesc": "За этот период отмечена нехватка или отклонение денежных средств.",
+  "closeTapForDetails": "Нажмите, чтобы узнать подробности",
+  "closeAmountLabel": "Закрытие",
+  "closeAmountFormula": "Формула закрывающей суммы",
+  "closeFormulaExpression": "Продажи за наличные - Расходы за наличные = Сумма закрытия",
+  "closeCashSales": "Продажа за наличные",
+  "closeCashExpenses": "Денежные расходы",
+  "closeClosingAmount": "Завершающая сумма",
+  "closeWhatThisMeans": "Что это значит:",
+  "closeClosingMeaning": "Это сумма наличных денег, которая должна находиться в вашем регистре/ящике в конце дня. Он представляет собой все полученные денежные средства за вычетом всех выплаченных денежных средств.",
+  "closeQuickStats": "Быстрая статистика",
+  "closeTapCardHint": "Нажмите на карточку, чтобы просмотреть ее краткое описание.",
+  "closeOpeningBalance": "Начальный баланс",
+  "closeTotalSales": "Общая выручка",
+  "closeQrAmount": "QR-сумма",
+  "closeCashAmount": "Сумма наличных",
+  "closeSalesDiscount": "Скидка при продаже",
+  "closeCreditQr": "Кредитный QR",
+  "closeCreditCash": "Кредит наличными",
+  "closeCreditDiscount": "Кредитная скидка",
+  "closePayCashGetQr": "Оплатить наличными → Получить QR",
+  "closePayQrGetCash": "Оплатить QR → Получить наличные",
+  "closePaymentMix": "Комбинация платежей",
+  "closePaymentMixHint": "Кассовый или цифровой · На панели отображается доля продаж",
+  "closeCashVsDigitalTooltip": "Наличные и цифровая доля продаж",
+  "closeSalesShareDesc": "{label} составил {percent}% от общего объема продаж за этот день.",
+  "@closeSalesShareDesc": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSalesLabel": "{label} продаж",
+  "@closeSalesLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "closeNoTransactions": "Нет доступных транзакций",
+  "closeRecentTransactions": "Недавние транзакции",
+  "closeViewAll": "Посмотреть все",
+  "closeNoPurchases": "Нет доступных покупок",
+  "closeRecentPurchases": "Недавние покупки",
+  "closeNoSalesDate": "Нет продаж на эту дату",
+  "closeNoSalesHint": "Продажи будут показаны здесь после их регистрации.",
+  "closeRoomSales": "Продажа номеров",
+  "closeEmployeeSales": "Продажи сотрудников",
+  "closeOtherSales": "other продаж",
+  "closeSectionCount": "{title} ({count})",
+  "@closeSectionCount": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "closeDiscountShort": "Диск: {amount}",
+  "@closeDiscountShort": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "closePercentOff": "Скидка {percent}%",
+  "@closePercentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closePending": "В ожидании",
+  "closeNoCreditPayments": "Никаких кредитных платежей",
+  "closeNoCreditHint": "Платежи по кредиту появятся здесь",
+  "closeViewStatistics": "Посмотреть статистику",
+  "closeExportData": "Экспорт данных",
+  "closeExportComingSoon": "Функция экспорта будет реализована здесь",
+  "closeHintOpeningBalance": "Денежная позиция на начало выбранного дня.",
+  "closeHintTotalSales": "Сумма всех продаж, зарегистрированных на эту дату.",
+  "closeHintQrAmount": "Платежи, полученные с помощью QR или цифровыми методами.",
+  "closeHintCashAmount": "Денежная часть продаж за день.",
+  "closeHintCashExpenses": "Денежные средства, выплаченные на расходы в течение дня.",
+  "closeHintSalesDiscount": "Скидки распространяются на распродажи.",
+  "closeHintCreditQr": "QR-коллекции, связанные с кредитами.",
+  "closeHintCreditCash": "Движение денежных средств, связанных с кредитом.",
+  "closeHintCreditDiscount": "Скидки применяются при кредитных операциях.",
+  "closeHintPayCashGetQr": "Обмен, при котором были оплачены наличные и получен QR-кредит.",
+  "closeHintPayQrGetCash": "Обмен, где был оплачен QR и получены наличные.",
+  "closeOpeningAmount": "Начальная сумма",
+  "closeCurrentAmount": "Текущая сумма",
+  "closeSaveReport": "Сохранить отчет",
+  "closeUpdateSummary": "Сводка обновлений",
+  "closeExists": "Существует",
+  "closeExistingDataInfo": "Вы можете просмотреть или изменить существующие данные",
+  "closeEnterOpeningAmount": "Пожалуйста, введите начальную сумму",
+  "closeEnterValidAmount": "Пожалуйста, введите действительную сумму",
+  "languageSelectionSubtitle": "Выберите, как вы хотите использовать {appName}. Это можно изменить позже в настройках.",
+  "searchLanguages": "Поиск языков",
+  "languageSuggestedBadge": "РЕКОМЕНДУЕТСЯ",
+  "continueInLanguage": "Продолжить на {languageName}",
+  "noLanguageMatches": "Нет совпадений",
+  "noLanguageMatchesForQuery": "Нет языка, соответствующего \"{query}\"",
+  "@languageSelectionSubtitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@continueInLanguage": {
+    "placeholders": {
+      "languageName": {
+        "type": "String"
+      }
+    }
+  },
+  "@noLanguageMatchesForQuery": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockSettingsSaved": "Настройки блокировки сохранены",
+  "appLockSubtitle": "Требовать PIN или биометрию при повторном открытии приложения",
+  "appLockTitle": "Блокировка приложения",
+  "appPin": "PIN приложения",
+  "appPinIncorrect": "Неверный PIN. Попробуйте снова.",
+  "appPinIncorrectWithAttempts": "Неверный PIN. Осталось попыток: {remaining}.",
+  "@appPinIncorrectWithAttempts": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      }
+    }
+  },
+  "appPinLockoutMessage": "Слишком много неверных попыток. Войдите по email и паролю, чтобы сбросить PIN.",
+  "appPinMismatch": "PIN не совпадают. Попробуйте снова.",
+  "appPinRemoved": "PIN приложения удалён",
+  "appPinSetSuccess": "PIN сохранён для этой организации",
+  "appPinSubtitle": "Быстрая разблокировка {length}-значным PIN",
+  "@appPinSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "appearance": "Внешний вид",
+  "backupAutoBackupHint": "Автоматическое резервное копирование при запуске приложения",
+  "backupAutoBackupTitle": "Автоматическое резервное копирование",
+  "backupAutoDirectionBoth": "Загрузка и скачивание",
+  "backupAutoDirectionDownload": "Скачать из облака",
+  "backupAutoDirectionUpload": "Загрузить в облако",
+  "backupAutoFrequencyDaily": "Ежедневно",
+  "backupAutoFrequencyMonthly": "Ежемесячно",
+  "backupAutoFrequencyOff": "Выкл.",
+  "backupAutoFrequencyTitle": "Частота резервного копирования",
+  "backupAutoFrequencyWeekly": "Еженедельно",
+  "backupAutoLastDownloaded": "Последнее автовосстановление: {detail}",
+  "@backupAutoLastDownloaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastFailed": "Последняя автосинхронизация не удалась: {detail}",
+  "@backupAutoLastFailed": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastSkipped": "Последняя автосинхронизация пропущена: {detail}",
+  "@backupAutoLastSkipped": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastUploaded": "Последнее автокопирование: {detail}",
+  "@backupAutoLastUploaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoSettingsTitle": "Настройки Google Drive",
+  "backupAutoSyncDirectionTitle": "Автосинхронизация",
+  "backupSyncActiveOrganization": "Текущая организация",
+  "backupSyncActiveOrganizationHint": "Резервная копия загружает данные организации, которую вы используете сейчас.",
+  "backupSyncCompletedHint": "Ваши данные надёжно сохранены в Google Drive.",
+  "backupSyncConnected": "Подключено",
+  "backupSyncCurrentStep": "Шаг: {step}",
+  "@backupSyncCurrentStep": {
+    "placeholders": {
+      "step": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncGoogleAccount": "Аккаунт Google",
+  "backupSyncInProgress": "Синхронизация выполняется",
+  "backupSyncLastError": "Последняя ошибка: {error}",
+  "@backupSyncLastError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncLastSyncDate": "Дата и время",
+  "backupSyncLastSyncTitle": "Последняя синхронизация",
+  "backupSyncNeverSynced": "Резервная копия ещё не загружена.",
+  "backupSyncOrganization": "Организация",
+  "backupSyncPageTitle": "Резервное копирование и синхронизация",
+  "backupSyncPhaseExport": "Экспорт",
+  "backupSyncPhaseUpload": "Загрузка",
+  "backupSyncProgressPercent": "{percent}%",
+  "@backupSyncProgressPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "backupSyncRecords": "Сохранённые записи",
+  "backupSyncSignInHint": "Войдите через Google, чтобы создать резервную копию данных организации.",
+  "backupSyncSignOutConfirm": "Выйти из Google Drive на этом устройстве?",
+  "backupSyncSignedInAs": "Вход выполнен как",
+  "backupSyncStatus": "Статус",
+  "backupSyncStatusSuccess": "Завершено",
+  "backupSyncStepExport": "Экспорт локальных данных",
+  "backupSyncStepUploadFile": "Загрузка {file}",
+  "@backupSyncStepUploadFile": {
+    "placeholders": {
+      "file": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncStepUploadTable": "Загрузка {table}",
+  "@backupSyncStepUploadTable": {
+    "placeholders": {
+      "table": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncTables": "Сохранённые таблицы",
+  "backupSyncUnknownOrganization": "Текущая организация",
+  "backupWifiOnlyContinue": "Использовать мобильные данные",
+  "backupWifiOnlyHint": "Автокопирование ожидает Wi‑Fi",
+  "backupWifiOnlyTitle": "Копировать только через Wi‑Fi",
+  "biometricNotAvailable": "Биометрия недоступна на этом устройстве",
+  "biometricRequiresPin": "Настройте PIN приложения перед включением биометрии",
+  "biometricUnlockReason": "Разблокировать BizTrack",
+  "changeAppPin": "Изменить PIN",
+  "confirmAppPin": "Подтвердите PIN",
+  "confirmAppPinHint": "Введите PIN повторно для подтверждения",
+  "confirmPasscodeHint": "Введите код повторно для подтверждения",
+  "contactUs": "Связаться с нами",
+  "contactUsSubtitle": "Поддержка, отзывы или вопросы по приложению.",
+  "createAppPinHint": "Выберите {length}-значный PIN для этой организации",
+  "@createAppPinHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "createPasscodeHint": "Выберите {length}-значный код для этой организации",
+  "@createPasscodeHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "darkMode": "Тёмная тема",
+  "darkModeSubtitle": "Тёмный фон во всём приложении",
+  "darkModeSystemSubtitle": "Следует теме устройства",
+  "dataAndBackup": "Данные и резервное копирование",
+  "developerLabel": "Разработчик",
+  "disableAppPinMessage": "Face ID / биометрическая разблокировка также будет отключена для этой организации.",
+  "disableAppPinTitle": "Удалить PIN приложения?",
+  "displayPrecision": "Точность отображения",
+  "displayPrecisionRange": "Введите число от 0 до 5",
+  "emailCopiedToClipboard": "Email скопирован в буфер обмена",
+  "employeeManagementSubtitle": "Персонал, зарплата и посещаемость",
+  "enableBiometricAfterPinMessage": "Используйте биометрию устройства вместе с PIN для быстрого входа.",
+  "enableBiometricTitle": "Включить биометрию?",
+  "enableFaceIdTitle": "Включить Face ID?",
+  "enableFingerprintTitle": "Включить отпечаток пальца?",
+  "enableInvoiceReturns": "Включить возвраты по счетам",
+  "enableInvoiceReturnsSubtitle": "Разрешить создавать возвраты из оплаченных счетов.",
+  "enterAppPin": "Введите PIN",
+  "enterPasscode": "Введите код",
+  "googleDriveBackupFailed": "Резервное копирование не удалось: {error}",
+  "@googleDriveBackupFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupNow": "Создать копию сейчас",
+  "googleDriveBackupPluginError": "Для резервного копирования нужен полный перезапуск приложения. Закройте приложение, откройте снова и повторите.",
+  "googleDriveBackupSectionTitle": "Резервное копирование и синхронизация",
+  "googleDriveBackupStarting": "Подготовка резервной копии…",
+  "googleDriveBackupSubtitleSignedIn": "Вход выполнен как {email}",
+  "@googleDriveBackupSubtitleSignedIn": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupSubtitleSignedOut": "Войдите, чтобы безопасно сохранить данные организации в Google Drive.",
+  "googleDriveBackupSuccess": "Копия загружена ({tableCount} таблиц, {recordCount} записей)",
+  "@googleDriveBackupSuccess": {
+    "placeholders": {
+      "tableCount": {
+        "type": "int"
+      },
+      "recordCount": {
+        "type": "int"
+      }
+    }
+  },
+  "googleDriveBackupTitle": "Резервная копия Google Drive",
+  "googleDriveLastBackup": "Последняя копия: {date}",
+  "@googleDriveLastBackup": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveSignIn": "Войти через Google",
+  "googleDriveSignInCancelled": "Вход через Google отменён",
+  "googleDriveSignInSuccess": "Вход в Google Drive выполнен",
+  "googleDriveSignOut": "Выйти",
+  "googleDriveSignOutSuccess": "Выход из Google Drive выполнен",
+  "itemSelectCategoryRequired": "Выберите категорию",
+  "moreBackupSyncTileLastSync": "Последняя синхронизация: {date}",
+  "@moreBackupSyncTileLastSync": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "moreBackupSyncTileNeverSynced": "Резервная копия в Google Drive",
+  "moreBackupSyncTileSignedInNoSync": "Вход выполнен · Копии ещё нет",
+  "notNow": "Не сейчас",
+  "operationManagement": "Управление операциями",
+  "operationManagementSubtitle": "Items, stock reconciliation, contacts, categories, and closing",
+  "orContinueWithPassword": "или войти с паролем",
+  "organizationAccountingSubtitle": "Настройки счетов и отображения сумм.",
+  "organizationRegionalSubtitle": "Страна, отчётная валюта и даты финансового года.",
+  "organizationTabAccounting": "Учёт",
+  "organizationTabGeneral": "Общие",
+  "organizationTabRegional": "Региональные и финансовые",
+  "partyPickerAddNewRole": "Добавить {role}",
+  "@partyPickerAddNewRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSearchHint": "Поиск {role}…",
+  "@partyPickerSearchHint": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSelectedLabel": "ВЫБРАНО",
+  "partyPickerSettled": "Оплачено",
+  "partyPickerSubtitle": "Для кого эта продажа?",
+  "preferences": "Настройки",
+  "quickUnlockAsUser": "Быстрый вход как {email}",
+  "@quickUnlockAsUser": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSubtitle": "Прибыли и убытки, отчёты и аналитика",
+  "restoreAction": "Восстановить",
+  "restoreFromGoogleDrive": "Восстановить из Google Drive",
+  "restoreFromGoogleDriveConfirm": "Восстановить «{name}»? Локальные данные этой организации будут заменены.",
+  "@restoreFromGoogleDriveConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveEmpty": "Резервные копии в Google Drive не найдены.",
+  "restoreFromGoogleDriveFailed": "Восстановление не удалось: {error}",
+  "@restoreFromGoogleDriveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveHint": "Войдите и выберите копию для восстановления организации на этом устройстве.",
+  "restoreFromGoogleDriveStarting": "Запуск восстановления…",
+  "restoreFromGoogleDriveSuccess": "{name} восстановлено. Теперь можно войти.",
+  "@restoreFromGoogleDriveSuccess": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreStepCreateDatabase": "Создание базы данных",
+  "restoreStepDownload": "Скачивание копии",
+  "restoreStepFinalize": "Завершение восстановления",
+  "restoreStepImport": "Импорт данных",
+  "security": "Безопасность",
+  "setUpAppPin": "Настроить PIN",
+  "setUpFaceIdOrPin": "Настроить Face ID или PIN",
+  "setUpFingerprintOrPin": "Настроить отпечаток или PIN",
+  "setUpNow": "Настроить сейчас",
+  "setUpQuickUnlock": "Настроить быстрый вход по PIN",
+  "setUpQuickUnlockAfterLoginMessage": "Настройте Face ID, отпечаток или PIN для быстрого входа в следующий раз. Можно изменить позже в настройках.",
+  "setUpQuickUnlockAfterLoginTitle": "Включить быстрый вход?",
+  "setUpQuickUnlockSubtitle": "Используйте биометрию или PIN для этой организации",
+  "signInWithBiometric": "Войти по биометрии",
+  "signInWithFaceId": "Войти через Face ID",
+  "signInWithFingerprint": "Войти по отпечатку",
+  "signInWithPin": "Войти по PIN",
+  "statisticsCashflow": "Денежный поток",
+  "statisticsQuickOperationInvoice": "Счёт",
+  "statisticsQuickOperationReports": "Отчёты",
+  "statisticsQuickOperationsSeeAll": "Показать все",
+  "tapDigitsToUnlock": "Нажмите любые {length} цифры для разблокировки.",
+  "@tapDigitsToUnlock": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "unlockApp": "Разблокировать приложение",
+  "useBiometricInstead": "Использовать биометрию",
+  "useBiometricUnlock": "Использовать Face ID / биометрию",
+  "useBiometricUnlockSubtitle": "Разблокировка отпечатком или Face ID после настройки PIN",
+  "useFaceIdUnlock": "Использовать Face ID",
+  "useFingerprintUnlock": "Использовать отпечаток",
+  "usePinInstead": "Использовать PIN",
+  "verifyPinToRemoveSubtitle": "Подтвердите {length}-значный PIN для снятия блокировки",
+  "@verifyPinToRemoveSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "verifyPinToRemoveTitle": "Введите PIN",
+  "walkthroughBackupDescription": "Банковский уровень безопасности с резервным копированием Google Drive в одно касание — данные защищены и легко восстанавливаются.",
+  "walkthroughBackupTitle": "Ваши данные всегда в безопасности",
+  "walkthroughBillingDescription": "Счета продаж и закупок, заказы столов с кухонными тикетами и склад в реальном времени — всё в одном приложении.",
+  "walkthroughBillingTitle": "Выставляйте счета и продавайте за секунды",
+  "walkthroughDashboardDescription": "Продажи сегодня, выручка и задолженности — всё на понятной панели при открытии приложения.",
+  "walkthroughDashboardTitle": "Весь бизнес с первого взгляда",
+  "walkthroughOfflineDescription": "Создавайте счета, учитывайте расходы и управляйте складом офлайн. Всё синхронизируется автоматически при подключении.",
+  "walkthroughOfflineTitle": "Работает без интернета",
+  "walkthroughReadyDescription": "Настройте организацию за минуты и управляйте бизнесом умнее уже сегодня. Начнём.",
+  "walkthroughReadyTitle": "Готовы, когда вы готовы",
+  "walkthroughStaffDescription": "Управляйте посещаемостью и зарплатой, экспортируйте P&L и расчётные листы в PDF — без дополнительных инструментов.",
+  "walkthroughStaffTitle": "Персонал, зарплата и отчёты",
+  "ok": "OK",
+  "reportPeriodYear": "Год",
+  "reportPeriodMonth": "Месяц",
+  "reportPeriodRange": "Диапазон",
+  "reportPeriodDay": "День",
+  "reportPeriodFrom": "С",
+  "reportPeriodTo": "По",
+  "reportPeriod": "Период",
+  "reportAllPurchases": "Все закупки",
+  "reportBeforeTax": "До налогов",
+  "reportRevenueRetained": "Удержанная выручка",
+  "reportHideDetails": "Скрыть детали",
+  "reportShowDetails": "Показать детали",
+  "reportSalesRevenue": "Выручка от продаж",
+  "reportDiscountsGiven": "Предоставленные скидки",
+  "reportNetRevenue": "Чистая выручка",
+  "reportOperatingExpenses": "Операционные расходы",
+  "reportTotalExpenses": "Общие расходы",
+  "reportGrossProfit": "Валовая прибыль",
+  "reportGrossProfitChart": "Валовая прибыль",
+  "reportOperatingPlDisclaimer": "Налоги, амортизация и зарплатные обязательства ещё не учтены — операционная оценка P&L.",
+  "reportContraLabel": "Корреспондирующий",
+  "reportNoDataForPeriod": "Нет данных за выбранный период",
+  "reportRevenueVsExpenses": "Выручка vs расходы",
+  "reportExpenseBreakdown": "Разбивка расходов",
+  "reportExpenseFallback": "Расход",
+  "reportGrossMarginPercent": "Валовая маржа %",
+  "reportRoomVsFnB": "Номера vs F&B",
+  "reportSegmentRoom": "Номера",
+  "reportSegmentFnB": "F&B",
+  "reportKeyMetrics": "Ключевые показатели",
+  "reportIncomeStatement": "Отчёт о прибылях и убытках",
+  "reportChartsSection": "Графики",
+  "reportSegmentSummary": "Сводка по сегментам",
+  "reportFailedToLoad": "Не удалось загрузить отчёт",
+  "reportOverview": "Обзор",
+  "reportOverviewCash": "Наличные",
+  "reportOverviewBank": "Банк",
+  "reportMonthlyOpeningBalance": "Месячный начальный остаток",
+  "reportOpeningBalanceHint": "Остаток наличных на начало каждого месяца",
+  "reportCashInOut": "Поступление / расход наличных",
+  "reportCashIn": "Поступление наличных",
+  "reportCashOut": "Расход наличных",
+  "reportBankReceiptsPayments": "Банковские поступления / платежи",
+  "reportReceipts": "Поступления",
+  "reportPayments": "Платежи",
+  "reportDailyCashVsQr": "Ежедневная касса vs QR",
+  "reportSummariesSection": "Сводки",
+  "reportCashSummary": "Сводка по кассе",
+  "reportBankSummary": "Сводка по банку",
+  "reportDailySummary": "Ежедневная сводка",
+  "reportTabPurchase": "Закупки",
+  "reportTabSales": "Продажи",
+  "reportTabDashboard": "Панель",
+  "reportSingleDayTrend": "Один день — дневной тренд",
+  "reportFullYearTrend": "Весь год — месячные графики трендов",
+  "reportYearLabel": "Год {year}",
+  "@reportYearLabel": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportJanDec": "Янв – Дек {year}",
+  "@reportJanDec": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportTotalPurchases": "Всего закупок",
+  "reportTotalSales": "Общая выручка",
+  "reportTotalInvoices": "Всего счетов",
+  "reportUnpaidBalance": "Неоплаченный остаток",
+  "reportAvgPerInvoice": "Среднее на счёт",
+  "reportPerTransaction": "На транзакцию",
+  "reportMonthlySpend": "Месячные расходы ({symbol})",
+  "@reportMonthlySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportMonthlySalesChart": "Месячные продажи ({symbol})",
+  "@reportMonthlySalesChart": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportInvoiceCountByMonth": "Количество счетов по месяцам",
+  "reportTopItemsBySpend": "Топ позиций по расходам ({symbol})",
+  "@reportTopItemsBySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSpendByCategory": "Расходы по категориям",
+  "reportOtherCategory": "Прочее",
+  "reportSuppliers": "Поставщики",
+  "reportTableSupplier": "Поставщик",
+  "reportTableAmount": "Сумма",
+  "reportTableBills": "Счета",
+  "reportSalesTotal": "Итого продаж",
+  "reportPurchaseTotal": "Итого закупок",
+  "reportPositiveMargin": "Положительная маржа",
+  "reportNegativeMargin": "Отрицательная маржа",
+  "reportGrossMargin": "Валовая маржа",
+  "reportOfTotalSales": "От общей выручки",
+  "reportFailedToLoadAnalytics": "Не удалось загрузить аналитику",
+  "reportMarginKpi": "Маржа",
+  "reportExpensesKpi": "Расходы",
+  "partyPickerNoResultsFor": "Нет результатов для «{query}»",
+  "@partyPickerNoResultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerNoPartiesForRole": "Контрагенты {role} не найдены",
+  "@partyPickerNoPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerLoadParties": "Загрузить контрагентов",
+  "invoiceCashCustomer": "Наличный клиент",
+  "invoiceQuickAddItemsTitle": "Быстрое добавление",
+  "invoiceQuickLoadingMenu": "Загрузка меню…",
+  "invoiceQuickInvoiceCreated": "Счёт создан",
+  "invoiceQuickAddAtLeastOneItem": "Добавьте хотя бы одну позицию",
+  "invoiceQuickNoResults": "Ничего не найдено!",
+  "invoiceQuickNoItemsInCategory": "Нет позиций в этой категории",
+  "invoiceQuickAddItem": "Добавить позицию",
+  "invoiceQuickLoadMore": "Загрузить ещё",
+  "invoiceQuickScrollLoadMore": "Прокрутите для загрузки ({count} на страницу)",
+  "invoiceQuickSupplierEmployee": "Поставщик / Сотрудник",
+  "invoiceQuickEditItem": "Изменить позицию",
+  "closeSelectDateRange": "Выбрать диапазон дат",
+  "closeStartDate": "Дата начала",
+  "closeEndDate": "Дата окончания",
+  "closeSelectBothDates": "Выберите даты начала и окончания",
+  "closeDeleteSummary": "Удалить сводку",
+  "closeDeleteSummaryConfirm": "Удалить эту сводку?",
+  "closeSelectDate": "Выбрать дату",
+  "closeNoDataToExport": "Нет данных для экспорта",
+  "closeNoDataToShare": "Нет данных для отправки",
+  "closeNoDataToPrint": "Нет данных для печати",
+  "closePdfGenerateError": "Ошибка создания PDF: {error}",
+  "@closePdfGenerateError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfShareError": "Ошибка отправки PDF: {error}",
+  "@closePdfShareError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfPrintError": "Ошибка печати PDF: {error}",
+  "@closePdfPrintError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExportPdf": "Экспорт в PDF",
+  "closeSharePdf": "Поделиться PDF",
+  "closePrint": "Печать",
+  "closeExportOptions": "Параметры экспорта",
+  "closeExportPdfSubtitle": "Сохранить или просмотреть как PDF",
+  "closeSharePdfSubtitle": "Отправить через приложения или e-mail",
+  "closePrintSubtitle": "Печать отчёта",
+  "invoiceQuickShowingItems": "Показано {shown} из {total}",
+  "invoiceQuickLoadedItems": "Загружено: {count}",
+  "invoiceQuickRoomCabinEmployee": "Номер / Каюта / Сотрудник",
+  "reportPercentOfRevenue": "{percent}% выручки",
+  "@reportPercentOfRevenue": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "reportParties": "Контрагенты",
+  "reportMonthYearDailyTrend": "{month} {year} — дневные графики трендов",
+  "@reportMonthYearDailyTrend": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceQuickCart": "Корзина",
+  "invoiceQuickCartWithCount": "Корзина ({count})",
+  "invoiceQuickClearSearch": "Очистить поиск",
+  "closeAllRecords": "Все записи",
+  "closeDailyCashSummaryReport": "Ежедневный отчёт по кассе",
+  "closeDailyCashSummaryTitle": "Ежедневная сводка по кассе",
+  "closeDetails": "Подробности",
+  "closeGeneratedAt": "Создано: {date}",
+  "@closeGeneratedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "closePageN": "Страница {n}",
+  "@closePageN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "closePeriodRange": "Период: с {start} по {end}",
+  "@closePeriodRange": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummaryOverview": "Обзор сводки",
+  "closeTotalRecords": "Всего записей",
+  "closeAddSummary": "Добавить сводку",
+  "closeSalesAmount": "Сумма продаж",
+  "closeClosingBalance": "Конечный баланс",
+  "closeLostMoney": "Потерянные деньги",
+  "closeDiscount": "Скидка",
+  "closeExpenses": "Расходы",
+  "closeUnpaid": "Не оплачено",
+  "closeTotalOpeningBalance": "Общий начальный баланс",
+  "closeTotalSalesAmount": "Общая сумма продаж",
+  "closeTotalCashAmount": "Общая сумма наличных",
+  "closeTotalQrAmount": "Общая сумма QR",
+  "closeTotalDiscount": "Общая скидка",
+  "closeTotalExpenses": "Общие расходы",
+  "closeTotalClosingBalance": "Общий конечный баланс",
+  "closeTotalLostMoney": "Общие потерянные деньги",
+  "closeTotalExtraAmount": "Общая дополнительная сумма",
+  "closeShowingCurrentMonth": "Данные текущего месяца",
+  "closeNoSummariesFound": "Сводки не найдены",
+  "closeNoSummariesAvailable": "Нет доступных сводок",
+  "closeTryAdjustingDateRange": "Попробуйте изменить диапазон дат",
+  "closeCreateFirstSummary": "Создайте первую сводку для начала",
+  "closeClearFilter": "Сбросить фильтр",
+  "closeFiltered": "Отфильтровано",
+  "closeFilteredWithRange": "Отфильтровано: {range}",
+  "@closeFilteredWithRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummarySingular": "Сводка",
+  "closeSummariesPlural": "Сводки",
+  "closeSummaryUpdatedSuccess": "Сводка успешно обновлена",
+  "closeSummaryDeletedSuccess": "Сводка успешно удалена",
+  "premiumUnlockTitle": "Разблокировать {appName} Premium",
+  "@premiumUnlockTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumTagline": "Полноценная офлайн-касса, счета, склад и отчёты — одна подписка для вашего бизнеса.",
+  "premiumFeatureUnlimitedInvoices": "Неограниченные счета и чеки",
+  "premiumFeatureInventoryStock": "Склад и учёт запасов",
+  "premiumFeatureReportsAnalytics": "Отчёты о продажах и аналитика",
+  "premiumFeatureOfflineLocal": "Работает офлайн — данные остаются на устройстве",
+  "premiumContinueWith": "Продолжить с {plan}",
+  "@premiumContinueWith": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRestorePurchases": "Восстановить покупки",
+  "premiumSubscriptionLegal": "Оплата списывается с Apple ID. Подписки продлеваются автоматически, если не отменить минимум за 24 часа до конца периода.",
+  "premiumPurchaseRestored": "Покупка восстановлена.",
+  "premiumNoActiveSubscription": "Активная подписка не найдена.",
+  "premiumPlanMonthly": "Ежемесячно",
+  "premiumPlanMonthlySubtitle": "Гибко — отмена в любой момент",
+  "premiumPlanYearly": "Ежегодно",
+  "premiumPlanYearlySubtitle": "Лучшая цена — экономия {percent}%",
+  "@premiumPlanYearlySubtitle": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "premiumPlanLifetime": "Навсегда",
+  "premiumPlanLifetimeSubtitle": "Оплатите один раз — пользуйтесь всегда",
+  "premiumPlanPopular": "Популярный",
+  "premiumOneTimePurchase": "Разовая покупка",
+  "subscriptionSectionTitle": "Подписка",
+  "subscriptionPremiumLabel": "Premium",
+  "subscriptionUpgradeTitle": "Перейти на Premium",
+  "subscriptionPremiumPricing": "Ежемесячно {monthly} · Ежегодно {yearly}",
+  "@subscriptionPremiumPricing": {
+    "placeholders": {
+      "monthly": {
+        "type": "String"
+      },
+      "yearly": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActiveUntil": "{plan} активен до {date}",
+  "@subscriptionPremiumActiveUntil": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActive": "{plan} активен",
+  "@subscriptionPremiumActive": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRequired": "Требуется Premium",
+  "upgradeToPremiumContinue": "Перейдите на Premium, чтобы продолжить.",
+  "freemiumFreePlanLimit": "Бесплатный план позволяет до {limit} {label}. Перейдите на Premium для неограниченного доступа.",
+  "@freemiumFreePlanLimit": {
+    "placeholders": {
+      "limit": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "freemiumPartyRoleRequired": "Требуется роль контрагента.",
+  "shiftReminderOpeningTitle": "Напоминание об открытии",
+  "shiftReminderOpeningMessage": "Вы открыли кассу на сегодня?",
+  "shiftReminderOpeningProceed": "Да, открыть сейчас",
+  "shiftReminderClosingTitle": "Напоминание о закрытии",
+  "shiftReminderClosingMessage": "Вы закрыли кассу на сегодня?",
+  "shiftReminderClosingProceed": "Да, закрыть сейчас",
+  "shiftReminderSkipToday": "Пропустить сегодня",
+  "shiftReminderOpeningNotificationTitle": "Напоминание об открытии",
+  "shiftReminderOpeningNotificationBody": "Вы открыли кассу на сегодня? Нажмите здесь, если ещё нужно открыть.",
+  "shiftReminderClosingNotificationTitle": "Напоминание о закрытии",
+  "shiftReminderClosingNotificationBody": "Вы закрыли кассу на сегодня? Нажмите здесь, если ещё нужно закрыть.",
+  "closeExchangePayQrGetCashHint": "{business} платит клиенту QR; клиент даёт наличные.",
+  "@closeExchangePayQrGetCashHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExchangePayCashGetQrHint": "{business} платит клиенту наличными; клиент платит QR.",
+  "@closeExchangePayCashGetQrHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closePaymentExchange": "Обмен платежами",
+  "closePayQrGetCashExchangeLabel": "Оплатить QR → Получить наличные (обмен)",
+  "closePayCashGetQrExchangeLabel": "Оплатить наличными → Получить QR (обмен)",
+  "closePayQrGetCashDetail": "Оплатить QR, получить наличные",
+  "closePayCashGetQrDetail": "Оплатить наличными, получить QR",
+  "faqSectionPremium": "Premium и оплата",
+  "faqPremiumWhatsIncludedQuestion": "Что входит в Premium?",
+  "faqPremiumWhatsIncludedAnswer": "Premium открывает неограниченные счета, полные отчёты (P&L, выписка, аналитика), резервное копирование и синхронизацию, зарплату, посещаемость, склад, экспорт/печать счетов и дополнительные организации. Бесплатный уровень позволяет использовать основные POS-функции в разумных пределах.",
+  "faqPremiumFreeTierQuestion": "Что входит в бесплатный уровень?",
+  "faqPremiumFreeTierAnswer": "Можно создать до 10 счетов продажи и 10 покупки, 4 сотрудников, 30 товаров и другие лимиты при достижении. Открытие, закрытие, калькулятор и просмотр данных остаются бесплатными.",
+  "faqPremiumRestoreQuestion": "Как восстановить покупку?",
+  "faqPremiumRestoreAnswer": "Откройте Ещё → Перейти на Premium (или экран оплаты) и нажмите Восстановить покупки. Используйте тот же Apple ID, что при подписке.",
+  "faqPremiumCancelQuestion": "Как отменить подписку?",
+  "faqPremiumCancelAnswer": "Управляйте или отмените в Настройки iPhone → Apple ID → Подписки. Доступ сохраняется до конца оплаченного периода.",
+  "faqDarkModeQuestion": "Как включить тёмную тему?",
+  "faqDarkModeAnswer": "Откройте Ещё → Внешний вид и включите Тёмную тему. При системной теме приложение следует автоматически.",
+  "faqOpeningClosingReminderQuestion": "Что такое напоминания об открытии и закрытии?",
+  "faqOpeningClosingReminderAnswer": "{appName} может напоминать об открытии или закрытии ежедневной кассы. Можно продолжить, пропустить сегодня или закрыть напоминание.",
+  "faqPartyRolesQuestion": "Что такое роли контрагентов?",
+  "faqPartyRolesAnswer": "Роли контрагентов классифицируют контакты: клиенты, поставщики, номера, сотрудники. Настройте в Операции → Роли контрагентов и добавьте краткое описание для команды.",
+  "faqRateAppQuestion": "Как оценить {appName}?",
+  "faqRateAppAnswer": "Откройте Ещё → Оцените нас, чтобы оставить отзыв в App Store. Ваш отзыв помогает улучшать офлайн-счета для вашего бизнеса.",
+  "freemiumLabelSalesInvoices": "счета продажи",
+  "freemiumLabelPurchaseInvoices": "счета покупки",
+  "freemiumLabelEmployees": "сотрудники",
+  "freemiumLabelItems": "товары",
+  "freemiumLabelCategories": "категории",
+  "freemiumLabelPaymentMethods": "способы оплаты",
+  "freemiumLabelCustomPartyRoles": "пользовательские роли контрагентов",
+  "freemiumLabelPartiesForRole": "контрагенты для {role}",
+  "freemiumLabelOrganizations": "организации",
+  "freemiumPremiumReports": "Отчёты доступны с Premium.",
+  "freemiumPremiumBackupSync": "Резервное копирование и синхронизация требуют Premium.",
+  "freemiumPremiumPayroll": "Зарплата требует Premium.",
+  "freemiumPremiumAttendance": "Посещаемость требует Premium.",
+  "freemiumPremiumStock": "Управление складом требует Premium.",
+  "freemiumPremiumInvoiceExport": "Скачивание и печать требуют Premium.",
+  "@faqOpeningClosingReminderAnswer": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@faqRateAppQuestion": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@freemiumLabelPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  }
+}

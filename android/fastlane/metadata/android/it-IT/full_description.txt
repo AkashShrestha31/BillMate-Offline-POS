@@ -1,0 +1,45 @@
+Billmate è un POS offline, un registratore di cassa e la fatturazione per ristoranti, pensato per negozi, caffè, bar e piccole attività.
+
+FATTURAZIONE
+
+Crea fatture di vendita e acquisto con righe, sconti e clienti — un fatturatore completo in tasca. Registra le spese per categoria, segui i saldi aperti di ogni cliente e fornitore e salda in tutto, in parte o in blocco. Esporta qualsiasi fattura o scontrino in PDF. Senza internet.
+
+POS PER NEGOZI E DETTAGLIO
+
+Cassa veloce per negozi e piccole attività. Accetta contanti, QR e carta e stampa gli scontrini su qualsiasi stampante termica ESC/POS. Il telefono diventa la cassa.
+
+POS RISTORANTE E BAR CON GESTIONE TAVOLI
+
+Un POS completo per ristoranti con mappa visiva dei tavoli. Prendi gli ordini al tavolo o da asporto, inviali in cucina (KOT) e segui ogni piatto dall’ordine alla consegna. Include un catalogo di liquori per i bar.
+
+MAGAZZINO E SCORTE
+
+Segui le scorte del negozio, del magazzino o del ristorante. Confronta i conteggi fisici con i registri, correggi gli scostamenti subito, carica le scorte in blocco da CSV o Excel ed esporta i report in PDF.
+
+PERSONALE, PAGHE E PRESENZE
+
+Tieni le schede del personale, registra la presenza giornaliera e genera le paghe in automatico da giorni lavorati e stipendio, con trattenuta degli anticipi. Esporta le buste paga in PDF e gestisci le ferie.
+
+REPORT, CONTABILITÀ E ANALISI
+
+Conto economico, estratti di clienti e fornitori, riepiloghi dei pagamenti e grafici vendite contro spese per giorno, settimana, mese o intervallo scelto. Un riepilogo di cassa giornaliero mostra la chiusura.
+
+OFFLINE PRIMA — SEMPRE ATTIVO
+
+Vendite, spese, magazzino, personale e cassa girano sul dispositivo e restano dopo il riavvio. Senza connessione, senza interruzione.
+
+ACCESSO PER RUOLO E SICUREZZA
+
+Imposta i permessi per ruolo, dal cassiere al responsabile, con controllo fine su fatture, resi e modifiche. I dati dell’attività restano sul dispositivo.
+
+PIÙ VALUTE, PIÙ DISPOSITIVI
+
+Fatturazione in più valute. Funziona su telefoni e tablet.
+
+PRONTO DAL PRIMO GIORNO
+
+39 categorie di attività già caricate — cibo, bevande, alloggio, forniture e altro. Nessuna configurazione. Apri l’app e inizia a vendere.
+
+Dal negozio all’angolo al rifugio in montagna, dal caffè di città al bar pieno — Billmate è il POS e la fatturazione che continua a funzionare, anche offline.
+
+Informativa sulla privacy: https://billmate-woad.vercel.app/

@@ -1,0 +1,83 @@
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+part of 'payroll_model.dart';
+
+// **************************************************************************
+// JsonSerializableGenerator
+// **************************************************************************
+
+_$PayrollModelImpl _$$PayrollModelImplFromJson(Map<String, dynamic> json) =>
+    _$PayrollModelImpl(
+      id: (json['id'] as num).toInt(),
+      employeeId: (json['employee_id'] as num).toInt(),
+      employeeName: json['employee_name'] as String,
+      employeeCode: json['employee_code'] as String,
+      payrollMonth: json['payroll_month'] as String,
+      payPeriodStart: json['pay_period_start'] as String,
+      payPeriodEnd: json['pay_period_end'] as String,
+      totalWorkingDays: (json['total_working_days'] as num).toInt(),
+      daysPresent: (json['days_present'] as num).toInt(),
+      daysAbsent: (json['days_absent'] as num).toInt(),
+      sickDays: (json['sick_days'] as num).toInt(),
+      vacationDays: (json['vacation_days'] as num).toInt(),
+      totalHoursWorked: (json['total_hours_worked'] as num).toDouble(),
+      regularHours: (json['regular_hours'] as num).toDouble(),
+      overtimeHours: (json['overtime_hours'] as num).toDouble(),
+      basicSalary: (json['basic_salary'] as num).toDouble(),
+      overtimePay: (json['overtime_pay'] as num).toDouble(),
+      allowances: (json['allowances'] as num).toDouble(),
+      bonus: (json['bonus'] as num).toDouble(),
+      grossPay: (json['gross_pay'] as num).toDouble(),
+      taxDeduction: (json['tax_deduction'] as num).toDouble(),
+      insuranceDeduction: (json['insurance_deduction'] as num).toDouble(),
+      providentFund: (json['provident_fund'] as num).toDouble(),
+      otherDeductions: (json['other_deductions'] as num).toDouble(),
+      totalDeductions: (json['total_deductions'] as num).toDouble(),
+      netPay: (json['net_pay'] as num).toDouble(),
+      paymentDate: json['payment_date'] as String?,
+      paymentMethod: json['payment_method'] as String?,
+      paymentStatus: json['payment_status'] as String,
+      bankReference: json['bank_reference'] as String?,
+      notes: json['notes'] as String?,
+      isApproved: json['is_approved'] as bool,
+      created: json['created'] as String?,
+      modified: json['modified'] as String?,
+    );
+
+Map<String, dynamic> _$$PayrollModelImplToJson(_$PayrollModelImpl instance) =>
+    <String, dynamic>{
+      'id': instance.id,
+      'employee_id': instance.employeeId,
+      'employee_name': instance.employeeName,
+      'employee_code': instance.employeeCode,
+      'payroll_month': instance.payrollMonth,
+      'pay_period_start': instance.payPeriodStart,
+      'pay_period_end': instance.payPeriodEnd,
+      'total_working_days': instance.totalWorkingDays,
+      'days_present': instance.daysPresent,
+      'days_absent': instance.daysAbsent,
+      'sick_days': instance.sickDays,
+      'vacation_days': instance.vacationDays,
+      'total_hours_worked': instance.totalHoursWorked,
+      'regular_hours': instance.regularHours,
+      'overtime_hours': instance.overtimeHours,
+      'basic_salary': instance.basicSalary,
+      'overtime_pay': instance.overtimePay,
+      'allowances': instance.allowances,
+      'bonus': instance.bonus,
+      'gross_pay': instance.grossPay,
+      'tax_deduction': instance.taxDeduction,
+      'insurance_deduction': instance.insuranceDeduction,
+      'provident_fund': instance.providentFund,
+      'other_deductions': instance.otherDeductions,
+      'total_deductions': instance.totalDeductions,
+      'net_pay': instance.netPay,
+      'payment_date': instance.paymentDate,
+      'payment_method': instance.paymentMethod,
+      'payment_status': instance.paymentStatus,
+      'bank_reference': instance.bankReference,
+      'notes': instance.notes,
+      'is_approved': instance.isApproved,
+      'created': instance.created,
+      'modified': instance.modified,
+    };

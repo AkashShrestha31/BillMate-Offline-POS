@@ -1,0 +1,45 @@
+Billmate é um PDV offline, caixa de loja e faturamento para restaurantes, feito para o varejo, cafés, bares e pequenos negócios.
+
+FATURAMENTO
+
+Crie faturas de venda e compra com itens, descontos e acompanhamento de clientes — um emissor completo no bolso. Lance despesas por categoria, acompanhe os saldos em aberto de cada cliente e fornecedor e quite o pagamento total, parcial ou em lote. Exporte qualquer fatura ou recibo em PDF. Sem internet.
+
+PDV PARA LOJAS E VAREJO
+
+Checkout rápido para lojas e pequenos negócios. Aceite dinheiro, QR e cartão e imprima recibos em qualquer impressora térmica ESC/POS. Seu telefone vira o caixa.
+
+PDV DE RESTAURANTE E BAR COM MESAS
+
+Um PDV completo de restaurante com mapa visual das mesas. Anote pedidos na mesa ou para viagem, envie à cozinha (KOT) e acompanhe cada prato do pedido à entrega. Inclui um catálogo de bebidas para bares.
+
+ESTOQUE
+
+Acompanhe o estoque da loja, do depósito ou do restaurante. Confira a contagem física com os registros, corrija diferenças na hora, envie estoque em lote por CSV ou Excel e exporte relatórios em PDF.
+
+EQUIPE, FOLHA E PRESENÇA
+
+Guarde fichas da equipe, registre a presença diária e gere a folha automaticamente pelos dias trabalhados e pelo salário, com desconto de adiantamentos. Exporte holerites em PDF e gerencie férias e folgas.
+
+RELATÓRIOS, CONTABILIDADE E ANÁLISES
+
+Demonstração de resultado, extratos de clientes e fornecedores, resumos de pagamentos e gráficos de vendas contra despesas por dia, semana, mês ou período próprio. Um resumo diário de caixa mostra o fechamento do dia.
+
+OFFLINE PRIMEIRO — SEMPRE LIGADO
+
+Vendas, despesas, estoque, equipe e caixa rodam no seu aparelho e permanecem após reiniciar. Sem conexão, sem interrupção.
+
+ACESSO POR FUNÇÃO E SEGURANÇA
+
+Defina permissões por função, do caixa ao gerente, com controle fino de faturas, devoluções e edições. Os dados do negócio ficam no aparelho.
+
+VÁRIAS MOEDAS, VÁRIOS APARELHOS
+
+Faturamento em várias moedas. Funciona em telefones e tablets.
+
+PRONTO NO PRIMEIRO DIA
+
+39 categorias de negócio já carregadas — comida, bebidas, hospedagem, insumos e mais. Sem configuração. Abra o app e comece a vender.
+
+Da loja da esquina ao refúgio na montanha, do café da cidade ao bar cheio — Billmate é o PDV e o faturamento que continua funcionando, mesmo offline.
+
+Política de privacidade: https://billmate-woad.vercel.app/

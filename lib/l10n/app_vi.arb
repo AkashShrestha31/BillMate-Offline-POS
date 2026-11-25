@@ -1,0 +1,2653 @@
+{
+  "@@locale": "vi",
+  "noInternetConnection": "Không có kết nối Internet.",
+  "formatException": "Ngoại lệ định dạng",
+  "rememberMe": "Ghi nhớ tôi",
+  "signIn": "Đăng nhập",
+  "passwordHint": "Nhập mật khẩu",
+  "forgetPassword": "Quên thông tin đăng nhập?",
+  "okay": "OK",
+  "success": "Thành công",
+  "hotel": "khách sạn",
+  "errorEncountered": "Đã xảy ra lỗi",
+  "serverError": "Lỗi máy chủ",
+  "requestFailed": "Yêu cầu thất bại",
+  "connectionTimedOut": "Kết nối hết thời gian",
+  "password": "Mật khẩu",
+  "keepSignIn": "Duy trì đăng nhập",
+  "enterPassword": "Nhập mật khẩu",
+  "enterValidPassword": "Nhập mật khẩu hợp lệ",
+  "skip": "BỎ QUA",
+  "pleaseWait": "Vui lòng chờ ....",
+  "enterValidUserName": "Nhập tên người dùng hợp lệ.",
+  "userName": "Tên người dùng",
+  "or": "Hoặc",
+  "retry": "Thử lại",
+  "error": "Lỗi",
+  "supportMessage": "Vui lòng liên hệ quản trị viên.",
+  "responseMessage404": "Lỗi 404",
+  "appDisplayName": "BizTrack",
+  "appVersionLabel": "Phiên bản {version}",
+  "@appVersionLabel": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "cancel": "Hủy",
+  "yes": "Có",
+  "no": "Không",
+  "close": "Đóng",
+  "save": "Lưu",
+  "delete": "Xóa",
+  "confirm": "Xác nhận",
+  "done": "Xong",
+  "next": "Tiếp theo",
+  "getStarted": "Bắt đầu",
+  "back": "Quay lại",
+  "submit": "Gửi",
+  "continueAction": "Tiếp tục",
+  "tryAgain": "Thử lại",
+  "warning": "CẢNH BÁO",
+  "loading": "Đang tải…",
+  "comingSoon": "Sắp ra mắt",
+  "required": "Bắt buộc",
+  "search": "Tìm kiếm",
+  "add": "Thêm",
+  "edit": "Chỉnh sửa",
+  "remove": "Xóa",
+  "view": "Xem",
+  "export": "Xuất",
+  "import": "Nhập",
+  "refresh": "Làm mới",
+  "select": "Chọn",
+  "upload": "Tải lên",
+  "download": "Tải xuống",
+  "share": "Chia sẻ",
+  "filter": "Lọc",
+  "sort": "Sắp xếp",
+  "apply": "Áp dụng",
+  "reset": "Đặt lại",
+  "clear": "Xóa",
+  "all": "Tất cả",
+  "none": "Không có",
+  "total": "Tổng",
+  "subtotal": "Tổng phụ",
+  "grandTotal": "Tổng Cộng",
+  "amount": "Số tiền",
+  "quantity": "Số lượng",
+  "rate": "Đơn giá",
+  "discount": "Chiết khấu",
+  "paid": "Đã thanh toán",
+  "unpaid": "Chưa thanh toán",
+  "credit": "Tín dụng",
+  "cash": "Tiền mặt",
+  "date": "Ngày",
+  "time": "Giờ",
+  "name": "Tên",
+  "email": "E-mail",
+  "phone": "Điện thoại",
+  "address": "Địa chỉ",
+  "notes": "Ghi chú",
+  "description": "Mô tả",
+  "status": "Trạng thái",
+  "type": "Loại",
+  "category": "Danh mục",
+  "party": "Đối tác",
+  "item": "Mặt hàng",
+  "payment": "Thanh toán",
+  "settlement": "Quyết toán",
+  "opening": "Đầu kỳ",
+  "closing": "Cuối kỳ",
+  "stock": "Stock reconciliation",
+  "expense": "Chi phí",
+  "revenue": "Doanh thu",
+  "profit": "Lợi nhuận",
+  "loss": "Lỗ",
+  "sales": "Bán hàng",
+  "purchase": "Mua hàng",
+  "monthJan": "Th1",
+  "monthFeb": "Th2",
+  "monthMar": "Th3",
+  "monthApr": "Th4",
+  "monthMay": "Th5",
+  "monthJun": "Th6",
+  "monthJul": "Th7",
+  "monthAug": "Th8",
+  "monthSep": "Th9",
+  "monthOct": "Th10",
+  "monthNov": "Th11",
+  "monthDec": "Th12",
+  "more": "Thêm",
+  "profile": "Hồ sơ",
+  "operations": "Vận hành",
+  "employeeManagement": "Quản lý nhân viên",
+  "report": "Báo cáo",
+  "helpAndSupport": "Trợ giúp và hỗ trợ",
+  "privacyAndPolicies": "Quyền riêng tư và chính sách",
+  "faq": "Câu hỏi thường gặp",
+  "contactSupport": "Liên hệ hỗ trợ",
+  "rateUs": "Đánh giá chúng tôi",
+  "rateUsSubtitle": "Bạn thích BizTrack không? Để lại đánh giá trên Google Play",
+  "rateUsUnavailable": "Không thể mở cửa hàng. Vui lòng thử lại sau.",
+  "reportProblem": "Báo lỗi",
+  "logout": "Đăng xuất",
+  "signOut": "Đăng xuất",
+  "settings": "Cài đặt",
+  "testData": "Dữ liệu thử nghiệm",
+  "regionAndCurrency": "Khu vực và tiền tệ",
+  "reportingCurrency": "Tiền tệ báo cáo",
+  "selectCurrency": "Chọn tiền tệ",
+  "currencySample": "{code} · {symbol} · ví dụ {sample}",
+  "@currencySample": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      },
+      "sample": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdated": "Tiền tệ được đặt thành {code} ({symbol})",
+  "@currencyUpdated": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      },
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "currencyUpdateFailed": "Không thể cập nhật tiền tệ: {error}",
+  "@currencyUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "setupAppTitle": "Thiết lập {appName}",
+  "@setupAppTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "setupSubtitle": "Cấu hình tổ chức và kế toán của bạn — được lưu trên thiết bị này để sử dụng ngoại tuyến.",
+  "regionAndCurrencySubtitle": "Cài đặt vùng và tiền tệ báo cáo.",
+  "country": "Quốc gia",
+  "currency": "Tiền tệ",
+  "selectCountry": "Chọn quốc gia",
+  "language": "Ngôn ngữ",
+  "selectLanguage": "Chọn ngôn ngữ",
+  "languageUpdated": "Ngôn ngữ được đặt thành {name}",
+  "@languageUpdated": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "languageUpdateFailed": "Không thể cập nhật ngôn ngữ: {error}",
+  "@languageUpdateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToApp": "Chào mừng đến với {appName}",
+  "@welcomeToApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "forceUpdateMessage": "Vui lòng cài đặt phiên bản mới nhất của {appName} để tiếp tục.",
+  "@forceUpdateMessage": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "generatedByApp": "Được tạo bởi {appName}",
+  "@generatedByApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "whatIsApp": "{appName} là gì?",
+  "@whatIsApp": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "appDescriptionFaq": "{appName} giúp bạn quản lý hóa đơn bán hàng và mua hàng, đối tác (khách hàng và nhà cung cấp), tồn kho, thanh toán, nhân viên và tóm tắt hàng ngày — từ điện thoại hoặc máy tính bảng của bạn.",
+  "@appDescriptionFaq": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "faqIntro": "Câu trả lời cho các câu hỏi thường gặp về {appName}.",
+  "@faqIntro": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseFromGallery": "Chọn từ Thư viện",
+  "takePhoto": "Chụp ảnh",
+  "photoLibrary": "Thư viện ảnh",
+  "addPhoto": "Thêm ảnh",
+  "couldNotPickImage": "Không thể chọn ảnh: {error}",
+  "@couldNotPickImage": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteOrganizationTitle": "Xóa tổ chức?",
+  "deleteOrganizationMessage": "Xóa {name} khỏi thiết bị này. Tất cả dữ liệu cục bộ của tổ chức này sẽ bị xóa.",
+  "deleteOrganizationWarning": "Thao tác này không thể hoàn tác.",
+  "organizationDeleted": "Đã xóa tổ chức",
+  "createAction": "Tạo",
+  "connectOrganizationTitle": "Kết nối tổ chức của bạn",
+  "connectOrganizationSubtitle": "Chọn một tổ chức để đăng nhập.",
+  "selectOrganization": "Tổ chức",
+  "selectOrganizationHint": "Nhấn vào tổ chức để tiếp tục",
+  "noSavedOrganizationsYet": "Chưa có tổ chức nào. Tạo một tổ chức hoặc sử dụng dữ liệu thử nghiệm bên dưới.",
+  "orgConnectOnceInfo": "Điều này liên kết ứng dụng với tài khoản doanh nghiệp của bạn. Bạn chỉ cần thiết lập một lần trên mỗi thiết bị.",
+  "organizationCodeLabel": "Mã: {code}",
+  "loginWithTestData": "Đăng nhập với dữ liệu thử nghiệm",
+  "loginWithTestDataSubtitle": "Tải dữ liệu khách sạn demo và đăng nhập tự động",
+  "testDataLoginFailed": "Không thể tải dữ liệu thử nghiệm: {error}",
+  "preparingTestData": "Đang chuẩn bị dữ liệu demo…",
+  "setupOrganizationName": "Tên tổ chức",
+  "setupCompanyName": "Tên công ty",
+  "setupBusinessType": "Loại hình kinh doanh",
+  "businessTypeHotel": "Khách sạn",
+  "businessTypeRestaurant": "Nhà hàng",
+  "businessTypeHotelRestaurant": "Khách sạn & Nhà hàng",
+  "businessTypeRetail": "Bán lẻ / Cửa hàng",
+  "businessTypeCafe": "Café / Tiệm bánh",
+  "businessTypeBar": "Quán bar / quán rượu",
+  "businessTypeOther": "Khác",
+  "organizationBusinessTypeLabel": "Loại: {type}",
+  "@organizationBusinessTypeLabel": {
+    "placeholders": {
+      "type": {
+        "type": "String"
+      }
+    }
+  },
+  "organizationSettings": "Tổ chức",
+  "editOrganizationInfo": "Thông tin tổ chức",
+  "editOrganizationInfoSubtitle": "Cập nhật cách doanh nghiệp này hiển thị trong ứng dụng. Mã tổ chức không thể thay đổi.",
+  "organizationCode": "Mã tổ chức",
+  "organizationCodeReadOnly": "Mã này được cố định sau khi thiết lập.",
+  "organizationInfoUpdated": "Thông tin tổ chức đã được lưu",
+  "organizationInfoLoadFailed": "Không thể tải thông tin tổ chức",
+  "organizationInfoSaveFailed": "Không thể lưu thông tin tổ chức: {error}",
+  "@organizationInfoSaveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "saveChanges": "Lưu thay đổi",
+  "setupFullName": "Họ và tên",
+  "setupConfirmPassword": "Xác nhận mật khẩu",
+  "setupBankName": "Tên ngân hàng",
+  "setupRegionStepTitle": "Khu vực và tiền tệ",
+  "setupOrganizationStepTitle": "Tổ chức",
+  "setupOrganizationStepSubtitle": "Cách doanh nghiệp của bạn hiển thị trong ứng dụng",
+  "setupAdminStepTitle": "Tài khoản quản trị",
+  "setupAdminStepSubtitle": "Người dùng chính cho lần cài đặt này",
+  "setupAccountingStepTitle": "Kế toán",
+  "setupAccountingStepSubtitle": "Ngân hàng, danh mục tài khoản và năm tài chính",
+  "setupCompleteSetup": "Hoàn tất cài đặt",
+  "fieldRequired": "{field} là bắt buộc",
+  "invalidEmailAddress": "Nhập địa chỉ email hợp lệ",
+  "passwordMinLength": "Mật khẩu phải có ít nhất {min} ký tự",
+  "passwordsDoNotMatch": "Mật khẩu không khớp",
+  "setupFixValidationErrors": "Vui lòng sửa các lỗi bên dưới để tiếp tục",
+  "setupCompleteSuccess": "Cài đặt hoàn tất thành công",
+  "setupCompleteWithPdfSuccess": "Cài đặt hoàn tất. Lưu PDF ở nơi an toàn.",
+  "setupPdfFailed": "Cài đặt hoàn tất, nhưng không thể lưu PDF: {error}",
+  "setupFailed": "Không thể hoàn tất cài đặt. Vui lòng thử lại.",
+  "setupFailedWithDetails": "Cài đặt thất bại: {error}",
+  "languageChangeLaterHint": "Bạn có thể thay đổi sau trong cài đặt",
+  "unpaidAmount": "Chưa thanh toán Số tiền",
+  "unpaidBalance": "Chưa thanh toán",
+  "unpaidColonAmount": "Chưa thanh toán: {amount}",
+  "previousUnpaid": "Chưa thanh toán",
+  "partyUnpaid": "Chưa thanh toán",
+  "loadingUnpaid": "Chưa thanh toán…",
+  "totalUnpaid": "Chưa thanh toán",
+  "unpaidAmountNotYetCollected": "Số tiền chưa thanh toán chưa được thu.",
+  "partyUnpaidTabHint": "Mở Nhân viên, chọn một người, sau đó nhấn Đối tác chưa thanh toán trên hồ sơ của họ. Máy chủ cần ID nhân viên để tìm kiếm này.",
+  "partySettlementUsesUnpaidTotal": "Thanh toán đối tác sử dụng tổng số chưa thanh toán.",
+  "selectPartyWithUnpaidFirst": "Nhập số tiền thanh toán trước (hoặc chọn đối tác có số tiền chưa thanh toán).",
+  "@unpaidColonAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "partyRolesTitle": "Vai trò đối tác",
+  "partyRolesMoreSubtitle": "Khách hàng, nhà cung cấp, cả hai & thêm",
+  "searchRoles": "Tìm kiếm vai trò",
+  "roleCount": "{count, plural, =1{1 vai trò} other{{count} vai trò}}",
+  "@roleCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noRolesYet": "Chưa có vai trò",
+  "noRolesYetHint": "Thêm Khách hàng, Nhà cung cấp, Cả hai hoặc vai trò tùy chỉnh cho liên hệ.",
+  "addRole": "Thêm vai trò",
+  "deleteRoleTitle": "Xóa vai trò",
+  "deleteRoleConfirm": "Xóa \"{name}\"? Không thể hoàn tác.",
+  "@deleteRoleConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "deleteRoleHasPartiesMessage": "\"{name}\" đang được sử dụng bởi {partyCount, plural, =1{1 đối tác} other{{partyCount} đối tác}}. Chuyển các đối tác đó sang vai trò khác, hoặc xóa cứng và mất họ.",
+  "@deleteRoleHasPartiesMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "transferParties": "Chuyển đối tác",
+  "hardDeleteLoseParties": "Xóa cứng (mất đối tác)",
+  "hardDeleteRoleTitle": "Xóa cứng?",
+  "hardDeleteRoleMessage": "Điều này sẽ xóa vĩnh viễn \"{name}\" và tất cả {partyCount, plural, =1{1 đối tác} other{{partyCount} đối tác}} được gán cho nó. Dữ liệu đối tác không thể phục hồi.\n\nCác đối tác được liên kết với hóa đơn hoặc thanh toán có thể không xóa được — hãy dùng Chuyển thay thế.",
+  "@hardDeleteRoleMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      },
+      "partyCount": {
+        "type": "int"
+      }
+    }
+  },
+  "deleteRoleAndParties": "Xóa vai trò và đối tác",
+  "addAnotherRoleBeforeDelete": "Thêm vai trò khác trước khi xóa cái này.",
+  "transferPartiesMoveMessage": "Di chuyển {partyCount, plural, =1{1 đối tác} other{{partyCount} đối tác}} từ \"{fromRole}\" đến:",
+  "@transferPartiesMoveMessage": {
+    "placeholders": {
+      "partyCount": {
+        "type": "int"
+      },
+      "fromRole": {
+        "type": "String"
+      }
+    }
+  },
+  "transferAndDeleteRole": "Chuyển và xóa vai trò",
+  "builtInRole": "Tích hợp sẵn",
+  "rolePartyCount": "{count, plural, =1{1 đối tác} other{{count} đối tác}}",
+  "@rolePartyCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "noPartiesYet": "Chưa có đối tác",
+  "newRole": "Vai trò mới",
+  "editRole": "Chỉnh sửa vai trò",
+  "defaultRolesCannotEdit": "Vai trò mặc định không thể đổi tên hoặc xóa.",
+  "roleNameLabel": "Tên vai trò *",
+  "roleNameHint": "vd. Khách hàng",
+  "roleDescriptionLabel": "Mô tả",
+  "roleDescriptionHint": "Ghi chú ngắn cho nhóm của bạn",
+  "roleSortOrderLabel": "Thứ tự sắp xếp",
+  "roleSortOrderHint": "Giá trị thấp hơn hiển thị trước trong danh sách",
+  "roleCreated": "Đã tạo vai trò",
+  "roleUpdated": "Đã cập nhật vai trò",
+  "roleDeleted": "Đã xóa vai trò",
+  "roleDeletedPartiesTransferred": "Đã xóa vai trò. {count, plural, =1{1 đối tác} other{{count} đối tác}} đã chuyển sang {targetRole}.",
+  "@roleDeletedPartiesTransferred": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      },
+      "targetRole": {
+        "type": "String"
+      }
+    }
+  },
+  "roleAndPartiesDeleted": "Đã xóa vai trò và {count, plural, =1{1 đối tác} other{{count} đối tác}}.",
+  "@roleAndPartiesDeleted": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@deleteOrganizationMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@organizationCodeLabel": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "@testDataLoginFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@fieldRequired": {
+    "placeholders": {
+      "field": {
+        "type": "String"
+      }
+    }
+  },
+  "@passwordMinLength": {
+    "placeholders": {
+      "min": {
+        "type": "int"
+      }
+    }
+  },
+  "@setupPdfFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@setupFailedWithDetails": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "workspace": "Không gian làm việc",
+  "change": "Thay đổi",
+  "addMoreOrganization": "Thêm +",
+  "connectAnotherOrganization": "Kết nối tổ chức khác",
+  "noSavedOrganizationsUseAddMore": "Chưa có tổ chức đã lưu. Dùng Thêm + để kết nối.",
+  "registerNewOrganizationTitleSignedIn": "Đăng ký tổ chức mới?",
+  "registerNewOrganizationTitle": "Đăng ký tổ chức mới?",
+  "registerNewOrganizationMessageSignedIn": "Bạn sẽ đăng xuất và trình hướng dẫn thiết lập sẽ bắt đầu từ đầu để bạn có thể đăng ký doanh nghiệp mới trên thiết bị này.\n\nCác tổ chức bạn đã lưu sẽ vẫn còn trong danh sách sau khi thiết lập.",
+  "registerNewOrganizationMessageLogin": "Trình hướng dẫn thiết lập sẽ bắt đầu để bạn có thể đăng ký doanh nghiệp mới trên thiết bị này. Hoàn tất thiết lập để tạo nó; các tổ chức đã lưu của bạn vẫn còn trong danh sách.",
+  "startSetup": "Bắt đầu thiết lập",
+  "enterOrganizationCode": "Vui lòng nhập mã tổ chức của bạn",
+  "organizationNotFoundCheckCode": "Không tìm thấy tổ chức. Kiểm tra mã và thử lại.",
+  "organizationNotFound": "Không tìm thấy tổ chức",
+  "couldNotVerifyOrganization": "Không thể xác minh tổ chức",
+  "noLocalDataCompleteSetup": "Không có dữ liệu cục bộ cho {name}. Hoàn tất thiết lập cho tổ chức này trước.",
+  "@noLocalDataCompleteSetup": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeBack": "Chào mừng trở lại",
+  "signInToContinue": "Đăng nhập để tiếp tục",
+  "enterEmail": "Nhập email",
+  "pleaseEnterEmail": "Vui lòng nhập email của bạn",
+  "pleaseEnterValidEmail": "Vui lòng nhập email hợp lệ",
+  "enterEmailLocalPartOnly": "Chỉ nhập phần trước @",
+  "pleaseEnterPassword": "Vui lòng nhập mật khẩu của bạn",
+  "logIn": "ĐĂNG NHẬP",
+  "searchCountry": "Tìm kiếm quốc gia",
+  "searchCodeOrSymbol": "Tìm kiếm mã hoặc ký hiệu",
+  "saveLoginDetailsTitle": "Lưu thông tin đăng nhập?",
+  "saveLoginDetailsMessage": "Bạn sắp hoàn tất thiết lập cho tổ chức này.\n\nBạn có muốn tải xuống an toàn một PDF với mã tổ chức, tên tổ chức, email đăng nhập và mật khẩu không? Lưu trữ ở nơi an toàn — bất kỳ ai có tệp này đều có thể đăng nhập.",
+  "downloadPdfAndContinue": "Tải PDF & tiếp tục",
+  "continueWithoutPdf": "Tiếp tục không có PDF",
+  "legalDisplayNameHint": "Tên pháp lý / hiển thị",
+  "chartOfAccounts": "Sơ đồ tài khoản",
+  "fiscalYearStart": "Bắt đầu năm tài chính",
+  "fiscalYearEnd": "Kết thúc năm tài chính",
+  "removeTestDataTitle": "Xóa dữ liệu thử nghiệm?",
+  "removeTestDataMessageDemoOrg": "Tất cả doanh số demo, mua hàng, liên hệ, đối tác, mặt hàng tồn kho, nhân viên, sản phẩm máy tính rượu và các tổ chức demo thêm sẽ bị xóa.\n\nBạn đang ở tổ chức demo — sau đó bạn sẽ được chuyển về tổ chức đầu tiên tự động.",
+  "removeTestDataMessageNormal": "Tất cả doanh số demo, mua hàng, liên hệ, đối tác, mặt hàng tồn kho, nhân viên và 3 tổ chức demo thêm sẽ bị xóa. Tài khoản quản trị viên và dữ liệu thiết lập thực của bạn vẫn nguyên vẹn.",
+  "removeTestDataWarning": "Không thể hoàn tác trừ khi tải lại dữ liệu thử nghiệm.",
+  "removeTestData": "Xóa dữ liệu thử nghiệm",
+  "keepTestData": "Giữ dữ liệu thử nghiệm",
+  "demoDataRemoved": "Đã xóa dữ liệu demo",
+  "testDataRemovedSwitchedTo": "Đã xóa dữ liệu thử nghiệm. Đã chuyển sang {name}.",
+  "@testDataRemovedSwitchedTo": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "testDataRemoved": "Đã xóa dữ liệu thử nghiệm",
+  "couldNotRemoveTestData": "Không thể xóa dữ liệu thử nghiệm: {error}",
+  "@couldNotRemoveTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "loadTestDataTitle": "Tải dữ liệu thử nghiệm?",
+  "loadTestDataMessage": "Điều này sẽ thêm tối đa 50 liên hệ demo, 50 mặt hàng tồn kho chỉ bán và 50 chỉ mua, cộng với doanh số, mua hàng, thanh toán, tồn kho, tóm tắt đóng cửa, nhân viên, lương, điểm danh cho 15 ngày qua và sản phẩm rượu mẫu cho máy tính.",
+  "loadTestData": "Tải dữ liệu thử nghiệm",
+  "testDataLoaded": "Đã tải dữ liệu thử nghiệm",
+  "couldNotLoadTestData": "Không thể tải dữ liệu thử nghiệm: {error}",
+  "@couldNotLoadTestData": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "demoTestData": "Dữ liệu thử nghiệm demo",
+  "importTestDataSubtitle": "Nhập dữ liệu thử nghiệm cho tất cả tính năng",
+  "hideTestDataTitle": "Ẩn dữ liệu thử nghiệm cho tổ chức này?",
+  "hideTestDataMessage": "Nếu bạn tiếp tục, phần Dữ liệu thử nghiệm sẽ bị ẩn ở mọi nơi trong tổ chức này (bao gồm cả thiết lập). Bạn chỉ có thể bật lại bằng cách cài đặt lại hoặc xóa dữ liệu ứng dụng cho tổ chức này.",
+  "hideTestDataWarning": "Dữ liệu demo đã tải sẽ ở lại trong cơ sở dữ liệu cho đến khi bạn xóa nó khỏi cài đặt.",
+  "okHideTestData": "OK, ẩn dữ liệu thử nghiệm",
+  "testDataHiddenForOrg": "Đã ẩn Dữ liệu thử nghiệm cho tổ chức này",
+  "hideTestDataTooltip": "Ẩn dữ liệu thử nghiệm cho tổ chức này",
+  "privacyPolicyTitle": "Chính sách Bảo mật",
+  "termsAndConditions": "Điều khoản & Điều kiện",
+  "logoutConfirmTitle": "Đăng xuất",
+  "logoutConfirmMessage": "Bạn có chắc chắn muốn đăng xuất khỏi tài khoản của mình không?",
+  "faqTapToExpand": "Nhấn vào câu hỏi để mở rộng.",
+  "faqSectionGettingStarted": "Bắt đầu",
+  "faqSectionLogin": "Đăng nhập",
+  "faqSectionNavigation": "Điều hướng",
+  "faqSectionInvoices": "Hóa đơn",
+  "faqSectionPayments": "Thanh toán",
+  "faqSectionItemsStock": "Mặt hàng & tồn kho",
+  "faqSectionProfileEmployees": "Hồ sơ & nhân viên",
+  "faqSectionDashboardReports": "Bảng điều khiển & báo cáo",
+  "faqSectionSyncTroubleshooting": "Đồng bộ & xử lý sự cố",
+  "faqNeedInternetQuestion": "Tôi có cần internet không?",
+  "faqNeedInternetAnswer": "Sau khi thiết lập cục bộ lần đầu, bạn có thể ghi lại hóa đơn, mặt hàng và thanh toán mà không cần internet. Dữ liệu ở lại trên thiết bị của bạn. Đồng bộ với máy chủ là tùy chọn.",
+  "faqFirstInstallQuestion": "Điều gì xảy ra khi cài đặt lần đầu?",
+  "faqFirstInstallAnswer": "Bạn có thể thấy hướng dẫn ngắn, sau đó là thiết lập cục bộ (tổ chức, công ty, email và mật khẩu đăng nhập, tiền tệ, năm tài chính). Sau đó đăng nhập bằng email và mật khẩu bạn đã tạo.",
+  "faqSignInCredentialsQuestion": "Tôi dùng gì để đăng nhập?",
+  "faqSignInCredentialsAnswer": "Địa chỉ email và mật khẩu từ thiết lập. Ứng dụng giữ bạn đăng nhập cho đến khi bạn đăng xuất từ Thêm.",
+  "faqLoggedOutQuestion": "Tại sao tôi bị đăng xuất?",
+  "faqLoggedOutAnswer": "Bạn đã chọn Đăng xuất, xóa dữ liệu ứng dụng hoặc phiên đã hết hạn. Đăng nhập lại với cùng thông tin xác thực.",
+  "faqBottomTabsQuestion": "Các tab dưới cùng làm gì?",
+  "faqBottomTabsAnswer": "Trang chủ — bảng điều khiển và tổng quan.\nDoanh số — hóa đơn bán hàng theo ngày.\nChi phí — hóa đơn mua hàng / chi phí.\nNút trung tâm — Đối tác (khách hàng, nhà cung cấp).\nThêm — hồ sơ, báo cáo, đồng bộ, trợ giúp, đăng xuất.",
+  "faqCreateInvoiceQuestion": "Làm thế nào để tạo hóa đơn bán hàng hoặc mua hàng?",
+  "faqCreateInvoiceAnswer": "Mở Doanh số hoặc Chi phí, chọn ngày trên lịch, nhấn nút +, thêm mặt hàng và số tiền, chọn đối tác nếu cần, sau đó lưu hoặc gửi.",
+  "faqInvoiceDetailsQuestion": "Làm thế nào để xem chi tiết hóa đơn đầy đủ?",
+  "faqInvoiceDetailsAnswer": "Nhấn vào bất kỳ hóa đơn nào trong danh sách. Chi tiết giao dịch hiển thị các mục hàng, tổng, chiết khấu và thanh toán. Bạn có thể in, chia sẻ, sao chép hoặc thanh toán từ đó.",
+  "faqZeroRateQuestion": "Tỷ lệ hoặc số tiền hiển thị bằng không trong chi tiết",
+  "faqZeroRateAnswer": "Điều này thường có nghĩa là dữ liệu dòng hoặc thanh toán bị thiếu trong các lần lưu cũ. Cập nhật ứng dụng và tạo lại hoặc thanh toán nếu cần.",
+  "faqPartialPaymentQuestion": "Làm thế nào để ghi lại thanh toán một phần?",
+  "faqPartialPaymentAnswer": "Mở hóa đơn → Chi tiết giao dịch → Thực hiện thanh toán. Nhập số tiền, phương thức và ngày, sau đó Xử lý thanh toán.",
+  "faqMultiplePaymentQuestion": "Thanh toán nhiều lần hoạt động như thế nào?",
+  "faqMultiplePaymentAnswer": "Bật Thanh toán nhiều lần, nhấn chỉnh sửa và chia tổng số cho Tiền mặt, Thẻ, QR, v.v. Mỗi phương thức được ghi riêng biệt.",
+  "faqSplitPaymentSavedQuestion": "Chỉ một thanh toán được lưu từ một lần chia",
+  "faqSplitPaymentSavedAnswer": "Cập nhật lên phiên bản ứng dụng mới nhất. Các phiên bản cũ đôi khi chỉ lưu dòng chia đầu tiên. Thanh toán lại nếu số dư chưa thanh toán vẫn sai.",
+  "faqAddItemQuestion": "Làm thế nào để thêm mặt hàng?",
+  "faqAddItemAnswer": "Sử dụng Thêm mặt hàng từ luồng bán hàng hoặc thêm nhanh. Nhập tên, tỷ lệ, đơn vị, mục đích và ảnh tùy chọn (JPEG/PNG/GIF/WebP, tối đa 5 MB), sau đó Tạo mặt hàng.",
+  "faqCustomUnitQuestion": "Làm thế nào để thêm đơn vị tùy chỉnh?",
+  "faqCustomUnitAnswer": "Trên biểu mẫu mặt hàng, nhấn Đơn vị → Tạo đơn vị mới ở cuối danh sách, nhập tên (vd. Lít, Hộp) và Tạo.",
+  "faqStockQuantitiesQuestion": "How do I enter stock quantities?",
+  "faqStockQuantitiesAnswer": "Live qty is In stock on each item. Set stock on an item to enter opening stock or a stock adjustment. Opening stock / stock reconciliation (upload or enter a count) also sets In stock when live tracking is on. Liquor prices is a pour-price list, not stock.",
+  "faqProfileNameQuestion": "Tôi đã thay đổi tên nhưng hồ sơ vẫn hiển thị tên cũ",
+  "faqProfileNameAnswer": "Chỉnh sửa hồ sơ nhân viên của bạn (cùng email với đăng nhập) và lưu. Tab Thêm và bảng điều khiển sẽ cập nhật.",
+  "faqRevenueDetailsQuestion": "Chi tiết Doanh thu là gì?",
+  "faqRevenueDetailsAnswer": "Chế độ xem hàng tháng với biểu đồ xu hướng hàng ngày, lợi nhuận ròng, khoản phải thu chưa thanh toán và phân tích doanh số so với mua hàng theo từng ngày. Thay đổi tháng bằng lịch hoặc chip tháng.",
+  "faqOtherReportsQuestion": "Các báo cáo khác ở đâu?",
+  "faqOtherReportsAnswer": "Mở Thêm và xem trong Báo cáo (Phân tích, Lãi & Lỗ, Báo cáo, v.v.) nếu vai trò của bạn có quyền truy cập.",
+  "faqWhenSyncQuestion": "Khi nào tôi nên đồng bộ?",
+  "faqWhenSyncAnswer": "Chỉ khi quản trị viên của bạn yêu cầu và khi bạn có kết nối ổn định. Đồng bộ gửi hoặc nhận dữ liệu giữa thiết bị và máy chủ.",
+  "faqFabPositionQuestion": "Nút + trông quá cao trên Doanh số / Chi phí",
+  "faqFabPositionAnswer": "Nó nằm phía trên thanh điều hướng dưới cùng. Cuộn danh sách hoặc cập nhật ứng dụng nếu nút chồng lên nội dung trên thiết bị của bạn.",
+  "faqHowLogoutQuestion": "Làm thế nào để đăng xuất?",
+  "faqHowLogoutAnswer": "Thêm → Đăng xuất ở cuối danh sách cài đặt.",
+  "statisticsGoodMorning": "Chào buổi sáng",
+  "statisticsGoodAfternoon": "Chào buổi chiều",
+  "statisticsGoodEvening": "Buổi tối vui vẻ",
+  "statisticsDefaultUser": "người dùng",
+  "statisticsCheckConnection": "Vui lòng kiểm tra kết nối của bạn và thử lại.",
+  "statisticsCouldNotLoadProfile": "Không thể tải hồ sơ",
+  "statisticsCouldNotLoadData": "Không thể tải dữ liệu",
+  "statisticsPeriodDay": "Ngày",
+  "statisticsPeriodMonth": "Tháng",
+  "statisticsPeriodYear": "Năm",
+  "statisticsSelectedPeriod": "Khoảng thời gian đã chọn",
+  "statisticsSelectMonth": "Chọn tháng",
+  "statisticsSelectMonthSubtitle": "Chọn tháng để lọc dữ liệu",
+  "statisticsQuickOperations": "Quick Operations",
+  "statisticsAnnualRevenue": "Doanh thu hàng năm",
+  "statisticsCashflowLast7Days": "Dòng tiền (7 ngày qua)",
+  "statisticsCashflowLast12Months": "Dòng tiền (12 tháng qua)",
+  "statisticsDaily": "Hằng ngày",
+  "statisticsMonthly": "hàng tháng",
+  "statisticsOverall": "Tổng thể",
+  "statisticsLast7Days": "Last 7 Days",
+  "statisticsLast12Months": "Last 12 Months",
+  "statisticsAllYears": "Tất cả các năm",
+  "statisticsNoDataAvailable": "Không có sẵn dữ liệu",
+  "statisticsMoneyIn": "Tiền vào",
+  "statisticsMoneyOut": "Tiền ra",
+  "statisticsIncome": "Thu nhập",
+  "statisticsExpenses": "Chi phí",
+  "statisticsSalesSummary": "Tóm tắt doanh số",
+  "statisticsPurchaseSummary": "Tóm tắt mua hàng",
+  "statisticsTotalSales": "Tổng doanh thu",
+  "statisticsTotalIncome": "Tổng thu nhập",
+  "statisticsTotalUnpaid": "Tổng số chưa thanh toán",
+  "statisticsTotalPurchase": "Tổng số tiền mua",
+  "statisticsPaidPurchase": "Mua trả phí",
+  "statisticsUnpaidPurchase": "Mua hàng chưa thanh toán",
+  "statisticsEmployeeDashboard": "Bảng điều khiển nhân viên",
+  "statisticsDefaultEmployee": "Người lao động",
+  "statisticsDefaultDepartment": "Phòng",
+  "statisticsDefaultPosition": "Chức vụ",
+  "statisticsCurrentMonth": "Tháng hiện tại",
+  "statisticsStatus": "Trạng thái",
+  "statisticsActive": "Tích cực",
+  "statisticsWelcome": "Chào mừng",
+  "statisticsEmployeeWelcomeMessage": "Bạn đang đăng nhập như một nhân viên. Sử dụng menu điều hướng để truy cập các tính năng có sẵn.",
+  "statisticsRevenueDetails": "Chi tiết doanh thu",
+  "statisticsEmployeeDetails": "Chi tiết nhân viên",
+  "statisticsChangeMonth": "Thay đổi tháng",
+  "statisticsFilterChartsSubtitle": "Lọc biểu đồ và phân tích",
+  "statisticsDailyTrend": "Xu hướng hàng ngày",
+  "statisticsDailyActivity": "Hoạt động hàng ngày",
+  "statisticsNoDataForMonth": "Không có dữ liệu cho tháng này",
+  "statisticsNetProfit": "Lợi nhuận ròng",
+  "statisticsMonthReceivables": "Tháng phải thu",
+  "statisticsNoDailyEntries": "Không có mục nhập hàng ngày trong tháng này",
+  "statisticsDailySalesBreakdown": "Phân tích doanh số hàng ngày",
+  "statisticsDailyBreakdown": "Phân tích hàng ngày",
+  "statisticsAdvance": "Nâng cao",
+  "statisticsExploreFeatures": "Khám phá tính năng",
+  "statisticsShowOrHideFeatures": "Hiển thị hoặc ẩn các tính năng",
+  "statisticsAllFeaturesHidden": "Tất cả các tính năng khám phá đều bị ẩn",
+  "statisticsNoFeaturesForOrg": "Không có tính năng nào dành cho tổ chức của bạn",
+  "statisticsTapTuneToShow": "Nhấn vào biểu tượng giai điệu ở trên để hiển thị lại các phím tắt.",
+  "statisticsMenuCheck": "Đối chiếu",
+  "statisticsMenuEmployee": "Người lao động",
+  "statisticsMenuOrder": "Đặt hàng",
+  "statisticsMenuInventory": "Items",
+  "statisticsMenuCustomers": "Khách hàng",
+  "statisticsMenuCalculator": "Liquor prices",
+  "statisticsMenuQuickExpenses": "nhanh chóng\nChi phí",
+  "statisticsMenuQuickSales": "nhanh chóng\nbán hàng",
+  "statisticsMenuAddEmployee": "Thêm\nnhân viên",
+  "statisticsMenuAddParty": "Thêm\nđối tác",
+  "statisticsMenuAddEmployeeSingle": "Thêm nhân viên",
+  "statisticsMenuAddPartySingle": "Thêm đối tác",
+  "statisticsGreeting": "{greeting}, {name}",
+  "@statisticsGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsEmployeeGreeting": "{greeting}, {name}!",
+  "@statisticsEmployeeGreeting": {
+    "placeholders": {
+      "greeting": {
+        "type": "String"
+      },
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDepartmentPosition": "{department} • {position}",
+  "@statisticsDepartmentPosition": {
+    "placeholders": {
+      "department": {
+        "type": "String"
+      },
+      "position": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricCollected": "{amount} đã thu thập",
+  "@statisticsMetricCollected": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMetricPaid": "{amount} đã thanh toán",
+  "@statisticsMetricPaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyInAmount": "Tiền vào: {amount}",
+  "@statisticsMoneyInAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsMoneyOutAmount": "Tiền ra: {amount}",
+  "@statisticsMoneyOutAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsDayTooltip": "Ngày {day}\n{amount}",
+  "@statisticsDayTooltip": {
+    "placeholders": {
+      "day": {
+        "type": "String"
+      },
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "statisticsProfitMargin": "{percent}% ký quỹ",
+  "@statisticsProfitMargin": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "selectBusinessType": "Chọn loại hình kinh doanh",
+  "businessTypeHotelSubtitle": "Phòng, khách và quầy lễ tân",
+  "businessTypeRestaurantSubtitle": "Đặt món tại chỗ, bếp và bàn",
+  "businessTypeHotelRestaurantSubtitle": "Phòng khách sạn và nhà hàng cùng nhau",
+  "businessTypeRetailSubtitle": "Sản phẩm, hàng tồn và thanh toán",
+  "businessTypeCafeSubtitle": "Cà phê, bánh ngọt và đồ ăn nhẹ",
+  "businessTypeBarSubtitle": "Thực đơn đồ uống, tab & bán hàng tại quầy bar",
+  "businessTypeOtherSubtitle": "Thiết lập tùy chỉnh cho bất kỳ doanh nghiệp nào",
+  "@invoiceCommonSelectedCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonInvoiceLabel": {
+    "placeholders": {
+      "number": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCustomerLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSupplierLabel": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchingFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSearchItemsHint": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseSearchPrompt": {
+    "placeholders": {
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSalesNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPurchaseNoMatch": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      },
+      "scope": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonEmptyForDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDeleteInvoiceConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCancelReturnMessage": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonPartyLoadingError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceFoundSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceFoundPurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateSalesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDatePurchaseCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDateInvoiceCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceDeleteMessage": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceReturnCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotPrint": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotSave": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonCouldNotShare": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonItemReturnedQty": {
+    "placeholders": {
+      "item": {
+        "type": "String"
+      },
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonMultiplePaymentSummary": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptFilename": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReceiptTitle": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonReturnAgainst": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonSavedPath": {
+    "placeholders": {
+      "path": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonUnpaidWithAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonTodayAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceCommonDaysAgo": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyExportReceipts": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoicePartyNoItemsMatching": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceQuickShowingItems": {
+    "placeholders": {
+      "shown": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickLoadedItems": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickScrollLoadMore": {
+    "placeholders": {
+      "perPage": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceQuickCartWithCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemActionsTitle": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditSelectedItem": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditRateLabel": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditItemLabel": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "@invoiceEditItemsError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditPartiesError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "@invoiceEditSaveError": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonActions": "hành động",
+  "invoiceCommonSearchItems": "Tìm kiếm các mục",
+  "invoiceCommonSearchItemsSubtitle": "Tìm kiếm các mục cụ thể",
+  "invoiceCommonAddNewInvoice": "Thêm hóa đơn mới",
+  "invoiceCommonAddSalesInvoiceSubtitle": "Tạo hóa đơn bán hàng mới",
+  "invoiceCommonAddPurchaseInvoiceSubtitle": "Tạo hóa đơn mua hàng mới",
+  "invoiceCommonSelectMonthYear": "Chọn Tháng/Năm",
+  "invoiceCommonSelectMonthYearSubtitle": "Chuyển đến một tháng cụ thể",
+  "invoiceCommonSelectMonthAndYear": "Chọn Tháng & Năm",
+  "invoiceCommonFilterByDate": "Lọc theo ngày",
+  "invoiceCommonFilterByDateRange": "Lọc theo phạm vi ngày",
+  "invoiceCommonCloseSearch": "Đóng tìm kiếm",
+  "invoiceCommonSelectAll": "Chọn tất cả",
+  "invoiceCommonToday": "Hôm nay",
+  "invoiceCommonTotalQuantity": "Tổng số lượng",
+  "invoiceCommonTotalAmount": "Tổng số tiền",
+  "invoiceCommonTotal": "Tổng cộng",
+  "invoiceCommonSearchForItems": "Tìm kiếm các mục",
+  "invoiceCommonNoItemsFound": "Không tìm thấy mục nào",
+  "invoiceCommonUnknownItem": "Mục không xác định",
+  "invoiceCommonNotAvailable": "không áp dụng",
+  "invoiceSalesCouldNotLoad": "Không thể tải doanh số bán hàng",
+  "invoiceSalesNoFound": "Không tìm thấy doanh số bán hàng",
+  "invoiceSalesSelectDate": "Chọn ngày để xem Doanh số bán hàng",
+  "invoiceSalesNoInvoicesFound": "Không tìm thấy hóa đơn",
+  "invoiceSalesSelectDateLegacy": "Chọn ngày để xem hóa đơn",
+  "invoicePurchaseCouldNotLoad": "Không thể tải chi phí",
+  "invoicePurchaseNoFound": "Không tìm thấy giao dịch mua nào",
+  "invoicePurchaseSelectDate": "Chọn ngày để xem giao dịch mua",
+  "invoiceWeekdaySun": "Mặt trời",
+  "invoiceWeekdayMon": "Thứ hai",
+  "invoiceWeekdayTue": "thứ ba",
+  "invoiceWeekdayWed": "Thứ tư",
+  "invoiceWeekdayThu": "Thứ năm",
+  "invoiceWeekdayFri": "Thứ sáu",
+  "invoiceWeekdaySat": "Đã ngồi",
+  "invoiceCommonSelectedCount": "{count} Đã chọn",
+  "invoiceCommonQtyLabel": "Số lượng: {qty}",
+  "invoiceCommonInvoiceLabel": "Hóa đơn: {number}",
+  "invoiceCommonCustomerLabel": "Khách hàng: {name}",
+  "invoiceCommonSupplierLabel": "Nhà cung cấp: {name}",
+  "invoiceCommonSearchingFor": "Đang tìm kiếm \"{query}\"...",
+  "invoiceCommonSearchItemsHint": "Tìm kiếm các mục trong {scope}...",
+  "invoiceCommonSalesSearchPrompt": "Nhập tên mặt hàng để tìm tất cả doanh số bán hàng\ntrong {scope}",
+  "invoiceCommonPurchaseSearchPrompt": "Nhập tên mặt hàng để tìm tất cả các giao dịch mua\ntrong {scope}",
+  "invoiceCommonSalesNoMatch": "Không bán \"{query}\"\nở {scope}",
+  "invoiceCommonPurchaseNoMatch": "Không mua \"{query}\"\nở {scope}",
+  "invoiceCommonEmptyForDate": "cho {date}",
+  "invoiceFoundSalesCount": "Đã tìm thấy {count, plural, =1{1 lần bán} other{{count} lần bán}}",
+  "invoiceFoundPurchaseCount": "Đã tìm thấy {count, plural, =1{1 lần mua hàng} other{{count} lần mua hàng}}",
+  "invoiceDateSalesCount": "{count, plural, =1{1 lần bán} other{{count} doanh số}}",
+  "invoiceDatePurchaseCount": "{count, plural, =1{1 lần mua} other{{count} lần mua hàng}}",
+  "invoiceDateInvoiceCount": "{count, plural, =1{1 hóa đơn} other{{count} hóa đơn}}",
+  "invoiceDeleteTitle": "Xóa {count, plural, =1{1 hóa đơn} other{{count} hóa đơn}}",
+  "invoiceDeleteMessage": "Bạn có chắc chắn muốn xóa {count, plural, =1{1 hóa đơn đã chọn} other{{count} hóa đơn đã chọn}} không? Không thể hoàn tác hành động này.",
+  "contacts": "Danh bạ",
+  "categories": "Thể loại",
+  "manageStaff": "Quản lý nhân viên",
+  "payroll": "Bảng lương",
+  "attendance": "Sự tham dự",
+  "profitAndLoss": "Lãi lỗ",
+  "statementReport": "Báo cáo",
+  "analytics": "Phân tích",
+  "loggedOut": "Đã đăng xuất",
+  "organizationCodeDisplay": "Mã số: {code}",
+  "@organizationCodeDisplay": {
+    "placeholders": {
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "moreDataSynchronization": "Đồng bộ hóa dữ liệu",
+  "moreSendDataToClient": "Gửi dữ liệu cho khách hàng",
+  "moreSendDataToClientSubtitle": "Tải dữ liệu máy chủ lên máy khách",
+  "moreSendDataToClientWarning": "Hành động này sẽ thay thế cơ sở dữ liệu máy khách hiện tại bằng dữ liệu từ máy chủ. Tất cả những thay đổi gần đây của khách hàng có thể bị mất.",
+  "moreSendDataToClientConfirm": "Bạn có chắc chắn muốn gửi dữ liệu cho khách hàng không?",
+  "moreFetchDataFromClient": "Lấy dữ liệu từ khách hàng",
+  "moreFetchDataFromClientSubtitle": "Tải dữ liệu khách hàng về máy chủ",
+  "moreFetchDataFromClientWarning": "Hành động này sẽ thay thế cơ sở dữ liệu máy chủ hiện tại bằng dữ liệu từ máy khách. Tất cả những thay đổi máy chủ gần đây có thể bị mất.",
+  "moreFetchDataFromClientConfirm": "Bạn có chắc chắn muốn tìm nạp dữ liệu từ máy khách không?",
+  "notifications": "Thông báo",
+  "openingReminder": "Lời nhắc mở đầu",
+  "closingReminder": "Lời nhắc đóng cửa",
+  "openingTime": "Giờ mở cửa",
+  "closingTime": "Giờ đóng cửa",
+  "notificationSettingsSaved": "Đã lưu cài đặt thông báo",
+  "notificationPermissionHint": "Cho phép thông báo (và báo thức trên Android) để lời nhắc hoạt động khi đóng ứng dụng",
+  "dailyAtTime": "Hàng ngày lúc {time}",
+  "@dailyAtTime": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceCommonYesterday": "Hôm qua",
+  "invoiceCommonTodayAt": "Hôm nay, {time}",
+  "invoiceCommonDaysAgo": "{count} ngày trước",
+  "invoiceReturnCount": "{count, plural, =1{1 lần trả hàng} other{{count} lần trả hàng}}",
+  "statisticsMonthRevenue": "Doanh thu tháng",
+  "statisticsMonthExpenses": "Chi phí tháng",
+  "exploreCustomizeTitle": "Tùy chỉnh các tính năng",
+  "exploreCustomizeSubtitle": "Hiển thị hoặc ẩn các phím tắt trên màn hình chính của bạn. Chỉ những tính năng mà tổ chức của bạn có thể truy cập mới được liệt kê.",
+  "exploreVisibleOnDashboard": "Hiển thị trên bảng điều khiển",
+  "exploreHiddenOnDashboard": "Ẩn trên bảng điều khiển",
+  "partiesTitle": "Đối tác",
+  "partySearchByName": "Tìm kiếm theo tên…",
+  "partySortBy": "Sắp xếp theo:",
+  "partySortLatest": "Mới nhất",
+  "partySortAmountHighLow": "Số tiền: Cao đến thấp",
+  "partySortAmountLowHigh": "Số tiền: Thấp đến cao",
+  "partySortNameAZ": "Tên: A đến Z",
+  "partySortNameZA": "Tên: Z đến A",
+  "partyAddNew": "Thêm đối tác mới",
+  "partyEdit": "Chỉnh sửa đối tác",
+  "partyUpdate": "Cập nhật đối tác",
+  "partyNameLabel": "Tên đối tác*",
+  "partyNameHint": "Nhập tên đối tác",
+  "partyNewNameLabel": "Tên đối tác mới*",
+  "partyNewNameHint": "Nhập tên đối tác mới",
+  "partyRoleLabel": "Vai trò đối tác *",
+  "partyTapToSelect": "Nhấn để chọn",
+  "partySelectRoleValidation": "Vui lòng chọn vai trò",
+  "partyEnterNameValidation": "Vui lòng nhập tên đối tác",
+  "partyBasicInfo": "Thông tin cơ bản",
+  "partyAdditionalInfo": "Thông tin bổ sung",
+  "partyEmail": "Email đối tác",
+  "partyEmailHint": "Nhập địa chỉ email",
+  "partyPhone": "Số điện thoại",
+  "partyPhoneHint": "Nhập số điện thoại",
+  "partyAddress": "Địa chỉ đối tác",
+  "partyAddressHint": "Nhập địa chỉ",
+  "partyRoleCustomer": "Khách hàng",
+  "partyRoleSupplier": "Nhà cung cấp",
+  "partyRoleRoom": "Phòng",
+  "partyRoleCabin": "Cabin",
+  "partyRoleEmployee": "Nhân viên",
+  "partyRoleBoth": "Cả hai",
+  "partyDefaultAccount": "Tài khoản mặc định",
+  "partyLoyaltyProgram": "Chương trình khách hàng thân thiết",
+  "partyLoyaltyPoints": "Điểm trung thành",
+  "partySelectDefaultAccount": "Chọn tài khoản mặc định",
+  "partySelectLoyaltyProgram": "Chọn chương trình khách hàng thân thiết",
+  "partyCreateNewProgram": "Tạo chương trình mới",
+  "partySelectPartyRole": "Chọn vai trò đối tác",
+  "partyAccountDebtors": "Phải thu",
+  "partyAccountCreditors": "Phải trả",
+  "partyBothRoleHint": "“Cả hai” nghĩa là đối tác này chỉ xuất hiện trong Khách hàng và Nhà cung cấp — không phải Phòng, Cabin hoặc Nhân viên.",
+  "partyValidNumber": "Vui lòng nhập số hợp lệ",
+  "partyValidAmount": "Vui lòng nhập số tiền hợp lệ",
+  "exportAsPdf": "Xuất dưới dạng PDF",
+  "sharePdf": "Chia sẻ PDF",
+  "partyExportPdfTooltip": "Xuất PDF",
+  "checkoutSelectParty": "Chọn đối tác",
+  "checkoutCartSummary": "Tóm tắt giỏ hàng",
+  "checkoutNoItemsInCart": "Không có mặt hàng nào trong giỏ hàng",
+  "checkoutSearchHere": "Tìm kiếm ở đây",
+  "checkoutCreateInvoice": "Tạo hóa đơn",
+  "checkoutEditInvoice": "Chỉnh sửa hóa đơn",
+  "checkoutSaveInvoice": "Lưu hóa đơn",
+  "checkoutInvoiceSummary": "Tóm tắt hóa đơn",
+  "checkoutEstimate": "Ước lượng",
+  "checkoutBasicInformation": "Thông tin cơ bản",
+  "checkoutAddItems": "Thêm mục",
+  "checkoutItemsSection": "Mặt hàng",
+  "checkoutPartyRequired": "Đối tác *",
+  "checkoutPartyInformation": "Thông tin đối tác",
+  "checkoutBillSummary": "Tóm tắt hóa đơn",
+  "checkoutBillSummaryHint": "Nhấn để biết tính toán chi tiết hơn.",
+  "checkoutItemTotal": "Tổng số mặt hàng",
+  "checkoutLoyaltyDiscount": "Giảm giá trung thành ({percent}%)",
+  "@checkoutLoyaltyDiscount": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutDiscountLine": "- Giảm giá ({percent}%)",
+  "@checkoutDiscountLine": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutTapToEdit": "Nhấn để chỉnh sửa",
+  "checkoutTotalAmount": "Tổng số tiền",
+  "checkoutPaymentMode": "Record payment",
+  "checkoutPaymentModeHint": "Turn on to take payment now. Leave off to submit the bill unpaid and collect later.",
+  "checkoutNetSalesAmount": "Số tiền bán hàng ròng",
+  "checkoutConfirmCheckout": "Xác nhận thanh toán",
+  "checkoutEditDiscount": "Chỉnh sửa giảm giá",
+  "checkoutPercentage": "Tỷ lệ phần trăm",
+  "checkoutDiscard": "Loại bỏ",
+  "checkoutPartialPayment": "Thanh toán một phần",
+  "checkoutPartialPaymentBanner": "Bằng cách kích hoạt Thanh toán một phần, khách hàng sẽ có thể thanh toán số tiền ít hơn Tổng số tiền được lập hóa đơn.",
+  "checkoutPleaseEnterAmounts": "Vui lòng nhập số tiền tương ứng:",
+  "checkoutPartialPaymentEqualHint": "Vì không có người dùng nào được chỉ định nên tổng số tiền phải bằng tổng số tiền được lập hoá đơn.",
+  "checkoutOverGrandTotalBy": "Tổng cộng vượt quá: {amount}",
+  "@checkoutOverGrandTotalBy": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutRemainingUnpaid": "Còn lại (chưa thanh toán từ Tổng cộng): {amount}",
+  "@checkoutRemainingUnpaid": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutConfirmPayment": "Xác nhận thanh toán",
+  "checkoutUnpaidCredit": "Chưa thanh toán / Tín dụng",
+  "checkoutAddAtLeastOneLine": "Thêm ít nhất một mục hàng để xem ước tính",
+  "checkoutMultiplePayment": "Thanh toán nhiều lần",
+  "checkoutPaymentStatus": "Trạng thái thanh toán",
+  "checkoutPaymentMethods": "Phương thức thanh toán",
+  "checkoutPaymentMethod": "Phương thức thanh toán",
+  "checkoutTenderAmount": "Số tiền đấu thầu",
+  "checkoutLoadingPaymentMethods": "Đang tải phương thức thanh toán…",
+  "stocksTitle": "Stock reconciliation",
+  "stockUploadTooltip": "Opening stock",
+  "stockNoDataYet": "No opening stock yet",
+  "stockNoDataSubtitle": "Enter a physical count. With live tracking on, that count becomes In stock.",
+  "stockUploadAction": "Opening stock",
+  "stockSearchByDateHint": "Tìm kiếm theo ngày hoặc tháng…",
+  "stockNoMatches": "Không có kết quả phù hợp",
+  "stockTryDifferentSearch": "Hãy thử một cụm từ tìm kiếm khác",
+  "stockTryAnotherSearch": "Hãy thử tìm kiếm khác",
+  "stockQtyLabel": "Số lượng {qty}",
+  "@stockQtyLabel": {
+    "placeholders": {
+      "qty": {
+        "type": "String"
+      }
+    }
+  },
+  "stockCardSummary": "{records} bản ghi · {items} mục · {locations} vị trí",
+  "@stockCardSummary": {
+    "placeholders": {
+      "records": {
+        "type": "String"
+      },
+      "items": {
+        "type": "String"
+      },
+      "locations": {
+        "type": "String"
+      }
+    }
+  },
+  "stockFilterTitle": "Filter stock reconciliation",
+  "stockBatchNumber": "Số lô",
+  "stockLocation": "Vị trí",
+  "stockOptionalHint": "Không bắt buộc",
+  "stockApplyFilters": "Áp dụng bộ lọc",
+  "stockClearFields": "Xóa các trường",
+  "stockDeleteAllTooltip": "Xóa tất cả hàng trong ngày này",
+  "stockNoItemsFound": "Không tìm thấy mặt hàng có sẵn",
+  "stockNoItemsSubtitle": "Hãy thử các bộ lọc khác hoặc ngày báo cáo khác.",
+  "stockAdjustFilters": "Điều chỉnh bộ lọc",
+  "stockSearchItemHint": "Tìm kiếm mặt hàng, lô, vị trí…",
+  "stockEditQuantities": "Chỉnh sửa số lượng",
+  "stockNoChangesDetected": "Không phát hiện thấy thay đổi nào",
+  "stockErrorPreparingChanges": "Lỗi chuẩn bị thay đổi: {error}",
+  "@stockErrorPreparingChanges": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "stockUpdateSuccessful": "Cập nhật thành công!",
+  "stockSummary": "Bản tóm tắt",
+  "stockTotalRequested": "Tổng số yêu cầu",
+  "stockSuccessfullyUpdated": "Đã cập nhật thành công",
+  "stockFailed": "Thất bại",
+  "stockUpdateFailed": "Cập nhật không thành công",
+  "stockClearAllQuantitiesTitle": "Xóa tất cả số lượng?",
+  "stockClearAllQuantitiesMessage": "Thao tác này sẽ đặt lại tất cả số lượng về 0. Bạn có chắc chắn không?",
+  "stockClearAll": "Xóa tất cả",
+  "stockUpdatingQuantities": "Cập nhật số lượng hàng tồn...",
+  "stockEditQuantitiesTitle": "Chỉnh sửa số lượng hàng tồn kho",
+  "stockReportingDate": "Ngày báo cáo: {date}",
+  "@stockReportingDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "stockTotalItemsHint": "Tổng số mặt hàng: {count} • Cập nhật số lượng khi cần thiết",
+  "@stockTotalItemsHint": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "stockItemName": "Tên mặt hàng",
+  "stockBatchPrefix": "Lô: {batch}",
+  "@stockBatchPrefix": {
+    "placeholders": {
+      "batch": {
+        "type": "String"
+      }
+    }
+  },
+  "stockDeleteConfirmTitle": "Xác nhận xóa",
+  "stockDeleteConfirmIntro": "Bạn sắp xóa vĩnh viễn tất cả các mặt hàng trong kho vào ngày sau:",
+  "stockDeleteConfirmWarning": "Không thể hoàn tác hành động này. Tất cả hồ sơ chứng khoán cho ngày này sẽ bị xóa vĩnh viễn.",
+  "stockNoInternetRetry": "Không có kết nối internet. Vui lòng kiểm tra kết nối của bạn và thử lại.",
+  "itemsTitle": "Mặt hàng",
+  "itemAddSheetTitle": "Thêm mục",
+  "itemSingleAdd": "Thêm một lần",
+  "itemBulkAdd": "Thêm hàng loạt",
+  "itemBulkAddTitle": "Thêm hàng loạt mục",
+  "itemEditTitle": "Chỉnh sửa mục",
+  "itemAddTitle": "Thêm mục",
+  "itemCreateButton": "Tạo mục",
+  "itemUpdateButton": "Cập nhật mục",
+  "itemDeleteTitle": "Xóa mục",
+  "itemDeleteConfirm": "Bạn có chắc chắn muốn xóa \"{name}\" không?",
+  "itemDeletedSuccess": "Đã xóa mục thành công",
+  "itemCreatedSuccess": "Mục được tạo thành công",
+  "itemUpdatedSuccess": "Mục được cập nhật thành công",
+  "itemLoading": "Đang tải các mục...",
+  "itemErrorTitle": "Ối! Đã xảy ra lỗi",
+  "itemTryAgain": "Thử lại",
+  "itemSearchHint": "Tìm kiếm các mục",
+  "itemNoItemsFound": "Không tìm thấy mục nào",
+  "itemTryAdjustSearch": "Hãy thử điều chỉnh cụm từ tìm kiếm của bạn",
+  "itemNoItemsAvailable": "Không có mặt hàng nào",
+  "itemAddToGetStarted": "Thêm các mục để bắt đầu",
+  "itemNoMoreItems": "Không còn mục nào nữa",
+  "itemPurposeBoth": "Cả hai",
+  "itemPurposePurchases": "Mua hàng",
+  "itemTypeProduct": "Sản phẩm",
+  "itemTypeService": "Dịch vụ",
+  "itemTypeInventory": "Hàng tồn kho",
+  "itemPhotoTitle": "Ảnh sản phẩm",
+  "itemPhotoHint": "Bấm vào đây để chọn hoặc tải ảnh lên",
+  "itemPhotoFormats": "JPEG, PNG, GIF hoặc WebP · tối đa 5MB",
+  "itemAddPhoto": "Thêm ảnh",
+  "itemPhotoLibrary": "Thư viện ảnh",
+  "itemPhotoLibraryHint": "Chọn từ ảnh của bạn",
+  "itemTakePhoto": "Chụp ảnh",
+  "itemUploadGallery": "Tải lên từ thư viện",
+  "itemUploadGalleryHint": "Duyệt tập tin trên thiết bị này",
+  "itemTypeLabel": "Kiểu",
+  "itemTypeField": "Loại mặt hàng",
+  "itemNameLabel": "Tên mặt hàng",
+  "itemNameHint": "Nhập tên mặt hàng",
+  "itemBarcodeLabel": "Mã vạch / Mã QR",
+  "itemBarcodeField": "Mã vạch/mã QR",
+  "itemBarcodeHint": "Quét từ thanh ứng dụng hoặc dán",
+  "itemRateLabel": "Tỷ lệ",
+  "itemUnitLabel": "Đơn vị",
+  "itemPurposeLabel": "Mục đích",
+  "itemSelectUnit": "Chọn đơn vị",
+  "itemSelectPurpose": "Chọn mục đích",
+  "itemSelectCategory": "Chọn danh mục",
+  "itemSelectType": "Chọn loại",
+  "itemSelectItemType": "Chọn loại mục",
+  "itemSearchUnits": "Đơn vị tìm kiếm…",
+  "itemSearchPurpose": "Mục đích tìm kiếm…",
+  "itemSearchCategories": "Tìm kiếm danh mục…",
+  "itemCreateCustomUnit": "Tạo đơn vị tùy chỉnh",
+  "itemUnitName": "Tên đơn vị",
+  "itemUnitNameHint": "ví dụ: Lít, Hộp, Mảnh",
+  "itemValidationName": "Vui lòng nhập tên mặt hàng",
+  "itemValidationRate": "Vui lòng nhập tỷ lệ",
+  "itemValidationNumber": "Vui lòng nhập số hợp lệ",
+  "itemSelectUnitRequired": "Vui lòng chọn một đơn vị",
+  "itemSelectPurposeRequired": "Vui lòng chọn mục đích",
+  "itemImageMissing": "Tệp hình ảnh bị thiếu",
+  "itemImageFormatError": "Sử dụng JPEG, PNG, GIF hoặc WebP",
+  "itemImageSizeError": "Hình ảnh phải có kích thước từ 5 MB trở xuống",
+  "itemScanBarcode": "Quét mã vạch",
+  "itemNameFromCatalog": "Tên điền từ danh mục: {name}",
+  "itemBarcodePasteHint": "Không tìm thấy tên sản phẩm - mã được dán dưới dạng tên. Chỉnh sửa nếu cần.",
+  "itemBulkRefillTooltip": "Nạp lại đầu vào trước đó",
+  "itemBulkAddRow": "Thêm hàng",
+  "itemBulkRowLabel": "Mục {index}",
+  "itemBulkNameRequired": "Yêu cầu tên",
+  "itemBulkInvalidNumber": "Số không hợp lệ",
+  "itemBulkCreating": "Đang tạo…",
+  "itemBulkCreateItems": "Tạo mục",
+  "itemBulkCreatedCount": "{count} mục đã được tạo",
+  "itemBulkCreateFailed": "Không tạo được mục: {error}",
+  "itemBulkNoDraft": "Không tìm thấy bản nháp đã lưu",
+  "itemBulkInvalidDraft": "Định dạng bản nháp đã lưu không hợp lệ",
+  "itemBulkDraftRestored": "Đã khôi phục bản nháp trước đó",
+  "itemBulkDraftRestoreFailed": "Không thể khôi phục bản nháp đã lưu",
+  "itemBulkAtLeastOne": "Thêm ít nhất một mục",
+  "itemBulkCategoriesLoading": "Đang tải danh mục, vui lòng thử lại",
+  "itemBulkLoadingCategories": "Đang tải danh mục…",
+  "inventoryTitle": "Phân tích hàng tồn kho",
+  "inventorySubtitle": "Theo dõi chuyển động chứng khoán theo thời gian thực",
+  "inventorySearchHint": "Tìm kiếm các mục...",
+  "inventorySold": "Đã bán",
+  "inventoryPurchased": "Đã mua",
+  "catNoCategories": "Không có danh mục. Nhấn vào + để tạo.",
+  "catLoadCategories": "Tải danh mục",
+  "catCreated": "Đã tạo danh mục",
+  "catRenamed": "Đã đổi tên danh mục",
+  "catDeleted": "Đã xóa danh mục",
+  "catNewTitle": "Danh mục mới",
+  "catRenameTitle": "Đổi tên danh mục",
+  "catNewName": "Tên mới",
+  "catRename": "Đổi tên",
+  "catDeleteTitle": "Xóa danh mục",
+  "catDeleteConfirm": "Xóa \"{name}\"?",
+  "catDeleteLinkedHint": "Các mục được liên kết. Bạn có thể buộc xóa để hủy liên kết chúng.",
+  "catForceDelete": "Buộc xóa",
+  "catItemsCount": "{count} mục",
+  "contactFavoritesOnly": "Chỉ mục yêu thích",
+  "contactShowAll": "Hiển thị tất cả địa chỉ liên hệ",
+  "contactSearchHint": "Tìm kiếm tên, số điện thoại, email…",
+  "contactNoConnection": "Không có kết nối",
+  "contactCheckNetwork": "Hãy kiểm tra mạng của bạn và thử lại.",
+  "contactSomethingWrong": "Đã xảy ra lỗi",
+  "contactNoContacts": "Không có liên hệ",
+  "contactNoFavorites": "Không có trận đấu yêu thích nào. Tắt bộ lọc dấu sao hoặc thêm mục yêu thích vào một liên hệ.",
+  "contactTrySearchOrAdd": "Hãy thử tìm kiếm khác hoặc nhấn vào + để thêm liên hệ.",
+  "contactEndOfList": "Cuối danh sách",
+  "contactNewTooltip": "Liên hệ mới",
+  "contactLoading": "Đang tải địa chỉ liên hệ…",
+  "contactUnknown": "Không xác định",
+  "contactCallTooltip": "Gọi",
+  "contactEditTitle": "Chỉnh sửa liên hệ",
+  "contactNewTitle": "Liên hệ mới",
+  "contactSelectTitle": "Chọn liên hệ",
+  "contactDeleteTitle": "Xóa liên hệ?",
+  "contactDeleteUndo": "Không thể hoàn tác hành động này.",
+  "contactNameRequired": "Tên là bắt buộc",
+  "contactNameLabel": "Tên *",
+  "contactNameHint": "Tên liên hệ",
+  "contactPhoneHint": "+977-9841234567",
+  "contactEmailHint": "email@example.com",
+  "contactCategoryHint": "ví dụ. kinh doanh, tổng hợp, vip",
+  "contactCompanyHint": "Tên công ty",
+  "contactFavorite": "Yêu thích",
+  "contactCannotCall": "Không thể thực hiện cuộc gọi trên thiết bị này",
+  "contactPermissionDenied": "Quyền liên hệ đã bị từ chối. Bạn có thể kích hoạt nó trong Cài đặt.",
+  "contactPermissionRequired": "Cần có quyền liên hệ để nhập từ điện thoại",
+  "contactImported": "Liên hệ được nhập từ điện thoại",
+  "contactCreated": "Đã tạo liên hệ",
+  "contactUpdated": "Đã cập nhật liên hệ",
+  "contactDeleted": "Đã xóa liên hệ",
+  "contactImportSearchHint": "Tìm kiếm theo tên, số điện thoại, email, công ty",
+  "contactImportNoResults": "Không tìm thấy địa chỉ liên hệ nào",
+  "@itemDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemNameFromCatalog": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkRowLabel": {
+    "placeholders": {
+      "index": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreatedCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "@itemBulkCreateFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "@catDeleteConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "@catItemsCount": {
+    "placeholders": {
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "checkoutMultiplePaymentHint": "BẬT tính năng này nếu khách hàng thanh toán qua nhiều phương thức thanh toán.",
+  "checkoutFillRemainingBalance": "Điền vào số dư còn lại",
+  "checkoutEnterAtLeastOnePayment": "Nhập ít nhất một số tiền thanh toán",
+  "checkoutPaymentsExceedTotal": "Tổng số tiền thanh toán không thể vượt quá tổng số tiền",
+  "checkoutSentAs": "Đã gửi dưới dạng: {api}",
+  "@checkoutSentAs": {
+    "placeholders": {
+      "api": {
+        "type": "String"
+      }
+    }
+  },
+  "paymentCard": "Thẻ",
+  "paymentQr": "QR",
+  "paymentBank": "Ngân hàng",
+  "paymentTransfer": "Chuyển khoản",
+  "paymentBankTransfer": "Chuyển khoản ngân hàng",
+  "paymentSettlement": "giải quyết",
+  "paymentCheque": "Kiểm tra",
+  "paymentDigital": "Điện tử",
+  "paymentDigitalQr": "Kỹ thuật số (QR)",
+  "closeSummaryTitle": "Tổng kết đóng ca",
+  "closeTabDashboard": "Trang tổng quan",
+  "closeTabCredits": "Tín dụng",
+  "closeWelcome": "Chào mừng đến với Tóm tắt kết thúc",
+  "closeSelectDateHint": "Chọn ngày và nhấn làm mới để tải dữ liệu",
+  "closeLoadingDashboard": "Đang tải dữ liệu trang tổng quan...",
+  "closeDataDeleted": "Đã xóa dữ liệu",
+  "closeErrorPrefix": "Lỗi: {message}",
+  "@closeErrorPrefix": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExtraAmount": "Số tiền bổ sung",
+  "closeExtraAmountDesc": "Tiền mặt bổ sung hoặc các khoản điều chỉnh được ghi nhận cho ngày kết thúc này.",
+  "closeLostAmount": "Số tiền bị mất",
+  "closeLostAmountDesc": "Thiếu tiền mặt hoặc chênh lệch được gắn cờ trong giai đoạn này.",
+  "closeTapForDetails": "Nhấn để biết chi tiết",
+  "closeAmountLabel": "Chốt ca",
+  "closeAmountFormula": "Công thức số tiền chốt ca",
+  "closeFormulaExpression": "Doanh thu tiền mặt - Chi phí tiền mặt = Số tiền cuối kỳ",
+  "closeCashSales": "Bán hàng bằng tiền mặt",
+  "closeCashExpenses": "Chi phí tiền mặt",
+  "closeClosingAmount": "Số tiền chốt ca",
+  "closeWhatThisMeans": "Điều này có nghĩa là gì:",
+  "closeClosingMeaning": "Đây là số tiền mặt phải có trong sổ đăng ký/ngăn kéo của bạn vào cuối ngày. Nó đại diện cho tất cả tiền mặt nhận được trừ đi tất cả tiền mặt được chi ra.",
+  "closeQuickStats": "Thống kê nhanh",
+  "closeTapCardHint": "Nhấn vào một thẻ để xem mô tả ngắn",
+  "closeOpeningBalance": "Số dư đầu kỳ",
+  "closeTotalSales": "Tổng doanh thu",
+  "closeQrAmount": "Số tiền QR",
+  "closeCashAmount": "Số tiền mặt",
+  "closeSalesDiscount": "Giảm giá bán hàng",
+  "closeCreditQr": "QR tín dụng",
+  "closeCreditCash": "Tín dụng Tiền mặt",
+  "closeCreditDiscount": "Giảm giá tín dụng",
+  "closePayCashGetQr": "Trả tiền mặt → Nhận QR",
+  "closePayQrGetCash": "Trả QR → Nhận tiền mặt",
+  "closePaymentMix": "Hỗn hợp thanh toán",
+  "closePaymentMixHint": "Nhấn vào tiền mặt hoặc kỹ thuật số · thanh hiển thị tỷ lệ bán hàng",
+  "closeCashVsDigitalTooltip": "Tỷ trọng tiền mặt so với kỹ thuật số trong doanh số bán hàng",
+  "closeSalesShareDesc": "{label} chiếm {percent}% tổng doanh số bán hàng trong ngày này.",
+  "@closeSalesShareDesc": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      },
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSalesLabel": "{label} doanh số bán hàng",
+  "@closeSalesLabel": {
+    "placeholders": {
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "closeNoTransactions": "Không có giao dịch nào",
+  "closeRecentTransactions": "Giao dịch gần đây",
+  "closeViewAll": "Xem tất cả",
+  "closeNoPurchases": "Không có giao dịch mua nào",
+  "closeRecentPurchases": "Mua hàng gần đây",
+  "closeNoSalesDate": "Không có doanh số bán hàng cho ngày này",
+  "closeNoSalesHint": "Doanh số bán hàng sẽ hiển thị ở đây sau khi chúng được ghi lại.",
+  "closeRoomSales": "Bán phòng",
+  "closeEmployeeSales": "nhân viên bán hàng",
+  "closeOtherSales": "other doanh số bán hàng",
+  "closeSectionCount": "{title} ({count})",
+  "@closeSectionCount": {
+    "placeholders": {
+      "title": {
+        "type": "String"
+      },
+      "count": {
+        "type": "String"
+      }
+    }
+  },
+  "closeDiscountShort": "Đĩa: {amount}",
+  "@closeDiscountShort": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "closePercentOff": "{percent}% giảm giá",
+  "@closePercentOff": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "closePending": "Chưa giải quyết",
+  "closeNoCreditPayments": "Không thanh toán tín dụng",
+  "closeNoCreditHint": "Thanh toán tín dụng sẽ xuất hiện ở đây",
+  "closeViewStatistics": "Xem thống kê",
+  "closeExportData": "Xuất dữ liệu",
+  "closeExportComingSoon": "Tính năng xuất sẽ được triển khai tại đây",
+  "closeHintOpeningBalance": "Vị thế tiền mặt vào đầu ngày đã chọn.",
+  "closeHintTotalSales": "Tổng của tất cả doanh số bán hàng được ghi lại cho ngày này.",
+  "closeHintQrAmount": "Thanh toán nhận được qua QR hoặc phương thức kỹ thuật số.",
+  "closeHintCashAmount": "Phần tiền bán được trong ngày.",
+  "closeHintCashExpenses": "Tiền mặt thanh toán chi phí trong ngày.",
+  "closeHintSalesDiscount": "Giảm giá áp dụng cho doanh số bán hàng.",
+  "closeHintCreditQr": "Bộ sưu tập QR liên quan đến tín dụng.",
+  "closeHintCreditCash": "Chuyển động tiền mặt liên quan đến tín dụng.",
+  "closeHintCreditDiscount": "Giảm giá áp dụng cho các giao dịch tín dụng.",
+  "closeHintPayCashGetQr": "Trao đổi nơi thanh toán tiền mặt và nhận tín dụng QR.",
+  "closeHintPayQrGetCash": "Trao đổi nơi thanh toán QR và nhận tiền mặt.",
+  "closeOpeningAmount": "Số tiền mở",
+  "closeCurrentAmount": "Số tiền hiện tại",
+  "closeSaveReport": "Lưu báo cáo",
+  "closeUpdateSummary": "Tóm tắt cập nhật",
+  "closeExists": "tồn tại",
+  "closeExistingDataInfo": "Bạn có thể xem hoặc sửa đổi dữ liệu hiện có",
+  "closeEnterOpeningAmount": "Vui lòng nhập số tiền mở",
+  "closeEnterValidAmount": "Vui lòng nhập số tiền hợp lệ",
+  "languageSelectionSubtitle": "Chọn cách bạn muốn sử dụng {appName}. Bạn có thể thay đổi sau trong Cài đặt.",
+  "searchLanguages": "Tìm ngôn ngữ",
+  "languageSuggestedBadge": "ĐỀ XUẤT",
+  "continueInLanguage": "Tiếp tục bằng {languageName}",
+  "noLanguageMatches": "Không có kết quả",
+  "noLanguageMatchesForQuery": "Không có ngôn ngữ nào khớp với \"{query}\"",
+  "@languageSelectionSubtitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@continueInLanguage": {
+    "placeholders": {
+      "languageName": {
+        "type": "String"
+      }
+    }
+  },
+  "@noLanguageMatchesForQuery": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "appLockSettingsSaved": "Đã lưu cài đặt khóa ứng dụng",
+  "appLockSubtitle": "Yêu cầu PIN hoặc sinh trắc khi mở lại ứng dụng",
+  "appLockTitle": "Khóa ứng dụng",
+  "appPin": "PIN ứng dụng",
+  "appPinIncorrect": "PIN không đúng. Thử lại.",
+  "appPinIncorrectWithAttempts": "PIN không đúng. Còn {remaining} lần thử.",
+  "@appPinIncorrectWithAttempts": {
+    "placeholders": {
+      "remaining": {
+        "type": "int"
+      }
+    }
+  },
+  "appPinLockoutMessage": "Quá nhiều lần PIN sai. Đăng nhập bằng email và mật khẩu để đặt lại PIN.",
+  "appPinMismatch": "PIN không khớp. Thử lại.",
+  "appPinRemoved": "Đã xóa PIN ứng dụng",
+  "appPinSetSuccess": "Đã lưu PIN cho tổ chức này",
+  "appPinSubtitle": "Mở khóa nhanh bằng PIN {length} chữ số",
+  "@appPinSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "appearance": "Giao diện",
+  "backupAutoBackupHint": "Sao lưu tự động khi mở ứng dụng đến hạn",
+  "backupAutoBackupTitle": "Sao lưu tự động",
+  "backupAutoDirectionBoth": "Tải lên & tải xuống",
+  "backupAutoDirectionDownload": "Tải xuống từ đám mây",
+  "backupAutoDirectionUpload": "Tải lên đám mây",
+  "backupAutoFrequencyDaily": "Hàng ngày",
+  "backupAutoFrequencyMonthly": "Hàng tháng",
+  "backupAutoFrequencyOff": "Tắt",
+  "backupAutoFrequencyTitle": "Tần suất sao lưu",
+  "backupAutoFrequencyWeekly": "Hàng tuần",
+  "backupAutoLastDownloaded": "Khôi phục tự động gần nhất: {detail}",
+  "@backupAutoLastDownloaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastFailed": "Đồng bộ tự động gần nhất thất bại: {detail}",
+  "@backupAutoLastFailed": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastSkipped": "Đồng bộ tự động gần nhất bỏ qua: {detail}",
+  "@backupAutoLastSkipped": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoLastUploaded": "Sao lưu tự động gần nhất: {detail}",
+  "@backupAutoLastUploaded": {
+    "placeholders": {
+      "detail": {
+        "type": "String"
+      }
+    }
+  },
+  "backupAutoSettingsTitle": "Cài đặt Google Drive",
+  "backupAutoSyncDirectionTitle": "Đồng bộ tự động",
+  "backupSyncActiveOrganization": "Tổ chức hiện tại",
+  "backupSyncActiveOrganizationHint": "Sao lưu tải lên dữ liệu của tổ chức bạn đang dùng.",
+  "backupSyncCompletedHint": "Dữ liệu của bạn đã được sao lưu an toàn trên Google Drive.",
+  "backupSyncConnected": "Đã kết nối",
+  "backupSyncCurrentStep": "Bước: {step}",
+  "@backupSyncCurrentStep": {
+    "placeholders": {
+      "step": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncGoogleAccount": "Tài khoản Google",
+  "backupSyncInProgress": "Đang đồng bộ",
+  "backupSyncLastError": "Lỗi gần nhất: {error}",
+  "@backupSyncLastError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncLastSyncDate": "Ngày giờ",
+  "backupSyncLastSyncTitle": "Đồng bộ gần nhất",
+  "backupSyncNeverSynced": "Chưa có bản sao lưu nào được tải lên.",
+  "backupSyncOrganization": "Tổ chức",
+  "backupSyncPageTitle": "Sao lưu & Đồng bộ",
+  "backupSyncPhaseExport": "Xuất",
+  "backupSyncPhaseUpload": "Tải lên",
+  "backupSyncProgressPercent": "{percent}%",
+  "@backupSyncProgressPercent": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "backupSyncRecords": "Bản ghi đã sao lưu",
+  "backupSyncSignInHint": "Đăng nhập Google để sao lưu dữ liệu tổ chức.",
+  "backupSyncSignOutConfirm": "Đăng xuất Google Drive trên thiết bị này?",
+  "backupSyncSignedInAs": "Đăng nhập với",
+  "backupSyncStatus": "Trạng thái",
+  "backupSyncStatusSuccess": "Hoàn tất",
+  "backupSyncStepExport": "Đang xuất dữ liệu cục bộ",
+  "backupSyncStepUploadFile": "Đang tải lên {file}",
+  "@backupSyncStepUploadFile": {
+    "placeholders": {
+      "file": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncStepUploadTable": "Đang tải lên {table}",
+  "@backupSyncStepUploadTable": {
+    "placeholders": {
+      "table": {
+        "type": "String"
+      }
+    }
+  },
+  "backupSyncTables": "Bảng đã sao lưu",
+  "backupSyncUnknownOrganization": "Tổ chức hiện tại",
+  "backupWifiOnlyContinue": "Dùng dữ liệu di động",
+  "backupWifiOnlyHint": "Sao lưu tự động chờ Wi‑Fi",
+  "backupWifiOnlyTitle": "Chỉ sao lưu qua Wi‑Fi",
+  "biometricNotAvailable": "Sinh trắc không khả dụng trên thiết bị này",
+  "biometricRequiresPin": "Đặt PIN ứng dụng trước khi bật sinh trắc",
+  "biometricUnlockReason": "Mở khóa BizTrack",
+  "changeAppPin": "Đổi PIN",
+  "confirmAppPin": "Xác nhận PIN",
+  "confirmAppPinHint": "Nhập lại PIN để xác nhận",
+  "confirmPasscodeHint": "Nhập lại mã để xác nhận",
+  "contactUs": "Liên hệ",
+  "contactUsSubtitle": "Hỗ trợ, phản hồi hoặc câu hỏi về ứng dụng.",
+  "createAppPinHint": "Chọn PIN {length} chữ số cho tổ chức này",
+  "@createAppPinHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "createPasscodeHint": "Chọn mã {length} chữ số cho tổ chức này",
+  "@createPasscodeHint": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "darkMode": "Chế độ tối",
+  "darkModeSubtitle": "Dùng nền tối trong toàn ứng dụng",
+  "darkModeSystemSubtitle": "Theo giao diện thiết bị",
+  "dataAndBackup": "Dữ liệu & Sao lưu",
+  "developerLabel": "Nhà phát triển",
+  "disableAppPinMessage": "Face ID / mở khóa sinh trắc cũng sẽ tắt cho tổ chức này.",
+  "disableAppPinTitle": "Xóa PIN ứng dụng?",
+  "displayPrecision": "Độ chính xác hiển thị",
+  "displayPrecisionRange": "Nhập số từ 0 đến 5",
+  "emailCopiedToClipboard": "Đã sao chép email vào clipboard",
+  "employeeManagementSubtitle": "Nhân viên, lương và chấm công",
+  "enableBiometricAfterPinMessage": "Dùng sinh trắc thiết bị cùng PIN để đăng nhập nhanh hơn.",
+  "enableBiometricTitle": "Bật sinh trắc?",
+  "enableFaceIdTitle": "Bật Face ID?",
+  "enableFingerprintTitle": "Bật vân tay?",
+  "enableInvoiceReturns": "Bật trả hàng hóa đơn",
+  "enableInvoiceReturnsSubtitle": "Cho phép tạo trả hàng từ hóa đơn đã thanh toán.",
+  "enterAppPin": "Nhập PIN",
+  "enterPasscode": "Nhập mã",
+  "googleDriveBackupFailed": "Sao lưu thất bại: {error}",
+  "@googleDriveBackupFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupNow": "Sao lưu ngay",
+  "googleDriveBackupPluginError": "Sao lưu cần khởi động lại ứng dụng hoàn toàn. Đóng ứng dụng, mở lại và thử lại.",
+  "googleDriveBackupSectionTitle": "Sao lưu & Đồng bộ",
+  "googleDriveBackupStarting": "Đang chuẩn bị sao lưu…",
+  "googleDriveBackupSubtitleSignedIn": "Đăng nhập với {email}",
+  "@googleDriveBackupSubtitleSignedIn": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveBackupSubtitleSignedOut": "Đăng nhập để sao lưu an toàn dữ liệu tổ chức trên Google Drive.",
+  "googleDriveBackupSuccess": "Đã tải lên sao lưu ({tableCount} bảng, {recordCount} bản ghi)",
+  "@googleDriveBackupSuccess": {
+    "placeholders": {
+      "tableCount": {
+        "type": "int"
+      },
+      "recordCount": {
+        "type": "int"
+      }
+    }
+  },
+  "googleDriveBackupTitle": "Sao lưu Google Drive",
+  "googleDriveLastBackup": "Sao lưu gần nhất: {date}",
+  "@googleDriveLastBackup": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "googleDriveSignIn": "Đăng nhập Google",
+  "googleDriveSignInCancelled": "Đã hủy đăng nhập Google",
+  "googleDriveSignInSuccess": "Đã đăng nhập Google Drive",
+  "googleDriveSignOut": "Đăng xuất",
+  "googleDriveSignOutSuccess": "Đã đăng xuất Google Drive",
+  "itemSelectCategoryRequired": "Vui lòng chọn danh mục",
+  "moreBackupSyncTileLastSync": "Đồng bộ gần nhất: {date}",
+  "@moreBackupSyncTileLastSync": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "moreBackupSyncTileNeverSynced": "Sao lưu lên Google Drive",
+  "moreBackupSyncTileSignedInNoSync": "Đã đăng nhập · Chưa sao lưu",
+  "notNow": "Không phải bây giờ",
+  "operationManagement": "Quản lý vận hành",
+  "operationManagementSubtitle": "Items, stock reconciliation, contacts, categories, and closing",
+  "orContinueWithPassword": "hoặc đăng nhập bằng mật khẩu",
+  "organizationAccountingSubtitle": "Cài đặt hóa đơn và hiển thị số tiền.",
+  "organizationRegionalSubtitle": "Quốc gia, tiền tệ báo cáo và ngày năm tài chính.",
+  "organizationTabAccounting": "Kế toán",
+  "organizationTabGeneral": "Chung",
+  "organizationTabRegional": "Khu vực & tài chính",
+  "partyPickerAddNewRole": "Thêm {role} mới",
+  "@partyPickerAddNewRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSearchHint": "Tìm {role}…",
+  "@partyPickerSearchHint": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerSelectedLabel": "ĐÃ CHỌN",
+  "partyPickerSettled": "Đã thanh toán",
+  "partyPickerSubtitle": "Bán hàng này cho ai?",
+  "preferences": "Tùy chọn",
+  "quickUnlockAsUser": "Đăng nhập nhanh với {email}",
+  "@quickUnlockAsUser": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSubtitle": "Lãi lỗ, báo cáo và phân tích",
+  "restoreAction": "Khôi phục",
+  "restoreFromGoogleDrive": "Khôi phục từ Google Drive",
+  "restoreFromGoogleDriveConfirm": "Khôi phục \"{name}\"? Sẽ thay thế dữ liệu cục bộ của tổ chức đó.",
+  "@restoreFromGoogleDriveConfirm": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveEmpty": "Không tìm thấy sao lưu trong Google Drive.",
+  "restoreFromGoogleDriveFailed": "Khôi phục thất bại: {error}",
+  "@restoreFromGoogleDriveFailed": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreFromGoogleDriveHint": "Đăng nhập và chọn bản sao lưu để khôi phục tổ chức trên thiết bị này.",
+  "restoreFromGoogleDriveStarting": "Đang bắt đầu khôi phục…",
+  "restoreFromGoogleDriveSuccess": "Đã khôi phục {name}. Bạn có thể đăng nhập.",
+  "@restoreFromGoogleDriveSuccess": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "restoreStepCreateDatabase": "Đang tạo cơ sở dữ liệu",
+  "restoreStepDownload": "Đang tải sao lưu",
+  "restoreStepFinalize": "Đang hoàn tất khôi phục",
+  "restoreStepImport": "Đang nhập dữ liệu",
+  "security": "Bảo mật",
+  "setUpAppPin": "Đặt PIN",
+  "setUpFaceIdOrPin": "Đặt Face ID hoặc PIN",
+  "setUpFingerprintOrPin": "Đặt vân tay hoặc PIN",
+  "setUpNow": "Đặt ngay",
+  "setUpQuickUnlock": "Đặt đăng nhập nhanh bằng PIN",
+  "setUpQuickUnlockAfterLoginMessage": "Đặt Face ID, vân tay hoặc PIN để đăng nhập nhanh hơn lần sau. Có thể đổi sau trong Cài đặt.",
+  "setUpQuickUnlockAfterLoginTitle": "Bật đăng nhập nhanh?",
+  "setUpQuickUnlockSubtitle": "Dùng sinh trắc hoặc PIN cho tổ chức này",
+  "signInWithBiometric": "Đăng nhập sinh trắc",
+  "signInWithFaceId": "Đăng nhập Face ID",
+  "signInWithFingerprint": "Đăng nhập vân tay",
+  "signInWithPin": "Đăng nhập PIN",
+  "statisticsCashflow": "Dòng tiền",
+  "statisticsQuickOperationInvoice": "Hóa đơn",
+  "statisticsQuickOperationReports": "Báo cáo",
+  "statisticsQuickOperationsSeeAll": "Xem tất cả",
+  "tapDigitsToUnlock": "Chạm {length} chữ số bất kỳ để mở khóa.",
+  "@tapDigitsToUnlock": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "unlockApp": "Mở khóa ứng dụng",
+  "useBiometricInstead": "Dùng sinh trắc",
+  "useBiometricUnlock": "Dùng Face ID / sinh trắc",
+  "useBiometricUnlockSubtitle": "Mở khóa bằng vân tay hoặc Face ID sau khi đặt PIN",
+  "useFaceIdUnlock": "Dùng Face ID",
+  "useFingerprintUnlock": "Dùng vân tay",
+  "usePinInstead": "Dùng PIN thay thế",
+  "verifyPinToRemoveSubtitle": "Xác nhận PIN {length} chữ số để gỡ khóa ứng dụng",
+  "@verifyPinToRemoveSubtitle": {
+    "placeholders": {
+      "length": {
+        "type": "int"
+      }
+    }
+  },
+  "verifyPinToRemoveTitle": "Nhập PIN",
+  "walkthroughBackupDescription": "Bảo mật cấp ngân hàng với sao lưu Google Drive một chạm — dữ liệu được bảo vệ và dễ khôi phục.",
+  "walkthroughBackupTitle": "Dữ liệu của bạn, luôn an toàn",
+  "walkthroughBillingDescription": "Hóa đơn bán và mua, đơn bàn với phiếu bếp, và tồn kho trực tiếp — tất cả trong một ứng dụng.",
+  "walkthroughBillingTitle": "Lập hóa đơn và bán trong vài giây",
+  "walkthroughDashboardDescription": "Doanh số hôm nay, doanh thu và công nợ — tất cả trên bảng điều khiển rõ ràng khi mở ứng dụng.",
+  "walkthroughDashboardTitle": "Toàn bộ doanh nghiệp trong một cái nhìn",
+  "walkthroughOfflineDescription": "Tạo hóa đơn, ghi chi phí và quản lý kho hoàn toàn ngoại tuyến. Tự động đồng bộ khi trực tuyến.",
+  "walkthroughOfflineTitle": "Hoạt động không cần internet",
+  "walkthroughReadyDescription": "Thiết lập tổ chức trong vài phút và vận hành thông minh hơn từ hôm nay. Bắt đầu thôi.",
+  "walkthroughReadyTitle": "Sẵn sàng khi bạn sẵn sàng",
+  "walkthroughStaffDescription": "Quản lý chấm công và lương, xuất P&L và phiếu lương PDF — không cần công cụ thêm.",
+  "walkthroughStaffTitle": "Nhân viên, lương & báo cáo",
+  "ok": "OK",
+  "reportPeriodYear": "Năm",
+  "reportPeriodMonth": "Tháng",
+  "reportPeriodRange": "Khoảng",
+  "reportPeriodDay": "Ngày",
+  "reportPeriodFrom": "Từ",
+  "reportPeriodTo": "Đến",
+  "reportPeriod": "Kỳ",
+  "reportAllPurchases": "Tất cả mua hàng",
+  "reportBeforeTax": "Trước thuế",
+  "reportRevenueRetained": "Doanh thu giữ lại",
+  "reportHideDetails": "Ẩn chi tiết",
+  "reportShowDetails": "Hiện chi tiết",
+  "reportSalesRevenue": "Doanh thu bán hàng",
+  "reportDiscountsGiven": "Chiết khấu đã cho",
+  "reportNetRevenue": "Doanh thu thuần",
+  "reportOperatingExpenses": "Chi phí hoạt động",
+  "reportTotalExpenses": "Tổng chi phí",
+  "reportGrossProfit": "Lợi nhuận gộp",
+  "reportGrossProfitChart": "Lợi nhuận gộp",
+  "reportOperatingPlDisclaimer": "Chưa tính thuế, khấu hao và lương — ước tính lãi lỗ cấp vận hành.",
+  "reportContraLabel": "Đối ứng",
+  "reportNoDataForPeriod": "Không có dữ liệu cho kỳ đã chọn",
+  "reportRevenueVsExpenses": "Doanh thu vs chi phí",
+  "reportExpenseBreakdown": "Phân tích chi phí",
+  "reportExpenseFallback": "Chi phí",
+  "reportGrossMarginPercent": "Biên lợi nhuận gộp %",
+  "reportRoomVsFnB": "Phòng vs F&B",
+  "reportSegmentRoom": "Phòng",
+  "reportSegmentFnB": "F&B",
+  "reportKeyMetrics": "Chỉ số chính",
+  "reportIncomeStatement": "Báo cáo kết quả kinh doanh",
+  "reportChartsSection": "Biểu đồ",
+  "reportSegmentSummary": "Tổng kết phân khúc",
+  "reportFailedToLoad": "Không tải được báo cáo",
+  "reportOverview": "Tổng quan",
+  "reportOverviewCash": "Tiền mặt",
+  "reportOverviewBank": "Ngân hàng",
+  "reportMonthlyOpeningBalance": "Số dư đầu tháng",
+  "reportOpeningBalanceHint": "Tiền mặt đầu mỗi tháng",
+  "reportCashInOut": "Tiền mặt vào / ra",
+  "reportCashIn": "Tiền mặt vào",
+  "reportCashOut": "Tiền mặt ra",
+  "reportBankReceiptsPayments": "Thu/chi ngân hàng",
+  "reportReceipts": "Thu",
+  "reportPayments": "Thanh toán",
+  "reportDailyCashVsQr": "Tiền mặt hàng ngày vs QR",
+  "reportSummariesSection": "Tổng kết",
+  "reportCashSummary": "Tổng kết tiền mặt",
+  "reportBankSummary": "Tổng kết ngân hàng",
+  "reportDailySummary": "Tổng kết hàng ngày",
+  "reportTabPurchase": "Mua hàng",
+  "reportTabSales": "Bán hàng",
+  "reportTabDashboard": "Bảng điều khiển",
+  "reportSingleDayTrend": "Một ngày — xu hướng ngày",
+  "reportFullYearTrend": "Cả năm — biểu đồ xu hướng theo tháng",
+  "reportYearLabel": "Năm {year}",
+  "@reportYearLabel": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportJanDec": "Th1 – Th12 {year}",
+  "@reportJanDec": {
+    "placeholders": {
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "reportTotalPurchases": "Tổng mua hàng",
+  "reportTotalSales": "Tổng doanh thu",
+  "reportTotalInvoices": "Tổng hóa đơn",
+  "reportUnpaidBalance": "Số dư chưa thanh toán",
+  "reportAvgPerInvoice": "TB/hóa đơn",
+  "reportPerTransaction": "Mỗi giao dịch",
+  "reportMonthlySpend": "Chi tiêu tháng ({symbol})",
+  "@reportMonthlySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportMonthlySalesChart": "Doanh thu tháng ({symbol})",
+  "@reportMonthlySalesChart": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportInvoiceCountByMonth": "Số hóa đơn theo tháng",
+  "reportTopItemsBySpend": "Món chi nhiều nhất ({symbol})",
+  "@reportTopItemsBySpend": {
+    "placeholders": {
+      "symbol": {
+        "type": "String"
+      }
+    }
+  },
+  "reportSpendByCategory": "Chi tiêu theo danh mục",
+  "reportOtherCategory": "Khác",
+  "reportSuppliers": "Nhà cung cấp",
+  "reportTableSupplier": "Nhà cung cấp",
+  "reportTableAmount": "Số tiền",
+  "reportTableBills": "Hóa đơn",
+  "reportSalesTotal": "Tổng bán hàng",
+  "reportPurchaseTotal": "Tổng mua hàng",
+  "reportPositiveMargin": "Biên dương",
+  "reportNegativeMargin": "Biên âm",
+  "reportGrossMargin": "Biên lợi nhuận gộp",
+  "reportOfTotalSales": "Của tổng doanh thu",
+  "reportFailedToLoadAnalytics": "Không tải được phân tích",
+  "reportMarginKpi": "Biên",
+  "reportExpensesKpi": "Chi phí",
+  "partyPickerNoResultsFor": "Không có kết quả cho \"{query}\"",
+  "@partyPickerNoResultsFor": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerNoPartiesForRole": "Không tìm thấy đối tác {role}",
+  "@partyPickerNoPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "partyPickerLoadParties": "Tải đối tác",
+  "invoiceCashCustomer": "Khách trả tiền mặt",
+  "invoiceQuickAddItemsTitle": "Thêm món nhanh",
+  "invoiceQuickLoadingMenu": "Đang tải thực đơn…",
+  "invoiceQuickInvoiceCreated": "Đã tạo hóa đơn",
+  "invoiceQuickAddAtLeastOneItem": "Thêm ít nhất một món",
+  "invoiceQuickNoResults": "Không tìm thấy kết quả!",
+  "invoiceQuickNoItemsInCategory": "Không có món trong danh mục này",
+  "invoiceQuickAddItem": "Thêm món",
+  "invoiceQuickLoadMore": "Tải thêm",
+  "invoiceQuickScrollLoadMore": "Cuộn để tải thêm ({count}/trang)",
+  "invoiceQuickSupplierEmployee": "Nhà cung cấp / Nhân viên",
+  "invoiceQuickEditItem": "Sửa món",
+  "closeSelectDateRange": "Chọn khoảng ngày",
+  "closeStartDate": "Ngày bắt đầu",
+  "closeEndDate": "Ngày kết thúc",
+  "closeSelectBothDates": "Vui lòng chọn cả ngày bắt đầu và kết thúc",
+  "closeDeleteSummary": "Xóa tổng kết",
+  "closeDeleteSummaryConfirm": "Bạn có chắc muốn xóa tổng kết này?",
+  "closeSelectDate": "Chọn ngày",
+  "closeNoDataToExport": "Không có dữ liệu để xuất",
+  "closeNoDataToShare": "Không có dữ liệu để chia sẻ",
+  "closeNoDataToPrint": "Không có dữ liệu để in",
+  "closePdfGenerateError": "Lỗi tạo PDF: {error}",
+  "@closePdfGenerateError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfShareError": "Lỗi chia sẻ PDF: {error}",
+  "@closePdfShareError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closePdfPrintError": "Lỗi in PDF: {error}",
+  "@closePdfPrintError": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExportPdf": "Xuất PDF",
+  "closeSharePdf": "Chia sẻ PDF",
+  "closePrint": "In",
+  "closeExportOptions": "Tùy chọn xuất",
+  "closeExportPdfSubtitle": "Lưu hoặc xem dưới dạng tài liệu PDF",
+  "closeSharePdfSubtitle": "Chia sẻ qua ứng dụng hoặc email",
+  "closePrintSubtitle": "In báo cáo",
+  "invoiceQuickShowingItems": "Hiển thị {shown}/{total}",
+  "invoiceQuickLoadedItems": "Đã tải: {count}",
+  "invoiceQuickRoomCabinEmployee": "Phòng / Cabin / Nhân viên",
+  "reportPercentOfRevenue": "{percent}% doanh thu",
+  "@reportPercentOfRevenue": {
+    "placeholders": {
+      "percent": {
+        "type": "String"
+      }
+    }
+  },
+  "reportParties": "Đối tác",
+  "reportMonthYearDailyTrend": "{month} {year} — biểu đồ xu hướng theo ngày",
+  "@reportMonthYearDailyTrend": {
+    "placeholders": {
+      "month": {
+        "type": "String"
+      },
+      "year": {
+        "type": "String"
+      }
+    }
+  },
+  "invoiceQuickCart": "Giỏ hàng",
+  "invoiceQuickCartWithCount": "Giỏ hàng ({count})",
+  "invoiceQuickClearSearch": "Xóa tìm kiếm",
+  "closeAllRecords": "Tất cả bản ghi",
+  "closeDailyCashSummaryReport": "Báo cáo tổng kết tiền mặt hàng ngày",
+  "closeDailyCashSummaryTitle": "Tổng kết tiền mặt hàng ngày",
+  "closeDetails": "Chi tiết",
+  "closeGeneratedAt": "Tạo lúc: {date}",
+  "@closeGeneratedAt": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "closePageN": "Trang {n}",
+  "@closePageN": {
+    "placeholders": {
+      "n": {
+        "type": "int"
+      }
+    }
+  },
+  "closePeriodRange": "Kỳ: từ {start} đến {end}",
+  "@closePeriodRange": {
+    "placeholders": {
+      "start": {
+        "type": "String"
+      },
+      "end": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummaryOverview": "Tổng quan",
+  "closeTotalRecords": "Tổng số bản ghi",
+  "closeAddSummary": "Thêm tóm tắt",
+  "closeSalesAmount": "Doanh thu bán hàng",
+  "closeClosingBalance": "Số dư cuối kỳ",
+  "closeLostMoney": "Tiền mất",
+  "closeDiscount": "Giảm giá",
+  "closeExpenses": "Chi phí",
+  "closeUnpaid": "Chưa thanh toán",
+  "closeTotalOpeningBalance": "Tổng số dư đầu kỳ",
+  "closeTotalSalesAmount": "Tổng doanh thu",
+  "closeTotalCashAmount": "Tổng tiền mặt",
+  "closeTotalQrAmount": "Tổng QR",
+  "closeTotalDiscount": "Tổng giảm giá",
+  "closeTotalExpenses": "Tổng chi phí",
+  "closeTotalClosingBalance": "Tổng số dư cuối kỳ",
+  "closeTotalLostMoney": "Tổng tiền mất",
+  "closeTotalExtraAmount": "Tổng số tiền thêm",
+  "closeShowingCurrentMonth": "Hiển thị dữ liệu tháng hiện tại",
+  "closeNoSummariesFound": "Không tìm thấy tóm tắt",
+  "closeNoSummariesAvailable": "Không có tóm tắt",
+  "closeTryAdjustingDateRange": "Hãy thử điều chỉnh khoảng ngày",
+  "closeCreateFirstSummary": "Tạo tóm tắt đầu tiên để bắt đầu",
+  "closeClearFilter": "Xóa bộ lọc",
+  "closeFiltered": "Đã lọc",
+  "closeFilteredWithRange": "Đã lọc: {range}",
+  "@closeFilteredWithRange": {
+    "placeholders": {
+      "range": {
+        "type": "String"
+      }
+    }
+  },
+  "closeSummarySingular": "Tóm tắt",
+  "closeSummariesPlural": "Tóm tắt",
+  "closeSummaryUpdatedSuccess": "Cập nhật tóm tắt thành công",
+  "closeSummaryDeletedSuccess": "Xóa tóm tắt thành công",
+  "premiumUnlockTitle": "Mở khóa {appName} Premium",
+  "@premiumUnlockTitle": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumTagline": "POS offline đầy đủ, hóa đơn, kho hàng và báo cáo — một gói đăng ký cho doanh nghiệp của bạn.",
+  "premiumFeatureUnlimitedInvoices": "Hóa đơn và biên lai không giới hạn",
+  "premiumFeatureInventoryStock": "Kho hàng và theo dõi tồn kho",
+  "premiumFeatureReportsAnalytics": "Báo cáo bán hàng và phân tích",
+  "premiumFeatureOfflineLocal": "Hoạt động offline — dữ liệu lưu cục bộ",
+  "premiumContinueWith": "Tiếp tục với {plan}",
+  "@premiumContinueWith": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRestorePurchases": "Khôi phục giao dịch",
+  "premiumSubscriptionLegal": "Thanh toán được tính vào Apple ID của bạn. Gói đăng ký tự gia hạn trừ khi hủy ít nhất 24 giờ trước khi hết hạn.",
+  "premiumPurchaseRestored": "Đã khôi phục giao dịch.",
+  "premiumNoActiveSubscription": "Không tìm thấy gói đăng ký đang hoạt động.",
+  "premiumPlanMonthly": "Hàng tháng",
+  "premiumPlanMonthlySubtitle": "Linh hoạt — hủy bất cứ lúc nào",
+  "premiumPlanYearly": "Hàng năm",
+  "premiumPlanYearlySubtitle": "Giá trị tốt nhất — tiết kiệm {percent}%",
+  "@premiumPlanYearlySubtitle": {
+    "placeholders": {
+      "percent": {
+        "type": "int"
+      }
+    }
+  },
+  "premiumPlanLifetime": "Trọn đời",
+  "premiumPlanLifetimeSubtitle": "Trả một lần, dùng mãi mãi",
+  "premiumPlanPopular": "Phổ biến",
+  "premiumOneTimePurchase": "Mua một lần",
+  "subscriptionSectionTitle": "Đăng ký",
+  "subscriptionPremiumLabel": "Premium",
+  "subscriptionUpgradeTitle": "Nâng cấp lên Premium",
+  "subscriptionPremiumPricing": "Tháng {monthly} · Năm {yearly}",
+  "@subscriptionPremiumPricing": {
+    "placeholders": {
+      "monthly": {
+        "type": "String"
+      },
+      "yearly": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActiveUntil": "{plan} hoạt động đến {date}",
+  "@subscriptionPremiumActiveUntil": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      },
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "subscriptionPremiumActive": "{plan} đang hoạt động",
+  "@subscriptionPremiumActive": {
+    "placeholders": {
+      "plan": {
+        "type": "String"
+      }
+    }
+  },
+  "premiumRequired": "Cần Premium",
+  "upgradeToPremiumContinue": "Nâng cấp lên Premium để tiếp tục.",
+  "freemiumFreePlanLimit": "Gói miễn phí cho phép tối đa {limit} {label}. Nâng cấp Premium để truy cập không giới hạn.",
+  "@freemiumFreePlanLimit": {
+    "placeholders": {
+      "limit": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "freemiumPartyRoleRequired": "Vai trò đối tác là bắt buộc.",
+  "shiftReminderOpeningTitle": "Nhắc mở ca",
+  "shiftReminderOpeningMessage": "Bạn đã mở sổ quỹ hôm nay chưa?",
+  "shiftReminderOpeningProceed": "Có, mở ngay",
+  "shiftReminderClosingTitle": "Nhắc đóng ca",
+  "shiftReminderClosingMessage": "Bạn đã đóng sổ quỹ hôm nay chưa?",
+  "shiftReminderClosingProceed": "Có, đóng ngay",
+  "shiftReminderSkipToday": "Bỏ qua hôm nay",
+  "shiftReminderOpeningNotificationTitle": "Nhắc mở ca",
+  "shiftReminderOpeningNotificationBody": "Bạn đã mở sổ quỹ hôm nay chưa? Chạm vào đây nếu vẫn cần mở.",
+  "shiftReminderClosingNotificationTitle": "Nhắc đóng ca",
+  "shiftReminderClosingNotificationBody": "Bạn đã đóng sổ quỹ hôm nay chưa? Chạm vào đây nếu vẫn cần đóng.",
+  "closeExchangePayQrGetCashHint": "{business} trả QR cho khách; khách đưa tiền mặt.",
+  "@closeExchangePayQrGetCashHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closeExchangePayCashGetQrHint": "{business} trả tiền mặt cho khách; khách thanh toán QR.",
+  "@closeExchangePayCashGetQrHint": {
+    "placeholders": {
+      "business": {
+        "type": "String"
+      }
+    }
+  },
+  "closePaymentExchange": "Đổi phương thức thanh toán",
+  "closePayQrGetCashExchangeLabel": "Trả QR → Nhận tiền mặt (đổi)",
+  "closePayCashGetQrExchangeLabel": "Trả tiền mặt → Nhận QR (đổi)",
+  "closePayQrGetCashDetail": "Trả QR, nhận tiền mặt",
+  "closePayCashGetQrDetail": "Trả tiền mặt, nhận QR",
+  "faqSectionPremium": "Premium và thanh toán",
+  "faqPremiumWhatsIncludedQuestion": "Premium bao gồm gì?",
+  "faqPremiumWhatsIncludedAnswer": "Premium mở khóa hóa đơn không giới hạn, báo cáo đầy đủ (P&L, sao kê, phân tích), sao lưu và đồng bộ, lương, chấm công, công cụ kho, xuất/in hóa đơn và tổ chức bổ sung. Gói miễn phí vẫn dùng được POS cốt lõi trong giới hạn hợp lý.",
+  "faqPremiumFreeTierQuestion": "Gói miễn phí bao gồm gì?",
+  "faqPremiumFreeTierAnswer": "Bạn có thể tạo tối đa 10 hóa đơn bán và 10 mua, 4 nhân viên, 30 mặt hàng và các giới hạn khác khi đạt ngưỡng. Mở ca, đóng ca, máy tính và duyệt dữ liệu vẫn miễn phí.",
+  "faqPremiumRestoreQuestion": "Làm sao khôi phục giao dịch?",
+  "faqPremiumRestoreAnswer": "Mở Thêm → Nâng cấp Premium (hoặc paywall) và chạm Khôi phục giao dịch. Dùng cùng Apple ID khi đăng ký.",
+  "faqPremiumCancelQuestion": "Làm sao hủy đăng ký?",
+  "faqPremiumCancelAnswer": "Quản lý hoặc hủy trong Cài đặt iPhone → Apple ID → Đăng ký. Bạn vẫn truy cập đến hết kỳ đã trả.",
+  "faqDarkModeQuestion": "Làm sao bật chế độ tối?",
+  "faqDarkModeAnswer": "Mở Thêm → Giao diện và bật Chế độ tối. Khi thiết bị dùng giao diện hệ thống, ứng dụng tự theo.",
+  "faqOpeningClosingReminderQuestion": "Nhắc mở và đóng ca là gì?",
+  "faqOpeningClosingReminderAnswer": "{appName} có thể nhắc bạn mở hoặc đóng sổ quỹ hàng ngày. Bạn có thể tiếp tục, bỏ qua hôm nay hoặc tắt nhắc.",
+  "faqPartyRolesQuestion": "Vai trò đối tác là gì?",
+  "faqPartyRolesAnswer": "Vai trò đối tác phân loại liên hệ như khách hàng, nhà cung cấp, phòng hoặc nhân viên. Tùy chỉnh tại Vận hành → Vai trò đối tác và thêm mô tả ngắn cho đội.",
+  "faqRateAppQuestion": "Làm sao đánh giá {appName}?",
+  "faqRateAppAnswer": "Mở Thêm → Đánh giá chúng tôi để để lại nhận xét trên App Store. Phản hồi của bạn giúp cải thiện hóa đơn offline.",
+  "freemiumLabelSalesInvoices": "hóa đơn bán",
+  "freemiumLabelPurchaseInvoices": "hóa đơn mua",
+  "freemiumLabelEmployees": "nhân viên",
+  "freemiumLabelItems": "mặt hàng",
+  "freemiumLabelCategories": "danh mục",
+  "freemiumLabelPaymentMethods": "phương thức thanh toán",
+  "freemiumLabelCustomPartyRoles": "vai trò đối tác tùy chỉnh",
+  "freemiumLabelPartiesForRole": "đối tác cho {role}",
+  "freemiumLabelOrganizations": "tổ chức",
+  "freemiumPremiumReports": "Báo cáo có sẵn với Premium.",
+  "freemiumPremiumBackupSync": "Sao lưu và đồng bộ cần Premium.",
+  "freemiumPremiumPayroll": "Lương cần Premium.",
+  "freemiumPremiumAttendance": "Chấm công cần Premium.",
+  "freemiumPremiumStock": "Quản lý kho cần Premium.",
+  "freemiumPremiumInvoiceExport": "Tải xuống và in cần Premium.",
+  "@faqOpeningClosingReminderAnswer": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@faqRateAppQuestion": {
+    "placeholders": {
+      "appName": {
+        "type": "String"
+      }
+    }
+  },
+  "@freemiumLabelPartiesForRole": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  }
+}

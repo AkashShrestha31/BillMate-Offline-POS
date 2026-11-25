@@ -1,0 +1,195 @@
+plugins {
+    id "com.android.application"
+    id "kotlin-android"
+    // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
+    id "dev.flutter.flutter-gradle-plugin"
+    id 'com.google.gms.google-services'
+}
+
+def keystoreProperties = new Properties()
+def keystorePropertiesFile = rootProject.file('key.properties')
+if (keystorePropertiesFile.exists()){
+    keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+}
+
+android {
+    namespace = "ai.biztrack"
+    compileSdk = 36
+    ndkVersion = flutter.ndkVersion
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_1_8
+        targetCompatibility = JavaVersion.VERSION_1_8
+        coreLibraryDesugaringEnabled true  // ADD THIS LINE
+    }
+
+    kotlinOptions {
+        jvmTarget = JavaVersion.VERSION_1_8
+    }
+    signingConfigs {
+        release {
+            keyAlias keystoreProperties['keyAlias']
+            keyPassword keystoreProperties['keyPassword']
+            storeFile keystoreProperties['storeFile'] ? file(keystoreProperties['storeFile']) : null
+            storePassword keystoreProperties['storePassword']
+        }
+    }
+
+    defaultConfig {
+        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+        applicationId = "ai.biztrack"
+        // You can update the following values to match your application needs.
+        // For more information, see: https://flutter.dev/to/review-gradle-config.
+        // mobile_scanner requires API 23+
+        minSdkVersion = Math.max(flutter.minSdkVersion, 23)
+        targetSdk = 36
+        versionCode = flutter.versionCode
+        versionName = flutter.versionName
+    }
+    flavorDimensions "default"
+    productFlavors {
+        production {
+            dimension "default"
+            applicationIdSuffix ""
+            manifestPlaceholders = [appName: "BillMate"]
+            flutter {
+                target 'lib/main_production.dart'
+            }
+        }
+//        staging {
+//            dimension "default"
+//            applicationIdSuffix ".staging"
+//            manifestPlaceholders = [appName: "[STG] Hotel"]
+//            flutter {
+//                target 'lib/main_qa.dart'
+//            }
+//        }
+        development {
+            dimension "default"
+            applicationIdSuffix ".dev"
+            manifestPlaceholders = [appName: "[DEV] BillMate"]
+            flutter {
+                target 'lib/main_development.dart'
+            }
+        }
+    }
+    buildTypes {
+        release {
+            // TODO: Add your own signing config for the release build.
+            // Signing with the debug keys for now, so `flutter run --release` works.
+            // signingConfig signingConfigs.debug
+            signingConfig signingConfigs.release
+
+            minifyEnabled true
+            shrinkResources true
+
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs:2.1.5'
+    // Gson 2.11+ ships R8 rules; flutter_local_notifications v18 needs them when minifyEnabled.
+    implementation 'com.google.code.gson:gson:2.11.0'
+}
+
+// Kotlin-only plugins break javac in GeneratedPluginRegistrant; patch before javac runs.
+tasks.withType(JavaCompile).configureEach { javaCompile ->
+    if (!javaCompile.name.contains('JavaWithJavac')) {
+        return
+    }
+    javaCompile.doFirst {
+        def registrant = file('src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java')
+        if (!registrant.exists()) {
+            return
+        }
+        def text = registrant.getText('UTF-8')
+        if (text.contains('registerKotlinPlugin')) {
+            return
+        }
+        def patched = text
+            .replace(
+                'flutterEngine.getPlugins().add(new dev.fluttercommunity.plus.packageinfo.PackageInfoPlugin());',
+                'registerKotlinPlugin(flutterEngine, "dev.fluttercommunity.plus.packageinfo.PackageInfoPlugin");'
+            )
+            .replace(
+                'flutterEngine.getPlugins().add(new dev.fluttercommunity.plus.wakelock.WakelockPlusPlugin());',
+                'registerKotlinPlugin(flutterEngine, "dev.fluttercommunity.plus.wakelock.WakelockPlusPlugin");'
+            )
+        if (!patched.contains('private static void registerKotlinPlugin')) {
+            patched = patched.replace(
+                '  public static void registerWith(@NonNull FlutterEngine flutterEngine) {',
+                '''  private static void registerKotlinPlugin(@NonNull FlutterEngine flutterEngine, String className) {
+    try {
+      Class<?> clazz = Class.forName(className);
+      Object plugin = clazz.getDeclaredConstructor().newInstance();
+      flutterEngine.getPlugins().add((io.flutter.embedding.engine.plugins.FlutterPlugin) plugin);
+    } catch (Exception e) {
+      Log.e(TAG, "Error registering plugin " + className, e);
+    }
+  }
+
+  public static void registerWith(@NonNull FlutterEngine flutterEngine) {'''
+            )
+        }
+        registrant.write(patched, 'UTF-8')
+    }
+}
+
+// Flutter CLI without --flavor runs assembleDebug and expects app-debug.apk.
+// With product flavors, Gradle only produces app-<flavor>-debug.apk.
+afterEvaluate {
+    // Flavor compile tasks all regenerate the same lib/l10n/*.dart files; Gradle 8+
+    // requires an explicit order between them (see flutter/flutter#163591).
+    def buildTypeSuffixes = android.buildTypes.collect { it.name.capitalize() }
+    def compileTasksByBuildType = tasks.matching { task ->
+        task.name.startsWith("compileFlutterBuild") &&
+            buildTypeSuffixes.any { suffix -> task.name.endsWith(suffix) }
+    }.groupBy { task ->
+        buildTypeSuffixes.find { suffix -> task.name.endsWith(suffix) }
+    }
+
+    compileTasksByBuildType.each { _, compileTasks ->
+        if (compileTasks.size() <= 1) {
+            return
+        }
+        def sorted = compileTasks.sort { it.name }
+        def anchor = sorted[0]
+        sorted.drop(1).each { task ->
+            task.dependsOn(anchor)
+        }
+    }
+
+    tasks.register("syncFlutterLegacyDebugApk") {
+        doLast {
+            def target = (findProperty("target") ?: "").toString()
+            def flavor = "production"
+            if (target.contains("main_development")) {
+                flavor = "development"
+            } else if (target.contains("main_production")) {
+                flavor = "production"
+            }
+
+            def flutterApkDir = file("${project.buildDir}/outputs/flutter-apk")
+            def flavoredApk = file("${flutterApkDir}/app-${flavor}-debug.apk")
+            def legacyApk = file("${flutterApkDir}/app-debug.apk")
+
+            if (!flavoredApk.exists()) {
+                println "syncFlutterLegacyDebugApk: missing ${flavoredApk} (target=${target})"
+                return
+            }
+
+            project.copy {
+                from flavoredApk
+                into flutterApkDir
+                rename { "app-debug.apk" }
+            }
+            println "syncFlutterLegacyDebugApk: ${flavoredApk.name} -> app-debug.apk"
+        }
+    }
+
+    tasks.named("assembleDebug").configure {
+        finalizedBy("syncFlutterLegacyDebugApk")
+    }
+}

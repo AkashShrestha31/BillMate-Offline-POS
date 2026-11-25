@@ -1,0 +1,45 @@
+Billmate ni POS ya nje ya mtandao, keshi ya duka, na bili ya mikahawa kwa rejareja, mikahawa, baa, na biashara ndogo.
+
+MALIPO NA ANKARA
+
+Tengeneza ankara za mauzo na ununuzi zenye mistari, punguzo, na wateja — kitengeneza ankara kamili mfukoni. Andika matumizi kwa kundi, fuatilia salio la kila mteja na muuzaji, na maliza malipo yote, sehemu, au kwa pamoja. Hamisha ankara au risiti yoyote kama PDF. Hakuna intaneti inayohitajika.
+
+POS KWA MADUKA NA REJAREJA
+
+Malipo ya haraka kwa maduka na biashara ndogo. Pokea taslimu, QR, na kadi, na chapisha risiti kwenye printa yoyote ya joto ya ESC/POS. Simu yako inakuwa keshi.
+
+POS YA MKAHAWA NA BAA YENYE MEZA
+
+POS kamili ya mkahawa yenye mpangilio wa meza unaoonekana. Pokea oda mezani au za kuchukua, zitume jikoni (KOT), na fuatilia kila chakula kutoka oda hadi kutolewa. Inajumuisha orodha ya vinywaji kwa baa.
+
+HISA
+
+Fuatilia hisa za duka, ghala, au mkahawa. Linganisha hesabu halisi na kumbukumbu, rekebisha tofauti papo hapo, pakia hisa kwa wingi kupitia CSV au Excel, na hamisha ripoti za hisa kama PDF.
+
+WAFANYAKAZI, MISHAHARA, NA MAHUDHURIO
+
+Weka wasifu wa wafanyakazi, andika mahudhurio ya kila siku, na tengeneza mishahara kiotomatiki kutoka siku za kazi na mshahara, pamoja na makato ya advance. Hamisha payslip kama PDF na simamia idhini za likizo.
+
+RIPOTI, UHESABU, NA UCHAMBUZI
+
+Faida na hasara, taarifa za wateja na wasambazaji, muhtasari wa malipo, na chati za mauzo dhidi ya matumizi kwa siku, wiki, mwezi, au kipindi chako. Muhtasari wa taslimu wa kila siku unaonyesha kufungwa kwa siku.
+
+NJE YA MTANDAO KWANZA — HUWA IMEWASHWA
+
+Mauzo, matumizi, hisa, wafanyakazi, na taslimu hufanya kazi kwenye kifaa chako na hubaki baada ya kuanzisha upya. Hakuna muunganiko, hakuna kusimama.
+
+UPATIKANAJI KWA JUKUMU NA USALAMA
+
+Weka ruhusa kwa jukumu, kutoka kasisi hadi meneja, ukiwa na udhibiti wa karibu wa ankara, marejesho, na mabadiliko. Data ya biashara inabaki kwenye kifaa.
+
+SARAFU NYINGI, VIFAA VINGI
+
+Bili katika sarafu nyingi. Inafanya kazi kwenye simu na tableti.
+
+TAYARI SIKU YA KWANZA
+
+Makundi 39 ya biashara yameshapakiwa — chakula, vinywaji, malazi, vifaa, na zaidi. Hakuna usanidi. Fungua programu na uanze kuuza.
+
+Kutoka duka la kona hadi nyumba ya mlimani, kutoka kafe ya mjini hadi baa iliyojaa — Billmate ni POS na bili inayoendelea kufanya kazi, hata nje ya mtandao.
+
+Sera ya faragha: https://billmate-woad.vercel.app/

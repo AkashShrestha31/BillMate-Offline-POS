@@ -1,0 +1,45 @@
+Billmate là POS ngoại tuyến, máy tính tiền cửa hàng và phần mềm tính tiền nhà hàng cho bán lẻ, quán cà phê, quán bar và doanh nghiệp nhỏ.
+
+HÓA ĐƠN
+
+Tạo hóa đơn bán và mua với dòng hàng, chiết khấu và khách hàng — công cụ hóa đơn đầy đủ trong túi. Ghi chi phí theo danh mục, theo dõi số dư còn nợ của từng khách và nhà cung cấp, và tất toán toàn bộ, một phần hoặc hàng loạt. Xuất hóa đơn hoặc biên lai bất kỳ ra PDF. Không cần internet.
+
+POS CHO CỬA HÀNG VÀ BÁN LẺ
+
+Thanh toán nhanh cho cửa hàng và doanh nghiệp nhỏ. Nhận tiền mặt, QR và thẻ, và in biên lai trên máy in nhiệt ESC/POS bất kỳ. Điện thoại của bạn thành máy tính tiền.
+
+POS NHÀ HÀNG VÀ QUÁN BAR CÓ QUẢN LÝ BÀN
+
+POS nhà hàng đầy đủ với sơ đồ bàn trực quan. Nhận món tại bàn hoặc mang về, gửi xuống bếp (KOT) và theo dõi từng món từ lúc gọi đến khi phục vụ. Có danh mục đồ uống riêng cho quán bar.
+
+TỒN KHO
+
+Theo dõi tồn kho của cửa hàng, kho hoặc nhà hàng. Đối chiếu kiểm đếm với sổ sách, sửa chênh lệch ngay, tải hàng loạt bằng CSV hoặc Excel và xuất báo cáo tồn kho ra PDF.
+
+NHÂN SỰ, LƯƠNG VÀ CHẤM CÔNG
+
+Giữ hồ sơ nhân viên, ghi chấm công hằng ngày và lập lương tự động từ ngày công và mức lương, có trừ tạm ứng. Xuất phiếu lương ra PDF và duyệt nghỉ phép.
+
+BÁO CÁO, KẾ TOÁN VÀ PHÂN TÍCH
+
+Lãi lỗ, sao kê khách hàng và nhà cung cấp, tổng hợp thanh toán, và biểu đồ doanh thu so với chi phí theo ngày, tuần, tháng hoặc khoảng tự chọn. Bản tóm tắt tiền mặt hằng ngày cho thấy kết ngày.
+
+NGOẠI TUYẾN TRƯỚC — LUÔN CHẠY
+
+Bán hàng, chi phí, tồn kho, nhân sự và tiền mặt chạy trên thiết bị của bạn và còn sau khi khởi động lại. Không có mạng, không gián đoạn.
+
+PHÂN QUYỀN VÀ BẢO MẬT
+
+Đặt quyền theo vai trò, từ thu ngân đến quản lý, với kiểm soát chi tiết hóa đơn, trả hàng và sửa. Dữ liệu kinh doanh nằm trên thiết bị.
+
+NHIỀU TIỀN TỆ, NHIỀU THIẾT BỊ
+
+Lập hóa đơn bằng nhiều loại tiền. Chạy trên điện thoại và máy tính bảng.
+
+SẴN SÀNG TỪ NGÀY ĐẦU
+
+39 nhóm ngành đã được nạp sẵn — đồ ăn, đồ uống, lưu trú, vật tư và hơn thế. Không cần thiết lập. Mở ứng dụng và bắt đầu bán.
+
+Từ quán góc phố đến nhà nghỉ trên núi, từ quán cà phê thành phố đến quán bar đông — Billmate là POS và phần mềm tính tiền vẫn chạy, kể cả khi ngoại tuyến.
+
+Chính sách quyền riêng tư: https://billmate-woad.vercel.app/
